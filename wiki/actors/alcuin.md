@@ -8,7 +8,7 @@ region: [western-europe, british-isles]
 affiliated_with: [the court of [[charlemagne]], the cathedral school of York, the abbey of St Martin at Tours]
 opposed_by: [the Adoptionists (Felix of Urgel, Elipandus of Toledo)]
 key_events: [recruitment to Charlemagne's court (c. 782), the leadership of the palace school, the campaign against Adoptionism]
-key_processes: [[[carolingian-renaissance]], the reform of biblical and liturgical texts]
+key_processes: [ [[carolingian-renaissance]], the reform of biblical and liturgical texts]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, early-middle-ages, western-europe]

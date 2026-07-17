@@ -108,6 +108,10 @@ nation-state in Turkey, and the creation of the contested **state system of the 
 East**. Finkel ends her "new narrative" not at 1922 but at Atatürk's 1927 speech, insisting on
 how much of the empire survived in the republic that disowned it.
 
+## Historiography
+
+Finkel's synthesis draws on Ottoman Turkish archival material alongside British, French, and Armenian sources, but the balance of surviving documentation is heavily contested, above all regarding the Armenian genocide: Turkish state archives have historically restricted access and Turkish official historiography has long framed the events as wartime relocation and mutual atrocity rather than organized extermination, while Armenian, Allied, and most international scholarship treats the 1915 deportations as genocide under the modern legal definition. Finkel herself, as the text notes, frames this as "the controversy...least open to detached debate" in Ottoman history. Beyond the genocide question, historians debate how much continuity versus rupture separates the late Ottoman reform state from the Kemalist republic — Finkel's emphasis on continuity (the Tanzimat's centralizing, secularizing impulses radicalized rather than replaced by Atatürk) pushes against an older nationalist historiography that treated 1923 as a clean break. Sources for the Arab provinces' wartime experience and the mandate transition remain thinner in Turkish-centered accounts like Finkel's than in histories focused on the Arab world itself.
+
 ## Related
 
 - [[ottoman-empire]] · [[tanzimat-reforms]] — the empire and the reforms that preceded the end.

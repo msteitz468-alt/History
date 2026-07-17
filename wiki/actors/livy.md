@@ -8,7 +8,7 @@ region: [italy, mediterranean-world]
 affiliated_with: [Augustan Rome]
 opposed_by: []
 key_events: []
-key_processes: [[[early-roman-source-criticism]]]
+key_processes: [ [[early-roman-source-criticism]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]

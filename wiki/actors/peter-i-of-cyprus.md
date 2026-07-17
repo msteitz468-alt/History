@@ -5,10 +5,10 @@ date_start: 1329-10-09
 date_end: 1369-01-16 (Nicosia; murdered)
 period: [Late Middle Ages]
 region: [cyprus, mediterranean, western-europe, near-east]
-affiliated_with: [[[lusignan-dynasty]], [[kingdom-of-cyprus]], "the Hospitallers of Rhodes", "Philip of Mézières", "Peter Thomas"]
-opposed_by: [[[mamluk-sultanate]], "elements of the Cypriot nobility (regicides 1369)"]
-key_events: [[[sack-of-alexandria-1365]], "assassination of Peter I (1369)"]
-key_processes: [[[crusades]]]
+affiliated_with: [ [[lusignan-dynasty]], [[kingdom-of-cyprus]], "the Hospitallers of Rhodes", "Philip of Mézières", "Peter Thomas"]
+opposed_by: [ [[mamluk-sultanate]], "elements of the Cypriot nobility (regicides 1369)"]
+key_events: [ [[sack-of-alexandria-1365]], "assassination of Peter I (1369)"]
+key_processes: [ [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, late-middle-ages, cyprus, mediterranean]

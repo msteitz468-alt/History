@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, iberia, north-africa, mediterranean, mediterranean-world]
 location: [Italy, Spain, Sicily, Sardinia, North Africa, the western Mediterranean]
-actors_primary: [[[hannibal]], [[scipio-africanus]], [[carthage]], [[roman-republic]], [[fabius-maximus]]]
-actors_secondary: [[[hamilcar-barca]], [[masinissa]], [[hiero-ii-of-syracuse]], [[philip-v]], [[syracuse]]]
+actors_primary: [ [[hannibal]], [[scipio-africanus]], [[carthage]], [[roman-republic]], [[fabius-maximus]]]
+actors_secondary: [ [[hamilcar-barca]], [[masinissa]], [[hiero-ii-of-syracuse]], [[philip-v]], [[syracuse]]]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: hemispheric
-causes: [[[causes-of-second-punic-war]], the Barcid recovery of Spain, Rome's seizure of Sardinia (238), the Saguntum/Ebro dispute, [[first-punic-war-264-241bce]]]
+causes: [ [[causes-of-second-punic-war]], the Barcid recovery of Spain, Rome's seizure of Sardinia (238), the Saguntum/Ebro dispute, [[first-punic-war-264-241bce]]]
 consequences: [Roman naval & territorial supremacy in the western Mediterranean, the acquisition of Spain as provinces, the disarming of Carthage, the rise of [[masinissa|Numidia]], the transformation of Italian agriculture, the eastward turn of Roman power]
 sources_ingested: 8
 last_updated: 2026-07-08

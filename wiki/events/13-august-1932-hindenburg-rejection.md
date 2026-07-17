@@ -69,7 +69,7 @@ Shirer (1960), via Otto Meissner's Nuremberg affidavit — the only firsthand ac
 
 - Kershaw (range 03): verbatim accounts of meetings, Hindenburg's remarks, Goebbels reactions, analysis of miscalculation.
 - Shirer, *The Rise and Fall of the Third Reich* (1960).
-- Cross: [[actors/adolf-hitler|Adolf Hitler]], [[franz-von-papen]], [[kurt-von-schleicher]], [[paul-von-hindenburg]], [[reichstag-election-july-1932]], [[papen-government-1932]]
+- Cross: [[actors/adolf-hitler|Adolf Hitler]], [[franz-von-papen]], [[kurt-von-schleicher]], [[paul-von-hindenburg]], [[reichstag-election-july-1932]], papen government 1932
 
 ---
 

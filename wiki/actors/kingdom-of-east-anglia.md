@@ -1,5 +1,6 @@
 ---
 title: Kingdom of East Anglia
+aliases: [east-anglia]
 actor_type: state
 date_start: c. 6th century CE
 date_end: 869 CE (Viking conquest; death of Edmund)

@@ -6,7 +6,7 @@ coordinates: [37.97 N, 23.72 E]
 period_active: [Classical Antiquity]
 controlled_by: [the Athenian demos (radical democracy), the Delian League]
 events_here: [reforms of Cleisthenes 508/7 BCE, Persian Wars, [[peloponnesian-war|Peloponnesian War]] 431-404 BCE, plague of Athens 430 BCE]
-processes_here: [[[city-state|democracy]], [[slavery]], [[axial-age]], imperial tribute]
+processes_here: [ [[city-state|democracy]], [[slavery]], [[axial-age]], imperial tribute]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mediterranean, classical-antiquity, greece]

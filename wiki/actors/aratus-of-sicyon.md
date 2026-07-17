@@ -5,10 +5,10 @@ date_start: 271 BCE
 date_end: 213 BCE
 period: [Classical Antiquity]
 region: [peloponnese, mediterranean]
-affiliated_with: [[[achaean-league]], [[ptolemaic-egypt]], later [[antigonid-dynasty]]]
-opposed_by: [[[antigonus-ii-gonatas]], the Peloponnesian tyrants, [[aetolian-league]], [[cleomenes-iii]]]
+affiliated_with: [ [[achaean-league]], [[ptolemaic-egypt]], later [[antigonid-dynasty]]]
+opposed_by: [ [[antigonus-ii-gonatas]], the Peloponnesian tyrants, [[aetolian-league]], [[cleomenes-iii]]]
 key_events: [the liberation of Sicyon (251), the seizure of the Acrocorinth (243), [[cleomenean-war-229]]]
-key_processes: [[[achaean-league]], [[greek-federalism]]]
+key_processes: [ [[achaean-league]], [[greek-federalism]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, peloponnese]

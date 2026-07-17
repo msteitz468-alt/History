@@ -11,7 +11,7 @@ actors_secondary: []
 event_type: other
 scale_immediate: local
 scale_consequential: regional
-causes: [[[cultural-revolution]], "state suppression of religion as 'feudal superstition'", "Hui demands to reopen mosques and practice Islam"]
+causes: [ [[cultural-revolution]], "state suppression of religion as 'feudal superstition'", "Hui demands to reopen mosques and practice Islam"]
 consequences: ["hundreds of Hui Muslims killed", "post-Mao rehabilitation and state apology", "impetus to the 1980s Islamic revival in China"]
 sources_ingested: 1
 last_updated: 2026-07-08

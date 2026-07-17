@@ -8,7 +8,7 @@ region: [italy, mediterranean]
 affiliated_with: [the Deinomenid family, Theron of Acragas (the Emmenids), [[syracuse|Syracuse]] and Gela]
 opposed_by: [the [[carthage|Carthaginians]] (Hamilcar) at Himera, the deposed oligarchies and demoi of the cities he absorbed]
 key_events: [seizure of Gela c. 491/0 BCE, annexation of [[syracuse|Syracuse]] 485 BCE, battle of [[battle-of-himera-480bce|Himera]] 480 BCE]
-key_processes: [[[western-greek-tyranny]], forced population transfer, urbanization]
+key_processes: [ [[western-greek-tyranny]], forced population transfer, urbanization]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, italy, mediterranean]

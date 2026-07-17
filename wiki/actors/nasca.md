@@ -8,7 +8,7 @@ region: [andes]
 affiliated_with: [the arid south coast of Peru, the Río Grande de Nazca drainage, the Paracas tradition]
 opposed_by: []
 key_events: [the florescence of south-coast Nasca polities, the making of the Nasca lines (geoglyphs), construction of the Cahuachi ceremonial center]
-key_processes: [[[andean-state-formation]]]
+key_processes: [ [[andean-state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, classical-antiquity, late-antiquity, andes]

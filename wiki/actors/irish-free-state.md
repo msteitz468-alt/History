@@ -8,7 +8,7 @@ region: [british-isles]
 affiliated_with: [the British Commonwealth (dominion), Cumann na nGaedheal, Fianna Fáil]
 opposed_by: [anti-Treaty republicans, the IRA]
 key_events: [the Anglo-Irish Treaty 1921, [[irish-civil-war-1922]], the 1937 Constitution]
-key_processes: [[[irish-nationalism]], state-building, partition]
+key_processes: [ [[irish-nationalism]], state-building, partition]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, state, world-wars-era, british-isles]

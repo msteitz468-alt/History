@@ -2,7 +2,7 @@
 title: B. A. Friedman
 actor_type: person
 date_start: 2017
-date_end: 
+date_end: ongoing
 period: [Contemporary]
 region: [north-america]
 affiliated_with: [united-states-marine-corps, naval-institute-press]

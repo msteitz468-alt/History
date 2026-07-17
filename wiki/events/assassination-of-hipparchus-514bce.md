@@ -7,7 +7,7 @@ period: [Archaic Period]
 region: [central-greece]
 location: [Athens, the Panathenaic procession (the Ceramicus and the Leocoreum)]
 actors_primary: [Harmodius, Aristogeiton, [[pisistratidae|Hipparchus]]]
-actors_secondary: [[[pisistratidae|Hippias]], the genos of the Gephyraei]
+actors_secondary: [ [[pisistratidae|Hippias]], the genos of the Gephyraei]
 event_type: political
 scale_immediate: local
 scale_consequential: regional

@@ -5,10 +5,10 @@ date_start: 973 CE (born)
 date_end: 1024 CE (died, Grone)
 period: [High Middle Ages]
 region: [western-europe, mediterranean, eastern-europe]
-affiliated_with: [[[ottonian-dynasty]], the Reichskirche, [[cluny|monastic reform (Gorze observance)]], the bishopric of Bamberg]
-opposed_by: [[[boleslaw-i-chrobry|Bolesław Chrobry of Poland]], Arduin of Ivrea, rebel Saxon and Lotharingian nobles]
+affiliated_with: [ [[ottonian-dynasty]], the Reichskirche, [[cluny|monastic reform (Gorze observance)]], the bishopric of Bamberg]
+opposed_by: [ [[boleslaw-i-chrobry|Bolesław Chrobry of Poland]], Arduin of Ivrea, rebel Saxon and Lotharingian nobles]
 key_events: [foundation of the bishopric of Bamberg 1007, Peace of Bautzen 1018]
-key_processes: [[[reichskirche]]]
+key_processes: [ [[reichskirche]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, high-middle-ages, western-europe]

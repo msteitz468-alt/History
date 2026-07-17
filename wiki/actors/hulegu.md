@@ -5,10 +5,10 @@ date_start: 1217 CE
 date_end: 1265 CE
 period: [High Middle Ages]
 region: [iran-plateau, mesopotamia, near-east, levant, steppe]
-affiliated_with: [[[mongol-empire]], [[ilkhanate]], [[genghis-khan]] (grandson)]
+affiliated_with: [ [[mongol-empire]], [[ilkhanate]], [[genghis-khan]] (grandson)]
 opposed_by: [the Abbasid Caliphate, the Ismailis, the Mamluks, Berke of the Golden Horde]
 key_events: [destruction of Alamut 1256, sack of Baghdad 1258, Aleppo 1260, withdrawal after Ain Jalut]
-key_processes: [[[mongol-conquests-13th-century]], [[post-mongol-islamic-world]]]
+key_processes: [ [[mongol-conquests-13th-century]], [[post-mongol-islamic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-24
 tags: [actor, person, high-middle-ages, iran-plateau]

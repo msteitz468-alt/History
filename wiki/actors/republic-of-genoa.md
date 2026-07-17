@@ -6,9 +6,9 @@ date_end: "1797 (fall of the Republic) — this page covers the thirteenth centu
 period: [High Middle Ages]
 region: [mediterranean, western-europe]
 affiliated_with: [the Ghibelline/imperial side at times, the Byzantine empire of Nicaea (Treaty of Nymphaion 1261)]
-opposed_by: [[[republic-of-venice|Venice]], Pisa, at times [[charles-of-anjou|Charles of Anjou]]]
+opposed_by: [ [[republic-of-venice|Venice]], Pisa, at times [[charles-of-anjou|Charles of Anjou]]]
 key_events: [the Treaty of Nymphaion (1261), the War of St Sabas (1256–1270), the battle of [[battle-of-meloria-1284|Meloria]] (1284), the battle of Curzola (1298)]
-key_processes: [[[commercial-revolution|the commercial revolution]], the creation of a Mediterranean and Black Sea trading empire]
+key_processes: [ [[commercial-revolution|the commercial revolution]], the creation of a Mediterranean and Black Sea trading empire]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, mediterranean, western-europe]

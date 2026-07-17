@@ -5,10 +5,10 @@ date_start: 1524
 date_end: 1814
 period: [Early Modern, Age of Expansion]
 region: [scandinavia, denmark, norway, iceland, northern-europe]
-affiliated_with: [[[christian-iv-of-denmark]], [[christian-ii-of-denmark]]]
-opposed_by: [[[swedish-empire]]]
-key_events: [[[treaty-of-kiel-1814]], [[thirty-years-war-1618]]]
-key_processes: [[[scandinavian-absolutism]], [[reformation-in-scandinavia]]]
+affiliated_with: [ [[christian-iv-of-denmark]], [[christian-ii-of-denmark]]]
+opposed_by: [ [[swedish-empire]]]
+key_events: [ [[treaty-of-kiel-1814]], [[thirty-years-war-1618]]]
+key_processes: [ [[scandinavian-absolutism]], [[reformation-in-scandinavia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, early-modern, scandinavia, denmark]

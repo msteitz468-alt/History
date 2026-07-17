@@ -6,7 +6,7 @@ date_precision: year
 period: [World Wars Era]
 region: [central-europe, eastern-europe]
 location: [Germany and Austria, the Łódź ghetto and Chełmno, the occupied USSR, Serbia, Croatia, Romanian Transnistria, the Auschwitz "Gypsy family camp"]
-actors_primary: [[[schutzstaffel-ss]], [[himmler-heinrich|Heinrich Himmler]], Europe's Roma and Sinti populations]
+actors_primary: [ [[schutzstaffel-ss]], [[himmler-heinrich|Heinrich Himmler]], Europe's Roma and Sinti populations]
 actors_secondary: [Robert Ritter's Reich Health Office researchers, [[einsatzgruppen]], the Ustashe and Antonescu regimes]
 event_type: other
 scale_immediate: civilizational

@@ -5,10 +5,10 @@ date_start: c. 167
 date_end: 217
 period: [late-antiquity]
 region: [near-east, levant, mediterranean]
-affiliated_with: [[[severan-dynasty]], [[emesene-dynasty]], [[septimius-severus]]]
+affiliated_with: [ [[severan-dynasty]], [[emesene-dynasty]], [[septimius-severus]]]
 opposed_by: []
-key_events: [[[christianization-of-the-roman-empire]]]
-key_processes: [[[orientalization-of-rome]]]
+key_events: [ [[christianization-of-the-roman-empire]]]
+key_processes: [ [[orientalization-of-rome]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, near-east, levant]

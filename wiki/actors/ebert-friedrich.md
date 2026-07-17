@@ -5,10 +5,10 @@ date_start: 1871
 date_end: 1925
 period: [Long 19th Century, World Wars Era]
 region: [western-europe]
-affiliated_with: [[[weimar-republic]], Social Democratic Party (SPD)]
-opposed_by: [[[sturmabteilung-sa]], radical left (KPD/Spartacists), nationalist right]
-key_events: [[[november-revolution-1918]], [[treaty-of-versailles-1919]], [[kapp-putsch-1920]]]
-key_processes: [[[weimar-democracy-and-its-collapse]]]
+affiliated_with: [ [[weimar-republic]], Social Democratic Party (SPD)]
+opposed_by: [ [[sturmabteilung-sa]], radical left (KPD/Spartacists), nationalist right]
+key_events: [ [[november-revolution-1918]], [[treaty-of-versailles-1919]], [[kapp-putsch-1920]]]
+key_processes: [ [[weimar-democracy-and-its-collapse]]]
 sources_ingested: [evans-coming-of-third-reich-2003]
 last_updated: 2026-07-02
 tags: [actor, person, world-wars-era, western-europe]

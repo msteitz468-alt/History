@@ -5,10 +5,10 @@ date_start: "c. 1100–05 (born); 1159 (elected pope)"
 date_end: "1181 (died)"
 period: [High Middle Ages]
 region: [mediterranean, western-europe, british-isles]
-affiliated_with: [[[papacy]], [[papal-monarchy]], "Lombard League (diplomatic alignment)", [[thomas-becket|Thomas Becket]]]
+affiliated_with: [ [[papacy]], [[papal-monarchy]], "Lombard League (diplomatic alignment)", [[thomas-becket|Thomas Becket]]]
 opposed_by: ["Emperor Frederick I Barbarossa", "antipope Victor IV and successors", "Angevin pressure over Becket/Clarendon"]
 key_events: ["double election and schism (1159–77)", "Battle of Legnano (1176)", "Peace of Venice (1177)", "Third Lateran Council (1179)", "condemnation of the Constitutions of Clarendon; Becket crisis"]
-key_processes: [[[papal-monarchy]], [[crusades]]]
+key_processes: [ [[papal-monarchy]], [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, mediterranean, papacy]

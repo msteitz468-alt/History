@@ -6,12 +6,12 @@ date_precision: year
 period: [Archaic Period]
 region: [levant]
 location: Samaria, the central Palestinian highlands
-actors_primary: [[[neo-assyrian-empire|Assyria]], Shalmaneser V, [[sargon-ii|Sargon II]], [[kingdom-of-israel|Israel (Hoshea)]]]
+actors_primary: [ [[neo-assyrian-empire|Assyria]], Shalmaneser V, [[sargon-ii|Sargon II]], [[kingdom-of-israel|Israel (Hoshea)]]]
 actors_secondary: [Egypt (So), the deported "ten tribes"]
 event_type: [war]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[kingdom-of-israel|Israel]]'s revolt against Assyrian vassalage, reliance on Egyptian help, [[tiglath-pileser-iii|Tiglath-pileser III]]'s prior subjugation of the Levant]
+causes: [ [[kingdom-of-israel|Israel]]'s revolt against Assyrian vassalage, reliance on Egyptian help, [[tiglath-pileser-iii|Tiglath-pileser III]]'s prior subjugation of the Levant]
 consequences: [the end of the northern [[kingdom-of-israel|Kingdom of Israel]], the [[assyrian-mass-deportation|deportation of its population]] (the "ten lost tribes"), the resettlement of foreigners (origin of the Samaritans), [[kingdom-of-judah|Judah]] left as the sole Hebrew kingdom]
 sources_ingested: 2
 last_updated: 2026-06-27

@@ -1,5 +1,6 @@
 ---
 title: Early Civilizations in Comparative Perspective
+aliases: [early-civilizations-in-comparative-perspective.md]
 comparison_type: cross-civilizational
 periods_covered: ["Early Bronze Age", "Middle Bronze Age", "Late Bronze Age", "Early Iron Age", "Archaic Period", "Classical Antiquity", "Late Antiquity"]
 regions_covered: ["north-africa", "mesopotamia", "china", "mesoamerica", "andes", "west-africa"]
@@ -93,7 +94,7 @@ The book rejects both extreme relativism and overly narrow materialism. It calls
 - [[concepts/territorial-state]]
 - [[wiki/comparisons/early-cities-in-comparative-perspective.md|Early Cities in Comparative Perspective]] (Yoffee ed., CWH III — thematic urban focus that overlaps with Trigger's cases and critiques)
 - [[concepts/urbanism]]
-- [[concepts/kingship]]
+- concepts/kingship
 - Actors for the seven civilizations (e.g., [[actors/egypt|Egypt]], [[actors/mesopotamia|Mesopotamia]], [[actors/shang-dynasty|Shang Dynasty]], [[actors/aztec-empire|Aztec Empire]], [[actors/maya-civilization|Maya Civilization]], [[actors/inca-empire|Inca Empire]], [[actors/yoruba|Yoruba]])
 - [[processes/state-formation]]
 - [[processes/urbanization]]

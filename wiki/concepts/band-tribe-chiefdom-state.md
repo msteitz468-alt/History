@@ -78,7 +78,7 @@ Service's typology has been tested against ethnographic databases (Ember 1963; H
 
 ## Fagan & Durrani (2020): A Contested Heuristic, Not a Ladder
 
-[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] independently corroborate
+Fagan & Durrani (2020) independently corroborate
 this page's framing of Service's typology as a heuristic rather than a settled
 sequence: they note that current scholarship increasingly debates "the relative
 complexity of chiefdoms" and reframes the whole question as being "not so much

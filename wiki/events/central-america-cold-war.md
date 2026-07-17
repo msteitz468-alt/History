@@ -24,6 +24,23 @@ US interventions, revolutions, and proxy conflicts in Nicaragua (Sandinistas), E
 
 Detailed content and claims to be populated from CHCW Vol. III (Coatsworth chapter).
 
+## Historiography
+
+Two source streams dominate: declassified US government records (National Security
+Archive FOIA releases, congressional Iran-Contra investigation reports, and the
+Boland-era intelligence oversight record) and journalistic/scholarly accounts drawing on
+survivor testimony and truth-commission findings (Guatemala's CEH and El Salvador's UN
+Truth Commission). Orthodox Cold War narratives framed US support for anti-communist
+forces as necessary containment; a substantial revisionist and human-rights literature
+(amplified by the truth commissions' findings of genocide in Guatemala and systematic
+death-squad activity in El Salvador) reframes the period as a US-sponsored counter-
+insurgency campaign with large-scale civilian atrocities. McCoy's 2024 synthesis
+represents this critical/covert-empire framing explicitly (see
+[[mccoy-covert-empire-thesis]]); Cambridge History of the Cold War (Coatsworth) offers a
+more measured diplomatic-history account. Casualty figures remain disputed and are often
+cited as ranges rather than precise counts, and some CIA operational details remain
+classified.
+
 ## Related
 
 - [[leffler-westad-cold-war-v3]]

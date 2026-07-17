@@ -7,13 +7,13 @@ dating_method: stratigraphy (Troy VI/VIIa) / later Greek chronography
 period: [Late Bronze Age, Bronze Age Collapse]
 region: [anatolia, aegean]
 location: [Troy (Hisarlık), Troad, northwest Anatolia]
-actors_primary: [[[mycenaean-civilization|Mycenaean Greeks (Achaeans)]], [[troy|Troy]]]
-actors_secondary: [[[ahhiyawa-question|Aḫḫiyawa]], [[hittites|Hittite Empire]]]
+actors_primary: [ [[mycenaean-civilization|Mycenaean Greeks (Achaeans)]], [[troy|Troy]]]
+actors_secondary: [ [[ahhiyawa-question|Aḫḫiyawa]], [[hittites|Hittite Empire]]]
 event_type: [war]
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [Mycenaean expansion / raiding, control of the Hellespont and Troad, [[mycenaean-civilization|Mycenaean palace competition]]]
-consequences: [[[homeric-poems-as-history|the Greek epic tradition]], [[troy|destruction of Troy VIIa]], the legendary Nostoi / migrations]
+consequences: [ [[homeric-poems-as-history|the Greek epic tradition]], [[troy|destruction of Troy VIIa]], the legendary Nostoi / migrations]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [event, war, late-bronze-age, bronze-age-collapse, aegean, anatolia]

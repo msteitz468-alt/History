@@ -83,6 +83,10 @@ British **recapture of Delhi (September 1857)** brought a savage sack, mass exec
 of the Mughal princes, and Zafar's trial and **exile to Rangoon** — the deliberate extinction of
 the dynasty of [[babur|Babur]]. (Set beside Spear's interpretation above.)
 
+## Historiography
+
+Few episodes of nineteenth-century imperial history have generated as sharply divided a historiography. Contemporary British sources (military reports, missionary and settler memoirs, the "Mutiny narratives" genre) framed the revolt as unprovoked barbarism requiring exemplary punishment, and shaped decades of imperial memory; nationalist Indian historiography from the early twentieth century onward reclaimed it as a "First War of Independence," a reading Spear explicitly rejects as anachronistic. Dalrymple's use of the Persian/Urdu Mutiny Papers — the rebel administration's own bureaucratic records from occupied Delhi — represents a significant methodological advance, recovering an Indian-side documentary base largely ignored by earlier English-language accounts that relied almost exclusively on British military and civil records. The two positions recorded on this page (Spear's "last convulsive movement of traditional India" versus later nationalist and subaltern readings) remain genuinely contested rather than resolved, turning partly on how much forward-looking political consciousness one attributes to disparate, materially-motivated local revolts. Casualty figures on both sides, and the scale of civilian reprisal killings during the British reconquest, are also subject to ongoing dispute given the destruction and non-preservation of much Indian-side record-keeping.
+
 ## Related pages
 
 [[bahadur-shah-zafar]] · [[british-raj]] · [[english-east-india-company]] · [[mughal-empire]] ·

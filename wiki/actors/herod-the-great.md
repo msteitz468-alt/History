@@ -8,7 +8,7 @@ region: [levant, near-east]
 affiliated_with: [Mark Antony (until 31), then [[augustus|Augustus]] and Rome; the Idumaean dynasty]
 opposed_by: [the Hasmonean house he supplanted; the Nabataeans; a current of Jewish opinion hostile to his rule]
 key_events: [confirmation as king by Antony (40), submission to Octavian at Rhodes (30), the rebuilding of the Jerusalem Temple, the execution of his sons, the partition of his realm (4 BCE)]
-key_processes: [[[augustan-imperial-expansion|Roman client kingship in the East]]]
+key_processes: [ [[augustan-imperial-expansion|Roman client kingship in the East]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, levant]

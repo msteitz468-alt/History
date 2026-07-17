@@ -23,4 +23,13 @@ tags: [event, contemporary, north-america, jobs-steve, technology]
 
 Announced 23 October 2001, the iPod was a 5 GB portable MP3 player with a mechanical scroll wheel, 1,000-song capacity, and “1,000 songs in your pocket” marketing. Paired with iTunes software. Later generations and the 2003 iTunes Music Store created the closed legal ecosystem that transformed the music industry.
 
+## Historiography
+
+Isaacson's biography, drawing on interviews with Jobs and engineer
+Tony Fadell, is the main secondary source; Fadell's own later public accounts have at
+points contested how credit for the design was allocated between himself, Jobs, and the
+broader team, a minor but recurring point of dispute in popular retrospectives. As a
+recent corporate/product event it has not been the subject of independent academic
+historiography.
+
 **Related**: [[actors/jobs-steve]] · [[actors/apple-inc]] · [[sources/isaacson-steve-jobs-2011]]

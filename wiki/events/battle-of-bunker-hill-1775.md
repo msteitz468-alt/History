@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Charlestown Peninsula (Breed's Hill), Boston, Massachusetts]
 actors_primary: [New England militia, the British Army]
-actors_secondary: [[[howe-william]], William Prescott, Israel Putnam]
+actors_secondary: [ [[howe-william]], William Prescott, Israel Putnam]
 event_type: [battle]
 scale_immediate: local
 scale_consequential: regional

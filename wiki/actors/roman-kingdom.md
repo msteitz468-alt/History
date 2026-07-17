@@ -7,8 +7,8 @@ period: [Archaic Period]
 region: [italy, rome]
 affiliated_with: []
 opposed_by: []
-key_events: [[[events/founding-of-rome-753bce]]]
-key_processes: [[[processes/roman-expansion-italy]]]
+key_events: [ [[events/founding-of-rome-753bce]]]
+key_processes: [ [[processes/roman-expansion-italy]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, state, archaic-period, italy]

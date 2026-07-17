@@ -5,8 +5,8 @@ date_start: c. early 6th century CE (birth unknown)
 date_end: c. 565 CE
 period: [late-antiquity]
 region: [arabian-peninsula, horn-of-africa]
-affiliated_with: [[[himyar]], [[aksum]]]
-opposed_by: [[[al-mundhir-iii-lakhmid]]]
+affiliated_with: [ [[himyar]], [[aksum]]]
+opposed_by: [ [[al-mundhir-iii-lakhmid]]]
 key_events: []
 key_processes: []
 sources_ingested: 1

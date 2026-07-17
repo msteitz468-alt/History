@@ -7,7 +7,7 @@ period: [Classical Antiquity]
 region: [central-greece]
 location: [Thebes (the Cadmea)]
 actors_primary: [Pelopidas, the Theban exiles, [[sparta]], Phoebidas, Leontiades]
-actors_secondary: [[[places/athens|Athens]] (volunteers), [[agesilaus-ii|Agesilaus II]], Cleombrotus]
+actors_secondary: [ [[places/athens|Athens]] (volunteers), [[agesilaus-ii|Agesilaus II]], Cleombrotus]
 event_type: revolution
 scale_immediate: local
 scale_consequential: regional
@@ -60,6 +60,21 @@ caused_by: the **seizure of the Cadmea** (382) and the Spartan abuse of the
 [[kings-peace-386bce|King's Peace]]. produced: the restored Theban democracy and Boeotian
 Confederacy; the **[[second-athenian-confederacy|Second Athenian Confederacy]]**; the rise
 of Thebes culminating at **[[battle-of-leuctra-371bce|Leuctra]]**.
+
+## Historiography
+
+The episode is a textbook case of complementary but conflicting ancient bias. **Xenophon**
+(*Hellenica* v.4), a contemporary hostile to Thebes, gives a terse, unsympathetic account
+that plays down the drama of the coup and the popular enthusiasm it aroused. **Plutarch**'s
+*Life of Pelopidas*, written some five centuries later, offers a far more detailed and
+sympathetic narrative, evidently drawing on lost local Theban historical tradition (and
+possibly on Ephorus via Diodorus), which supplies most of the vivid detail — the
+disguises, the assassination of the polemarchs at a banquet — that later became the
+episode's standard telling. Modern historians generally trust Plutarch's basic sequence
+of events while treating the most theatrical details as likely later embellishment
+consistent with Theban civic memory's interest in mythologizing its own liberation.
+Diodorus (via Ephorus) provides an independent check on some points but is himself
+compressed and occasionally confused in his chronology of the mid-370s.
 
 ## Related
 

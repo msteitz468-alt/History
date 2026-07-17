@@ -6,9 +6,9 @@ date_end: 25 BCE
 period: [Classical Antiquity]
 region: [anatolia]
 affiliated_with: [hired as mercenaries by Hellenistic kings and dynasts]
-opposed_by: [[[seleucid-empire]], [[pergamon]], the cities of Asia Minor]
-key_events: [[[celtic-invasion-of-greece-279|the Celtic invasion]], the crossing into Asia Minor (278/7), Antiochus I's "elephant battle"]
-key_processes: [[[hellenistic-world]], the nomad/mercenary frontier]
+opposed_by: [ [[seleucid-empire]], [[pergamon]], the cities of Asia Minor]
+key_events: [ [[celtic-invasion-of-greece-279|the Celtic invasion]], the crossing into Asia Minor (278/7), Antiochus I's "elephant battle"]
+key_processes: [ [[hellenistic-world]], the nomad/mercenary frontier]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, people, classical-antiquity, anatolia]

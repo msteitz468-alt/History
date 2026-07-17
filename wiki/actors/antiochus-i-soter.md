@@ -5,10 +5,10 @@ date_start: 324 BCE
 date_end: 261 BCE
 period: [Classical Antiquity]
 region: [near-east, mesopotamia, anatolia, iran-plateau, central-asia]
-affiliated_with: [[[seleucus-i-nicator]], [[seleucid-empire]]]
-opposed_by: [[[ptolemaic-egypt]], the Galatians]
-key_events: [[[battle-of-corupedium-281]], [[first-syrian-war-274]]]
-key_processes: [[[hellenistic-monarchy]], [[seleucid-empire]]]
+affiliated_with: [ [[seleucus-i-nicator]], [[seleucid-empire]]]
+opposed_by: [ [[ptolemaic-egypt]], the Galatians]
+key_events: [ [[battle-of-corupedium-281]], [[first-syrian-war-274]]]
+key_processes: [ [[hellenistic-monarchy]], [[seleucid-empire]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, dynasty, classical-antiquity, near-east]

@@ -5,10 +5,10 @@ date_start: 1016 CE
 date_end: 1042 CE
 period: [Early Middle Ages]
 region: [denmark, norway, british-isles, northern-europe, scandinavia]
-affiliated_with: [[[cnut-the-great|Cnut the Great]], [[denmark|Denmark]], [[norway|Norway]], England]
-opposed_by: [[[olaf-haraldsson|St Olaf]]; West Saxon and Norwegian opponents]
+affiliated_with: [ [[cnut-the-great|Cnut the Great]], [[denmark|Denmark]], [[norway|Norway]], England]
+opposed_by: [ [[olaf-haraldsson|St Olaf]]; West Saxon and Norwegian opponents]
 key_events: []
-key_processes: [[[viking-age|Viking Age]]]
+key_processes: [ [[viking-age|Viking Age]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, empire, early-middle-ages, scandinavia]

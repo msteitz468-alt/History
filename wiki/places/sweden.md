@@ -4,9 +4,9 @@ place_type: empire-territory
 modern_equivalent: [Sweden (excluding the medieval Danish Scanian provinces); the medieval realm included Finland]
 coordinates: ~59.3°N, 18.1°E (Stockholm/Uppsala)
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
-controlled_by: [[[folkung-dynasty|Folkung dynasty]], [[margaret-i-of-denmark|Margaret I]] / Kalmar Union]
-events_here: [[[kalmar-union-1397|Kalmar Union]]]
-processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+controlled_by: [ [[folkung-dynasty|Folkung dynasty]], [[margaret-i-of-denmark|Margaret I]] / Kalmar Union]
+events_here: [ [[kalmar-union-1397|Kalmar Union]]]
+processes_here: [ [[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, scandinavia, sweden, early-middle-ages]

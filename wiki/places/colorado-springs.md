@@ -6,7 +6,7 @@ coordinates: [38.83 N, 104.82 W]
 period_active: [long-19th-century]
 controlled_by: []
 events_here: []
-processes_here: [[[concepts/wireless-power-transmission|wireless power transmission]]]
+processes_here: [ [[concepts/wireless-power-transmission|wireless power transmission]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [place, north-america, long-19th-century, technology]

@@ -5,7 +5,7 @@ date_start: 3rd century CE
 date_end: 6th century CE
 period: [classical-antiquity, late-antiquity]
 region: [arabian-peninsula]
-affiliated_with: [[[himyar]]]
+affiliated_with: [ [[himyar]]]
 opposed_by: []
 key_events: []
 key_processes: []

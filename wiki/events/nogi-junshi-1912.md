@@ -138,4 +138,8 @@ The Nogi cult became one of the primary vehicles through which prewar military i
 constructed the ideal of self-sacrifice for the emperor. The *junshi* thus connects the
 end of Meiji directly to the culture of the Pacific War.
 
+## Historiography
+
+Donald Keene's account draws on an unusually rich contemporary print record — newspaper reportage, private diaries (Shiga Naoya's), and near-immediate literary responses (Mori Ōgai, and later Natsume Sōseki) — making this one of the best-documented individual acts of the late Meiji period. That very immediacy, however, means the competing frames (heroic loyalty versus anachronistic barbarism) were fixed within days and have shaped memory of the event ever since. Nogi's suicide note is a first-person statement of motive but was also a carefully composed public document, and the military establishment's attempt to suppress or reframe it as mental derangement shows contested official memory-management even at the time. Scholars have since debated how far the *junshi* reflects genuine continuity with samurai-era practice as against a self-consciously constructed act of political theater aimed at the incoming Taishō era and the ascendant military-nationalist culture; Keene situates it as a hinge moment without fully resolving that tension.
+
 **Source:** [[keene-emperor-of-japan-meiji-2002]], Chapter 62.

@@ -58,6 +58,6 @@ Hanson repeatedly cites Thucydides but fills in the "how it felt and worked" gap
 - Developer/author: [[actors/hanson-victor-davis]]
 - Enriches: Classical antiquity events and hubs for the Peloponnesian War (Sicilian expedition, naval campaigns, hoplite battles, sieges, terror operations); pairs with [[Thucydides]] and prior Strauss *Athens after the Peloponnesian War*.
 - Cross to Sabin *Lost Battles*, Goldsworthy operational studies, and Delbrück for comparative ancient battle modeling.
-- Broader: [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/warfare-hub]], concepts of total war, economic warfare, and naval power in antiquity.
+- Broader: hubs/warfare/classical-antiquity/, [[hubs/warfare/warfare-hub]], concepts of total war, economic warfare, and naval power in antiquity.
 
 This framework is the standing reference for any detailed treatment of the fighting (as opposed to purely political causes and consequences) of the Peloponnesian War in the wiki.

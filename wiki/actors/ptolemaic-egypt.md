@@ -6,9 +6,9 @@ date_end: 30 BCE
 period: [Classical Antiquity]
 region: [egypt, north-africa, levant, mediterranean-world]
 affiliated_with: [Macedon, the Greek and Macedonian settler class, the Egyptian priesthood]
-opposed_by: [[[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
-key_events: [[[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
-key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
+opposed_by: [ [[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
+key_events: [ [[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
+key_processes: [ [[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
 sources_ingested: 10
 last_updated: 2026-07-08
 tags: [actor, dynasty, state, classical-antiquity, egypt]

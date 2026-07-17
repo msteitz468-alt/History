@@ -44,6 +44,10 @@ Marwan's son, **[[abd-al-malik|Abd al-Malik]]** (r. 685–705), succeeded him. A
 - `produced: [[schism-in-islam|Shi'a Consolidation]]`: Husayn's martyrdom at Karbala became the central religious narrative of the Shi'a sect, transforming a political party (*Shi'at Ali*) into a distinct religious movement centered on redemptive suffering, martyrdom, and the annual commemoration of *Ashura*.
 - `contributed_to: [[abd-al-malik|Centralization and Reforms]]`: To prevent future civil wars and integrate the ethnically diverse empire, Abd al-Malik launched sweeping administrative and monetary reforms, including the Arabization of the bureaucracy and the introduction of epigraphic Islamic coinage (see [[abd-al-malik|Abd al-Malik]]).
 
+## Historiography
+
+The dominant narrative tradition is al-Tabari's *History of the Prophets and Kings* (early tenth century), itself a compilation of earlier akhbar (reports) transmitted through generations of narrators before being fixed in writing, so its chronology and dialogue should be read as a retrospective synthesis rather than contemporary reportage. Sunni and Shi'a historiography diverge fundamentally in emphasis: Sunni sources tend to treat the Fitna primarily as a political succession crisis resolved by Umayyad victory, while Shi'a tradition centers the martyrdom of Husayn at Karbala as the sect's foundational sacred event, elaborated over centuries in devotional literature far beyond what the earliest historical sources report. Precise troop numbers, the sequence of Ibn al-Zubayr's alliances, and the extent of Yazid's personal responsibility for the Karbala killings (as opposed to his subordinates') are all debated, complicated by the fact that most surviving detailed narrative was compiled by scholars writing under later, Abbasid-era political conditions with their own reasons to blacken Umayyad memory.
+
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 12).

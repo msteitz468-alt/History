@@ -7,7 +7,7 @@ dating_method: stratigraphy / king-lists
 period: [Early Bronze Age]
 region: [mesopotamia]
 location: [Lagash (Girsu), Umma, the Gu'edena boundary]
-actors_primary: [[[lagash]], Umma]
+actors_primary: [ [[lagash]], Umma]
 actors_secondary: [Eannatum, Entemena, Mesilim of Kish]
 event_type: war
 scale_immediate: local

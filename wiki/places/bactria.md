@@ -6,7 +6,7 @@ coordinates: ~36.7 N, 66.9 E (Balkh)
 period_active: [Early Bronze Age, Late Bronze Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Oxus Civilization/BMAC, [[achaemenid-empire|Achaemenids]], [[alexander-the-great|Alexander]]/Seleucids, [[greco-bactrian-kingdom|Greco-Bactrians]], [[kushan-empire|Kushans]], [[sasanian-empire|Sasanians]], Hephthalites, Türks, Arabs]
 events_here: [Alexander's conquest and marriage to Roxana, secession of the Greco-Bactrian kingdom c. 250 BCE]
-processes_here: [[[trade-network-formation]], [[silk-roads]], [[seleucid-colonization|Hellenization]], [[pastoral-nomadism|nomad migration]]]
+processes_here: [ [[trade-network-formation]], [[silk-roads]], [[seleucid-colonization|Hellenization]], [[pastoral-nomadism|nomad migration]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [place, central-asia, classical-antiquity]

@@ -5,10 +5,10 @@ date_start: c. 945/946 CE (born, Auvergne)
 date_end: 1003 CE (died, Rome)
 period: [Early Middle Ages, High Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[otto-iii]], [[ottonian-dynasty]], the cathedral school of Rheims, [[papacy]]]
+affiliated_with: [ [[otto-iii]], [[ottonian-dynasty]], the cathedral school of Rheims, [[papacy]]]
 opposed_by: [Arnulf of Rheims (disputed archiepiscopal succession)]
 key_events: [coronation of Hugh Capet 987, accession of Otto III, the Renovatio Imperii Romanorum]
-key_processes: [[[ottonian-renaissance]], the revival of the quadrivium]
+key_processes: [ [[ottonian-renaissance]], the revival of the quadrivium]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, early-middle-ages, high-middle-ages, western-europe]

@@ -6,7 +6,7 @@ coordinates: ~34.12°N, 35.65°E
 period_active: [Neolithic, Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze Age, Iron Age, Classical Antiquity]
 controlled_by: [local Byblite rulers, Egyptian sphere of influence]
 events_here: []
-processes_here: [[[trade-network-formation]], [[early-bronze-age-levant]], [[canaanite-civilization]]]
+processes_here: [ [[trade-network-formation]], [[early-bronze-age-levant]], [[canaanite-civilization]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, levant, near-east, early-bronze-age]

@@ -5,7 +5,7 @@ date_start: 1214 (born)
 date_end: 1270 (died, Tunis)
 period: [High Middle Ages]
 region: [western-europe]
-affiliated_with: [[[capetian-dynasty|the Capetian dynasty]], the papacy, the [[mendicant-orders|mendicant orders]], the crusading movement]
+affiliated_with: [ [[capetian-dynasty|the Capetian dynasty]], the papacy, the [[mendicant-orders|mendicant orders]], the crusading movement]
 opposed_by: [Henry III of England (until 1259), rebel barons (1240s), the Ayyubids and the Hafsids on crusade]
 key_events: [the Seventh Crusade (1248–1254), the Treaty of Paris (1259), the Treaty of Corbeil (1258), the Eighth Crusade (1270)]
 key_processes: [Capetian administrative consolidation, royal reform (the enquêtes), the sacralisation of French kingship]

@@ -4,7 +4,7 @@ place_type: empire-territory
 modern_equivalent: [the Judaean hills around Jerusalem, Israel/Palestine]
 coordinates: [31.78 N, 35.22 E (Jerusalem)]
 period_active: [Archaic Period, Classical Antiquity]
-controlled_by: [[[achaemenid-empire|the Achaemenid Persian empire]], within the satrapy of [[eber-nari|Beyond the River]]]
+controlled_by: [ [[achaemenid-empire|the Achaemenid Persian empire]], within the satrapy of [[eber-nari|Beyond the River]]]
 events_here: [Cyrus' edict and the return from exile (from 538 BCE), the rebuilding of the Temple (completed 516/515), the mission of Nehemiah and the rebuilding of Jerusalem's wall (445)]
 processes_here: [the Restoration (Second Temple Judaism), Achaemenid provincial administration]
 sources_ingested: 1

@@ -7,12 +7,12 @@ dating_method: textual / synchronistic
 period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
 location: [Babylon]
-actors_primary: [[[mursili-i|Mursili I]], [[babylon-first-dynasty|Samsuditana]]]
-actors_secondary: [[[kassites|the Kassites]], Agum II]
+actors_primary: [ [[mursili-i|Mursili I]], [[babylon-first-dynasty|Samsuditana]]]
+actors_secondary: [ [[kassites|the Kassites]], Agum II]
 event_type: [collapse, battle]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[hittites|Hittite]] expansionism under Mursili I, the long structural decline of the [[babylon-first-dynasty|First Dynasty of Babylon]], the absence of any power able to defend Babylonia]
+causes: [ [[hittites|Hittite]] expansionism under Mursili I, the long structural decline of the [[babylon-first-dynasty|First Dynasty of Babylon]], the absence of any power able to defend Babylonia]
 consequences: [end of the [[babylon-first-dynasty|First Dynasty of Babylon]], the [[kassites|Kassite]] takeover of Babylonia, a key but disputed anchor for [[mesopotamian-chronology|second-millennium chronology]]]
 sources_ingested: 1
 last_updated: 2026-06-11

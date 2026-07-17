@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean]
 location: [Greece]
-actors_primary: [[[places/athens|Athens]], [[sparta]], [[peloponnesian-league|the Peloponnesian League]]]
+actors_primary: [ [[places/athens|Athens]], [[sparta]], [[peloponnesian-league|the Peloponnesian League]]]
 actors_secondary: [Callias, [[pericles]], Pleistoanax, Argos]
 event_type: treaty
 scale_immediate: regional

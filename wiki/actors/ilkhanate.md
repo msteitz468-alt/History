@@ -5,8 +5,8 @@ date_start: 1260 CE (Hülegü establishes his realm in Persia)
 date_end: 1335 CE (death of Abu Said; fragmentation)
 period: [High Middle Ages, Late Middle Ages]
 region: [iran-plateau, mesopotamia, near-east, central-asia]
-affiliated_with: [[[mongol-empire]], "the Toluid line", "the Yuan dynasty (ally)"]
-opposed_by: [[[mamluk-sultanate]], [[golden-horde|the Golden Horde]], "the Chaghatayids"]
+affiliated_with: [ [[mongol-empire]], "the Toluid line", "the Yuan dynasty (ally)"]
+opposed_by: [ [[mamluk-sultanate]], [[golden-horde|the Golden Horde]], "the Chaghatayids"]
 key_events: ["the sack of Baghdad 1258", "the defeat at Ain Jalut 1260", "Ghazan's conversion to Islam c. 1295", "the end of the line 1335"]
 key_processes: [pax mongolica, [[chinggis-exchange]], "the Islamization of the Mongols", "the Persianization of high culture"]
 sources_ingested: 2

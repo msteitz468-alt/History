@@ -5,10 +5,10 @@ date_start: ~8000 BCE
 date_end: ~1500 BCE
 period: [Mesolithic, Neolithic]
 region: [korea, east-asia]
-affiliated_with: [[[korea-three-kingdoms]], [[peopling-of-east-asia]]]
+affiliated_with: [ [[korea-three-kingdoms]], [[peopling-of-east-asia]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[rice-agriculture-spread-east-asia]], [[early-agriculture-china]]]
+key_processes: [ [[rice-agriculture-spread-east-asia]], [[early-agriculture-china]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, movement, neolithic, korea, east-asia]

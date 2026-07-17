@@ -7,7 +7,7 @@ dating_method: other
 period: [High Middle Ages]
 region: [cyprus, levant, mediterranean]
 location: [cyprus, Nicosia, Kyrenia, St Hilarion, Kantara, Famagusta, Beirut, Acre, Tyre]
-actors_primary: [[[ibelin-family|the Ibelins (John of Beirut)]], [[frederick-ii-hohenstaufen]], "the five baillis", "Richard Filangieri"]
+actors_primary: [ [[ibelin-family|the Ibelins (John of Beirut)]], [[frederick-ii-hohenstaufen]], "the five baillis", "Richard Filangieri"]
 actors_secondary: ["Henry I of Cyprus", "Alice of Champagne", [[republic-of-genoa]]]
 event_type: war
 scale_immediate: regional

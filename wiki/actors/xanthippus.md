@@ -5,9 +5,9 @@ date_start: fl. 255 BCE
 date_end: unknown
 period: [Classical Antiquity]
 region: [north-africa, mediterranean]
-affiliated_with: [[[carthage]]]
-opposed_by: [[[atilius-regulus]], [[roman-republic]]]
-key_events: [[[first-punic-war-264-241bce]], [[battle-of-the-bagradas-255bce]]]
+affiliated_with: [ [[carthage]]]
+opposed_by: [ [[atilius-regulus]], [[roman-republic]]]
+key_events: [ [[first-punic-war-264-241bce]], [[battle-of-the-bagradas-255bce]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

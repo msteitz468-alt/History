@@ -17,7 +17,7 @@ casualties_b: "[killed / captured — with source attribution]"
 outcome: "[one-line result]"
 scale_immediate: "[local / regional / civilizational / hemispheric / global]"
 scale_consequential: "[local / regional / civilizational / hemispheric / global]"
-event_page: "[[events/[event-slug]]]"
+event_page: "events/[event-slug]"
 key_sources: "[primary authors + key modern studies]"
 last_updated: "[YYYY-MM-DD]"
 tags: [warfare, battle-analysis, "[period-tag]", "[region-tag]", "[war-slug]"]
@@ -130,5 +130,5 @@ How the battle is read in modern doctrine/education (e.g., envelopment/encirclem
 ## Related
 
 - Commanders/actors: …
-- War & campaign: [[hubs/warfare/[period]/[war]/[war]]] · [[events/[event-slug]]]
+- War & campaign: [[hubs/warfare/[period]/[war]/[war]]] · events/[event-slug]
 - Comparable battles: …

@@ -5,8 +5,8 @@ date_start: unknown (fl. 431–422 BCE)
 date_end: 422 BCE (killed at Amphipolis)
 period: [Classical Antiquity]
 region: [central-greece, aegean]
-affiliated_with: [[[sparta]], the [[peloponnesian-league|Peloponnesian League]]]
-opposed_by: [[[athens]], [[cleon]], [[thucydides]] (as a general)]
+affiliated_with: [ [[sparta]], the [[peloponnesian-league|Peloponnesian League]]]
+opposed_by: [ [[athens]], [[cleon]], [[thucydides]] (as a general)]
 key_events: [the defence of Methone 431 BCE, adviser at Corcyra 427 BCE and conspicuous bravery at Pylos 425 BCE, the relief of Megara 424 BCE, the Thracian campaign and capture of Amphipolis 424 BCE, death at Amphipolis 422 BCE]
 key_processes: [Spartan promotion of revolt in the [[delian-league|Athenian empire]]]
 sources_ingested: 2

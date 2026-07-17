@@ -6,7 +6,7 @@ coordinates: ~21.7°N, 72.9°E
 period_active: [Classical Antiquity, Late Antiquity]
 controlled_by: ["Indo-Scythian/Indo-Parthian Western Satraps (Nahapana)", "[[satavahana-empire|Satavahanas]]"]
 events_here: []
-processes_here: [[[indian-ocean-trade]], [[silk-roads]], [[roman-imperial-trade]]]
+processes_here: [ [[indian-ocean-trade]], [[silk-roads]], [[roman-imperial-trade]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, south-asia, indian-ocean]

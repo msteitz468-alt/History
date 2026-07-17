@@ -5,10 +5,10 @@ date_start: 234 BCE
 date_end: 149 BCE
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
-affiliated_with: [[[roman-republic]], the Valerii Flacci (his patrons)]
+affiliated_with: [ [[roman-republic]], the Valerii Flacci (his patrons)]
 opposed_by: [the Scipios (at times), luxury and Hellenizing excess, [[carthage]]]
 key_events: [consulship 195 (Spain), censorship 184, agitation for the [[third-punic-war-149-146bce|Third Punic War]]]
-key_processes: [[[roman-aristocratic-politics]], [[agrarian-crisis-roman-republic]]]
+key_processes: [ [[roman-aristocratic-politics]], [[agrarian-crisis-roman-republic]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, italy]

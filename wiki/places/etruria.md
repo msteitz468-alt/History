@@ -6,7 +6,7 @@ coordinates: ~43.0°N, 11.5°E
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [the [[etruscans|Etruscan]] city-states, later the Roman Republic]
 events_here: [battle of the Sardinian Sea (Alalia) c. 540 BCE, Roman destruction of Veii 396 BCE]
-processes_here: [[[urbanization]], [[trade-network-formation]]]
+processes_here: [ [[urbanization]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, italy, mediterranean, archaic-period]

@@ -7,8 +7,8 @@ period: [Early Bronze Age]
 region: [north-africa]
 affiliated_with: []
 opposed_by: [Lower Egyptian kingdom (pre-unification), Nubian A-Group, Libyan Tjehenu, Sinai bedawin]
-key_events: [[[unification-of-egypt-3100bce]]]
-key_processes: [[[predynastic-egypt]], [[state-formation]], [[urbanization]]]
+key_events: [ [[unification-of-egypt-3100bce]]]
+key_processes: [ [[predynastic-egypt]], [[state-formation]], [[urbanization]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, north-africa]

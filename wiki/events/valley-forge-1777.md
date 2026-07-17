@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Valley Forge, Pennsylvania]
 actors_primary: [the [[continental-army|Continental Army]]]
-actors_secondary: [[[washington-george]], [[steuben-friedrich]], [[greene-nathanael]], [[knox-henry]]]
+actors_secondary: [ [[washington-george]], [[steuben-friedrich]], [[greene-nathanael]], [[knox-henry]]]
 event_type: [transition]
 scale_immediate: regional
 scale_consequential: civilizational
@@ -50,6 +50,10 @@ better disciplined, more effectively led, and with higher morale than ever befor
   **[[battle-of-monmouth-1778|Monmouth]]**, where it stood "toe-to-toe" with British regulars.
 - `enabled:` the broader argument — carried by army commanders' complaints — that only a stronger
   national government could sustain war, helping "prepare the ground for the … Constitution of 1787."
+
+## Historiography
+
+Washington's own extensive wartime correspondence with Congress, quartermaster records, and Steuben's "Blue Book" drill manual document the encampment unusually well, and historians broadly agree on the structural (not merely climatic) causes of the winter's suffering — the Confederation's inability to tax undermining supply. Some historiographical debate concerns how much credit for the army's transformation belongs to Steuben personally versus the parallel administrative reforms of Greene (quartermaster) and Knox (artillery/ordnance), since popular memory has tended to flatten the story into a single "Steuben drills the army" narrative. The encampment's later mythologization — suffering as a sanctifying national origin story — is itself examined by historians as a case of retrospective memory-making distinct from the more mundane administrative history.
 
 ## Related
 

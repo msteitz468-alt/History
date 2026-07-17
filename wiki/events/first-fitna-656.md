@@ -43,6 +43,24 @@ Mu'awiya exploited Ali's weakness, seizing control of Egypt and launching raids 
 - `produced: [[schism-in-islam|Sunni-Shi'a Division]]`: The conflict created the fundamental division in Islam. Ali's supporters became the *Shi'at Ali* ("Party of Ali" or Shi'ites), who held that leadership of the Muslim community was a divine right limited to Muhammad's household (Ahl al-Bayt). Their opponents, who eventually coalesced around the majority tradition, became the Sunnis.
 - `produced: [[kharijites|Kharijite Movement]]`: The war produced the first major sectarian splinter group, the Kharijites, who advocated an egalitarian model of leadership based strictly on religious piety, declaring any sinning ruler an apostate.
 
+## Historiography
+
+The First Fitna is known only through the later Islamic historiographical tradition —
+above all the great compilers **al-Tabari** and **al-Baladhuri** (9th–10th centuries),
+who assembled earlier oral *akhbar* (reports) transmitted for generations before being
+committed to writing, with named chains of transmission (*isnads*) of very uneven
+reliability. No contemporary 7th-century Arabic narrative source survives independently
+of these later compilations, and the material is deeply shaped by **sectarian
+retrospection**: Sunni and Shi'a traditions diverge sharply on Ali's conduct, Mu'awiya's
+legitimacy, and the culpability for Uthman's murder, since each community's later
+self-understanding was built substantially on how this civil war was remembered. Modern
+scholars treat specific numbers, speeches, and dramatic details (such as the leaves of
+the Qur'an raised at Siffin) with caution as likely later elaboration, while accepting
+the broad outline of events — the Battle of the Camel, Siffin, the arbitration, and the
+Kharijite secession — as reasonably secure. The episode remains a live subject of
+historiographical dispute precisely because how it is narrated bears directly on
+competing claims to religious authority within Islam.
+
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 12).

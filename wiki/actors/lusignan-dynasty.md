@@ -5,10 +5,10 @@ date_start: 1192 (Guy de Lusignan acquires Cyprus)
 date_end: 1489 (Venice annexes Cyprus); Armenian title from 1393
 period: [High Middle Ages, Late Middle Ages]
 region: [cyprus, levant, mediterranean, anatolia]
-affiliated_with: [[[kingdom-of-cyprus]], "the kingdom of Jerusalem", "the Latin Church", [[crusader-states|the crusader states]], [[cilician-armenian-kingdom|Cilician Armenia]]]
-opposed_by: [[[mamluk-sultanate|the Mamluk Sultanate]], [[republic-of-genoa]], [[republic-of-venice]]]
-key_events: [[[richard-conquest-of-cyprus-1191]], "Guy of Lusignan's purchase of Cyprus (1192)", [[war-of-the-lombards-1228]], [[fall-of-acre-1291]], [[sack-of-alexandria-1365]], [[genoese-invasion-of-cyprus-1373]], "the union of the crowns of Cyprus and Armenia (1393)"]
-key_processes: [[[crusades]], [[armenian-latin-integration]]]
+affiliated_with: [ [[kingdom-of-cyprus]], "the kingdom of Jerusalem", "the Latin Church", [[crusader-states|the crusader states]], [[cilician-armenian-kingdom|Cilician Armenia]]]
+opposed_by: [ [[mamluk-sultanate|the Mamluk Sultanate]], [[republic-of-genoa]], [[republic-of-venice]]]
+key_events: [ [[richard-conquest-of-cyprus-1191]], "Guy of Lusignan's purchase of Cyprus (1192)", [[war-of-the-lombards-1228]], [[fall-of-acre-1291]], [[sack-of-alexandria-1365]], [[genoese-invasion-of-cyprus-1373]], "the union of the crowns of Cyprus and Armenia (1393)"]
+key_processes: [ [[crusades]], [[armenian-latin-integration]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, dynasty, high-middle-ages, late-middle-ages, cyprus, mediterranean]

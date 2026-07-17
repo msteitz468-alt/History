@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, peloponnese, mediterranean]
 location: [Athens, Attica, Corinth, the Isthmus, Cos]
-actors_primary: [[[places/athens|Athens]], [[sparta]], [[ptolemaic-egypt]], [[antigonus-ii-gonatas]]]
-actors_secondary: [[[achaean-league]], Areus I of Sparta, Chremonides, the admiral Patroclus]
+actors_primary: [ [[places/athens|Athens]], [[sparta]], [[ptolemaic-egypt]], [[antigonus-ii-gonatas]]]
+actors_secondary: [ [[achaean-league]], Areus I of Sparta, Chremonides, the admiral Patroclus]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional

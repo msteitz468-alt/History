@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [eastern-europe]
 location: [Gniezno, Poland]
-actors_primary: [[[otto-iii|Otto III]], [[boleslaw-i-chrobry|Bolesław Chrobry]]]
+actors_primary: [ [[otto-iii|Otto III]], [[boleslaw-i-chrobry|Bolesław Chrobry]]]
 actors_secondary: [Pope Sylvester II ([[gerbert-of-aurillac]]), St Adalbert of Prague (posthumous)]
 event_type: religious
 scale_immediate: regional

@@ -6,12 +6,12 @@ date_precision: year
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
 location: [Germany, Italy, Rome, Canossa]
-actors_primary: [[[gregory-vii|Pope Gregory VII]], [[henry-iv-holy-roman-emperor|Emperor Henry IV]], [[papacy]], [[salian-dynasty|the Salian empire]]]
-actors_secondary: [[[urban-ii|Pope Urban II]], "Pope Paschal II", "Pope Calixtus II", "Henry V", "the antipope Clement III (Wibert of Ravenna)", "Countess Matilda of Tuscany"]
+actors_primary: [ [[gregory-vii|Pope Gregory VII]], [[henry-iv-holy-roman-emperor|Emperor Henry IV]], [[papacy]], [[salian-dynasty|the Salian empire]]]
+actors_secondary: [ [[urban-ii|Pope Urban II]], "Pope Paschal II", "Pope Calixtus II", "Henry V", "the antipope Clement III (Wibert of Ravenna)", "Countess Matilda of Tuscany"]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[gregorian-reform]], "the doctrine of the libertas ecclesiae", "the practice of lay investiture and prelates' homage to kings", "Gregory VII's assertion of papal supremacy (Dictatus Papae, 1075)"]
+causes: [ [[gregorian-reform]], "the doctrine of the libertas ecclesiae", "the practice of lay investiture and prelates' homage to kings", "Gregory VII's assertion of papal supremacy (Dictatus Papae, 1075)"]
 consequences: ["the Concordat of Worms (1122)", "the separation of spiritual and lay authority", "the weakening of the German monarchy and the rise of the princes", "the consolidation of the papal monarchy", "a durable papal–imperial rivalry"]
 sources_ingested: 2
 last_updated: 2026-07-08

@@ -5,10 +5,10 @@ date_start: c. 147 BCE
 date_end: c. 224 CE
 period: [Classical Antiquity, Late Antiquity]
 region: [iran-plateau, khuzistan]
-affiliated_with: [[[parthian-empire|Parthian (Arsacid) Empire]] (intermittently), [[elam]] (as successor)]
-opposed_by: [[[seleucid-empire|Seleucid Empire]]]
+affiliated_with: [ [[parthian-empire|Parthian (Arsacid) Empire]] (intermittently), [[elam]] (as successor)]
+opposed_by: [ [[seleucid-empire|Seleucid Empire]]]
 key_events: [Antiochus III's death attacking the Bel temple (187 BCE), Antiochus IV's failed invasion (164 BCE)]
-key_processes: [[[state-formation]]]
+key_processes: [ [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, classical-antiquity, late-antiquity, iran-plateau]

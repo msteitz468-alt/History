@@ -6,7 +6,7 @@ coordinates: ~19.30°N, 99.19°W
 period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [Cuicuilco polity]
 events_here: [eruption of Xitle (~200–400 CE), Cuicuilco decline (Patlachique phase)]
-processes_here: [[[mesoamerican-state-formation]], [[urbanism]], [[teotihuacan-formation]]]
+processes_here: [ [[mesoamerican-state-formation]], [[urbanism]], [[teotihuacan-formation]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mesoamerica, archaic-period, classical-antiquity, americas]

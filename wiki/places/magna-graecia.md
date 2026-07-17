@@ -6,7 +6,7 @@ coordinates: [37.5 N, 15.0 E]
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [independent Greek city-states (Syracuse, Sybaris, Croton, Acragas, Gela, Selinus, Locri, Taras, Rhegium…), in tension with Sicels, Elymians, and the western Phoenicians/Carthage]
 events_here: [the wave of colonization (8th–6th c.), Pentathlus's failed colony at Lilybaeum (c. 580), Dorieus's failed colony (c. 510), the destruction of Sybaris by Croton (c. 510)]
-processes_here: [[[greek-colonization|Greek colonization]], Hellenization of the natives, the rise of tyranny, the Greek–Phoenician conflict]
+processes_here: [ [[greek-colonization|Greek colonization]], Hellenization of the natives, the rise of tyranny, the Greek–Phoenician conflict]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mediterranean, mediterranean-world, archaic-period]

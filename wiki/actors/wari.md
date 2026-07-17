@@ -8,7 +8,7 @@ region: [andes]
 affiliated_with: [the Ayacucho basin of the central Peruvian highlands, the Middle Horizon, shared iconography with [[tiwanaku|Tiwanaku]]]
 opposed_by: []
 key_events: [the rise of the Wari capital near Ayacucho, the spread of Wari administrative centers, the Middle Horizon expansion]
-key_processes: [[[andean-state-formation]]]
+key_processes: [ [[andean-state-formation]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, empire, late-antiquity, early-middle-ages, andes]

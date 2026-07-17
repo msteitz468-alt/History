@@ -5,10 +5,10 @@ date_start: 308 BCE
 date_end: 246 BCE
 period: [Classical Antiquity]
 region: [egypt, north-africa, mediterranean-world]
-affiliated_with: [[[ptolemaic-egypt]], [[arsinoe-ii]], the dioiketes Apollonius]
-opposed_by: [[[seleucid-empire]]]
-key_events: [[[syrian-wars]], [[chremonidean-war-267]]]
-key_processes: [[[ptolemaic-egypt]], [[hellenistic-monarchy]], [[ruler-cult]]]
+affiliated_with: [ [[ptolemaic-egypt]], [[arsinoe-ii]], the dioiketes Apollonius]
+opposed_by: [ [[seleucid-empire]]]
+key_events: [ [[syrian-wars]], [[chremonidean-war-267]]]
+key_processes: [ [[ptolemaic-egypt]], [[hellenistic-monarchy]], [[ruler-cult]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, dynasty, classical-antiquity, egypt]

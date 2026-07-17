@@ -6,7 +6,7 @@ coordinates: [6.84 N, 158.33 E]
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [the Saudeleur chiefly dynasty]
 events_here: [construction of the artificial islets c. 1500–800 BP, peak of Saudeleur power, decline of major use c. 400 BP]
-processes_here: [[[pacific-voyaging-and-settlement]], [[state-formation]]]
+processes_here: [ [[pacific-voyaging-and-settlement]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [place, micronesia, high-middle-ages]

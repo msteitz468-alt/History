@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [levant, near-east]
 location: [Horns of Hattin, near Tiberias, Galilee]
-actors_primary: [[[saladin]], "the Kingdom of Jerusalem (Guy of Lusignan)", [[crusader-states|the crusader states]]]
+actors_primary: [ [[saladin]], "the Kingdom of Jerusalem (Guy of Lusignan)", [[crusader-states|the crusader states]]]
 actors_secondary: ["the Templars and Hospitallers", "Raymond III of Tripoli", "Reynald of Châtillon"]
 event_type: battle
 scale_immediate: regional

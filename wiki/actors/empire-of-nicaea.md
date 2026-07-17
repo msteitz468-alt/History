@@ -6,7 +6,7 @@ date_end: 1261 (recovery of Constantinople); the Palaiologan empire continued to
 period: [High Middle Ages]
 region: [anatolia, balkans, mediterranean]
 affiliated_with: [the Orthodox Church, [[republic-of-genoa|Genoa]] (Treaty of Nymphaion 1261)]
-opposed_by: [[[latin-empire-of-constantinople|the Latin empire]], the despotate of Epiros, the Vlacho-Bulgarians, [[charles-of-anjou|Charles of Anjou]]]
+opposed_by: [ [[latin-empire-of-constantinople|the Latin empire]], the despotate of Epiros, the Vlacho-Bulgarians, [[charles-of-anjou|Charles of Anjou]]]
 key_events: [the foundation at Nicaea (1206/1208), the recovery of Constantinople (1261), the Union of Lyons (1274)]
 key_processes: [Byzantium in exile, the localisation of power, the defence of Orthodoxy]
 sources_ingested: 1

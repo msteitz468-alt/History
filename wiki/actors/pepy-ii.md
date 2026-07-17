@@ -5,9 +5,9 @@ date_start: ~2278 BCE (accession)
 date_end: ~2184 BCE
 period: [Early Bronze Age]
 region: [north-africa]
-affiliated_with: [[[old-kingdom-egypt]]]
+affiliated_with: [ [[old-kingdom-egypt]]]
 opposed_by: []
-key_events: [[[events/fall-of-old-kingdom-2160bce]]]
+key_events: [ [[events/fall-of-old-kingdom-2160bce]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-27

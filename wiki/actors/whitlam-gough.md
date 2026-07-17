@@ -7,8 +7,8 @@ period: [Cold War]
 region: [australia]
 affiliated_with: [[australian-labour-movement]]
 opposed_by: [[liberal-party-australia]]
-key_events: [[[dismissal-1975]], [[alp-split-1955]]]
-key_processes: [[[whitlam-reforms]], [[post-war-immigration-australia]]]
+key_events: [ [[dismissal-1975]], [[alp-split-1955]]]
+key_processes: [ [[whitlam-reforms]], [[post-war-immigration-australia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, cold-war, australia]

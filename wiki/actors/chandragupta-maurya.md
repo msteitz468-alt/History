@@ -8,7 +8,7 @@ region: [south-asia]
 affiliated_with: [the [[mauryan-empire|Mauryan Empire]], Magadha, [[kautilya|Kautilya Chanakya]]]
 opposed_by: [the Nanda dynasty, Seleucus Nikator]
 key_events: [overthrow of the Nandas c. 321 BCE, defeat of Seleucus Nikator, unification of the subcontinent]
-key_processes: [[[empire]], [[state-formation]]]
+key_processes: [ [[empire]], [[state-formation]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, south-asia]

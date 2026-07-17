@@ -1,5 +1,6 @@
 ---
 title: Division of Germany (1945–1949)
+aliases: [division-of-germany]
 date_start: 1945
 date_end: 1949-10
 date_precision: year
@@ -39,6 +40,10 @@ Detailed treatment in the Schwarz chapter on the division and related economic/p
 Historiography: Early Western view held division "unavoidable since the Soviet Union was not prepared to concede human rights, true political pluralism..." Revisionists criticized West for prioritizing recovery and West German capitalists over joint control/reparations. Post-Cold War: "each bears some responsibility for the division of Germany. But one should not overlook the benefits... West Germany helped propel the economic reconstruction and political integration of Western Europe... Franco-German rivalries were overcome... the division became manageable... in 1989/90, the four occupation powers... allowed for its reuniﬁcation."
 
 "From 1949 until the collapse of Communism in the GDR, both German states were exemplary protagonists in the Cold War... For the German people, the division was a national tragedy."
+
+## Historiography
+
+The page already carries an extended internal historiographical discussion (see the Range 02 excerpt above, following Schwarz's chapter in Leffler and Westad's *Cambridge History of the Cold War*): early Western accounts treated division as effectively unavoidable given Soviet policy, while revisionist scholarship of the 1960s–80s emphasized Western prioritization of West German economic recovery and rearmament over unified four-power control. Primary sources include the Yalta and Potsdam protocols, occupation-zone administrative records, and — since the 1990s opening of Soviet and East German archives — internal Soviet and SED documentation that has allowed a fuller reconstruction of Moscow's calculations. Post-Cold War historians generally favor a shared-responsibility account in which structural incompatibilities between the occupying powers, not any single actor's bad faith, produced the division, though debate continues over how contingent versus inevitable the outcome was.
 
 ## Related
 

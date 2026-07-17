@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [anatolia, mesopotamia, near-east]
 location: [Cunaxa (near Babylon), the upper Tigris, the Black Sea coast]
-actors_primary: [[[cyrus-the-younger|Cyrus the Younger]], the Ten Thousand (Greek mercenaries), [[xenophon]]]
-actors_secondary: [[[artaxerxes-ii|Artaxerxes II]], Tissaphernes, [[achaemenid-empire|Achaemenid Persia]]]
+actors_primary: [ [[cyrus-the-younger|Cyrus the Younger]], the Ten Thousand (Greek mercenaries), [[xenophon]]]
+actors_secondary: [ [[artaxerxes-ii|Artaxerxes II]], Tissaphernes, [[achaemenid-empire|Achaemenid Persia]]]
 event_type: military
 scale_immediate: regional
 scale_consequential: civilizational
@@ -59,6 +59,22 @@ of Greek mercenaries. produced: [[xenophon|Xenophon's]] *Anabasis* (now ingested
 [[xenophon-expedition-of-cyrus|*The Expedition of Cyrus*]] — itself an instrument of the panhellenist
 case it helped create); the panhellenist conviction of Persian weakness that shaped a century of
 Greek thinking about Asia and ultimately the [[alexander-the-great|Macedonian conquest]].
+
+## Historiography
+
+The march is exceptionally well attested by ancient standards because its principal
+source, **Xenophon**'s *Anabasis*, is a **rare first-person eyewitness account** by one
+of the expedition's own elected leaders — but this intimacy is also its chief
+methodological problem: Xenophon writes to justify and dramatize his own conduct and
+leadership, and modern historians read the work with an eye to self-serving omissions
+and shaping. Independent corroboration is thin: **Diodorus Siculus** (via Ephorus)
+covers the same events more briefly and from a different tradition, while **Ctesias**'s
+*Persica* — the account of a Greek physician resident at the Achaemenid court, surviving
+only in fragments and later summary (notably in Plutarch's *Artaxerxes*) — offers a
+Persian-court perspective but is notoriously unreliable and sensationalized. The size of
+Cyrus's Greek and Persian forces, the circumstances of Cyrus's death at Cunaxa, and the
+degree to which Xenophon inflates his own role in the retreat all remain debated, though
+the overall itinerary and outcome are not seriously in question.
 
 ## Related
 

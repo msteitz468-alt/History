@@ -7,7 +7,7 @@ period: [Behavioral Modernity, Mesolithic, Neolithic, Chalcolithic, Early Bronze
 region: [near-east, mesopotamia, levant, anatolia, iran-plateau, north-africa]
 process_type: environmental
 driven_by: [deglaciation and orbital climate change]
-produces: [[[early-agriculture-southwest-asia]], [[urbanization]], irrigation-dependence]
+produces: [ [[early-agriculture-southwest-asia]], [[urbanization]], irrigation-dependence]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [process, neolithic, near-east]

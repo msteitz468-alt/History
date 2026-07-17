@@ -5,10 +5,10 @@ date_start: c. 260 BCE
 date_end: 219 BCE
 period: [Classical Antiquity]
 region: [peloponnese, egypt]
-affiliated_with: [[[sparta]], the Agiad royal house, [[ptolemaic-egypt|Ptolemy III]] (briefly)]
-opposed_by: [[[achaean-league]], [[aratus-of-sicyon]], [[antigonus-iii-doson]]]
-key_events: [[[cleomenean-war-229]], the Spartan revolution (227), [[battle-of-sellasia-222]]]
-key_processes: [[[hellenistic-world]], Spartan social revolution]
+affiliated_with: [ [[sparta]], the Agiad royal house, [[ptolemaic-egypt|Ptolemy III]] (briefly)]
+opposed_by: [ [[achaean-league]], [[aratus-of-sicyon]], [[antigonus-iii-doson]]]
+key_events: [ [[cleomenean-war-229]], the Spartan revolution (227), [[battle-of-sellasia-222]]]
+key_processes: [ [[hellenistic-world]], Spartan social revolution]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, peloponnese]

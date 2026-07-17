@@ -1,13 +1,14 @@
 ---
 title: The Seljuk Empire (the Great Seljuks)
+aliases: [saljuq-empire]
 actor_type: empire
 date_start: "1037/1055 (Tughril Beg; entry into Baghdad)"
 date_end: "1194 (end of the Great Seljuk sultanate in Iran); the Seljuks of Rum continue to 1308"
 period: [High Middle Ages]
 region: [iran-plateau, near-east, central-asia, anatolia]
 affiliated_with: ["the Abbasid caliphate (as protectors)", "Sunni Islam", "the Turkmen tribes"]
-opposed_by: [[[byzantine-empire|Byzantium]], "the Fatimids", "the crusader states", "rival Turkic and Iranian powers"]
-key_events: [[[battle-of-manzikert-1071]], "the entry into Baghdad (1055)"]
+opposed_by: [ [[byzantine-empire|Byzantium]], "the Fatimids", "the crusader states", "rival Turkic and Iranian powers"]
+key_events: [ [[battle-of-manzikert-1071]], "the entry into Baghdad (1055)"]
 key_processes: []
 sources_ingested: 2
 last_updated: 2026-07-08

@@ -7,7 +7,7 @@ dating_method: synchronism (Egyptian–Hittite)
 period: [Late Bronze Age]
 region: [north-africa, anatolia, near-east]
 location: [Egypt; en route from Hatti to Egypt]
-actors_primary: [[[tutankhamun|Ankhesenamun (queen of Tutankhamun)]], [[shuppiluliuma-i|Šuppiluliuma I]]]
+actors_primary: [ [[tutankhamun|Ankhesenamun (queen of Tutankhamun)]], [[shuppiluliuma-i|Šuppiluliuma I]]]
 actors_secondary: [the prince Zannanza, the Hittite court, the Egyptian court faction]
 event_type: political
 scale_immediate: regional

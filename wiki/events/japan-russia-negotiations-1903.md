@@ -130,3 +130,7 @@ opening of the war.
 `followed_by: [[russo-japanese-war-1904]]`
 `caused_by: [[boxer-rebellion]]`
 `caused_by: [[first-sino-japanese-war-1894-1895]]`
+
+## Historiography
+
+Keene's account of the negotiations draws heavily on Japanese court and government records — the emperor's private correspondence, Katsura and Komura's internal deliberations, and the memorial of the "seven doctors" — giving a detailed view of Japanese decision-making but a comparatively thin account of the parallel Russian internal debate. Russian-side sources (Kuropatkin's and Lamsdorf's own records, and the internal struggle between the moderate Witte and the hardline Viceroy Alekseev) are known chiefly through secondary Western scholarship rather than through this collection's primary holdings, leaving the Russian decision-making process less fully documented here than the Japanese side. Historians continue to debate how far the breakdown reflects genuine, irreconcilable strategic incompatibility (Japan's insistence on linking Korea and Manchuria) versus contingent factors — Witte's removal and Alekseev's appointment shifting Russian policy toward intransigence at a decisive moment. The episode is also read through debates over Japanese "preventive war" logic and whether the 1904 surprise attack on Port Arthur should be understood primarily as strategic necessity or calculated aggression, a question with obvious resonance for later twentieth-century Japanese military decision-making.

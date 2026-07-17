@@ -5,10 +5,10 @@ date_start: c. 770 CE
 date_end: 14 March 840 CE
 period: [Early Middle Ages]
 region: [western-europe]
-affiliated_with: [[[charlemagne]], [[louis-the-pious]], the Aachen court, [[carolingian-renaissance]]]
+affiliated_with: [ [[charlemagne]], [[louis-the-pious]], the Aachen court, [[carolingian-renaissance]]]
 opposed_by: []
 key_events: [composition of the Vita Karoli (c. 829)]
-key_processes: [[[carolingian-renaissance]]]
+key_processes: [ [[carolingian-renaissance]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, western-europe]

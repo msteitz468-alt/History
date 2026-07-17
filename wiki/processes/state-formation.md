@@ -73,7 +73,7 @@ mono-causal) drivers:
 
 ## Theories of State Formation — the Fagan & Durrani Survey
 
-[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] devote their state-formation
+Fagan & Durrani (2020) devote their state-formation
 chapter to a critical survey of the field's successive "prime mover" theories,
 converging on the conclusion that **no single theory works** — the process is
 multi-causal and depends on individual agency translating ecological
@@ -359,7 +359,7 @@ accounts rather than rival monocausal laws. See [[empire]] for the imperial
 historiography and the standing controversies on the [[bronze-age-collapse-1200bce|Bronze
 Age Collapse]] and the [[fall-of-rome-causes|fall of Rome]].
 
-[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] frame the historiography of
+Fagan & Durrani (2020) frame the historiography of
 this page's central question explicitly as a succession of failed and
 partially-superseded "prime mover" theories: Childe's Urban Revolution gave way to
 ecological/hydraulic models (Wittfogel/Steward), which Robert Adams's own field

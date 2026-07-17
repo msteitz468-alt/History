@@ -8,7 +8,7 @@ region: [anatolia, balkans, near-east, mediterranean]
 affiliated_with: [the Ottoman dynasty, Sunni Islam]
 opposed_by: [the Byzantine Empire, Venice, Hungary (Hunyadi), the Akkoyunlu (Uzun Hasan), the Karaman emirate]
 key_events: ["the fall of Constantinople (1453)", "the annexation of Serbia, the Morea, Trebizond & Bosnia", "the war with Venice (1463–79)", "the landing at Otranto (1480)"]
-key_processes: [[[ottoman-empire]], the building of the Ottoman imperial state]
+key_processes: [ [[ottoman-empire]], the building of the Ottoman imperial state]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, late-middle-ages, anatolia, balkans, near-east]

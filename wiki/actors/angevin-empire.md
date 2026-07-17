@@ -6,7 +6,7 @@ date_end: 1204 (loss of Normandy to Philip II)
 period: [High Middle Ages]
 region: [western-europe, british-isles]
 affiliated_with: ["the house of Anjou (Plantagenet)"]
-opposed_by: [[[capetian-dynasty|the Capetian kings of France]], "rebellious vassals and the Angevin princes"]
+opposed_by: [ [[capetian-dynasty|the Capetian kings of France]], "rebellious vassals and the Angevin princes"]
 key_events: ["the marriage of Henry II and Eleanor of Aquitaine (1152)", "the loss of Normandy (1204)"]
 key_processes: ["the Englishing of the Plantagenet monarchy after 1204"]
 sources_ingested: 2

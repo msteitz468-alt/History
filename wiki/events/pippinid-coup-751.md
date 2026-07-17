@@ -6,12 +6,12 @@ date_precision: year
 period: [Early Middle Ages]
 region: [western-europe]
 location: [Soissons, Frankish kingdom]
-actors_primary: [[[pippin-iii]], the Frankish bishops, Pope Zacharias]
+actors_primary: [ [[pippin-iii]], the Frankish bishops, Pope Zacharias]
 actors_secondary: [Childeric III (last Merovingian king), [[boniface]], the Frankish aristocracy]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[carolingian-empire|three generations of Pippinid dominance]], the powerlessness of the late Merovingians, Frankish church reform, [[the-papacy-eighth-ninth-centuries|the papacy's need for a protector against the Lombards]]]
+causes: [ [[carolingian-empire|three generations of Pippinid dominance]], the powerlessness of the late Merovingians, Frankish church reform, [[the-papacy-eighth-ninth-centuries|the papacy's need for a protector against the Lombards]]]
 consequences: [foundation of the Carolingian royal dynasty, the Frankish–papal alliance, the introduction of royal anointing into western kingship, [[coronation-of-charlemagne-800]]]
 sources_ingested: 1
 last_updated: 2026-06-12

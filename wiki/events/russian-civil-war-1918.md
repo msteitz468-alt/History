@@ -1,5 +1,6 @@
 ---
 title: Russian Civil War
+aliases: [russian-civil-war, russian-civil-war-1917-1922]
 date_start: 1918-05-25
 date_end: 1920-11-17
 date_precision: year

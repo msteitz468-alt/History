@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Classical Antiquity]
 region: [north-africa]
 process_type: economic
-driven_by: [[[hellenistic-economy|the post-Alexander Hellenistic settlement]], royal land reclamation policy, [[concepts/egyptian-temple-economy|temple-crown negotiation]]]
+driven_by: [ [[hellenistic-economy|the post-Alexander Hellenistic settlement]], royal land reclamation policy, [[concepts/egyptian-temple-economy|temple-crown negotiation]]]
 produces: [Alexandria as a Mediterranean urban giant, closed tri-metallic coinage, expanded Fayyum arable land]
 sources_ingested: 1
 last_updated: 2026-07-08

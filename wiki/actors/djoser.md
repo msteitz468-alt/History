@@ -5,10 +5,10 @@ date_start: ~2670 BCE (reign of Djoser)
 date_end: ~2640 BCE
 period: [Early Bronze Age]
 region: [north-africa]
-affiliated_with: [[[old-kingdom-egypt]]]
+affiliated_with: [ [[old-kingdom-egypt]]]
 opposed_by: []
 key_events: []
-key_processes: [[[state-formation]]]
+key_processes: [ [[state-formation]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, north-africa]

@@ -5,8 +5,8 @@ date_start: c. 1242 CE (Batu's ulus after the western campaign)
 date_end: 1502 CE (Great Horde destroyed; offshoots to 1783)
 period: [High Middle Ages, Late Middle Ages]
 region: [steppe, eastern-europe, central-asia, silk-road]
-affiliated_with: [[[mongol-empire]], "the Jochid line", [[mamluk-sultanate|the Mamluk Sultanate (ally)]]]
-opposed_by: [[[ilkhanate]], "the Chaghatayids", [[timur|Timur]], "the rising principality of Moscow"]
+affiliated_with: [ [[mongol-empire]], "the Jochid line", [[mamluk-sultanate|the Mamluk Sultanate (ally)]]]
+opposed_by: [ [[ilkhanate]], "the Chaghatayids", [[timur|Timur]], "the rising principality of Moscow"]
 key_events: ["Batu's western campaign 1236–42", "the Berke–Hülegü war", "the sack of Kaffa & the Black Death 1346", "Timur's devastation of Sarai 1390s"]
 key_processes: [pax mongolica, [[chinggis-exchange]], [[silk-roads]], "the Turkicization of the western steppe"]
 sources_ingested: 4

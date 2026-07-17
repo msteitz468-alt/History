@@ -6,10 +6,10 @@ date_end: ~1600 BCE
 date_precision: disputed
 period: [Early Bronze Age]
 region: [china, east-asia]
-affiliated_with: [[[central-plains-china]], [[erlitou-culture]], [[yiluo-basin]]]
+affiliated_with: [ [[central-plains-china]], [[erlitou-culture]], [[yiluo-basin]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[early-china-state-formation]], [[state-formation]]]
+key_processes: [ [[early-china-state-formation]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [actor, dynasty, early-bronze-age, china, east-asia]

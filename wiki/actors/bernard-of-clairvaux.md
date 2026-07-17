@@ -5,10 +5,10 @@ date_start: "1090 (born); 1112 (entered Cîteaux); 1115 (founded Clairvaux)"
 date_end: "1153 (died, Clairvaux)"
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[cistercian-order]], "Clairvaux", "Pope Innocent II", "Pope Eugenius III (former Clairvaux monk)"]
+affiliated_with: [ [[cistercian-order]], "Clairvaux", "Pope Innocent II", "Pope Eugenius III (former Clairvaux monk)"]
 opposed_by: ["Peter Abelard (theological conflict)", "Cluniac critics of Cistercian severity (polemic)"]
 key_events: ["foundation of Clairvaux (1115)", "schism of Innocent II vs Anacletus II (1130–38)", "Council of Sens (1141) vs Abelard", "preaching of the Second Crusade (1146)", "Council of Trier encouragement of Hildegard (1147–48)"]
-key_processes: [[[medieval-monastic-revival]], [[medieval-marian-devotion]], [[crusades]], [[papal-monarchy]]]
+key_processes: [ [[medieval-monastic-revival]], [[medieval-marian-devotion]], [[crusades]], [[papal-monarchy]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, western-europe, cistercian]

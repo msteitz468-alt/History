@@ -7,11 +7,11 @@ period: [High Middle Ages, Late Middle Ages]
 region: [western-europe]
 location: [Courtrai (Kortrijk), [[county-of-flanders|Flanders]]]
 actors_primary: [the Flemish urban and rural footsoldiers, the French royal army, Count Guy de Dampierre's party]
-actors_secondary: [[[philip-iv-capetian|Philip IV of France]], Robert of Artois (killed), the patriciate of the Flemish towns]
+actors_secondary: [ [[philip-iv-capetian|Philip IV of France]], Robert of Artois (killed), the patriciate of the Flemish towns]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[philip-iv-capetian|Philip IV's annexation of Flanders]], the social conflict between patricians and craftsmen, the Bruges Matins (May 1302)]
+causes: [ [[philip-iv-capetian|Philip IV's annexation of Flanders]], the social conflict between patricians and craftsmen, the Bruges Matins (May 1302)]
 consequences: [the survival of [[county-of-flanders|Flanders]] as a fief, the breaking of patrician power, a blow to the military supremacy of mounted chivalry; opening exemplar of Europe-wide infantry revival per DeVries (see below)]
 sources_ingested: 2
 last_updated: 2026-06-23
@@ -78,6 +78,10 @@ Primary tactical reconstruction: [[sources/verbruggen-art-of-warfare-western-eur
 See also the dedicated tactical analysis page.
 
 **See detailed staff-college analysis:** [[hubs/warfare/high-middle-ages/courtrai-war/battle-of-courtrai-1302|Battle of Courtrai — Tactical Analysis]] (expanded with verbatim Verbruggen extracts, OOB, phases, and nine principles analysis).
+
+## Historiography
+
+The Flemish side is preserved in the *Annales Gandenses* (Annals of Ghent), a near-contemporary and broadly sympathetic urban chronicle, and in Jan van Heelu's vernacular verse account, whose poetic conventions Verbruggen explicitly warns against reading as literal tactical description. French royal historiography, especially the *Grandes Chroniques de France*, downplays the scale of the disaster and the humiliation of the crown's chivalry. Guillaume Guiart's rhymed chronicle gives a fuller French-side narrative but was composed with clear didactic and moralizing aims. Modern tactical reconstruction (Verbruggen, DeVries) depends heavily on reconciling these partisan traditions with the physical terrain, and debate continues over the precise numbers engaged and the extent to which the "Golden Spurs" gathered from the field were symbolic embellishment rather than literal battlefield count.
 
 ## Related
 

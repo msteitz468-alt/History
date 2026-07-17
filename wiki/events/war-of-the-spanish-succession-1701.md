@@ -1,5 +1,6 @@
 ---
 title: The War of the Spanish Succession
+aliases: [war-of-the-spanish-succession-1701-1714]
 date_start: 1701
 date_end: 1714
 date_precision: year
@@ -47,6 +48,10 @@ privileges to Britain, and confirmed a new balance of power.
   and commercial ascendancy** (Gibraltar, the *asiento*), and the checking of French dominance.
 - militarily, it was the high point of Doughty & Gruber's argument that **decisive battle could be sought
   within limited war** — see the [[hubs/warfare/age-of-expansion/war-of-the-spanish-succession/war-of-the-spanish-succession|operational hub]].
+
+## Historiography
+
+The war is exceptionally well documented through Marlborough's own dispatches, parliamentary and diplomatic records, and a long tradition of military history running from contemporary campaign accounts to modern operational studies (Doughty & Gruber's *Warfare in the Western World*, cited here, situates it within the era of "limited war"). A central historiographical debate concerns exactly how "limited" this warfare truly was — the scale of Blenheim, Malplaquet, and the sieges involved casualties and mobilization comparable to later "total" wars, and some historians argue the "limited war" framework, contrasted with the Revolutionary and Napoleonic wars that followed, understates the period's destructiveness. Historians also debate Marlborough's relative credit versus Eugene of Savoy's, and how far the Peace of Utrecht represented a genuine, considered balance-of-power settlement versus a war-weary compromise driven by domestic British politics (the fall of the Whig war ministry).
 
 ## Related
 

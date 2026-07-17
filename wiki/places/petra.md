@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Wadi Musa, Jordan]
 coordinates: [30.3285, 35.4444]
 period_active: [archaic-period, classical-antiquity, late-antiquity]
-controlled_by: [[[nabataean-kingdom]], [[roman-syria]]]
+controlled_by: [ [[nabataean-kingdom]], [[roman-syria]]]
 events_here: []
-processes_here: [[[orientalization-of-rome]]]
+processes_here: [ [[orientalization-of-rome]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [place, near-east, arabian-peninsula, levant, archaic-period, classical-antiquity, late-antiquity]

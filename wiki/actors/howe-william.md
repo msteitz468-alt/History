@@ -6,8 +6,8 @@ date_end: 1814
 period: [Age of Expansion]
 region: [north-america, eastern-north-america, british-isles]
 affiliated_with: []
-opposed_by: [[[washington-george]]]
-key_events: [[[battle-of-bunker-hill-1775]], [[battle-of-long-island-1776]], [[battle-of-brandywine-1777]], [[battle-of-germantown-1777]]]
+opposed_by: [ [[washington-george]]]
+key_events: [ [[battle-of-bunker-hill-1775]], [[battle-of-long-island-1776]], [[battle-of-brandywine-1777]], [[battle-of-germantown-1777]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

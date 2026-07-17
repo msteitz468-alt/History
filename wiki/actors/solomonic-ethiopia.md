@@ -8,7 +8,7 @@ region: [horn-of-africa, east-africa]
 affiliated_with: [the Ethiopian Orthodox (Täwahedo) Church, the Coptic Patriarchate of Alexandria]
 opposed_by: [the Muslim sultanates of Ifat and Adal, the Ottoman-backed Adalite jihad, later the Oromo migrations]
 key_events: [the rock-hewn churches of Lalibela (Zagwe), the Solomonid restoration under Yekuno Amlak (1270), the conquests of Amda Seyon (r. 1314–44), the reign of Zara Yaqob (r. 1434–68), the Adalite jihad of Ahmad Gran (1529–43)]
-key_processes: [[[christianization]], state-formation, the Christian–Muslim frontier]
+key_processes: [ [[christianization]], state-formation, the Christian–Muslim frontier]
 sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, late-middle-ages, horn-of-africa]

@@ -5,10 +5,10 @@ date_start: ~2094 BCE (accession; middle chronology)
 date_end: ~2047 BCE (death, after a ~48-year reign)
 period: [Middle Bronze Age]
 region: [mesopotamia]
-affiliated_with: [[[third-dynasty-of-ur]]]
+affiliated_with: [ [[third-dynasty-of-ur]]]
 opposed_by: [the Zagros peoples (Lullubi, Simurrum, Gutians), the Hurrians]
 key_events: []
-key_processes: [[[state-formation]], [[temple-economy]], [[divine-kingship]], [[writing-and-record-keeping]]]
+key_processes: [ [[state-formation]], [[temple-economy]], [[divine-kingship]], [[writing-and-record-keeping]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, middle-bronze-age, mesopotamia]

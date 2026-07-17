@@ -8,7 +8,7 @@ region: [italy, mediterranean-world]
 affiliated_with: [the [[julio-claudian-dynasty|Julio-Claudian house]]; the [[principate|Principate]]; the legions of the Rhine and Danube]
 opposed_by: [Sejanus (in retrospect); the family of Germanicus; senatorial delatores and their victims]
 key_events: [the Pannonian and German commands under Augustus, the recovery after the [[battle-of-teutoburg-forest-9ce|Varian disaster]], accession (14), the fall of Sejanus (31)]
-key_processes: [[[principate|the consolidation of the Principate]]]
+key_processes: [ [[principate|the consolidation of the Principate]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]

@@ -45,3 +45,18 @@ York Accord freeing Namibia — which McCoy, in an interpretive judgment recorde
 [[mccoy-covert-empire-thesis|his controversy page]], calls colonial Africa's "death
 knell." He estimates the wider [[angolan-civil-war-1975|Angolan civil war]] killed
 ~800,000 (McCoy's figure). See also [[cold-war-proxy-wars|Cold War proxy wars]].
+
+## Historiography
+
+The Cambridge History of the Cold War chapter (Saunders & Onslow) draws on Cuban, South
+African, and Western archival material that became progressively available after the
+Cold War's end, alongside participant memoirs (Cuban military figures, ANC/MPLA leaders,
+South African defense officials). McCoy's 2024 synthesis represents a more polemical
+"covert empire" framing of US and South African involvement, whose causal claims are
+flagged separately on [[mccoy-covert-empire-thesis]] rather than asserted in wiki voice.
+Casualty figures for the Angolan civil war vary widely across sources (McCoy's ~800,000
+is at the high end of published estimates) reflecting the difficulty of counting deaths
+in a decades-long, multi-phase conflict with poor record-keeping. Debate continues over
+how much weight to give superpower proxy dynamics versus indigenous political rivalries
+(MPLA/UNITA/FNLA factionalism predating significant outside involvement) as the primary
+driver of the wars' duration and intensity.

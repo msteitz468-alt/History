@@ -1,5 +1,6 @@
 ---
 title: The First World War (1914–1918)
+aliases: [world-war-i-1914-1918]
 date_start: 1914-07-28
 date_end: 1918-11-11
 date_precision: exact
@@ -11,7 +12,7 @@ actors_secondary: [Serbia, Belgium, the Allied and Central Powers' colonies]
 event_type: [war]
 scale_immediate: civilizational
 scale_consequential: global
-causes: [[[causes-of-the-first-world-war|see the origins controversy]], the alliance system, militarism and mobilization timetables, [[nationalism]], [[imperialism|imperial rivalry]], the July Crisis]
+causes: [ [[causes-of-the-first-world-war|see the origins controversy]], the alliance system, militarism and mobilization timetables, [[nationalism]], [[imperialism|imperial rivalry]], the July Crisis]
 consequences: [collapse of the Habsburg/Romanov/Ottoman/Hohenzollern empires, the Russian Revolution, the Versailles settlement, [[communism-and-fascism|communism and fascism]], the path to the [[second-world-war-1939|Second World War]]]
 sources_ingested: 10
 last_updated: 2026-06-24

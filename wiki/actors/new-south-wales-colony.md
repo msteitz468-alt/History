@@ -5,10 +5,10 @@ date_start: 1788
 date_end: 1901 (federated into the Commonwealth of Australia)
 period: [Age of Expansion, Long 19th Century]
 region: [australia]
-affiliated_with: [[[british-empire]]]
-opposed_by: [[[aboriginal-australians]]]
+affiliated_with: [ [[british-empire]]]
+opposed_by: [ [[aboriginal-australians]]]
 key_events: [First Fleet 1788, grant of responsible government 1856, Australian Federation 1901]
-key_processes: [[[convict-transportation-australia]], [[australian-pastoral-expansion]], [[australian-frontier-conflict]]]
+key_processes: [ [[convict-transportation-australia]], [[australian-pastoral-expansion]], [[australian-frontier-conflict]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, age-of-expansion, long-19th-century, australia]

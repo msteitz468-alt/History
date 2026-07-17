@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Saratoga (Stillwater / Bemis Heights), New York]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[gates-horatio]], [[arnold-benedict]], [[morgan-daniel]], [[burgoyne-john]]]
+actors_secondary: [ [[gates-horatio]], [[arnold-benedict]], [[morgan-daniel]], [[burgoyne-john]]]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: global

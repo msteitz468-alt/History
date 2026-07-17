@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Qalaat al-Madiq, Hama Governorate, Syria]
 coordinates: [35.4167, 36.3958]
 period_active: [classical-antiquity, late-antiquity]
-controlled_by: [[[roman-syria]], [[emesene-dynasty]], [[severan-dynasty]]]
+controlled_by: [ [[roman-syria]], [[emesene-dynasty]], [[severan-dynasty]]]
 events_here: []
-processes_here: [[[orientalization-of-rome]]]
+processes_here: [ [[orientalization-of-rome]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [place, near-east, levant, classical-antiquity, late-antiquity]

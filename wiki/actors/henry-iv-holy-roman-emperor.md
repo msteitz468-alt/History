@@ -5,10 +5,10 @@ date_start: 1050 (born)
 date_end: 1106 (died, Liège)
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[salian-dynasty|the Salian dynasty]], "the imperial church", "the antipope Clement III"]
-opposed_by: [[[gregory-vii|Pope Gregory VII]], "the Saxon nobility", "the anti-kings Rudolf of Rheinfelden and Hermann of Salm", "his sons Conrad and Henry V"]
-key_events: [[[investiture-contest]], "the Saxon wars (1073–1088)", "the Synod of Worms (1076)", "Canossa (1077)"]
-key_processes: [[[gregorian-reform]]]
+affiliated_with: [ [[salian-dynasty|the Salian dynasty]], "the imperial church", "the antipope Clement III"]
+opposed_by: [ [[gregory-vii|Pope Gregory VII]], "the Saxon nobility", "the anti-kings Rudolf of Rheinfelden and Hermann of Salm", "his sons Conrad and Henry V"]
+key_events: [ [[investiture-contest]], "the Saxon wars (1073–1088)", "the Synod of Worms (1076)", "Canossa (1077)"]
+key_processes: [ [[gregorian-reform]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, western-europe]

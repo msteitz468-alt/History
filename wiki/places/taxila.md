@@ -6,7 +6,7 @@ coordinates: ~33.7°N, 72.8°E
 period_active: [Classical Antiquity, Late Antiquity]
 controlled_by: ["Achaemenids", "Mauryans", "Indo-Greeks", "Indo-Scythians/Parthians", "[[kushan-empire|Kushans]]", "[[sasanian-empire|Sasanians]]"]
 events_here: []
-processes_here: [[[silk-roads]], [[spread-of-buddhism]]]
+processes_here: [ [[silk-roads]], [[spread-of-buddhism]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, south-asia, central-asia, silk-road]

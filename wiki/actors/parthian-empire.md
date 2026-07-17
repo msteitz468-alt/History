@@ -5,10 +5,10 @@ date_start: 247 BCE (Arsaces I crowned)
 date_end: 224 CE (Ardashir I overthrows Artabanus IV)
 period: [Classical Antiquity, Late Antiquity]
 region: [iran-plateau, mesopotamia, central-asia, near-east]
-affiliated_with: [[[zoroastrianism]], the Arsacid dynasty, Hellenistic culture (early)]
-opposed_by: [[[roman-republic|Rome]], the [[seleucid-empire|Seleucids]], [[kushan-empire|Kushans]], steppe nomads]
+affiliated_with: [ [[zoroastrianism]], the Arsacid dynasty, Hellenistic culture (early)]
+opposed_by: [ [[roman-republic|Rome]], the [[seleucid-empire|Seleucids]], [[kushan-empire|Kushans]], steppe nomads]
 key_events: [conquest of Mesopotamia under Mithridates I, Battle of Carrhae 53 BCE]
-key_processes: [[[empire]], [[silk-roads]], [[trade-network-formation]], [[hellenistic-world]]]
+key_processes: [ [[empire]], [[silk-roads]], [[trade-network-formation]], [[hellenistic-world]]]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, empire, classical-antiquity, late-antiquity, iran-plateau]

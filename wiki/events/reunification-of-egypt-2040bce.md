@@ -6,13 +6,13 @@ date_precision: approximate
 period: [Middle Bronze Age]
 region: [north-africa]
 location: [Heracleopolis; the Thinite Nome (This/Abydos); Thebes]
-actors_primary: [[[mentuhotpe-ii|Nebhepetre Mentuhotpe II]], the Theban kingdom, the Heracleopolitan kingdom]
+actors_primary: [ [[mentuhotpe-ii|Nebhepetre Mentuhotpe II]], the Theban kingdom, the Heracleopolitan kingdom]
 actors_secondary: [the nomarchs of Asyut and Hermopolis]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[first-intermediate-period|the prolonged Theban–Heracleopolitan war]], the "rebellion of This", Theban military superiority]
-consequences: [[[middle-kingdom-egypt|the foundation of the Middle Kingdom]], the re-centralization of Egypt, the cult of Mont and then Amun]
+causes: [ [[first-intermediate-period|the prolonged Theban–Heracleopolitan war]], the "rebellion of This", Theban military superiority]
+consequences: [ [[middle-kingdom-egypt|the foundation of the Middle Kingdom]], the re-centralization of Egypt, the cult of Mont and then Amun]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [event, middle-bronze-age, north-africa, transition]

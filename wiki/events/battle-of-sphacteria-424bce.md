@@ -63,7 +63,7 @@ Kagan emphasizes the strategic context and political consequences. The Spartan l
 
 Tactically, Kagan highlights Demosthenes’ innovation with mass light-armed (including armed rowers): “It was not possible to attack them, for even as they fled they held the advantage, and when their pursuers turned, they were on them again.” Comon’s Messenian flanking path was decisive. The surrender of 292 (120 Spartiates) of 420 after 128 dead “shocked the Greek world. ‘In the eyes of the Greeks it was the most unexpected event in the war’ (4.40).” Cleon received highest honors (Prytaneum meals, theater seats) and dominated politics, pushing tribute assessment to 1,460 talents. “The promise of Cleon, mad as it was,” Thucydides remarks, “was fulfilled” (4.39.3).
 
-Links to approved: [[actors/brasidas]] (conspicuous bravery, wounded), [[actors/cleon]], [[actors/demosthenes-athenian-general]], [[actors/nicias]], [[places/athens|Athens]], [[places/sparta|Sparta]], [[places/plataea]], [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/tactics-and-battle-strategies]], [[concepts/hanson-peloponnesian-fighting]], [[sources/hanson-a-war-like-no-other-2005]], [[actors/kagan-donald]].
+Links to approved: [[actors/brasidas]] (conspicuous bravery, wounded), [[actors/cleon]], [[actors/demosthenes-athenian-general]], [[actors/nicias]], [[places/athens|Athens]], [[places/sparta|Sparta]], [[places/plataea]], hubs/warfare/classical-antiquity/, [[hubs/warfare/tactics-and-battle-strategies]], [[concepts/hanson-peloponnesian-fighting]], [[sources/hanson-a-war-like-no-other-2005]], [[actors/kagan-donald]].
 
 ---
 

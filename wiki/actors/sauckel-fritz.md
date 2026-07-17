@@ -5,10 +5,10 @@ date_start: 1894
 date_end: 1946
 period: [World Wars Era]
 region: [central-europe]
-affiliated_with: [[[nazi-germany]], the Nazi Party (Gauleiter of Thuringia from 1927), Martin Bormann's Party Chancellery]
-opposed_by: [[[speer-albert|Albert Speer]] (jurisdictional rivalry)]
-key_events: [[[nuremberg-trials-1945-1949]]]
-key_processes: [[[forced-labor-nazi-germany]]]
+affiliated_with: [ [[nazi-germany]], the Nazi Party (Gauleiter of Thuringia from 1927), Martin Bormann's Party Chancellery]
+opposed_by: [ [[speer-albert|Albert Speer]] (jurisdictional rivalry)]
+key_events: [ [[nuremberg-trials-1945-1949]]]
+key_processes: [ [[forced-labor-nazi-germany]]]
 sources_ingested: 1
 last_updated: 2026-07-02
 tags: [actor, person, world-wars-era, central-europe]

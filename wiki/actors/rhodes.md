@@ -5,10 +5,10 @@ date_start: 408 BCE
 date_end: 31 BCE
 period: [Classical Antiquity]
 region: [mediterranean, anatolia]
-affiliated_with: [[[ptolemaic-egypt]] (a "special relationship"), [[rome|Rome]] (later)]
-opposed_by: [[[demetrius-i-poliorcetes]] (the 305 siege), Byzantium (220), pirates]
-key_events: [[[siege-of-rhodes-305|the siege by Demetrius (305–304)]], the toll-war against Byzantium (220), the earthquake of 227/6]
-key_processes: [[[hellenistic-world]], Mediterranean trade, anti-piracy]
+affiliated_with: [ [[ptolemaic-egypt]] (a "special relationship"), [[rome|Rome]] (later)]
+opposed_by: [ [[demetrius-i-poliorcetes]] (the 305 siege), Byzantium (220), pirates]
+key_events: [ [[siege-of-rhodes-305|the siege by Demetrius (305–304)]], the toll-war against Byzantium (220), the earthquake of 227/6]
+key_processes: [ [[hellenistic-world]], Mediterranean trade, anti-piracy]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, mediterranean]

@@ -1,7 +1,7 @@
 ---
 title: Reccared I
 actor_type: person
-date_start: 
+date_start: c. 559
 date_end: 601
 period: [late-antiquity]
 region: [western-europe, iberian]

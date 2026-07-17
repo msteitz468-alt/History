@@ -5,10 +5,10 @@ date_start: ~945 BCE (accession)
 date_end: ~924 BCE
 period: [Early Iron Age]
 region: [north-africa, levant]
-affiliated_with: [[[libyan-dynasties-egypt]]]
+affiliated_with: [ [[libyan-dynasties-egypt]]]
 opposed_by: [Israel and Judah, the kingdom of Jerusalem]
 key_events: []
-key_processes: [[[third-intermediate-period]]]
+key_processes: [ [[third-intermediate-period]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-iron-age, north-africa]

@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages, Late Middle Ages]
 region: [near-east, iran-plateau, mediterranean, western-europe]
 process_type: [political]
-driven_by: [[[ilkhanate]], "the Ilkhans' war with the Mamluks", "Latin crusade hopes", [[medieval-european-images-of-the-mongols|the image of the Mongols as an anti-Muslim ally]]]
+driven_by: [ [[ilkhanate]], "the Ilkhans' war with the Mamluks", "Latin crusade hopes", [[medieval-european-images-of-the-mongols|the image of the Mongols as an anti-Muslim ally]]]
 produces: ["the failure to save the Crusader states (1291)", "abortive joint operations", "Ghazan's Syrian campaigns"]
 sources_ingested: 2
 last_updated: 2026-07-08

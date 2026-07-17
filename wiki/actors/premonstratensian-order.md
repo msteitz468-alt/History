@@ -5,10 +5,10 @@ date_start: "c. 1120 (Prémonthé / Prémontré under St Norbert)"
 date_end: ongoing
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[augustinian-canons|Augustinian Rule]], "St Norbert of Xanten", [[medieval-monastic-revival]]]
+affiliated_with: [ [[augustinian-canons|Augustinian Rule]], "St Norbert of Xanten", [[medieval-monastic-revival]]]
 opposed_by: []
 key_events: ["foundation at Prémontré under Norbert", "English foundation from Newhouse c. 1143", "c. 500 houses by mid-thirteenth century"]
-key_processes: [[[medieval-monastic-revival]]]
+key_processes: [ [[medieval-monastic-revival]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, organization, high-middle-ages, western-europe, canons-regular]

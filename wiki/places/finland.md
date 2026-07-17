@@ -4,9 +4,9 @@ place_type: region
 modern_equivalent: [Finland]
 coordinates: ~60.5°N, 22.3°E (Turku/Åbo)
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century]
-controlled_by: [[[sweden|Sweden]] (12th c.–1809), Russia (Grand Duchy, 1809–1917)]
+controlled_by: [ [[sweden|Sweden]] (12th c.–1809), Russia (Grand Duchy, 1809–1917)]
 period: [High Middle Ages, Late Middle Ages, Early Modern, Long 19th Century]
-processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]], [[reformation-in-scandinavia]], [[scandinavian-nation-state-formation]]]
+processes_here: [ [[christianization-of-scandinavia|Christianization of Scandinavia]], [[reformation-in-scandinavia]], [[scandinavian-nation-state-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, scandinavia, finland, high-middle-ages]

@@ -5,10 +5,10 @@ date_start: c. 853 (born, Samarqand)
 date_end: 944 (died, Samarqand)
 period: [Early Middle Ages]
 region: [central-asia, iran-plateau]
-affiliated_with: [[[maturidism|the Māturīdī school]], the Hanafī legal tradition, [[sunni-islam|Sunni Islam]]]
-opposed_by: [[[mutazilism|the Muʿtazila]], the Karrāmiyya]
+affiliated_with: [ [[maturidism|the Māturīdī school]], the Hanafī legal tradition, [[sunni-islam|Sunni Islam]]]
+opposed_by: [ [[mutazilism|the Muʿtazila]], the Karrāmiyya]
 key_events: [the systematization of Hanafī-Sunni theology at Samarqand]
-key_processes: [[[maturidism]], [[kalam]]]
+key_processes: [ [[maturidism]], [[kalam]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, central-asia, islamic-world]

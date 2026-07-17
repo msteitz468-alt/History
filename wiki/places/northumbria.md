@@ -5,8 +5,8 @@ modern_equivalent: [northern England (Yorkshire to the Tweed) and south-east Sco
 coordinates: [54.9N, 1.6W]
 period_active: [early-middle-ages, high-middle-ages]
 controlled_by: [the Bernician and Deiran dynasties, the Northumbrian kings, the Scandinavian kings of York, the earls of Bamburgh, the kings of England and Scotland]
-events_here: [[[synod-of-whitby-664]], the capture of York 867, the harrying of the north 1069–70]
-processes_here: [[[scandinavian-settlement-of-britain]], [[conversion-of-britain-and-ireland]]]
+events_here: [ [[synod-of-whitby-664]], the capture of York 867, the harrying of the north 1069–70]
+processes_here: [ [[scandinavian-settlement-of-britain]], [[conversion-of-britain-and-ireland]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, british-isles, northern-europe]

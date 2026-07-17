@@ -6,7 +6,7 @@ coordinates: [43.08 N, 79.07 W]
 period_active: [long-19th-century, world-wars-era, cold-war, contemporary]
 controlled_by: []
 events_here: [niagara-falls-power-project-1895]
-processes_here: [[[processes/electrification|electrification]]]
+processes_here: [ [[processes/electrification|electrification]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [place, north-america, long-19th-century, technology, energy]

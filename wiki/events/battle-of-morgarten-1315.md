@@ -49,6 +49,10 @@ dominant foot of Europe.
 [[swiss-confederation|Swiss Confederation]] (Schwyz, Uri, Unterwalden; field direction Werner
 Stauffacher) · Duke Leopold I of Habsburg.
 
+## Historiography
+
+The battle is known almost entirely through Swiss chronicle traditions compiled long after the event — the *White Book of Sarnen* (associated with the Tell and founding-myth material) and later urban chronicles — which conflate a real military engagement with the origin legend of the Swiss Confederation. Hans Delbrück's *Sachkritik* ("source criticism") method, applied systematically to Morgarten, argued that the chronicled figure of 20,000 Habsburg troops is militarily impossible for the terrain and logistics involved and reconstructed far smaller, more plausible forces; his broader claim — that Morgarten was a planned ambush requiring organized scouting rather than a spontaneous peasant rising — remains influential but has been qualified by later Swiss historians working from surviving charter and administrative evidence, which is itself thin for this period and region. The event's place in Swiss national memory means that separating documented military fact from centuries of patriotic elaboration is an explicit and ongoing task of the modern historiography, not a settled matter.
+
 ## Related
 
 - **Tactical analysis:** [[hubs/warfare/late-middle-ages/rise-of-the-swiss/battle-of-morgarten-1315|Battle of Morgarten — Tactical Analysis]]

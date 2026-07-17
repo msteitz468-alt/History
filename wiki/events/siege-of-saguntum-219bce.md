@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [iberia, mediterranean-world]
 location: [Saguntum, eastern Spain (modern Sagunto)]
-actors_primary: [[[hannibal]], the Saguntines]
-actors_secondary: [[[roman-republic]], [[carthage]]]
+actors_primary: [ [[hannibal]], the Saguntines]
+actors_secondary: [ [[roman-republic]], [[carthage]]]
 event_type: battle
 scale_immediate: local
 scale_consequential: civilizational
-causes: [[[causes-of-second-punic-war]], the Saguntine alliance with Rome, Hannibal's expansion to the Ebro]
+causes: [ [[causes-of-second-punic-war]], the Saguntine alliance with Rome, Hannibal's expansion to the Ebro]
 consequences: [the Roman declaration of war (218), the [[second-punic-war-218-201bce|Second Punic War]]]
 sources_ingested: 1
 last_updated: 2026-06-11

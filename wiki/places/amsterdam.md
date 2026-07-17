@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Amsterdam, North Holland, Netherlands]
 coordinates: [52.37N, 4.90E]
 period_active: [Late Middle Ages, Early Modern, Age of Expansion]
-controlled_by: [[[habsburg-empire|Habsburg Empire]], Dutch Republic]
+controlled_by: [ [[habsburg-empire|Habsburg Empire]], Dutch Republic]
 events_here: []
-processes_here: [[[urban-competition-commercial-institutions]], [[early-modern-commerce]], [[global-silver-trade]]]
+processes_here: [ [[urban-competition-commercial-institutions]], [[early-modern-commerce]], [[global-silver-trade]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, western-europe, northern-europe, early-modern, age-of-expansion]

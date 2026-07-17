@@ -6,9 +6,9 @@ date_end: ongoing
 period: [Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [southeast-asia]
 affiliated_with: [UMNO, the Malay rulers, the multi-ethnic Alliance, the British Commonwealth, ASEAN]
-opposed_by: [[[british-malaya|British colonial rule]], the Japanese occupation, the Malayan Communist Party (Emergency)]
+opposed_by: [ [[british-malaya|British colonial rule]], the Japanese occupation, the Malayan Communist Party (Emergency)]
 key_events: [British forward movement into the Malay states (1874-1914), the [[japanese-occupation-southeast-asia|Japanese occupation]], the Malayan Emergency 1948-60, independence 1957, federation of Malaysia 1963, Singapore's exit 1965]
-key_processes: [[[plural-society]], [[southeast-asian-nationalism]], communal politics]
+key_processes: [ [[plural-society]], [[southeast-asian-nationalism]], communal politics]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, state, long-19th-century, world-wars-era, cold-war, contemporary, southeast-asia]

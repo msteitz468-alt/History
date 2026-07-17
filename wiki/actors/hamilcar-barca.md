@@ -5,10 +5,10 @@ date_start: c. 275 BCE
 date_end: 229 BCE
 period: [Classical Antiquity]
 region: [north-africa, iberia, mediterranean-world]
-affiliated_with: [[[carthage]], the Barcid family]
-opposed_by: [[[roman-republic]], the Iberian tribes, the Carthaginian faction of Hanno the Great]
-key_events: [[[first-punic-war-264-241bce]], [[mercenary-war-241-237bce]], the conquest of southern Spain (237–229)]
-key_processes: [[[heracles-melqart-syncretism]]]
+affiliated_with: [ [[carthage]], the Barcid family]
+opposed_by: [ [[roman-republic]], the Iberian tribes, the Carthaginian faction of Hanno the Great]
+key_events: [ [[first-punic-war-264-241bce]], [[mercenary-war-241-237bce]], the conquest of southern Spain (237–229)]
+key_processes: [ [[heracles-melqart-syncretism]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, north-africa, iberia]

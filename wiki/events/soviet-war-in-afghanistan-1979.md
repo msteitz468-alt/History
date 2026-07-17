@@ -118,3 +118,21 @@ to Gulbuddin Hekmatyar; Stinger missiles (from 1986) downed ~269 Soviet aircraft
 from ~100 to 2,000 tons/year, supplying most Western heroin) and the postwar
 abandonment that fed the Taliban's rise. See [[cold-war-proxy-wars|Cold War proxy
 wars]].
+
+## Historiography
+
+Primary material includes declassified Soviet Politburo minutes and CPSU archives
+(available since the 1990s), CIA and US National Security Council records on Operation
+Cyclone (progressively declassified), and mujahideen/Pakistani ISI participant accounts.
+Orthodox Cold War-era Western scholarship framed the invasion as opportunistic Soviet
+expansionism; post-Soviet archival access has instead supported the "reluctant
+intervention to save a collapsing client" interpretation reflected in Leffler and
+Westad's volume, complicating simpler expansionist readings. Brzezinski's own retrospective
+claim to have deliberately baited the Soviets into invading (cited above) is contested —
+some historians view it as an overstated post-hoc boast rather than a documented
+operational goal — and is recorded as a position on the McCoy controversy page rather than
+asserted as fact. Scholarly attention has also grown around the war's role in
+internationalizing jihadist networks, a causal chain (Formichi, McCoy) linking the
+conflict to al-Qaeda's later emergence; the precise weight of US/Saudi/Pakistani support
+versus indigenous Islamist organizing in that process remains debated. Some CIA
+operational records remain classified.

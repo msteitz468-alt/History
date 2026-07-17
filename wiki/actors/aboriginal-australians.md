@@ -8,7 +8,7 @@ region: [australia, oceania]
 affiliated_with: [over 250 language groups; Torres Strait Islander communities]
 opposed_by: [British colonial invasion from the late 18th century]
 key_events: [colonization of Sahul ~50,000 BP, late-Holocene social intensification (last ~3,000 years), Lake Condah aquaculture, emergence of Torres Strait kod sites ~400 BP]
-key_processes: [[[trade-network-formation]]]
+key_processes: [ [[trade-network-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, australia, behavioral-modernity]

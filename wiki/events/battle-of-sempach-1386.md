@@ -48,6 +48,10 @@ dismantles.
 
 [[swiss-confederation|Swiss Confederation]] · Duke Leopold III of Habsburg.
 
+## Historiography
+
+As at Morgarten, the earliest detailed narratives are Swiss chronicles written well after the battle, and the most famous episode associated with it — Arnold von Winkelried gathering enemy spears into his own body to break the Habsburg line — is, per Delbrück's source-critical analysis, a sixteenth-century literary invention that retrojects the Swiss army's actual flanking tactics onto a fictionalized individual sacrifice. This makes Sempach a textbook case in Delbrück's *Sachkritik* method: comparing the chronicled narrative against the physical and tactical plausibility of the terrain and troop dispositions to strip away later accretion. Even setting the Winkelried legend aside, casualty figures for the Habsburg nobility (including Duke Leopold III himself) and the size of the opposing forces are unevenly attested across the surviving chronicle tradition. The battle's use as a foundational moment of Swiss identity means, as with Morgarten, that later commemorative and nationalist retelling must be distinguished carefully from the more modest documentary record.
+
 ## Related
 
 - **Tactical analysis:** [[hubs/warfare/late-middle-ages/rise-of-the-swiss/battle-of-sempach-1386|Battle of Sempach — Tactical Analysis]]

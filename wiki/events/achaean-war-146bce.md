@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, mediterranean-world]
 location: [Corinth, the Peloponnese]
-actors_primary: [[[roman-republic]], [[achaean-league]], L. Mummius]
+actors_primary: [ [[roman-republic]], [[achaean-league]], L. Mummius]
 actors_secondary: [Critolaus, Diaeus, Q. Caecilius Metellus]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[nature-of-roman-imperialism]], the Roman order to dismember the Achaean League, the accumulated grievance of Greek subordination]
+causes: [ [[nature-of-roman-imperialism]], the Roman order to dismember the Achaean League, the accumulated grievance of Greek subordination]
 consequences: [the destruction of Corinth, the dissolution of the Greek confederacies, the end of Greek freedom, Macedonia as a Roman province]
 sources_ingested: 1
 last_updated: 2026-06-11

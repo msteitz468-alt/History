@@ -6,9 +6,9 @@ date_end: ~224 CE as Elymais; the name "Elam" survives ecclesiastically to ~1400
 period: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Bronze Age Collapse, Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity]
 region: [iran-plateau, near-east, khuzistan, fars]
 affiliated_with: []
-opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]], [[kassites|Kassite Babylon]], [[neo-assyrian-empire|Assyria]], Mesopotamia generally]
-key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), the building of [[chogha-zanbil|Dur-Untash (Chogha Zanbil)]], the [[shutruk-nahhunte-i|Shutrukid sack of Babylon]] (~1158 BCE), [[sack-of-susa-646bce|Assurbanipal's sack of Susa]] (646 BCE)]
-key_processes: [[[state-formation]], [[trade-network-formation]], [[writing-and-record-keeping]]]
+opposed_by: [ [[akkadian-empire]], [[third-dynasty-of-ur]], [[kassites|Kassite Babylon]], [[neo-assyrian-empire|Assyria]], Mesopotamia generally]
+key_events: [ [[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), the building of [[chogha-zanbil|Dur-Untash (Chogha Zanbil)]], the [[shutruk-nahhunte-i|Shutrukid sack of Babylon]] (~1158 BCE), [[sack-of-susa-646bce|Assurbanipal's sack of Susa]] (646 BCE)]
+key_processes: [ [[state-formation]], [[trade-network-formation]], [[writing-and-record-keeping]]]
 sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, middle-bronze-age, late-bronze-age, early-iron-age, iran-plateau]

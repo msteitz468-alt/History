@@ -4,8 +4,8 @@ place_type: city
 modern_equivalent: [near Schleswig, Germany (then southern Denmark)]
 coordinates: ~54.49°N, 9.57°E
 period_active: [Early Middle Ages]
-controlled_by: [[[denmark|Denmark]]]
-processes_here: [[[viking-age|Viking Age]], [[scandinavian-urbanisation|Scandinavian urbanisation]]]
+controlled_by: [ [[denmark|Denmark]]]
+processes_here: [ [[viking-age|Viking Age]], [[scandinavian-urbanisation|Scandinavian urbanisation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, scandinavia, denmark, early-middle-ages]

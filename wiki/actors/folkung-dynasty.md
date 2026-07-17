@@ -5,10 +5,10 @@ date_start: 1250 CE
 date_end: 1364 CE
 period: [High Middle Ages, Late Middle Ages]
 region: [sweden, scandinavia]
-affiliated_with: [[[sweden|Sweden]]]
+affiliated_with: [ [[sweden|Sweden]]]
 opposed_by: [rival magnate factions; Mecklenburg claimants]
 key_events: []
-key_processes: [[[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+key_processes: [ [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, dynasty, high-middle-ages, sweden]

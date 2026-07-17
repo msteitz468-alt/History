@@ -5,9 +5,9 @@ date_start: c. 300
 date_end: c. 602
 period: [late-antiquity]
 region: [mesopotamia, arabian-peninsula, iran-plateau]
-affiliated_with: [[[sasanian-empire]]]
-opposed_by: [[[ghassanids]], [[al-harith-ibn-jabala]]]
-key_events: [[[najran-massacre-523]], [[treaty-of-561]]]
+affiliated_with: [ [[sasanian-empire]]]
+opposed_by: [ [[ghassanids]], [[al-harith-ibn-jabala]]]
+key_events: [ [[najran-massacre-523]], [[treaty-of-561]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-07-08

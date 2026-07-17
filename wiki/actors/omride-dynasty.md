@@ -5,10 +5,10 @@ date_start: c. 885 BCE (Omri seizes power; sole rule from c. 880)
 date_end: 841 BCE (annihilated by the [[jehu-revolt-841bce|revolt of Jehu]])
 period: [Early Iron Age]
 region: [levant]
-affiliated_with: [[[kingdom-of-israel|Israel]], [[phoenicians|Tyre]] (Jezebel marriage), [[kingdom-of-judah|Judah]] (Athaliah marriage)]
-opposed_by: [[[hazael|Aram-Damascus]], [[neo-assyrian-empire|Assyria]], Moab (Mesha's revolt), the Yahwist prophetic movement]
+affiliated_with: [ [[kingdom-of-israel|Israel]], [[phoenicians|Tyre]] (Jezebel marriage), [[kingdom-of-judah|Judah]] (Athaliah marriage)]
+opposed_by: [ [[hazael|Aram-Damascus]], [[neo-assyrian-empire|Assyria]], Moab (Mesha's revolt), the Yahwist prophetic movement]
 key_events: [the founding of Samaria, the [[battle-of-qarqar-853bce|battle of Qarqar (853)]], Mesha's revolt, the [[jehu-revolt-841bce|revolt of Jehu (841)]]]
-key_processes: [[[state-formation]], Phoenician cultural influence, dynastic state-building]
+key_processes: [ [[state-formation]], Phoenician cultural influence, dynastic state-building]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, dynasty, early-iron-age, levant]

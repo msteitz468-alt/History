@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [the Yamato imperial line, the Soga clan, Buddhism]
 opposed_by: [the anti-Buddhist Mononobe & Nakatomi factions (earlier)]
 key_events: ["regency for Empress Suiko", "the 'Seventeen-Article Constitution'", "the first official embassies to Sui China"]
-key_processes: [[[japanese-buddhism]], [[state-formation]], [[ritsuryo-state]]]
+key_processes: [ [[japanese-buddhism]], [[state-formation]], [[ritsuryo-state]]]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, late-antiquity, japan, east-asia]

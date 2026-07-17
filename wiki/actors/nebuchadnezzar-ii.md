@@ -7,8 +7,8 @@ period: [Archaic Period]
 region: [mesopotamia, near-east, levant]
 affiliated_with: [the [[neo-babylonian-empire|Neo-Babylonian Empire]], [[nabopolassar|Nabopolassar]] (father), the cult of Marduk, [[medes|Media]] (Amytis, queen)]
 opposed_by: [Egypt (Necho II, Apries), [[kingdom-of-judah|Judah]] (Jehoiakim, Zedekiah), Tyre, the Philistine cities]
-key_events: [[[battle-of-carchemish-605bce|Carchemish 605]], the capture of Jerusalem (597), the [[fall-of-jerusalem-587bce|fall of Jerusalem 587]], the 13-year siege of Tyre, the rebuilding of [[babylon|Babylon]]]
-key_processes: [[[empire]], [[assyrian-mass-deportation|the Babylonian Exile]]]
+key_events: [ [[battle-of-carchemish-605bce|Carchemish 605]], the capture of Jerusalem (597), the [[fall-of-jerusalem-587bce|fall of Jerusalem 587]], the 13-year siege of Tyre, the rebuilding of [[babylon|Babylon]]]
+key_processes: [ [[empire]], [[assyrian-mass-deportation|the Babylonian Exile]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, mesopotamia, near-east]

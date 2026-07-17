@@ -5,10 +5,10 @@ date_start: 626 BCE (accession of [[nabopolassar|Nabopolassar]] at Babylon)
 date_end: 539 BCE ([[fall-of-babylon-539bce|fall of Babylon to Cyrus]])
 period: [Archaic Period]
 region: [mesopotamia, near-east, levant]
-affiliated_with: [[[chaldeans|the Chaldaeans]] (dynasty of Bit-Yakin / Third Sealand Dynasty), the cult of Marduk at Babylon, [[medes|Media]] (alliance)]
-opposed_by: [[[neo-assyrian-empire|Assyria]], Egypt (Saite 26th Dynasty), [[kingdom-of-judah|Judah]], Tyre, [[achaemenid-empire|Persia]] (Cyrus)]
-key_events: [[[fall-of-nineveh-612bce|fall of Nineveh 612]], [[battle-of-carchemish-605bce|Carchemish 605]], [[fall-of-jerusalem-587bce|fall of Jerusalem 587]], the rebuilding of [[babylon|Babylon]], [[fall-of-babylon-539bce|fall of Babylon 539]]]
-key_processes: [[[empire]], [[assyrian-mass-deportation|deportation / the Babylonian Exile]], [[state-formation]]]
+affiliated_with: [ [[chaldeans|the Chaldaeans]] (dynasty of Bit-Yakin / Third Sealand Dynasty), the cult of Marduk at Babylon, [[medes|Media]] (alliance)]
+opposed_by: [ [[neo-assyrian-empire|Assyria]], Egypt (Saite 26th Dynasty), [[kingdom-of-judah|Judah]], Tyre, [[achaemenid-empire|Persia]] (Cyrus)]
+key_events: [ [[fall-of-nineveh-612bce|fall of Nineveh 612]], [[battle-of-carchemish-605bce|Carchemish 605]], [[fall-of-jerusalem-587bce|fall of Jerusalem 587]], the rebuilding of [[babylon|Babylon]], [[fall-of-babylon-539bce|fall of Babylon 539]]]
+key_processes: [ [[empire]], [[assyrian-mass-deportation|deportation / the Babylonian Exile]], [[state-formation]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, empire, archaic-period, mesopotamia, near-east]

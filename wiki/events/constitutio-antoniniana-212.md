@@ -6,13 +6,13 @@ date_precision: year
 period: [Late Antiquity]
 region: [mediterranean-world, italy]
 location: [Roman Empire]
-actors_primary: [[[caracalla]]]
-actors_secondary: [[[severan-dynasty]]]
+actors_primary: [ [[caracalla]]]
+actors_secondary: [ [[severan-dynasty]]]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[roman-citizenship-and-belonging]], unknown]
-consequences: [[[roman-citizenship-and-belonging]]]
+causes: [ [[roman-citizenship-and-belonging]], unknown]
+consequences: [ [[roman-citizenship-and-belonging]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [event, late-antiquity, mediterranean-world]

@@ -5,8 +5,8 @@ modern_equivalent: [Spain and Portugal]
 coordinates: [40 N, 4 W]
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Iberian and Celtiberian peoples, Punic and Greek coastal cities; from 206/197 BCE [[roman-republic|Rome]]; Visigothic kingdom; Umayyad al-Andalus; northern Christian polities (Asturias and successors)]
-events_here: [[[second-punic-war-218-201bce|the Spanish theatre of the Hannibalic War]], the conquest wars (197–179), [[numantine-war-153-133bce|the Celtiberian wars]], [[viriathus|the Lusitanian war]], [[umayyad-conquest-of-hispania-711|Arab/Berber conquest 711]]]
-processes_here: [[[roman-provincial-system|Roman provincialization]], silver mining, Romanization, post-roman-transformation-of-the-west]
+events_here: [ [[second-punic-war-218-201bce|the Spanish theatre of the Hannibalic War]], the conquest wars (197–179), [[numantine-war-153-133bce|the Celtiberian wars]], [[viriathus|the Lusitanian war]], [[umayyad-conquest-of-hispania-711|Arab/Berber conquest 711]]]
+processes_here: [ [[roman-provincial-system|Roman provincialization]], silver mining, Romanization, post-roman-transformation-of-the-west]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, iberia, mediterranean-world, classical-antiquity, late-antiquity, early-middle-ages]

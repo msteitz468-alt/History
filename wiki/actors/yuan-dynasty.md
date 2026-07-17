@@ -8,7 +8,7 @@ region: [china, east-asia, steppe, central-asia]
 affiliated_with: [the [[mongol-empire|Mongol Empire]] (its East Asian successor), the house of Kublai]
 opposed_by: [the [[song-dynasty|Southern Song]] (until 1279), the Red Turban rebels, the rising [[ming-dynasty|Ming]]]
 key_events: ["Mongol conquest of the Jin (1234) and the Southern Song (completed 1279)", "Kublai's proclamation of the Yuan (1271)", "the failed invasions of Japan (1274, 1281)", "the mid-14th-c. crises and the Red Turban rebellions", "expulsion to the steppe (1368)"]
-key_processes: [[[mongol-conquests-13th-century|Mongol conquest]], Pax Mongolica, the "conquest dynasty" rule of China]
+key_processes: [ [[mongol-conquests-13th-century|Mongol conquest]], Pax Mongolica, the "conquest dynasty" rule of China]
 sources_ingested: 1
 last_updated: 2026-06-14
 tags: [actor, dynasty, high-middle-ages, late-middle-ages, china, east-asia]

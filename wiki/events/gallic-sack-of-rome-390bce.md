@@ -8,19 +8,19 @@ period: [Classical Antiquity]
 region: [mediterranean, western-europe]
 location: Rome; the River Allia
 actors_primary: [Senones (Gallic war-band under Brennus), Rome]
-actors_secondary: [[[caere]], [[latin-league]], M. Furius Camillus]
+actors_secondary: [ [[caere]], [[latin-league]], M. Furius Camillus]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational
 causes:
   - contributed_to: "[[gallic-migrations|Gallic expansion from the Po valley into peninsular Italy]]"
-  - contributed_to: "[[roman-etruscan-conflict|Roman pressure on Etruscan cities, provoking Gallic alliance]]"
-  - caused_by: "[[roman-allia-ambush|Reckless Roman decision to intercept the Gauls at the Allia without adequate preparation]]"
+  - contributed_to: "Roman pressure on Etruscan cities, provoking Gallic alliance"
+  - caused_by: "Reckless Roman decision to intercept the Gauls at the Allia without adequate preparation"
 consequences:
   - produced: "[[servian-wall-construction|Construction of the Servian Wall (378 BCE)]]"
-  - enabled: "[[roman-military-reform|Reorganization of the Roman army to meet future threats]]"
-  - produced: "[[roman-latin-alliance-renewal|Renewal and tightening of the Roman–Latin alliance after 390 BCE]]"
-  - contributed_to: "[[roman-recovery-fourth-century|Rome's fourth-century expansion as recovery and overcompensation]]"
+  - enabled: "Reorganization of the Roman army to meet future threats"
+  - produced: "Renewal and tightening of the Roman–Latin alliance after 390 BCE"
+  - contributed_to: "Rome's fourth-century expansion as recovery and overcompensation"
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, mediterranean, western-europe, rome]

@@ -2,7 +2,7 @@
 title: Stephen W. Sears
 actor_type: person
 date_start: "1932"
-date_end: ""
+date_end: "ongoing"
 period: [Long 19th Century, Contemporary]
 region: [north-america]
 affiliated_with: ["American Heritage (former editor)", "Civil War historiography"]

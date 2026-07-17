@@ -6,7 +6,7 @@ date_precision: year
 period: [World Wars Era]
 region: [eastern-europe, central-europe]
 process_type: demographic
-driven_by: [[[adolf-hitler]], [[himmler-heinrich|Heinrich Himmler]] as Reich Commissioner for the Strengthening of the German Race, Arthur Greiser, Albert Forster]
+driven_by: [ [[adolf-hitler]], [[himmler-heinrich|Heinrich Himmler]] as Reich Commissioner for the Strengthening of the German Race, Arthur Greiser, Albert Forster]
 produces: [mass expulsions of Poles and Jews, ethnic German resettlement, child kidnapping and re-Germanization, the Zamość clearances]
 sources_ingested: 1
 last_updated: 2026-07-02

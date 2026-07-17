@@ -5,10 +5,10 @@ date_start: c. 850 CE
 date_end: c. 932 CE
 period: [Early Middle Ages]
 region: [norway, scandinavia]
-affiliated_with: [[[norway|Norway]]]
+affiliated_with: [ [[norway|Norway]]]
 opposed_by: [rival petty kings and chieftains of Norway]
 key_events: []
-key_processes: [[[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+key_processes: [ [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, norway]

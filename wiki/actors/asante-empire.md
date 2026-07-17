@@ -8,7 +8,7 @@ region: [west-africa]
 affiliated_with: [the Akan peoples, the gold and Atlantic trades]
 opposed_by: [Denkyira, the coastal Fante, ultimately Britain (the Anglo-Asante wars)]
 key_events: [the defeat of Denkyira (1701), the unification under the Golden Stool, expansion under Opoku Ware, the Anglo-Asante wars (19th c.)]
-key_processes: [[[atlantic-slave-trade]], [[trans-saharan-trade|gold trade]], [[state-formation]]]
+key_processes: [ [[atlantic-slave-trade]], [[trans-saharan-trade|gold trade]], [[state-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, empire, age-of-expansion, west-africa]

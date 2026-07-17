@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the state and [[qin-dynasty|Qin dynasty]], Legalism, the chancellor Li Si]
 opposed_by: [the other Warring States (Chu, Wei, Zhao, Han, Yan, Qi), the Confucian scholars]
 key_events: ["the unification of China (221 BCE)", "the standardization of script, weights, coinage", "the book-burning (213 BCE)", "the building of the Great Wall & his tomb (the terracotta army)"]
-key_processes: [[[qin-dynasty]], the founding of the Chinese imperial system]
+key_processes: [ [[qin-dynasty]], the founding of the Chinese imperial system]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, china, east-asia]

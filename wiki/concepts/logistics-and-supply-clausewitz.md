@@ -1,5 +1,6 @@
 ---
 title: "Logistics and Supply (Clausewitz)"
+aliases: [logistics]
 concept_type: analytical
 origin: >
   Carl von Clausewitz, *On War* (Vom Kriege), Book Five, Chapter Fourteen ("Maintenance and Supply"),

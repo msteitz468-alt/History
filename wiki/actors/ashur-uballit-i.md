@@ -6,9 +6,9 @@ date_end: ~1330 BCE (death)
 period: [Late Bronze Age]
 region: [mesopotamia, near-east]
 affiliated_with: [the city of Ashur, the rising [[assyria-middle|Middle Assyrian kingdom]]]
-opposed_by: [[[mitanni|Mitanni/Khanigalbat]] (former overlord), [[kassites|Kassite Babylonia]] (rivalry begins)]
+opposed_by: [ [[mitanni|Mitanni/Khanigalbat]] (former overlord), [[kassites|Kassite Babylonia]] (rivalry begins)]
 key_events: [the liberation of Assyria from Mitanni, the dynastic intervention in Babylon, correspondence with Egypt (the Amarna letters)]
-key_processes: [[[state-formation]], [[interpolity-law]], [[imperialism]]]
+key_processes: [ [[state-formation]], [[interpolity-law]], [[imperialism]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, mesopotamia, near-east]

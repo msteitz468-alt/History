@@ -5,10 +5,10 @@ date_start: ~1570 BCE (accession, uncertain)
 date_end: ~1525 BCE (reigned ~1550–1525, middle chronology)
 period: [Late Bronze Age]
 region: [north-africa, levant]
-affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]], Thebes]
+affiliated_with: [ [[new-kingdom-egypt|Eighteenth Dynasty]], Thebes]
 opposed_by: [the [[hyksos|Hyksos]], the princedom of Kush]
 key_events: [capture of [[avaris|Avaris]] and expulsion of the [[hyksos|Hyksos]] (~1550 BCE), siege of Sharuhen, reconquest of Nubia]
-key_processes: [[[second-intermediate-period]], [[state-formation]]]
+key_processes: [ [[second-intermediate-period]], [[state-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]

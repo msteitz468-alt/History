@@ -6,7 +6,7 @@ date_precision: exact
 period: [Classical Antiquity]
 region: [mesopotamia, iran-plateau]
 location: [Gaugamela (near Arbela/Erbil, northern Iraq)]
-actors_primary: [[[alexander-the-great|Alexander]], Macedon, [[achaemenid-empire|Darius III]]]
+actors_primary: [ [[alexander-the-great|Alexander]], Macedon, [[achaemenid-empire|Darius III]]]
 actors_secondary: [Parmenion, the Companion cavalry, the Macedonian phalanx]
 event_type: battle
 scale_immediate: civilizational
@@ -60,6 +60,23 @@ caused_by: Alexander's invasion under the [[league-of-corinth|League of Corinth]
 plan inherited from [[philip-ii-of-macedon|Philip]]; Darius III's defence of the heartland.
 produced: the **fall of the [[achaemenid-empire|Achaemenid empire]]**; Alexander as Great
 King; the **[[hellenistic-world|Hellenistic world]]** of the Successor kingdoms.
+
+## Historiography
+
+Gaugamela is known from the surviving **Alexander historians**, none contemporary: the
+chief narrative sources are **Arrian**'s *Anabasis* (2nd century CE, drawing on the
+eyewitness memoirs of Ptolemy and Aristobulus, generally regarded as the most reliable
+but shaped by Ptolemy's self-interested and favorable portrayal of Alexander), and the
+"vulgate" tradition — **Diodorus Siculus**, **Quintus Curtius Rufus**, and **Plutarch**
+— descending from the more sensational, moralizing account of Cleitarchus. The two
+traditions diverge sharply on troop numbers: the vulgate sources give wildly inflated
+Persian totals (up to a million men), which modern historians reject as rhetorical
+exaggeration meant to magnify Alexander's achievement; Alexander's own numbers are
+comparatively secure by contrast. Scholarly debate persists over the precise
+battlefield location, the sequence of the cavalry engagements on the flanks, and how
+far Alexander's tactics were improvised versus prepared in advance — questions that
+cannot be settled definitively given the sources' distance from the event and their
+common root in favorable, Macedonian-court-derived testimony.
 
 ## Related
 

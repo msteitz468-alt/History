@@ -6,7 +6,7 @@ coordinates: [38.0 N, 27.0 E]
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [independent East Greek city-states (Miletus, Samos, Ephesus, Chios, Phocaea…), then subject to Lydia (Croesus) and Persia (from c. 540)]
 events_here: [the Lydian attacks (Gyges to Croesus), the overseas colonization of the Pontus and the far west, the East Greek "acme" under Polycrates, the Persian conquest (c. 540)]
-processes_here: [[[greek-colonization|Greek colonization]], [[orientalizing-revolution|orientalizing trade]], the rise of Ionian rationalism, the monetization of the economy]
+processes_here: [ [[greek-colonization|Greek colonization]], [[orientalizing-revolution|orientalizing trade]], the rise of Ionian rationalism, the monetization of the economy]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, anatolia, mediterranean, archaic-period, greece]

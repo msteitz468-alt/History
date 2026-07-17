@@ -6,8 +6,8 @@ date_precision: year
 period: [Late Middle Ages, Early Modern, Age of Expansion]
 region: [mesoamerica, andes, caribbean, atlantic-world, southern-cone]
 process_type: [political, economic, demographic, cultural]
-driven_by: [[[spanish-conquest-of-mexico-1519]], [[spanish-conquest-of-peru-1532]], [[columbian-exchange-1492]], Iberian overseas expansion, [[global-silver-trade|silver]], [[atlantic-slave-trade|the Atlantic slave trade]]]
-produces: [[[latin-america-modern]], the [[casta-system|sociedad de castas]], a silver-based world economy, a vast Catholic mission field, [[spanish-american-independence|the independent republics]]]
+driven_by: [ [[spanish-conquest-of-mexico-1519]], [[spanish-conquest-of-peru-1532]], [[columbian-exchange-1492]], Iberian overseas expansion, [[global-silver-trade|silver]], [[atlantic-slave-trade|the Atlantic slave trade]]]
+produces: [ [[latin-america-modern]], the [[casta-system|sociedad de castas]], a silver-based world economy, a vast Catholic mission field, [[spanish-american-independence|the independent republics]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, early-modern, mesoamerica, andes, atlantic-world]

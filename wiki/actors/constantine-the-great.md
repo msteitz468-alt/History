@@ -1,14 +1,15 @@
 ---
 title: Constantine the Great
+aliases: [constantine]
 actor_type: person
 date_start: 272 CE
 date_end: 337 CE
 period: [Late Antiquity]
 region: [italy, balkans, near-east, mediterranean-world]
-affiliated_with: [[[roman-empire]], [[origins-of-christianity]]]
-opposed_by: [[[maxentius]], [[licinius]]]
-key_events: [[[battle-of-the-milvian-bridge-312]], [[edict-of-milan-313]], [[council-of-nicaea-325]], [[founding-of-constantinople-330]]]
-key_processes: [[[christianization-of-the-roman-empire]]]
+affiliated_with: [ [[roman-empire]], [[origins-of-christianity]]]
+opposed_by: [ [[maxentius]], [[licinius]]]
+key_events: [ [[battle-of-the-milvian-bridge-312]], [[edict-of-milan-313]], [[council-of-nicaea-325]], [[founding-of-constantinople-330]]]
+key_processes: [ [[christianization-of-the-roman-empire]]]
 sources_ingested: 8
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]

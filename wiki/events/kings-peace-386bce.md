@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [aegean, peloponnese, anatolia]
 location: [Sardis (terms announced), Sparta (oaths sworn)]
-actors_primary: [[[artaxerxes-ii|Artaxerxes II]], [[sparta]], Antalcidas, Tiribazus]
-actors_secondary: [[[places/athens|Athens]], Thebes, Argos, Corinth, [[agesilaus-ii|Agesilaus II]]]
+actors_primary: [ [[artaxerxes-ii|Artaxerxes II]], [[sparta]], Antalcidas, Tiribazus]
+actors_secondary: [ [[places/athens|Athens]], Thebes, Argos, Corinth, [[agesilaus-ii|Agesilaus II]]]
 event_type: treaty
 scale_immediate: civilizational
 scale_consequential: civilizational
@@ -78,6 +78,22 @@ strangling of the Athenian corn supply. produced: the cession of Asian Greeks to
 [[achaemenid-empire|Persia]]; the **Common Peace** principle of autonomy; Spartan
 supremacy under [[agesilaus-ii|Agesilaus]]; and the precedent of **Persian arbitration**
 that shaped Greek politics until Philip of Macedon.
+
+## Historiography
+
+Unusually for classical Greek history, **Xenophon** (*Hellenica* v.1.31) preserves what
+purports to be a **near-verbatim quotation of the actual royal rescript** — a rare case
+of documentary text embedded in a narrative source, which gives the treaty's terms
+unusual evidentiary solidity compared to most fourth-century events known only through
+narrative summary. Whether Xenophon reproduces the literal wording of the Persian
+chancellery's document or a Greek paraphrase circulated at the time is debated, but the
+substance is corroborated by **Diodorus Siculus** (via Ephorus) and by the treaty's
+consistent later citation as a reference point (the "Common Peace" template renewed in
+375 and 371). Modern historians debate how much genuine initiative lay with Persia
+versus Sparta — Xenophon's narrative and the later Isocratean tradition both have reasons
+to inflate or downplay Persian agency — and how cynically to read Sparta's selective
+enforcement of the "autonomy" clause, a question that shapes assessments of Agesilaus's
+statesmanship versus opportunism.
 
 ## Related
 

@@ -5,7 +5,7 @@ date_start: 1908
 date_end: 1979
 period: [world-wars-era, cold-war]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[actors/rockefeller-john-d-jr]], "Republican Party"]
+affiliated_with: [ [[actors/rockefeller-john-d-jr]], "Republican Party"]
 opposed_by: []
 key_events: []
 key_processes: []

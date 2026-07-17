@@ -12,7 +12,7 @@ key_processes: ["american-civil-war-eastern-theater", "union-high-command-politi
 sources_ingested: 2
 last_updated: 2026-06-26
 tags: [actor, person, long-19th-century, north-america, american-civil-war]
-aliases: [George G. Meade, George Gordon Meade, General Meade]
+aliases: [George G. Meade, George Gordon Meade, General Meade, meade-george-g]
 ---
 
 # George G. Meade

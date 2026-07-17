@@ -5,10 +5,10 @@ date_start: 356 BCE (born, Pella, Macedon)
 date_end: 323 BCE (died, Babylon)
 period: [Classical Antiquity]
 region: [balkans, anatolia, levant, mesopotamia, iran-plateau, central-asia, south-asia, north-africa]
-affiliated_with: [[[philip-ii-of-macedon|Philip II]], Macedon, the Argead dynasty, the [[league-of-corinth|League of Corinth]]]
-opposed_by: [[[achaemenid-empire|Achaemenid Persia]] (Darius III), Porus, Tyre, Greek city-states]
+affiliated_with: [ [[philip-ii-of-macedon|Philip II]], Macedon, the Argead dynasty, the [[league-of-corinth|League of Corinth]]]
+opposed_by: [ [[achaemenid-empire|Achaemenid Persia]] (Darius III), Porus, Tyre, Greek city-states]
 key_events: [accession 336 BCE, conquest of the Achaemenid Empire 334-330 BCE ([[battle-of-gaugamela-331bce|Gaugamela]]), founding of Alexandria 331 BCE, Indian campaign 327-325 BCE, death at Babylon 323 BCE]
-key_processes: [[[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]], [[hellenistic-world]]]
+key_processes: [ [[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]], [[hellenistic-world]]]
 sources_ingested: 10
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, mediterranean, near-east, greece]

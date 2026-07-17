@@ -6,8 +6,8 @@ date_precision: approximate
 period: [High Middle Ages, Late Middle Ages]
 region: [steppe, central-asia, china, east-asia, iran-plateau, near-east, eastern-europe, silk-road]
 process_type: [economic, political]
-driven_by: [[[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
-produces: [[[chinggis-exchange]], [[silk-roads]], [[black-death]]]
+driven_by: [ [[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
+produces: [ [[chinggis-exchange]], [[silk-roads]], [[black-death]]]
 sources_ingested: 4
 last_updated: 2026-06-22
 tags: [process, high-middle-ages, late-middle-ages, silk-road]

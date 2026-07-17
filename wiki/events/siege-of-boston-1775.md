@@ -7,11 +7,11 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Boston, Massachusetts]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[washington-george]], [[howe-william]], [[knox-henry]]]
+actors_secondary: [ [[washington-george]], [[howe-william]], [[knox-henry]]]
 event_type: [war]
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[battles-of-lexington-and-concord-1775|Lexington and Concord]], the gathering of New England militia around Boston]
+causes: [ [[battles-of-lexington-and-concord-1775|Lexington and Concord]], the gathering of New England militia around Boston]
 consequences: [British evacuation of Boston, first major American strategic success, organization of the Continental Army under Washington]
 sources_ingested: 1
 last_updated: 2026-06-23
@@ -52,6 +52,10 @@ victory, privately called the bloodless win a "disappointment."
 - `produced:` the **first major American strategic success** and the liberation of a major city.
 - `produced:` a tested Continental Army and command structure that Washington carried into the
   [[battle-of-long-island-1776|New York campaign]].
+
+## Historiography
+
+Documented through Washington's extensive wartime correspondence (the single richest primary source for the Continental Army's early organization), congressional records, and British officers' accounts of the evacuation decision, the siege is a well-studied case in the historiography of army-building — how an ad hoc militia mass became a functioning military institution under Washington's administrative reforms. Historians differ on how much weight to give Washington's frustration at a "bloodless" resolution (he wanted a decisive battle) versus the strategic soundness of Howe's decision to avoid a second Bunker Hill; the Canadian expedition under Arnold, launched concurrently, is sometimes treated as a costly distraction and sometimes as a reasonable attempt to open a second front. Knox's artillery expedition is well documented and rarely disputed in its broad outline.
 
 ## Related
 

@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [anatolia, near-east, mediterranean-world]
 location: [Apamea in Phrygia]
-actors_primary: [[[roman-republic]], [[antiochus-iii-the-great]], [[pergamon|Eumenes II]], [[rhodes]]]
-actors_secondary: [[[seleucid-empire]], the Greek cities of Asia Minor]
+actors_primary: [ [[roman-republic]], [[antiochus-iii-the-great]], [[pergamon|Eumenes II]], [[rhodes]]]
+actors_secondary: [ [[seleucid-empire]], the Greek cities of Asia Minor]
 event_type: treaty
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[roman-syrian-war-192-188bce]], the Roman victory at Magnesia (190)]
+causes: [ [[roman-syrian-war-192-188bce]], the Roman victory at Magnesia (190)]
 consequences: [the confinement of the Seleucids behind the Taurus, the doubling of Pergamon and Rhodes, the reordering of Asia Minor under Roman clients]
 sources_ingested: 1
 last_updated: 2026-06-11
@@ -57,6 +57,21 @@ they knew it." [[flamininus|Flamininus' doctrine]] of gratitude-as-policy was th
 extended eastward; it would not long survive the
 [[third-macedonian-war-171-168bce|defeat of Perseus]], when Rome turned on both
 Rhodes and Eumenes.
+
+## Historiography
+
+The treaty's terms are known chiefly through **Polybius** (writing within living memory
+of the events, and drawing on documentary access as the son of an Achaean statesman
+active in this period) and **Livy** (Book 38, largely dependent on Polybius but
+supplemented by the Roman annalistic tradition). The close agreement between the two on
+the treaty's specific clauses suggests both ultimately draw on the actual diplomatic
+record rather than independent, divergent traditions, giving the terms of Apamea
+unusual documentary solidity compared to many Hellenistic-era settlements. Polybius's
+generally pro-Achaean, pro-Roman perspective shapes his framing of the settlement as a
+just reordering rather than naked opportunism, a reading modern historians have
+qualified by pointing to how quickly Rome abandoned its client Eumenes and Rhodes after
+Pydna (168) — suggesting the "gratitude" framework Polybius and Flamininus articulated
+was always contingent on Roman interest rather than principle.
 
 ## Related
 

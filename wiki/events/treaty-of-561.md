@@ -6,8 +6,8 @@ date_precision: year
 period: [late-antiquity]
 region: [near-east, arabian-peninsula]
 location: [Dara]
-actors_primary: [[[sasanian-empire]], [[al-harith-ibn-jabala]]]
-actors_secondary: [[[al-mundhir-iii-lakhmid]]]
+actors_primary: [ [[sasanian-empire]], [[al-harith-ibn-jabala]]]
+actors_secondary: [ [[al-mundhir-iii-lakhmid]]]
 event_type: [treaty]
 scale_immediate: regional
 scale_consequential: regional

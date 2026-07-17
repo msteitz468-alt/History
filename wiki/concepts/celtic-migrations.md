@@ -1,5 +1,6 @@
 ---
 title: Celtic Migrations
+aliases: [gallic-migrations]
 concept_type: historical
 origin: "Classical ethnonyms (Galatae, Gauls, Celts) combined with La Tène archaeology; modern synthesis in Cunliffe 2018 and earlier (e.g. CAH) framing 4th–1st c BCE movements"
 applies_to_periods: ["Archaic Period", "Classical Antiquity"]

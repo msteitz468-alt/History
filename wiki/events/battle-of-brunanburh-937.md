@@ -7,7 +7,7 @@ period: [Early Middle Ages]
 region: [british-isles]
 location: [Brunanburh (site unidentified), England]
 actors_primary: [Æthelstan of England, the coalition of Constantín son of Aed (Alba), Óláfr Guthfrithsson (Dublin), and Strathclyde]
-actors_secondary: [[[kingdom-of-alba|Alba]], Hiberno-Norse Dublin, the Britons of Strathclyde]
+actors_secondary: [ [[kingdom-of-alba|Alba]], Hiberno-Norse Dublin, the Britons of Strathclyde]
 event_type: battle
 scale_immediate: regional
 scale_consequential: regional

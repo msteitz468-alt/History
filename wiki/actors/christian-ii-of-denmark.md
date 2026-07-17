@@ -5,9 +5,9 @@ date_start: 1481 CE
 date_end: 1559 CE
 period: [Late Middle Ages, Early Modern]
 region: [denmark, norway, sweden, scandinavia]
-affiliated_with: [[[denmark|Denmark]]; the Oldenburg dynasty; the [[kalmar-union-1397|Kalmar Union]]]
+affiliated_with: [ [[denmark|Denmark]]; the Oldenburg dynasty; the [[kalmar-union-1397|Kalmar Union]]]
 opposed_by: [Sten Sture the Younger; the Swedish nobility; Gustav Vasa; the Danish council and nobility]
-key_events: [[[stockholm-bloodbath-1520|Stockholm Bloodbath (1520)]]]
+key_events: [ [[stockholm-bloodbath-1520|Stockholm Bloodbath (1520)]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-27

@@ -6,12 +6,12 @@ date_precision: exact
 period: [High Middle Ages]
 region: [british-isles, western-europe]
 location: [Runnymede (Thames meadow near Windsor), England]
-actors_primary: [[[john-of-england|King John]], the rebel barons, [[henry-iii-of-england|Henry III]] (reissues)]
+actors_primary: [ [[john-of-england|King John]], the rebel barons, [[henry-iii-of-england|Henry III]] (reissues)]
 actors_secondary: [Archbishop Stephen Langton, [[innocent-iii|Pope Innocent III]], the papal legates Guala and Pandulf]
 event_type: [political, treaty]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[john-of-england|John's financial extortion and lawless rule]], the loss of Normandy and consequent over-exploitation of England, changing ideas that the king was subject to law]
+causes: [ [[john-of-england|John's financial extortion and lawless rule]], the loss of Normandy and consequent over-exploitation of England, changing ideas that the king was subject to law]
 consequences: [the principle that the king is bound by law, the reissues of 1216/1217/1225, the development of [[english-parliament|parliament]], the long English constitutional tradition]
 sources_ingested: 1
 last_updated: 2026-06-12

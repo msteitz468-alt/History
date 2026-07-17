@@ -8,7 +8,7 @@ region: [northern-europe, eastern-europe, western-europe]
 affiliated_with: [the north-German trading cities, the Baltic and North Sea trade]
 opposed_by: [the kings of Denmark, rival merchants (English, Dutch), territorial princes]
 key_events: [the formation of the league of cities (c. 1356), the war with Denmark and the Peace of Stralsund (1370)]
-key_processes: [[[commercial-revolution|the commercial revolution]] in the north, the Baltic–North Sea trade system]
+key_processes: [ [[commercial-revolution|the commercial revolution]] in the north, the Baltic–North Sea trade system]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, organization, late-middle-ages, northern-europe, eastern-europe]

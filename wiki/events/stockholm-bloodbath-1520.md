@@ -6,7 +6,7 @@ date_precision: exact
 period: [Late Middle Ages]
 region: [sweden, scandinavia]
 location: [Stortorget, Stockholm]
-actors_primary: [[[christian-ii-of-denmark|Christian II of Denmark]], Archbishop Gustaf Trolle]
+actors_primary: [ [[christian-ii-of-denmark|Christian II of Denmark]], Archbishop Gustaf Trolle]
 actors_secondary: [the Sten Sture (Younger) party; Swedish nobles, bishops, and Stockholm citizens]
 event_type: political
 scale_immediate: regional

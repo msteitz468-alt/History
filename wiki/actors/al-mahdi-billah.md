@@ -8,7 +8,7 @@ region: [north-africa, near-east]
 affiliated_with: [Ismaili da'wa, Kutama Berbers, Fatimid Caliphate]
 opposed_by: [Aghlabid dynasty, Abbasid Caliphate, Qarmatians]
 key_events: [foundation-of-the-fatimid-caliphate-909, founding of Mahdiyya (916–919), first Fatimid expeditions to Egypt]
-key_processes: [[[ismaili-movement]], [[dawa]]]
+key_processes: [ [[ismaili-movement]], [[dawa]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, north-africa, islamic-world]

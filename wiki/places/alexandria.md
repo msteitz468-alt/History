@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Alexandria (al-Iskandariyya), Egypt]
 coordinates: [31.20 N, 29.92 E]
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
-controlled_by: [[[ptolemaic-egypt|the Ptolemies]], [[rome|Rome]], Byzantium, the early Caliphate]
+controlled_by: [ [[ptolemaic-egypt|the Ptolemies]], [[rome|Rome]], Byzantium, the early Caliphate]
 events_here: [foundation by Alexander 331 BCE, the Museum and Library, the Pharos]
-processes_here: [[[hellenistic-world]], [[ptolemaic-egypt]], [[urbanization]], [[hellenistic-science]]]
+processes_here: [ [[hellenistic-world]], [[ptolemaic-egypt]], [[urbanization]], [[hellenistic-science]]]
 sources_ingested: 6
 last_updated: 2026-07-08
 tags: [place, egypt, north-africa, classical-antiquity, late-antiquity]

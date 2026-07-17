@@ -5,10 +5,10 @@ date_start: 108 BCE
 date_end: 313 CE
 period: [Classical Antiquity, Late Antiquity]
 region: [korea, east-asia]
-affiliated_with: [[[han-dynasty]], [[yellow-sea-interaction-sphere]]]
-opposed_by: [[[koguryo]]]
+affiliated_with: [ [[han-dynasty]], [[yellow-sea-interaction-sphere]]]
+opposed_by: [ [[koguryo]]]
 key_events: [unknown]
-key_processes: [[[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
+key_processes: [ [[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, institution, late-antiquity, korea, east-asia]

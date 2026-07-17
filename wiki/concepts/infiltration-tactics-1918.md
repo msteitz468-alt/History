@@ -57,7 +57,7 @@ Process was corporate: OHL under [[ludendorff]] and [[hindenburg]] selected and 
 
 - Primary analysis: [[sources/lupfer-dynamics-of-doctrine-1981]]
 - Links to [[concepts/elastic-defense-in-depth]] (the defensive counterpart).
-- Enriches analyses of 1918 [[places/western-front]] battles in [[hubs/warfare/world-wars-era/]] and [[hubs/warfare/warfare-hub]].
+- Enriches analyses of 1918 [[places/western-front]] battles in hubs/warfare/world-wars-era/ and [[hubs/warfare/warfare-hub]].
 - Cross to combined arms, principles of war, and command philosophy discussions in [[hubs/warfare/tactics-and-battle-strategies]] and [[hubs/warfare/strategy]].
 - Actor analysis: [[actors/lupfer-timothy-t]]
 

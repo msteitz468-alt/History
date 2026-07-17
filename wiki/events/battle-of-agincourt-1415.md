@@ -53,6 +53,10 @@ eventually reverse the war's verdict by 1453.
 [[henry-v-of-england|Henry V]] · Charles d'Albret (Constable of France, killed) · Marshal Boucicaut (captured) ·
 Charles, Duke of Orléans (captured).
 
+## Historiography
+
+The battle is unusually well documented for its bias-riven variety: the anonymous *Gesta Henrici Quinti* (an eyewitness-adjacent English clerical account written within a few years, openly propagandistic in Henry's favour), the Burgundian chronicler Enguerrand de Monstrelet, and Jean de Wavrin (who claimed an uncle present in the French ranks) give partly conflicting troop numbers and sequences. French chivalric numbers for their own army were long inflated in later retellings to explain the disaster; modern prosopographical work using pay records and muster rolls (notably Anne Curry's revisionist studies) has narrowed the gap between the two armies considerably, overturning the traditional picture of an overwhelming French numerical advantage. Henry's order to kill French prisoners mid-battle is reported across the major chronicles but its scale, timing, and justification remain debated. Shakespeare's *Henry V* and nineteenth-century nationalist historiography further overlaid the battle with a mythology of the "band of brothers" that modern military historians treat cautiously against the administrative and tactical record.
+
 ## Related
 
 - **Tactical analysis (West Point–style):** [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Battle of Agincourt — Tactical Analysis]]

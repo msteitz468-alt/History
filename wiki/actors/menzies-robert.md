@@ -7,8 +7,8 @@ period: [Cold War]
 region: [australia]
 affiliated_with: [[liberal-party-australia]]
 opposed_by: [[australian-labour-movement]]
-key_events: [[[alp-split-1955]], [[australia-vietnam-war-commitment-1962]]]
-key_processes: [[[post-war-immigration-australia]], [[australian-cold-war-politics]]]
+key_events: [ [[alp-split-1955]], [[australia-vietnam-war-commitment-1962]]]
+key_processes: [ [[post-war-immigration-australia]], [[australian-cold-war-politics]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, cold-war, australia]

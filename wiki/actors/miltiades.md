@@ -6,7 +6,7 @@ date_end: 489 BCE (death from a wound after the Paros expedition)
 period: [Archaic Period, Classical Antiquity]
 region: [central-greece, anatolia]
 affiliated_with: [the Philaid genos of [[athens|Athens]], the tyranny of the Thracian Chersonese, at first the Persian court, then the Athenian democracy]
-opposed_by: [[[achaemenid-empire|Persia]] (after the revolt), Lampsacus, the Alcmaeonid-connected Xanthippus (his prosecutor)]
+opposed_by: [ [[achaemenid-empire|Persia]] (after the revolt), Lampsacus, the Alcmaeonid-connected Xanthippus (his prosecutor)]
 key_events: [the tyranny of the Chersonese, Darius' [[darius-scythian-expedition-513bce|Scythian expedition]] (513), the capture of Lemnos, the flight to Athens (493), the victory at [[battle-of-marathon-490bce|Marathon]] (490), the failed Paros expedition (489)]
 key_processes: [Athenian resistance to Persia, the politics of the early democracy, the Athenian hold on the Hellespont]
 sources_ingested: 2

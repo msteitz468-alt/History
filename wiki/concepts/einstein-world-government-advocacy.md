@@ -1,5 +1,6 @@
 ---
 title: Einstein's World Government Advocacy
+aliases: [world-government-advocacy]
 concept_type: ideological / political
 origin: Albert Einstein, evolving from 1920s–1930s pacifism and post-1945 atomic fears; popularized in articles (e.g. with Raymond Gram Swing for Atlantic), 1940s–1950s statements, Einstein-Russell Manifesto (1955)
 applies_to_periods: [World Wars Era, Cold War]

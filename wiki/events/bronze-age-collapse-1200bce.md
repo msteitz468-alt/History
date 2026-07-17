@@ -1,5 +1,6 @@
 ---
 title: Bronze Age Collapse
+aliases: [bronze-age-collapse]
 date_start: c. 1200 BCE
 date_end: c. 1150 BCE
 date_precision: approximate
@@ -7,13 +8,13 @@ dating_method: stratigraphy / radiocarbon / textual synchronisms
 period: [Late Bronze Age, Bronze Age Collapse, Early Iron Age]
 region: [near-east, levant, anatolia, mediterranean, aegean, cyprus, mesopotamia]
 location: [Eastern Mediterranean, Anatolia, Levant, Aegean]
-actors_primary: [[[sea-peoples|Sea Peoples]], [[hittites|Hittite Empire]], [[ramesses-iii|Ramesses III]], [[mycenaean-civilization|Mycenaean palace states]]]
-actors_secondary: [[[ugarit|Ugarit]], [[philistines|Philistines]], [[assyria-middle|Middle Assyria]], [[kassites|Kassite Babylon]], [[elam|Elam]]]
+actors_primary: [ [[sea-peoples|Sea Peoples]], [[hittites|Hittite Empire]], [[ramesses-iii|Ramesses III]], [[mycenaean-civilization|Mycenaean palace states]]]
+actors_secondary: [ [[ugarit|Ugarit]], [[philistines|Philistines]], [[assyria-middle|Middle Assyria]], [[kassites|Kassite Babylon]], [[elam|Elam]]]
 event_type: [collapse, transition]
 scale_immediate: civilizational
 scale_consequential: hemispheric
-causes: [[[sea-peoples|Sea Peoples]], systems collapse, drought and famine, internal social breakdown, [[mycenaean-civilization|palace-economy fragility]], earthquake destructions]
-consequences: [[[early-iron-age|Early Iron Age]], [[philistines|Philistine settlement]], [[greek-dark-age|Greek Dark Age]], collapse of palatial literacy, [[phrygians|Anatolian reconfiguration]], rise of small territorial kingdoms]
+causes: [ [[sea-peoples|Sea Peoples]], systems collapse, drought and famine, internal social breakdown, [[mycenaean-civilization|palace-economy fragility]], earthquake destructions]
+consequences: [ [[early-iron-age|Early Iron Age]], [[philistines|Philistine settlement]], [[greek-dark-age|Greek Dark Age]], collapse of palatial literacy, [[phrygians|Anatolian reconfiguration]], rise of small territorial kingdoms]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [event, transition, late-bronze-age, bronze-age-collapse, early-iron-age, near-east, aegean, mediterranean]

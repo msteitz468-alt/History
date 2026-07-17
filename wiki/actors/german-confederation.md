@@ -8,7 +8,7 @@ region: [western-europe]
 affiliated_with: [Habsburg Austria, [[prussia|Prussia]], the 39 German states]
 opposed_by: [German nationalists and liberals, [[revolutions-of-1848|the 1848 revolutionaries]]]
 key_events: [Congress of Vienna 1815, the Carlsbad Decrees 1819, [[revolutions-of-1848]], [[austro-prussian-war-1866]]]
-key_processes: [[[german-nationalism-formation]], [[state-formation]]]
+key_processes: [ [[german-nationalism-formation]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, state, long-19th-century, western-europe]

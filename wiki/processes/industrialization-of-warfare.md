@@ -102,7 +102,7 @@ periodisation into industrialization → total war → post-total warfare is the
 `produced: [[total-war]]`
 `enabled: [[nuclear-arms-race]]`
 `concurrent_with: [[new-imperialism]]`
-`part_of: [[modern-warfare]]`
+`part_of: modern warfare`
 
 *From [[cambridge-history-of-war-v4|The Cambridge History of War, Vol. 4]] (Chickering, Showalter
 & van de Ven, 2012).*

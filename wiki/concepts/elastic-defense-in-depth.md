@@ -30,7 +30,7 @@ This doctrine was a direct reaction to the failure of "holding the forward line 
 - Complementary to the 1918 German offensive infiltration tactics (the elastic defense's virtues were incorporated into the attack): per [[sources/lupfer-dynamics-of-doctrine-1981]] (Range 3 / Ch. 3), the 1918 offensive doctrine "incorporated many of the virtues of their elastic defense-in-depth".
 - Illustrates principles of war: economy of force, maneuver (counterattacks), security, and surprise (through depth and reserves).
 - Contrasts with Allied "bite and hold" or massed artillery tactics of 1916–17.
-- See also [[concepts/infiltration-tactics-1918]] and [[hubs/warfare/world-wars-era/]].
+- See also [[concepts/infiltration-tactics-1918]] and hubs/warfare/world-wars-era/.
 
 ## Implementation and Training
 

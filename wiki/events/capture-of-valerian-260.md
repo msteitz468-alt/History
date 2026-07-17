@@ -11,7 +11,7 @@ actors_secondary: [Gallienus, Odenathus of Palmyra]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[sasanian-empire|Sassanid expansion under Shapur I]], the over-extension of Roman defences in the third-century crisis, plague and instability in the Roman army]
+causes: [ [[sasanian-empire|Sassanid expansion under Shapur I]], the over-extension of Roman defences in the third-century crisis, plague and instability in the Roman army]
 consequences: [the high-water mark of Sassanid prestige, the rise of [[palmyra|Palmyra]] under Odenathus, the deepening of the Roman crisis under Gallienus]
 sources_ingested: 2
 last_updated: 2026-07-08

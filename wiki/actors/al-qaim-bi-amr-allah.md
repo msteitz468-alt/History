@@ -8,7 +8,7 @@ region: [north-africa]
 affiliated_with: [Fatimid Caliphate, Ismaili da'wa, Kutama Berbers]
 opposed_by: [Abu Yazid al-Nukkari, Umayyads of Córdoba, Abbasid Egypt]
 key_events: [khariji-revolt-of-abu-yazid-943, Fatimid expeditions to Egypt (914)]
-key_processes: [[[ismaili-movement]]]
+key_processes: [ [[ismaili-movement]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, north-africa, islamic-world]

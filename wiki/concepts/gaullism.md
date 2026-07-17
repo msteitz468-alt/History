@@ -26,5 +26,5 @@ In the Cold War context (Ch. 8 in Leffler/Westad Vol. II), it manifested in Fran
 ## Related
 
 - Primary treatment: [[leffler-westad-cold-war-v2]] (Bozo chapter).
-- Deepens [[detente]], [[european-integration]], [[cold-war]].
+- Deepens [[detente]], european integration, [[cold-war]].
 - Actors: [[de-gaulle-charles]].

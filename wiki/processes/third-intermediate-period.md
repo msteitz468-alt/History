@@ -7,7 +7,7 @@ period: [Early Iron Age, Archaic Period]
 region: [north-africa, nubia]
 process_type: [political]
 driven_by: [the decline of the [[new-kingdom-egypt|New Kingdom]], Libyan settlement, the rise of the [[amun-priesthood|Amun priesthood]]]
-produces: [[[saite-egypt|the Saite reunification]], "Libyan and Kushite rule", "a federated, decentralized Egypt"]
+produces: [ [[saite-egypt|the Saite reunification]], "Libyan and Kushite rule", "a federated, decentralized Egypt"]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, early-iron-age, north-africa]

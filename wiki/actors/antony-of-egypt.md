@@ -8,7 +8,7 @@ region: [egypt, north-africa]
 affiliated_with: [egyptian-monasticism, coptic-church, christianity, athanasius-of-alexandria]
 opposed_by: []
 key_events: []
-key_processes: [[[egyptian-monasticism]], [[christianization-of-the-roman-empire]]]
+key_processes: [ [[egyptian-monasticism]], [[christianization-of-the-roman-empire]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, egypt, north-africa]

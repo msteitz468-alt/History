@@ -6,9 +6,9 @@ date_end: 168 BCE
 period: [Classical Antiquity]
 region: [balkans, mediterranean]
 affiliated_with: [Macedon, the [[league-of-corinth|Hellenic League]]]
-opposed_by: [[[ptolemaic-egypt]], [[aetolian-league]], [[achaean-league]], [[rome|Rome]]]
-key_events: [[[battle-of-ipsus-301]], [[celtic-invasion-of-greece-279]], [[chremonidean-war-267]], [[social-war-220]]]
-key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]]]
+opposed_by: [ [[ptolemaic-egypt]], [[aetolian-league]], [[achaean-league]], [[rome|Rome]]]
+key_events: [ [[battle-of-ipsus-301]], [[celtic-invasion-of-greece-279]], [[chremonidean-war-267]], [[social-war-220]]]
+key_processes: [ [[hellenistic-monarchy]], [[hellenistic-world]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, dynasty, classical-antiquity, balkans]

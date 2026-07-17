@@ -6,12 +6,12 @@ date_precision: disputed
 period: [Archaic Period]
 region: [balkans, eurasian-steppe, eastern-europe]
 location: [the Bosporus, Thrace, the Danube, the south Russian/Ukrainian steppe]
-actors_primary: [[[achaemenid-empire|Darius I]], the European [[scythians|Scythians]]]
+actors_primary: [ [[achaemenid-empire|Darius I]], the European [[scythians|Scythians]]]
 actors_secondary: [Megabazus, Miltiades and the Ionian fleet, the Getae, the Sarmatians and Budini]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[achaemenid-empire|Achaemenid]] expansion into Europe, the wish to control the Black Sea trade in gold, grain and hides, the strategic threat of the steppe nomads]
+causes: [ [[achaemenid-empire|Achaemenid]] expansion into Europe, the wish to control the Black Sea trade in gold, grain and hides, the strategic threat of the steppe nomads]
 consequences: [the founding of the European satrapy of [[thrace|Skudra]], the permanent abandonment of any attempt to subdue the European Scythians, the submission of Thrace and Macedon, the springboard for the later invasions of Greece]
 sources_ingested: 1
 last_updated: 2026-06-11

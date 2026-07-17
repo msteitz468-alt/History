@@ -72,6 +72,10 @@ achieved (1894)** and now two great wars won, Japan had secured its frontiers an
 hatreds and rivalries," and with a tradition of **unquestioned nationalism and opportunism**,
 also set Japan on the path toward the catastrophe of 1945.
 
+## Historiography
+
+The war is unusually well documented on both sides: Japanese official military histories, the Cambridge History of Japan's synthesis (Iriye), and Russian archival and memoir material (though Russian sources are less represented in this collection than Japanese ones). Contemporary Western observers treated the war as a landmark demonstration of modern industrialized warfare — trench lines, machine guns, and massed artillery at Mukden and Port Arthur anticipating the First World War — a reading later validated by military historians studying the war's tactical lessons. Historiographical debate centers on Japan's long-term trajectory: Mason and Caiger's own framing (that victory set Japan toward "the catastrophe of 1945") reflects a retrospective, teleological reading common in postwar historiography, which more recent scholarship has qualified by stressing the contingency of Japan's later turn toward militarism rather than treating 1905 as inevitably setting that course. The war's reception across colonized Asia — as proof that European power could be defeated — is well attested but drawn mainly from secondary synthesis rather than primary Asian-language sources in this collection.
+
 ## Related
 
 - [[japanese-imperialism]] — the expansion this victory accelerated.

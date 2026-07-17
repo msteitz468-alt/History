@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Germantown, Pennsylvania]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[washington-george]], [[howe-william]]]
+actors_secondary: [ [[washington-george]], [[howe-william]]]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
@@ -49,6 +49,10 @@ British counterattack broke the disordered Continentals, who fled. Losses were l
 - `enabled:` paradoxically, French confidence — that the Americans would **counterattack a regular army
   so soon after a defeat** helped impress Versailles in the run-up to the
   [[franco-american-alliance-1778|alliance]].
+
+## Historiography
+
+Reconstructed largely from British and American officer correspondence and the well-known controversy over the Chew House delay, the battle is frequently cited (including in the West Point History series) as evidence of the Continental Army's overreaching operational ambition in 1777 — a complex four-column night approach beyond the army's training and staff capacity at that stage of the war. Historians differ on whether the plan's complexity or the fog and friction of execution was the primary cause of failure. The battle's paradoxical diplomatic effect — that a defeated army's boldness helped persuade France to intervene — is a matter of interpretive judgment rather than direct documentary proof, since French decision-making in late 1777 was driven by multiple factors including Saratoga.
 
 ## Related
 

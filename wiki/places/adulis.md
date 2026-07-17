@@ -6,7 +6,7 @@ coordinates: [15.57, 39.65]
 period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [pre-Aksumite polities, Kingdom of Aksum]
 events_here: []
-processes_here: [[[indian-ocean-trade]], [[aksumite-state-formation]]]
+processes_here: [ [[indian-ocean-trade]], [[aksumite-state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, horn-of-africa, late-antiquity]

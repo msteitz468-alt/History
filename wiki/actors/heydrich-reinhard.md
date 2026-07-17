@@ -1,5 +1,6 @@
 ---
 title: Reinhard Heydrich
+aliases: [reinhard-heydrich]
 actor_type: person
 date_start: 1904
 date_end: 1942

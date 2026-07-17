@@ -44,7 +44,7 @@ The confirmation instantly transformed Einstein from a respected theorist into a
 The event produced the publicity paradox that defined Einstein's later public life and helped associate relativity (in popular imagination) with broader cultural modernism and relativism. It directly preceded Einstein's Nobel (delayed, awarded for photoelectric effect) and his 1921 US tour.
 
 `produced: [[actors/einstein-albert]]` (world fame).  
-`contributed_to: [[processes/celebrity-culture-in-science]]`.  
+`contributed_to: processes/celebrity-culture-in-science`.  
 `part_of: [[periods/world-wars-era]]`.
 
 ## Historiography

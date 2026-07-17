@@ -5,10 +5,10 @@ date_start: ~1813 BCE (accession; middle chronology)
 date_end: ~1781 BCE
 period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
-affiliated_with: [[[ashur|Assyria]], [[amorites|the Amorites]]]
+affiliated_with: [ [[ashur|Assyria]], [[amorites|the Amorites]]]
 opposed_by: [Yahdun-Lim/Zimri-Lim of Mari, Eshnunna, the Hurrian princes]
 key_events: [reconquest of Mari/Khabur from Yahdun-Lim, the dissolution of his empire after his death (~1781 BCE)]
-key_processes: [[[state-formation]], [[imperialism]]]
+key_processes: [ [[state-formation]], [[imperialism]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, mesopotamia]

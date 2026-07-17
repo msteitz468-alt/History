@@ -8,7 +8,7 @@ region: [central-asia, silk-road, china]
 affiliated_with: [the oasis city-states of Sogdiana (Samarkand, Bukhara), Zoroastrian communities]
 opposed_by: []
 key_events: [formation of the Sogdian trade diaspora, transmission of Buddhism and Manichaeism to China, Islamic conquest of Sogdiana 8th c. CE]
-key_processes: [[[silk-roads]], [[trade-network-formation]], religious transmission]
+key_processes: [ [[silk-roads]], [[trade-network-formation]], religious transmission]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, organization, late-antiquity, central-asia, silk-road]

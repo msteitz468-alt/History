@@ -6,9 +6,9 @@ date_end: ongoing
 period: [World Wars Era, Cold War, Contemporary]
 region: [southeast-asia]
 affiliated_with: [the Viet Minh, [[ho-chi-minh]], the Communist Party, North Vietnam (DRV), reunified Vietnam]
-opposed_by: [[[french-indochina|French colonial rule]], the Japanese occupation, the United States, South Vietnam]
+opposed_by: [ [[french-indochina|French colonial rule]], the Japanese occupation, the United States, South Vietnam]
 key_events: [the [[japanese-occupation-southeast-asia|Japanese occupation]], the August Revolution 1945, the First Indochina War (Dien Bien Phu 1954), the [[vietnam-war|Vietnam War]], reunification 1975]
-key_processes: [[[southeast-asian-nationalism]], [[decolonization-southeast-asia]], communist revolution]
+key_processes: [ [[southeast-asian-nationalism]], [[decolonization-southeast-asia]], communist revolution]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, state, world-wars-era, cold-war, contemporary, southeast-asia]

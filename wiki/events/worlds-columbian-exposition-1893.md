@@ -11,8 +11,8 @@ actors_secondary: [Thomas Edison, General Electric]
 event_type: cultural
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[processes/war-of-the-currents|War of the Currents]], commercial competition for the lighting contract]
-consequences: [[[concepts/alternating-current|AC validated as the power standard]], public demonstration of polyphase electric power, momentum toward [[events/niagara-falls-power-project-1895|Niagara]]]
+causes: [ [[processes/war-of-the-currents|War of the Currents]], commercial competition for the lighting contract]
+consequences: [ [[concepts/alternating-current|AC validated as the power standard]], public demonstration of polyphase electric power, momentum toward [[events/niagara-falls-power-project-1895|Niagara]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [event, long-19th-century, north-america, technology, electricity]

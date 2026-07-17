@@ -5,10 +5,10 @@ date_start: 1730
 date_end: 1794
 period: [Age of Expansion]
 region: [north-america, eastern-north-america, western-europe]
-affiliated_with: [[[continental-army]], [[washington-george]]]
+affiliated_with: [ [[continental-army]], [[washington-george]]]
 opposed_by: []
-key_events: [[[valley-forge-1777]], [[battle-of-monmouth-1778]]]
-key_processes: [[[military-revolution]]]
+key_events: [ [[valley-forge-1777]], [[battle-of-monmouth-1778]]]
+key_processes: [ [[military-revolution]]]
 sources_ingested: 1
 last_updated: 2026-06-23
 tags: [actor, person, age-of-expansion, north-america]

@@ -6,13 +6,13 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
 location: [Italy — Campania, Etruria, Praeneste, the Colline Gate of Rome]
-actors_primary: [[[sulla]], [[pompey]], [[crassus]], Metellus Pius; the Marian consuls Carbo, Norbanus, the younger Marius; the Samnites]
-actors_secondary: [[[cornelius-cinna|Cinna]] (d. 84), Pontius Telesinus, Sertorius]
+actors_primary: [ [[sulla]], [[pompey]], [[crassus]], Metellus Pius; the Marian consuls Carbo, Norbanus, the younger Marius; the Samnites]
+actors_secondary: [ [[cornelius-cinna|Cinna]] (d. 84), Pontius Telesinus, Sertorius]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [Sulla's outlawry by the Cinnan regime, the rival claims to legitimacy from the march on Rome of 88, the unresolved Italian question, the militarized client army]
-consequences: [[[sullan-proscriptions-82bce|the proscriptions]], Sulla's dictatorship, [[sullan-constitution|the Sullan settlement]], the punishment of Samnium and Etruria, the rise of Pompey and Crassus]
+consequences: [ [[sullan-proscriptions-82bce|the proscriptions]], Sulla's dictatorship, [[sullan-constitution|the Sullan settlement]], the punishment of Samnium and Etruria, the rise of Pompey and Crassus]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, war, rome]

@@ -23,3 +23,7 @@ tags: [event, late-middle-ages, western-europe]
 The Trial and Execution of Joan of Arc (9 January – 30 May 1431) was a politically motivated heresy trial conducted in Rouen, under English occupation, by a tribunal presided over by Pierre Cauchon, Bishop of Beauvais.
 
 *(To be filled by subagents)*
+
+## Historiography
+
+The trial is exceptionally well documented by medieval standards: the official Latin record (the *procès de condamnation*) survives in multiple manuscript copies, supplemented by a French-language minute taken by a sympathetic notary, giving historians rare access to a fifteenth-century legal proceeding in substantial detail. The tribunal, presided over by Pierre Cauchon under English political patronage and staffed largely by University of Paris theologians allied with the Anglo-Burgundian cause, has long been treated by French historiography as a foregone politically motivated verdict rather than a genuine ecclesiastical inquiry — a reading reinforced by the 1455–56 nullification trial's own findings of procedural irregularity. The relationship between the official Latin minute and the more sympathetic French notes (attributed to the clerk Guillaume Manchon) is itself a subject of source-critical study, since discrepancies between them bear on how far Joan's recorded testimony was shaped or softened in transcription. Modern scholarship (Pernoud, Duby, and others) generally treats the trial record as a rich and largely reliable transcript of Joan's own words, despite the tribunal's evident bias in verdict and procedure.

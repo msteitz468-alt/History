@@ -5,9 +5,9 @@ date_start: 1738
 date_end: 1805
 period: [Age of Expansion]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[clinton-henry]]]
-opposed_by: [[[washington-george]], [[greene-nathanael]], [[morgan-daniel]]]
-key_events: [[[battle-of-trenton-1776]], [[battle-of-brandywine-1777]], [[battle-of-camden-1780]], [[battle-of-guilford-courthouse-1781]], [[siege-of-yorktown-1781]]]
+affiliated_with: [ [[clinton-henry]]]
+opposed_by: [ [[washington-george]], [[greene-nathanael]], [[morgan-daniel]]]
+key_events: [ [[battle-of-trenton-1776]], [[battle-of-brandywine-1777]], [[battle-of-camden-1780]], [[battle-of-guilford-courthouse-1781]], [[siege-of-yorktown-1781]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

@@ -6,8 +6,8 @@ date_end: 1025 CE (died, crowned king shortly before death)
 period: [Early Middle Ages, High Middle Ages]
 region: [eastern-europe]
 affiliated_with: [the Piast dynasty, [[otto-iii|Otto III]] (Gniezno 1000), the see of Gniezno]
-opposed_by: [[[henry-ii-holy-roman-emperor|Henry II]], [[premyslid-bohemia|Přemyslid Bohemia]], the Liutizi (as Henry's allies)]
-key_events: [[[synod-of-gniezno-1000]], the Peace of Bautzen 1018, his royal coronation 1025]
+opposed_by: [ [[henry-ii-holy-roman-emperor|Henry II]], [[premyslid-bohemia|Přemyslid Bohemia]], the Liutizi (as Henry's allies)]
+key_events: [ [[synod-of-gniezno-1000]], the Peace of Bautzen 1018, his royal coronation 1025]
 key_processes: [Piast state-formation, the Christianisation of Poland]
 sources_ingested: 1
 last_updated: 2026-06-12

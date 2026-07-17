@@ -6,12 +6,12 @@ date_precision: year
 period: [long-19th-century]
 region: [southeast-asia, vietnam]
 location: [saigon, [[khmer-empire|Cambodia]]]
-actors_primary: [[[minh-mang|Minh Mang]], Le Van Khoi]
+actors_primary: [ [[minh-mang|Minh Mang]], Le Van Khoi]
 actors_secondary: [Thai Cong Trieu, Truong Minh Giang, Nguyen Van Cham, Luu Tin, [[siam-chakri-dynasty|Siam]]]
 event_type: revolution
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[minh-mang|Minh Mang's centralizing reforms in the south]], "abolition of the Saigon (Six Provinces) viceroyalty and dismantling of Le Van Duyet's regime after his death", "revocation of clemency toward banished northern criminals resettled in the Mekong plain", "Minh Mang's anti-Christian edict of early 1833", "posthumous charges of corruption and treason against Le Van Duyet", "resonance with the Le Duy Luong uprising in the north earlier in 1833"]
+causes: [ [[minh-mang|Minh Mang's centralizing reforms in the south]], "abolition of the Saigon (Six Provinces) viceroyalty and dismantling of Le Van Duyet's regime after his death", "revocation of clemency toward banished northern criminals resettled in the Mekong plain", "Minh Mang's anti-Christian edict of early 1833", "posthumous charges of corruption and treason against Le Van Duyet", "resonance with the Le Duy Luong uprising in the north earlier in 1833"]
 consequences: ["fall and demolition of the Saigon fortress in 1835 with mass executions of rebels", "hardening of Minh Mang's assimilationist and anti-Christian policies in the south", "Siamese invasion of Cambodia in 1833 exploiting the crisis, followed by Vietnamese counter-offensive under Truong Minh Giang", "long-term Vietnamese-Siamese war over Cambodian vassalage through the 1840s", "deepened alienation of Chinese, Christian, and northern-exile communities in the Mekong plain from Hue"]
 sources_ingested: 1
 last_updated: 2026-07-03

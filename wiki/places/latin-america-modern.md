@@ -6,7 +6,7 @@ coordinates: ~15°S 60°W (approximate regional center)
 period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: [Spanish and Portuguese empires, then independent nation states under varying elite, caudillo, populist, and military regimes]
 events_here: [the wars of independence (1808–1824), the Haitian Revolution, the Spanish–American War (1898), the Mexican Revolution (1910–1917), the Great Depression]
-processes_here: [[[nationalism]], the liberal export economy, import-substitution [[industrialization]], populism, US informal empire]
+processes_here: [ [[nationalism]], the liberal export economy, import-substitution [[industrialization]], populism, US informal empire]
 sources_ingested: 4
 last_updated: 2026-07-02
 tags: [place, latin-america, long-19th-century]

@@ -5,10 +5,10 @@ date_start: c. 263 BCE
 date_end: 221 BCE
 period: [Classical Antiquity]
 region: [balkans, peloponnese]
-affiliated_with: [[[antigonid-dynasty]], [[achaean-league]] (after 224), [[aratus-of-sicyon]]]
-opposed_by: [[[cleomenes-iii]], [[aetolian-league]], the Dardanians]
-key_events: [[[cleomenean-war-229]], the Hellenic Symmachy (224), [[battle-of-sellasia-222]]]
-key_processes: [[[antigonid-dynasty]], [[hellenistic-monarchy]]]
+affiliated_with: [ [[antigonid-dynasty]], [[achaean-league]] (after 224), [[aratus-of-sicyon]]]
+opposed_by: [ [[cleomenes-iii]], [[aetolian-league]], the Dardanians]
+key_events: [ [[cleomenean-war-229]], the Hellenic Symmachy (224), [[battle-of-sellasia-222]]]
+key_processes: [ [[antigonid-dynasty]], [[hellenistic-monarchy]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, dynasty, classical-antiquity, balkans]

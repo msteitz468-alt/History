@@ -5,10 +5,10 @@ date_start: c. 1150 (estimated)
 date_end: 1219
 period: [High Middle Ages]
 region: [anatolia, levant, mediterranean]
-affiliated_with: [[[cilician-armenian-kingdom|Cilician Armenia]], "the Holy Roman Empire (Henry VI)", "the papacy (Celestine III, Innocent III)", "the principality of Antioch"]
-opposed_by: [[[byzantine-empire|the Byzantine Empire]], "Bohemond IV of Antioch/Tripoli", [[seljuk-empire|the Seljuks of Rum]]]
-key_events: [[[coronation-of-levon-i-1199|his coronation as king (1199)]], "the occupation of Antioch for Raymond-Roupen (1216)"]
-key_processes: [[[armenian-latin-integration]], [[crusades]]]
+affiliated_with: [ [[cilician-armenian-kingdom|Cilician Armenia]], "the Holy Roman Empire (Henry VI)", "the papacy (Celestine III, Innocent III)", "the principality of Antioch"]
+opposed_by: [ [[byzantine-empire|the Byzantine Empire]], "Bohemond IV of Antioch/Tripoli", [[seljuk-empire|the Seljuks of Rum]]]
+key_events: [ [[coronation-of-levon-i-1199|his coronation as king (1199)]], "the occupation of Antioch for Raymond-Roupen (1216)"]
+key_processes: [ [[armenian-latin-integration]], [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, high-middle-ages, anatolia, levant]

@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Antiquity]
 region: [near-east, mesopotamia, anatolia]
 location: [Armenia, Mesopotamia, the Parthian heartland; Ctesiphon; the Persian Gulf]
-actors_primary: [[[trajan|Trajan]], the Parthian Empire (Osroes)]
+actors_primary: [ [[trajan|Trajan]], the Parthian Empire (Osroes)]
 actors_secondary: [the Roman eastern legions, the Jewish diaspora communities]
 event_type: war
 scale_immediate: regional
@@ -61,6 +61,24 @@ that the empire could conquer the Parthian heartland but **could not hold it**, 
 immediate reversal established the principle of **fixed, defensible frontiers** that governed the
 High Empire (see [[augustan-imperial-expansion|the frontier debate]]). The accompanying diaspora
 revolt devastated and transformed the western Jewish communities, a prelude to the Bar Kochba War.
+
+## Historiography
+
+The war's narrative is fragmentary: **Cassius Dio**'s account (Book 68) survives mostly
+in the abridged Byzantine epitome of Xiphilinus, which preserves vivid anecdotes (the
+gaze toward India) but a compressed and uncertain chronology, while the **Historia
+Augusta**'s *Life of Hadrian* is notoriously unreliable for the politically sensitive
+question of whether Hadrian's immediate abandonment of the eastern conquests reflected
+sound strategic judgment or personal jealousy of Trajan's glory — a question ancient
+sources answer according to their bias for or against each emperor. Numismatic evidence
+(coins proclaiming Armenia and Mesopotamia "reduced to the power of the Roman people")
+independently corroborates the fact of annexation, but whether the new province of
+**Assyria** ever functioned as an administered territory, as opposed to existing chiefly
+as propaganda, is disputed among modern historians. The concurrent Jewish diaspora
+revolt is known through a different and equally patchy body of evidence — rabbinic
+literature, scattered papyri from Egypt, and archaeological destruction layers at
+Alexandria and Cyrene — none of which is a continuous narrative, so the revolt's causes,
+coordination, and death toll remain substantially reconstructed rather than documented.
 
 ## Related
 

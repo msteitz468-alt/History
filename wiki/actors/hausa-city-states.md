@@ -8,7 +8,7 @@ region: [west-africa]
 affiliated_with: [the Hausa people, Islam (from the 14th c.), the trans-Saharan and Sudanic trade]
 opposed_by: [Songhay, Kanem-Bornu (intermittent overlords), the Jukun/Kwararafa, later the Fulani jihad]
 key_events: [the legendary Bayajidda/Daura origin, the Islamization of Kano (14th c.), Kano–Katsina rivalry, the Fulani jihad (1804–08)]
-key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], [[state-formation]], urbanism]
+key_processes: [ [[trans-saharan-trade]], [[islamization-of-africa]], [[state-formation]], urbanism]
 sources_ingested: 5
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, west-africa]

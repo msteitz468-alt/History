@@ -1,5 +1,6 @@
 ---
 title: The Nuclear Arms Race
+aliases: [arms-race]
 date_start: 1945 (the first atomic bombs)
 date_end: 1991 (end of the Cold War; arms control thereafter)
 date_precision: year

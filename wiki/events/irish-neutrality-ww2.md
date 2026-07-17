@@ -56,4 +56,8 @@ O'Halpin emphasizes de Valera's calculations: Britain would prevent a German inv
 - `produced:` IRA defeat — wartime suppression of the IRA was the most effective in the state's history
 - `produced:` deepened North-South divergence — Northern Ireland's wartime contribution and the Free State's neutrality widened the political and social gap between the two polities; the 1949 Ireland Act guaranteed Northern Ireland's position in the UK in part as recognition of its war record
 
+## Historiography
+
+Primary sources include Dáil debates, de Valera's own wartime statements, British Foreign Office and MI5 assessments (many only declassified decades later), and Joseph Carroll's pioneering 1975 archival study of covert Anglo-Irish security cooperation, which first established how far Irish "neutrality" diverged from strict impartiality in practice. Later access to British and Irish state archives has substantially revised the picture from a simple story of principled or indifferent isolation toward one of calculated, quietly pro-Allied neutrality. See the Scholarly Debate section above for the central interpretive disputes (Girvin's critical reassessment versus O'Halpin's and Bowen's more sympathetic readings) over how much agency, foresight, and moral cost attached to de Valera's policy.
+
 **Links:** [[jackson-oxford-modern-irish-history-2014]] | [[eamon-de-valera]] | [[second-world-war-1939]] | [[irish-free-state]] | [[republic-of-ireland]] | [[northern-ireland]] | [[british-isles]]

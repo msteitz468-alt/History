@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the state of Lu, the ru (scholar) tradition]
 opposed_by: []
 key_events: [career as teacher and political adviser, compilation of the classics, posthumous canonization]
-key_processes: [[[confucianism]], [[axial-age]], [[mandate-of-heaven]]]
+key_processes: [ [[confucianism]], [[axial-age]], [[mandate-of-heaven]]]
 sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, china, east-asia]

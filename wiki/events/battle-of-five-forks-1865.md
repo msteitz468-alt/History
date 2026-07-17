@@ -36,6 +36,10 @@ Sheridan's aggressive combined arms attack vs. isolated Confederate position and
 
 Forced Lee's evacuation of Petersburg/Richmond and the final retreat to Appomattox.
 
+## Historiography
+
+The battle is documented through the Official Records, Sheridan's own memoirs, and the postwar controversy over Gouverneur Warren's relief from command by Sheridan immediately after the victory — a decision Warren contested for the rest of his life and that was eventually the subject of a formal court of inquiry (1879–81) which posthumously vindicated him. This controversy has made Five Forks as much a case study in Civil War command relations and the reliability of after-action reports as a tactical battle; Sheridan's and Warren's accounts of the day diverge sharply on questions of timing and blame. Confederate-side sources are thinner, reflecting the collapse of Lee's army in the war's final week and the loss of contemporaneous Confederate records during the retreat to Appomattox.
+
 ## Related
 
 - Analysis: [[hubs/warfare/long-19th-century/american-civil-war/battle-of-five-forks-1865]]

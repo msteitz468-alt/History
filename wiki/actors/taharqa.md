@@ -5,10 +5,10 @@ date_start: ~690 BCE (accession)
 date_end: ~664 BCE
 period: [Archaic Period]
 region: [nubia, north-africa]
-affiliated_with: [[[kush-meroe]], the 25th (Kushite) Dynasty]
+affiliated_with: [ [[kush-meroe]], the 25th (Kushite) Dynasty]
 opposed_by: [the Assyrian Empire ([[esarhaddon]], [[ashurbanipal]])]
-key_events: [[[sack-of-thebes-663bce]]]
-key_processes: [[[third-intermediate-period]]]
+key_events: [ [[sack-of-thebes-663bce]]]
+key_processes: [ [[third-intermediate-period]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, archaic-period, nubia]

@@ -7,7 +7,7 @@ period: [Late Antiquity]
 region: [italy, mediterranean]
 location: [Mount Vesuvius, Pompeii, Herculaneum, Stabiae, the Bay of Naples]
 actors_primary: [Mount Vesuvius, the populations of Pompeii and Herculaneum]
-actors_secondary: [[[pliny-the-younger|Pliny the Younger]], Pliny the Elder, the Roman state under Titus]
+actors_secondary: [ [[pliny-the-younger|Pliny the Younger]], Pliny the Elder, the Roman state under Titus]
 event_type: other
 scale_immediate: regional
 scale_consequential: regional

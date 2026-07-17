@@ -6,7 +6,7 @@ coordinates: [39.0 N, 35.6 E]
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age]
 controlled_by: [native Anatolian princes (vassals of Ashur), Pitkhana and Anitta of Kushshara]
 events_here: []
-processes_here: [[[old-assyrian-trade]], [[trade-network-formation]]]
+processes_here: [ [[old-assyrian-trade]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, anatolia, middle-bronze-age]

@@ -6,9 +6,9 @@ date_end: 212 BCE (Roman capture — beyond this volume)
 period: [Archaic Period, Classical Antiquity]
 region: [italy, mediterranean]
 affiliated_with: [Corinth (mother-city), the Deinomenid tyrants, the Syracusan-Acragantine bloc]
-opposed_by: [[[carthage|Carthage]], rival Sicilian Greek cities, its own deported and enslaved populations]
+opposed_by: [ [[carthage|Carthage]], rival Sicilian Greek cities, its own deported and enslaved populations]
 key_events: [the expulsion of the gamoroi and annexation by [[gelon|Gelon]] 485 BCE, battle of [[battle-of-himera-480bce|Himera]] 480 BCE]
-key_processes: [[[western-greek-tyranny]], [[urbanization]], forced population transfer, territorial monarchy]
+key_processes: [ [[western-greek-tyranny]], [[urbanization]], forced population transfer, territorial monarchy]
 sources_ingested: 4
 last_updated: 2026-06-23
 tags: [actor, state, archaic-period, classical-antiquity, italy]

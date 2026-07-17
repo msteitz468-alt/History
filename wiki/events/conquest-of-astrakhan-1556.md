@@ -36,3 +36,7 @@ The conquest produced:
 * **Geopolitical Consolidation:** Complete Russian control over the entire Volga River, securing the southern borders against encirclement (L2090).
 * **Eastern Commerce:** Direct maritime access to the Caspian Sea, enabling the establishment of trade relations with Persia, Central Asia, and eventually India (L2090, L2512, L3594).
 * **Steppe Encirclement:** The Crimean Khanate was isolated as the only remaining major Tartar threat to Russia, though it retained Ottoman support and launched retaliatory raids (including the burning of Moscow in 1571) (L2090, L2130-2132).
+
+## Historiography
+
+The narrative rests on Muscovite chronicle sources and diplomatic correspondence with Nogai and Crimean intermediaries, filtered through Khodarkovsky's synthesis in the Cambridge History of Russia, which reads the campaign through a "steppe frontier" framework rather than an older narrative of simple religious or national conquest. Surviving Astrakhan/Nogai-perspective sources are far sparser than the Russian chancery record, producing an inherently one-sided documentary base; the vassal khan Yamgurchei's own motives for turning to Crimea, for instance, are known only through Russian accounts of his "treachery." Historians debate how far the two-stage annexation reflected a coherent Muscovite imperial strategy toward the Volga and Caspian versus opportunistic exploitation of Nogai factional politics.

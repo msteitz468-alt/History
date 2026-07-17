@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [global]
 process_type: [economic, technological, environmental, demographic]
-driven_by: [[[industrialization]], mechanization, manufactured chemical inputs, global market integration, scientific plant and animal breeding]
+driven_by: [ [[industrialization]], mechanization, manufactured chemical inputs, global market integration, scientific plant and animal breeding]
 produces: [labor release from agriculture, the feeding of an exploding population, the Green Revolution, rising agricultural environmental impact]
 sources_ingested: 1
 last_updated: 2026-06-10

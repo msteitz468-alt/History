@@ -1,8 +1,8 @@
 ---
 title: Middle Bronze Age
 period_number: 9
-preceded_by: [[[early-bronze-age|Early Bronze Age]]]
-followed_by: [[[late-bronze-age|Late Bronze Age]]]
+preceded_by: [ [[early-bronze-age|Early Bronze Age]]]
+followed_by: [ [[late-bronze-age|Late Bronze Age]]]
 date_range: 2,100–1,550 BCE (Near East; regionally variable)
 regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, iran-plateau, aegean, europe, western-europe, central-europe]
 major_themes: [territorial states, the Amorite world, bureaucratic empire, urban revival, palace economy, long-distance trade, multipolar diplomacy]

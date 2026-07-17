@@ -6,7 +6,7 @@ date_end: 748 BCE (close of the period; Nabonassar's reign and the start of the 
 period: [Early Iron Age]
 region: [mesopotamia, near-east]
 affiliated_with: [the cult of Marduk at Babylon, the Chaldaean tribes (Bit-Yakin, Bit-Dakkuru, Bit-Amukani)]
-opposed_by: [[[neo-assyrian-empire|Assyria]], the [[arameans|Aramaeans]], Elam]
+opposed_by: [ [[neo-assyrian-empire|Assyria]], the [[arameans|Aramaeans]], Elam]
 key_events: [the rise of the Chaldaeans, Eriba-Marduk's restoration, the Chaldaean struggle against Assyria (745–626), the accession of [[nabopolassar|Nabopolassar]] (626)]
 key_processes: [tribal infiltration, [[state-formation]], [[assyrian-mass-deportation|mass deportation]]]
 sources_ingested: 3

@@ -8,7 +8,7 @@ region: [western-europe]
 affiliated_with: [the Pippinid/Arnulfing family, Austrasia, the Frankish kingdom]
 opposed_by: [Neustrians, Frisians, Aquitanians, Umayyad raiders, Saxons]
 key_events: [battle of Vinchy 717, battle of Poitiers/Tours 732/733, conquest of Burgundy and Provence]
-key_processes: [[[carolingian-empire|rise of the Carolingians]]]
+key_processes: [ [[carolingian-empire|rise of the Carolingians]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, western-europe]

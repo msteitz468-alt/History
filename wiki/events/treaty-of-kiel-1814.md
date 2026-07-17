@@ -6,13 +6,13 @@ date_precision: exact
 period: [Long 19th Century]
 region: [scandinavia, denmark, norway, sweden, northern-europe]
 location: [Kiel]
-actors_primary: [[[denmark-norway]], [[swedish-empire]]]
+actors_primary: [ [[denmark-norway]], [[swedish-empire]]]
 actors_secondary: []
 event_type: treaty
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[napoleonic-wars]]]
-consequences: [[[scandinavian-nation-state-formation]]]
+causes: [ [[napoleonic-wars]]]
+consequences: [ [[scandinavian-nation-state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [event, long-19th-century, scandinavia]

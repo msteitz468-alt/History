@@ -3,7 +3,7 @@ title: Anatoly Fomenko
 actor_type: person
 date_start: 1945
 date_end: ongoing
-period: []
+period: [Cold War, Contemporary]
 region: [russia, eurasia]
 affiliated_with: []
 opposed_by: []

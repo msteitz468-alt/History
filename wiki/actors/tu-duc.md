@@ -5,7 +5,7 @@ date_start: 1829
 date_end: 1883
 period: [long-19th-century]
 region: [southeast-asia, vietnam]
-affiliated_with: [[[nguyen-dynasty|Nguyen Dynasty]]]
+affiliated_with: [ [[nguyen-dynasty|Nguyen Dynasty]]]
 opposed_by: []
 key_events: []
 key_processes: []

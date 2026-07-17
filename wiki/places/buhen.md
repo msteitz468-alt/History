@@ -4,9 +4,9 @@ place_type: battle-site
 modern_equivalent: submerged under Lake Nasser, Wadi Halfa region, Lower Nubia (Sudan)
 coordinates: ~21.9 N, 31.3 E
 period_active: [Middle Kingdom, New Kingdom]
-controlled_by: [[[actors/middle-kingdom-egypt]], [[actors/new-kingdom-egypt]]]
+controlled_by: [ [[actors/middle-kingdom-egypt]], [[actors/new-kingdom-egypt]]]
 events_here: []
-processes_here: [[[concepts/provider-state]]]
+processes_here: [ [[concepts/provider-state]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [place, north-africa, nubia, middle-kingdom-egypt]

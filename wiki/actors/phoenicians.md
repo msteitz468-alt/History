@@ -6,9 +6,9 @@ date_end: 332 BCE (Tyre falls to Alexander; Carthage continues to 146 BCE)
 period: [Early Iron Age, Archaic Period, Classical Antiquity]
 region: [levant, mediterranean, north-africa, iberia]
 affiliated_with: [the Canaanite city-states (Tyre, Sidon, Byblos), Carthage]
-opposed_by: [[[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]], later Greeks and [[roman-republic|Rome]]]
+opposed_by: [ [[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]], later Greeks and [[roman-republic|Rome]]]
 key_events: [founding of [[carthage|Carthage]] (trad. 814 BCE), spread of the alphabet, Assyrian and Babylonian domination, the [[phoenician-colonization|western colonization]]]
-key_processes: [[[trade-network-formation]], [[alphabet|alphabetic writing]], [[phoenician-colonization|colonization]]]
+key_processes: [ [[trade-network-formation]], [[alphabet|alphabetic writing]], [[phoenician-colonization|colonization]]]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, state, early-iron-age, levant, mediterranean]

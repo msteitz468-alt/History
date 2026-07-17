@@ -7,8 +7,8 @@ period: [Late Antiquity, Early Middle Ages, High Middle Ages]
 region: [japan, east-asia]
 affiliated_with: [the Japanese imperial line (by marriage), the Heian court]
 opposed_by: [the cloistered emperors (insei), rival court families, the rising warrior houses]
-key_events: [[[taika-reform-645]], the Fujiwara regency (850–1068), the insei reaction (1068)]
-key_processes: [[[state-formation]], [[heian-court-culture]]]
+key_events: [ [[taika-reform-645]], the Fujiwara regency (850–1068), the insei reaction (1068)]
+key_processes: [ [[state-formation]], [[heian-court-culture]]]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, dynasty, early-middle-ages, japan, east-asia]

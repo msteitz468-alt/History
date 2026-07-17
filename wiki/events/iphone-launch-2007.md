@@ -29,4 +29,16 @@ On 9 January 2007 at Macworld San Francisco, Steve Jobs unveiled the iPhone, des
 
 **Consequence Analysis**: The smartphone became the dominant personal computer. Created the app store economy. Shifted power from carriers and traditional phone makers (Nokia, Motorola, BlackBerry) to platform companies. Accelerated the post-PC era.
 
+## Historiography
+
+Isaacson's biography (built on interviews with Jobs and the Apple
+design/engineering team) is the standard secondary source and is corroborated by
+extensive contemporary press coverage of the Macworld unveiling. Some engineering detail
+(e.g., the internal "Project Purple" development) has since been supplemented by
+participant memoirs and journalistic retrospectives (e.g., accounts by team members
+published years later), which occasionally diverge on credit for specific innovations.
+As with other very recent corporate history, no settled academic historiography exists;
+interpretation of the iPhone's significance is largely a matter of industry and
+technology-history commentary rather than contested scholarly debate.
+
 **Related**: [[actors/jobs-steve]] · [[actors/apple-inc]] · [[actors/ive-jonathan]] · [[sources/isaacson-steve-jobs-2011]]

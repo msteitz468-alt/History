@@ -4,9 +4,9 @@ place_type: geographic-feature
 modern_equivalent: [Peru–Bolivia border, the altiplano at c. 3,810 m elevation]
 coordinates: [15.8°S, 69.3°W]
 period_active: [Archaic Period to present]
-controlled_by: [[[tiwanaku|Tiwanaku]], the [[aymara-kingdoms|Aymara kingdoms]], the [[inca-empire|Inka]]]
+controlled_by: [ [[tiwanaku|Tiwanaku]], the [[aymara-kingdoms|Aymara kingdoms]], the [[inca-empire|Inka]]]
 events_here: [the rise of Tiwanaku, the post-Tiwanaku Aymara reorganization, Inka incorporation of Collasuyu]
-processes_here: [[[andean-state-formation]], [[vertical-archipelago]]]
+processes_here: [ [[andean-state-formation]], [[vertical-archipelago]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, andes, late-antiquity, late-middle-ages]

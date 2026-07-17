@@ -5,10 +5,10 @@ date_start: ~2285 BCE (floruit under Sargon; approximate)
 date_end: ~2250 BCE
 period: [Early Bronze Age]
 region: [mesopotamia]
-affiliated_with: [[[akkadian-empire]], [[ur|Ur (cult of Nanna)]]]
+affiliated_with: [ [[akkadian-empire]], [[ur|Ur (cult of Nanna)]]]
 opposed_by: []
 key_events: [the revolt against Rimush and her exile from Ur]
-key_processes: [[[writing-and-record-keeping]], [[temple-economy]]]
+key_processes: [ [[writing-and-record-keeping]], [[temple-economy]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, early-bronze-age, mesopotamia]

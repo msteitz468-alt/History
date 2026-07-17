@@ -5,10 +5,10 @@ date_start: 1803
 date_end: 1856
 period: [Age of Expansion, Long 19th Century]
 region: [australia]
-affiliated_with: [[[british-empire]], [[new-south-wales-colony]]]
+affiliated_with: [ [[british-empire]], [[new-south-wales-colony]]]
 opposed_by: []
 key_events: [Settlement at Sullivan's Cove (Hobart) 1803–04, Castle Hill Uprising 1804, Norfolk Island abandonment and transfer 1804–14, Macquarie Harbour penal station 1821, Bigge Report 1823, Black War c.1824–31, Van Diemen's Land renamed Tasmania 1856]
-key_processes: [[[convict-transportation-australia]], [[settler-colonialism]]]
+key_processes: [ [[convict-transportation-australia]], [[settler-colonialism]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, australia, age-of-expansion, long-19th-century]

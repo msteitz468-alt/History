@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece]
 location: [Athens]
-actors_primary: [[[places/athens|Athens]], [[pericles]]]
+actors_primary: [ [[places/athens|Athens]], [[pericles]]]
 actors_secondary: [the Athenian population packed within the Long Walls]
 event_type: epidemic
 scale_immediate: local
@@ -67,6 +67,24 @@ leadership of demagogues like **[[cleon]]** and the eventual disasters of the
 description** of disease and of social collapse.
 
 **Kagan (2003)** stresses contingency and leadership vacuum: the plague arrived precisely because of Periclean crowding; it "changed their minds" against Pericles and the war; religious blame and political attacks (Cleon prominent) followed the second invasion. "The death of Pericles deprived Athens of a leader with unique qualities... No one had these traits in greater measure than Pericles himself." War party (likely Cleon-led) drove terror measures while Pericles sidelined. (Range 2: Ch. 7-8)
+
+## Historiography
+
+The plague is known almost exclusively from **Thucydides**, an eyewitness and survivor
+who deliberately withheld a diagnosis, describing symptoms in clinical detail precisely
+so the disease could be recognized "if it should ever break out again" — a method prized
+by modern historians as an early example of empirical, non-partisan observation, but one
+that leaves the pathogen's identity permanently uncertain since no other classical
+source treats it in comparable depth. Modern epidemiologists and historians have
+proposed numerous candidates from Thucydides' symptom list — typhus, smallpox, measles,
+epidemic typhoid, and even an Ebola-like hemorrhagic fever — none confirmed, since no
+ancient DNA evidence has been recovered and the retrospective diagnosis of ancient
+epidemics from literary description alone is inherently unreliable. Later historians
+such as Kagan supplement Thucydides with fragmentary references in Old Comedy
+(Aristophanes) and inference from casualty lists, but there is no independent
+corroborating narrative; the political interpretation of the plague — how much it
+should be blamed on Periclean strategy versus treated as sheer misfortune — is itself an
+ancient debate that Thucydides' own account already stages.
 
 ## Related
 

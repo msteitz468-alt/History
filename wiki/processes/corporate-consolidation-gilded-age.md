@@ -6,8 +6,8 @@ date_precision: approximate
 period: [long-19th-century, world-wars-era]
 region: [north-america]
 process_type: economic
-driven_by: [[[processes/second-industrial-revolution]], "railroad expansion", "economies of scale", "ruinous price competition"]
-produces: [[[concepts/business-trust]], "the great trusts (Standard Oil, U.S. Steel, etc.)", "the antitrust movement"]
+driven_by: [ [[processes/second-industrial-revolution]], "railroad expansion", "economies of scale", "ruinous price competition"]
+produces: [ [[concepts/business-trust]], "the great trusts (Standard Oil, U.S. Steel, etc.)", "the antitrust movement"]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [process, economic, long-19th-century, north-america, gilded-age, trust, monopoly, big-business]

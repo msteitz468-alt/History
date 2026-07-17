@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Antiquity]
 region: [mediterranean, mediterranean-world, north-africa, east-africa]
 location: [Roman Empire]
-actors_primary: [[[roman-empire]]]
+actors_primary: [ [[roman-empire]]]
 actors_secondary: ["Christian communities", "Emperors Decius, Gallus, Claudius Gothicus"]
 event_type: epidemic
 scale_immediate: civilizational

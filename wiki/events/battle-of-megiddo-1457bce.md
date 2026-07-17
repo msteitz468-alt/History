@@ -6,13 +6,13 @@ date_precision: approximate
 period: [Late Bronze Age]
 region: [levant]
 location: [Megiddo, Jezreel Valley]
-actors_primary: [[[thutmose-iii]], "the ruler of Kadesh", "a Levantine coalition"]
+actors_primary: [ [[thutmose-iii]], "the ruler of Kadesh", "a Levantine coalition"]
 actors_secondary: [Mitanni-aligned Syrian states]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[egyptian-imperialism|Egyptian drive to control the Levant trade routes]], "a Levantine revolt led by the ruler of Kadesh"]
-consequences: [[[egyptian-imperialism|Egyptian dominance over Palestine]], "the 18th-Dynasty vassal system", "annual Levantine tribute"]
+causes: [ [[egyptian-imperialism|Egyptian drive to control the Levant trade routes]], "a Levantine revolt led by the ruler of Kadesh"]
+consequences: [ [[egyptian-imperialism|Egyptian dominance over Palestine]], "the 18th-Dynasty vassal system", "annual Levantine tribute"]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [event, late-bronze-age, levant]

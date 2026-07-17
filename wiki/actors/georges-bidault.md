@@ -1,5 +1,6 @@
 ---
 title: "Georges Bidault"
+aliases: [bidault-georges]
 actor_type: "person"
 date_start: "1899"
 date_end: "1983"

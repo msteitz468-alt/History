@@ -6,7 +6,7 @@ coordinates: [~20.3° S, 30.9° E]
 period_active: [High Middle Ages, Late Middle Ages]
 controlled_by: [the Shona state; preceded by Mapungubwe, succeeded by Torwa (Khami) and Mutapa]
 events_here: [foundation of the hill settlement (late 11th c.), construction of the Great Enclosure (14th c.), peak (15th c.), abandonment (late 15th c.)]
-processes_here: [[[indian-ocean-trade]], pastoralism, gold mining and trade]
+processes_here: [ [[indian-ocean-trade]], pastoralism, gold mining and trade]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, southern-africa, sub-saharan-africa, high-middle-ages]

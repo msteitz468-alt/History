@@ -6,12 +6,12 @@ date_precision: exact
 period: [Early Middle Ages]
 region: [british-isles]
 location: [Clontarf, near Dublin, Ireland]
-actors_primary: [[[brian-boru|Brian Bóruma]], the Laigin (Leinster) and their Hiberno-Norse and Orkney allies]
+actors_primary: [ [[brian-boru|Brian Bóruma]], the Laigin (Leinster) and their Hiberno-Norse and Orkney allies]
 actors_secondary: [Sigurd of Orkney, Máel Mórda of Leinster, the Hiberno-Norse of Dublin]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[brian-boru|Brian Bóruma's]] domination of Ireland, the revolt of the Leinstermen against his overlordship, Hiberno-Norse Dublin's resistance]
+causes: [ [[brian-boru|Brian Bóruma's]] domination of Ireland, the revolt of the Leinstermen against his overlordship, Hiberno-Norse Dublin's resistance]
 consequences: [the death of Brian Bóruma, the post-Brian "interregnum" and the high-kingship "with opposition", the mythologisation of the battle as an Irish–Norse contest]
 sources_ingested: 1
 last_updated: 2026-06-27

@@ -5,8 +5,8 @@ modern_equivalent: [Cilicia, approximately modern Çukurova / Adana province in 
 coordinates: [37.0, 35.3]
 period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [independent kingdom (c. Ammuna's reign onward), [[hittites|Hatti]] (at times, partially), [[mitanni|Mitanni]] (mid-15th century BCE), [[hittites|Hatti]] again (later empire period)]
-events_here: [[[telipinu-edict-1500bce|Telipinu-Isputahsu treaty (first known Hittite treaty)]]]
-processes_here: [[[hittite-vassal-treaties|vassal-treaty system]]]
+events_here: [ [[telipinu-edict-1500bce|Telipinu-Isputahsu treaty (first known Hittite treaty)]]]
+processes_here: [ [[hittite-vassal-treaties|vassal-treaty system]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, anatolia, near-east, middle-bronze-age, late-bronze-age]

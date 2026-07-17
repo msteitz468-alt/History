@@ -6,7 +6,7 @@ coordinates: [25.6 N, 85.1 E]
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Magadha (Haryankas, Shaishunagas, Nandas), the [[mauryan-empire|Mauryas]], the [[gupta-empire|Guptas]], the Palas]
 events_here: [founding as a fort c. 5th c. BCE, capital shift from Rajagriha, Mauryan imperial capital, Megasthenes' embassy]
-processes_here: [[[state-formation]], [[empire]], [[vedic-age|the Second Urbanization]]]
+processes_here: [ [[state-formation]], [[empire]], [[vedic-age|the Second Urbanization]]]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [place, south-asia, classical-antiquity]

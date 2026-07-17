@@ -5,8 +5,8 @@ date_start: c. 220 CE (active from the reign of Shapur I)
 date_end: c. 293 CE (last attested under Narseh)
 period: [Late Antiquity]
 region: [iran-plateau, mesopotamia]
-affiliated_with: [[[sasanian-empire|Sasanian Empire]], [[zoroastrianism|Zoroastrian priesthood]]]
-opposed_by: [[[manichaeism|Manichaeans]], Christians, Jews, Buddhists, and other minorities he claims to have persecuted]
+affiliated_with: [ [[sasanian-empire|Sasanian Empire]], [[zoroastrianism|Zoroastrian priesthood]]]
+opposed_by: [ [[manichaeism|Manichaeans]], Christians, Jews, Buddhists, and other minorities he claims to have persecuted]
 key_events: [his rise under four kings, the imprisonment of Mani, the persecution of minorities under Bahram II]
 key_processes: [the institutionalization of the Zoroastrian priesthood in early Sasanian Iran]
 sources_ingested: 1

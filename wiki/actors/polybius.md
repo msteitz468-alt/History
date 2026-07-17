@@ -5,10 +5,10 @@ date_start: c. 200 BCE
 date_end: c. 118 BCE
 period: [Classical Antiquity]
 region: [mediterranean-world, balkans]
-affiliated_with: [[[achaean-league]], [[scipio-aemilianus]]]
+affiliated_with: [ [[achaean-league]], [[scipio-aemilianus]]]
 opposed_by: []
-key_events: [[[wars-of-the-diadochi-323]], [[social-war-220]], [[rise-of-rome]]]
-key_processes: [[[hellenistic-historiography]], [[hellenistic-world]]]
+key_events: [ [[wars-of-the-diadochi-323]], [[social-war-220]], [[rise-of-rome]]]
+key_processes: [ [[hellenistic-historiography]], [[hellenistic-world]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, mediterranean-world]

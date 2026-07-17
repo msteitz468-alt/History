@@ -6,7 +6,7 @@ date_end: 62 BCE
 period: [Classical Antiquity]
 region: [italy]
 affiliated_with: [the patrician nobility; the Sullan executioners (earlier); the indebted and dispossessed]
-opposed_by: [[[cicero]], the Senate, Cato]
+opposed_by: [ [[cicero]], the Senate, Cato]
 key_events: [the [[catilinarian-conspiracy-63bce|conspiracy]] of 63, the battle of Pistoria (62)]
 key_processes: []
 sources_ingested: 3

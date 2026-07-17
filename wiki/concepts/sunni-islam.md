@@ -1,5 +1,6 @@
 ---
 title: Sunni Islam (Jama'i-Sunni Islam)
+aliases: [sunni]
 concept_type: analytical / religious / ideological
 origin: "Emerged as a distinct confessional identity from the Jama'ah (community solidarity) factions of Marwani and early 'Abbasid Islam; crystallized as 'Shari'ah-mindedness' consolidated c. 800–945; Hodgson's preferred term is 'Jama'i-Sunni' to emphasize both community (jama'ah) and prophetic practice (sunnah)"
 applies_to_periods:

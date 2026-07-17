@@ -8,7 +8,7 @@ region: [eastern-europe, russia]
 affiliated_with: [the Romanov dynasty, the Tsardom/Empire of Russia]
 opposed_by: [Sweden (Charles XII), the Ottoman Empire, the conservative boyars and the strel'tsy]
 key_events: [the Grand Embassy to western Europe (1697–98), the suppression of the strel'tsy (1698), the Great Northern War (1700–21), the founding of St Petersburg (1703), the victory at Poltava (1709), the proclamation of the Russian Empire (1721)]
-key_processes: [[[state-formation]], "the westernization of Russia", [[balance-of-power]], [[military-revolution]]]
+key_processes: [ [[state-formation]], "the westernization of Russia", [[balance-of-power]], [[military-revolution]]]
 sources_ingested: 5
 last_updated: 2026-06-26
 reingest_note: "Reingest via Deployed Subagent Strategy (Massie 1980, 8 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, table, verbatim (Great Embassy, Northern War to Poltava incl. post-Poltava/Lewenhaupt/Mazeppa/Baturin/winter/Veprik, reforms, Catherine/Pruth/Alexis, legacy), counterfactuals (empire forge). Ranges 02, 03, 04, 08 integrated. Reciprocal link to detailed bio. See detailed bio for full analysis."

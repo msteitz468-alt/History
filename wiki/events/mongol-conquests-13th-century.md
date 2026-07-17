@@ -6,13 +6,13 @@ date_precision: year
 period: [High Middle Ages, Late Middle Ages]
 region: [steppe, central-asia, china, east-asia, iran-plateau, mesopotamia, near-east, eastern-europe, silk-road]
 location: [Eurasia]
-actors_primary: [[[genghis-khan]], [[mongol-empire]]]
-actors_secondary: [[[abbasid-caliphate]], [[song-dynasty]], [[mamluk-sultanate]], [[rus-principalities]], "the Jin and Xixia", "the Khwarazmian Empire"]
+actors_primary: [ [[genghis-khan]], [[mongol-empire]]]
+actors_secondary: [ [[abbasid-caliphate]], [[song-dynasty]], [[mamluk-sultanate]], [[rus-principalities]], "the Jin and Xixia", "the Khwarazmian Empire"]
 event_type: [war, migration, transition]
 scale_immediate: hemispheric
 scale_consequential: global
-causes: [[[genghis-khan]], [[pastoral-nomadism]], "the decomposition of steppe order after the Liao/Jin", "Mongol security and trade interests"]
-consequences: [[[mongol-empire]], pax mongolica, [[chinggis-exchange]], [[black-death]], [[golden-horde]], [[ilkhanate]], "the redrawing of the Eurasian political map"]
+causes: [ [[genghis-khan]], [[pastoral-nomadism]], "the decomposition of steppe order after the Liao/Jin", "Mongol security and trade interests"]
+consequences: [ [[mongol-empire]], pax mongolica, [[chinggis-exchange]], [[black-death]], [[golden-horde]], [[ilkhanate]], "the redrawing of the Eurasian political map"]
 sources_ingested: 6
 last_updated: 2026-06-22
 tags: [event, transition, high-middle-ages, late-middle-ages, steppe]

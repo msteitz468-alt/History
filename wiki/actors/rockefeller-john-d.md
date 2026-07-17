@@ -5,10 +5,10 @@ date_start: 1839
 date_end: 1937
 period: [long-19th-century, world-wars-era]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[actors/standard-oil]], [[actors/flagler-henry]], [[actors/gates-frederick-t]], [[actors/rockefeller-john-d-jr]]]
-opposed_by: [[[actors/tarbell-ida]], "Henry Demarest Lloyd", "U.S. Department of Justice"]
-key_events: [[[events/cleveland-massacre-1872]], [[events/standard-oil-dissolution-1911]], [[events/ludlow-massacre-1914]]]
-key_processes: [[[processes/industrialization]], [[processes/corporate-consolidation-gilded-age]]]
+affiliated_with: [ [[actors/standard-oil]], [[actors/flagler-henry]], [[actors/gates-frederick-t]], [[actors/rockefeller-john-d-jr]]]
+opposed_by: [ [[actors/tarbell-ida]], "Henry Demarest Lloyd", "U.S. Department of Justice"]
+key_events: [ [[events/cleveland-massacre-1872]], [[events/standard-oil-dissolution-1911]], [[events/ludlow-massacre-1914]]]
+key_processes: [ [[processes/industrialization]], [[processes/corporate-consolidation-gilded-age]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [actor, person, long-19th-century, world-wars-era, north-america, eastern-north-america, rockefeller-john-d, standard-oil, gilded-age, philanthropy]

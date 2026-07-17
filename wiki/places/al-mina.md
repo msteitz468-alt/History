@@ -6,7 +6,7 @@ coordinates: [36.1 N, 35.9 E]
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [the neo-Hittite kingdom of Pa(t)tin/Unqi, then Assyria (from 738 BCE), Babylon, Persia]
 events_here: [the foundation of the Greek trading station (~825 BCE), the destruction ~700 BCE and re-occupation, the Persian-era re-planning (~520 BCE)]
-processes_here: [[[orientalizing-revolution|the orientalizing revolution]], Greek–Levantine trade, the transmission of the alphabet]
+processes_here: [ [[orientalizing-revolution|the orientalizing revolution]], Greek–Levantine trade, the transmission of the alphabet]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, levant, near-east, early-iron-age, archaic-period]

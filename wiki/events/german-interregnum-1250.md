@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [western-europe]
 location: [the Holy Roman Empire (Germany)]
-actors_primary: [[[frederick-ii-hohenstaufen|the dying Hohenstaufen dynasty]], Richard of Cornwall, Alfonso X of Castile, [[rudolf-of-habsburg|Rudolf of Habsburg]]]
+actors_primary: [ [[frederick-ii-hohenstaufen|the dying Hohenstaufen dynasty]], Richard of Cornwall, Alfonso X of Castile, [[rudolf-of-habsburg|Rudolf of Habsburg]]]
 actors_secondary: [the seven prince-electors, Ottokar II of Bohemia, the Rhenish town-league]
 event_type: [political, transition]
 scale_immediate: regional

@@ -1,18 +1,19 @@
 ---
 title: The Warring States Period
+aliases: [warring-states-period]
 date_start: 475 BCE
 date_end: 221 BCE (Qin unification of China)
 date_precision: year
 period: [Classical Antiquity]
 region: [china, east-asia]
 location: [the seven Warring States: Qin, Chu, Qi, Yan, Zhao, Wei, Han]
-actors_primary: [[[qin-dynasty|the state of Qin]], the rival kingdoms (Chu, Qi, Yan, Zhao, Wei, Han)]
+actors_primary: [ [[qin-dynasty|the state of Qin]], the rival kingdoms (Chu, Qi, Yan, Zhao, Wei, Han)]
 actors_secondary: [the declining [[zhou-dynasty|Zhou royal house]], the [[xiongnu]] and steppe peoples]
 event_type: [transition, political]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[zhou-dynasty|collapse of Zhou royal authority]], rise of sovereign territorial states, military and administrative competition]
-consequences: [[[qin-dynasty|Qin unification of China 221 BCE]], the centralized bureaucratic imperial state, Legalist statecraft, the [[axial-age|classical schools of thought]]]
+causes: [ [[zhou-dynasty|collapse of Zhou royal authority]], rise of sovereign territorial states, military and administrative competition]
+consequences: [ [[qin-dynasty|Qin unification of China 221 BCE]], the centralized bureaucratic imperial state, Legalist statecraft, the [[axial-age|classical schools of thought]]]
 sources_ingested: 5
 last_updated: 2026-06-26
 tags: [event, transition, classical-antiquity, china, east-asia]

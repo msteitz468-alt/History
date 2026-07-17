@@ -5,10 +5,10 @@ date_start: c. 1175 BCE (settlement)
 date_end: c. 604 BCE (Babylonian conquest of the pentapolis)
 period: [Early Iron Age]
 region: [levant]
-affiliated_with: [[[sea-peoples|Sea Peoples]] (Peleset)]
-opposed_by: [[[hebrew-kingdom|Israelites]], [[new-kingdom-egypt|Egypt]]]
-key_events: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], settlement of the southern Levantine coast]
-key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]]]
+affiliated_with: [ [[sea-peoples|Sea Peoples]] (Peleset)]
+opposed_by: [ [[hebrew-kingdom|Israelites]], [[new-kingdom-egypt|Egypt]]]
+key_events: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]], settlement of the southern Levantine coast]
+key_processes: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, movement, early-iron-age, levant]

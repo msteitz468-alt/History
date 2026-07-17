@@ -5,10 +5,10 @@ date_start: "1002 (born, Alsace); 1049 (elected pope)"
 date_end: "1054 (died, Rome, weeks after release from Norman captivity)"
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[papacy]], [[gregorian-reform]], "Emperor Henry III", "reform circle (Humbert of Moyenmoutier, Frederick of Lorraine, Hildebrand, Peter Damian)"]
+affiliated_with: [ [[papacy]], [[gregorian-reform]], "Emperor Henry III", "reform circle (Humbert of Moyenmoutier, Frederick of Lorraine, Hildebrand, Peter Damian)"]
 opposed_by: ["simoniac and married clergy", "Norman freebooters in southern Italy"]
 key_events: ["Synod of Sutri aftermath and German reforming popes (1046–)", "Roman and provincial reforming synods (1049–)", [[east-west-schism-1054]], "defeat and captivity by the Normans (1053–54)"]
-key_processes: [[[gregorian-reform]], [[papal-monarchy]]]
+key_processes: [ [[gregorian-reform]], [[papal-monarchy]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, western-europe, mediterranean, papacy]

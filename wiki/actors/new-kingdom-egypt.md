@@ -8,7 +8,7 @@ region: [north-africa, levant, near-east]
 affiliated_with: []
 opposed_by: [the [[hyksos|Hyksos]], the princedom of Kush, [[mitanni|Mitanni]] (then ally), the [[hittites|Hittites]], the city-states of Syria-Palestine]
 key_events: [expulsion of the [[hyksos|Hyksos]] (~1550 BCE), the conquests of [[thutmose-iii|Thutmose III]] in Syria, the golden age of [[amenhotep-iii|Amenophis III]], the [[atenism|Amarna revolution]] under [[akhenaten|Akhenaten]] and the end of the dynasty]
-key_processes: [[[imperialism]], [[egyptian-imperialism]], [[state-formation]], [[interpolity-law]], [[atenism]], [[egyptian-temple-economy]], [[birth-of-economic-man]]]
+key_processes: [ [[imperialism]], [[egyptian-imperialism]], [[state-formation]], [[interpolity-law]], [[atenism]], [[egyptian-temple-economy]], [[birth-of-economic-man]]]
 sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, north-africa, near-east]

@@ -32,4 +32,8 @@ The Famine permanently altered Ireland: it began a century-long demographic decl
 policy amounted to negligence or something closer to culpability remains contested — part of the wider
 [[irish-historiography-revisionism|revisionism debate]].
 
+## Historiography
+
+The Famine's evidentiary base includes British parliamentary papers and relief-administration correspondence (notably Charles Trevelyan's own writings, which reveal the providentialist and laissez-faire assumptions shaping relief policy), Poor Law records, contemporary press coverage (Irish and British, sharply divergent in tone), and oral-tradition folklore collected later by the Irish Folklore Commission. The central and still-unresolved historiographical dispute is whether British policy amounted to negligence within the ideological constraints of the time or something closer to culpable indifference bordering on intent — a debate sharpened by nationalist historiography (which has at times used the word "genocide") and contested by revisionist historians who stress the limits of contemporary economic knowledge and state capacity. Population and mortality estimates themselves remain approximate, reconstructed retrospectively from incomplete census and parish records rather than direct contemporary counts. The collection's engagement with this dispute is flagged as part of the wider revisionism debate in modern Irish historiography (see [[irish-historiography-revisionism]]).
+
 > Scaffold page for [[jackson-oxford-modern-irish-history-2014|the Oxford Handbook of Modern Irish History]] ingest.

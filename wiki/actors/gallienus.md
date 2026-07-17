@@ -5,10 +5,10 @@ date_start: 218 CE
 date_end: 268 CE
 period: [Late Antiquity]
 region: [italy, mediterranean-world, balkans]
-affiliated_with: [[[roman-imperial-army]], [[roman-empire]]]
-opposed_by: [[[postumus]], [[sasanian-empire]], [[gothic-peoples]]]
+affiliated_with: [ [[roman-imperial-army]], [[roman-empire]]]
+opposed_by: [ [[postumus]], [[sasanian-empire]], [[gothic-peoples]]]
 key_events: []
-key_processes: [[[third-century-crisis]], [[militarization-of-the-roman-state]]]
+key_processes: [ [[third-century-crisis]], [[militarization-of-the-roman-state]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]

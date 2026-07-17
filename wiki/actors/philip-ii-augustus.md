@@ -5,8 +5,8 @@ date_start: 1165 (born)
 date_end: 1223 (died)
 period: [High Middle Ages]
 region: [western-europe]
-affiliated_with: [[[capetian-dynasty|the Capetian dynasty]]]
-opposed_by: [[[angevin-empire|the Angevin kings]] (Henry II, Richard I, John), [[frederick-i-barbarossa|the Hohenstaufen]] (intermittently)]
+affiliated_with: [ [[capetian-dynasty|the Capetian dynasty]]]
+opposed_by: [ [[angevin-empire|the Angevin kings]] (Henry II, Richard I, John), [[frederick-i-barbarossa|the Hohenstaufen]] (intermittently)]
 key_events: ["the conquest of Normandy (1204)", "the Battle of Bouvines (1214)", "the Third Crusade (1190)"]
 key_processes: []
 sources_ingested: 1

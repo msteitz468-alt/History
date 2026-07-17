@@ -5,8 +5,8 @@ date_start: c. 495 BCE (birth)
 date_end: 429 BCE (death in the plague)
 period: [Classical Antiquity]
 region: [central-greece, aegean]
-affiliated_with: [[[athens]], the [[alcmaeonids|Alcmaeonid]] family, the democratic faction, [[ephialtes]]]
-opposed_by: [[[cimon]], Thucydides son of Melesias, the conservative aristocracy, [[sparta]]]
+affiliated_with: [ [[athens]], the [[alcmaeonids|Alcmaeonid]] family, the democratic faction, [[ephialtes]]]
+opposed_by: [ [[cimon]], Thucydides son of Melesias, the conservative aristocracy, [[sparta]]]
 key_events: [the reform of the Areopagus 462/1 BCE, the citizenship law 451/0 BCE, jury pay, the Periclean building program, the Thirty Years' Peace 446/5 BCE, the Samian War 440 BCE, the outbreak of the [[peloponnesian-war|Peloponnesian War]] 431 BCE]
 key_processes: [the radical [[athenian-democracy]], the [[delian-league|Athenian empire]]]
 sources_ingested: 3

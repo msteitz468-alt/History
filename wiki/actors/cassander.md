@@ -5,10 +5,10 @@ date_start: c. 355 BCE
 date_end: 297 BCE
 period: [Classical Antiquity]
 region: [balkans, mediterranean]
-affiliated_with: [[[antipater]], [[lysimachus]], [[ptolemy-i-soter]]]
-opposed_by: [[[polyperchon]], [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]], [[olympias]]]
-key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]]]
-key_processes: [[[hellenistic-world]]]
+affiliated_with: [ [[antipater]], [[lysimachus]], [[ptolemy-i-soter]]]
+opposed_by: [ [[polyperchon]], [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]], [[olympias]]]
+key_events: [ [[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]]]
+key_processes: [ [[hellenistic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, balkans]

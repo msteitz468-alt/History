@@ -1,5 +1,6 @@
 ---
 title: Helmuth von Moltke the Younger
+aliases: [moltke-helmuth-von-the-younger]
 actor_type: person
 date_start: 1848
 date_end: 1916

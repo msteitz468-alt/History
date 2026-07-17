@@ -6,7 +6,7 @@ coordinates: [36.85 N, 10.32 E]
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Phoenician/Punic city-state, [[roman-republic|Rome]], [[roman-empire|the Roman Empire]], the Vandal Kingdom, [[byzantine-empire|Byzantium]], the early Caliphate]
 events_here: [foundation c. 814 BCE, the Punic Wars, Roman destruction 146 BCE, Roman refoundation, Vandal capture 439, Byzantine reconquest 533, Arab conquest 698]
-processes_here: [[[urbanization]]]
+processes_here: [ [[urbanization]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [place, north-africa, mediterranean, classical-antiquity, late-antiquity]

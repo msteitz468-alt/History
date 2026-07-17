@@ -6,12 +6,12 @@ date_precision: year
 period: [Early Middle Ages]
 region: [norway, scandinavia]
 location: [Stiklestad, Trøndelag, Norway]
-actors_primary: [[[olaf-haraldsson|Olaf Haraldsson (St Olaf)]], coalition of Norwegian magnates and farmers]
-actors_secondary: [[[cnut-the-great|Cnut the Great]] (in whose interest the magnates acted)]
+actors_primary: [ [[olaf-haraldsson|Olaf Haraldsson (St Olaf)]], coalition of Norwegian magnates and farmers]
+actors_secondary: [ [[cnut-the-great|Cnut the Great]] (in whose interest the magnates acted)]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[olaf-haraldsson|Olaf's]] attempt to recover the Norwegian throne after exile, magnate resistance to his assertive royal and Christianizing policy, [[cnut-the-great|Cnut's]] backing of his opponents]
+causes: [ [[olaf-haraldsson|Olaf's]] attempt to recover the Norwegian throne after exile, magnate resistance to his assertive royal and Christianizing policy, [[cnut-the-great|Cnut's]] backing of his opponents]
 consequences: [Olaf's death and rapid canonisation, the cult of St Olaf as Norway's eternal king, the eventual collapse of Danish overlordship in Norway, consolidation of Norwegian Christianity and monarchy]
 sources_ingested: 1
 last_updated: 2026-06-27

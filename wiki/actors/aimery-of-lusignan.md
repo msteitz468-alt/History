@@ -5,10 +5,10 @@ date_start: c. 1145 (Poitou)
 date_end: 1205-04-01 (Cyprus)
 period: [High Middle Ages]
 region: [cyprus, levant]
-affiliated_with: [[[lusignan-dynasty]], [[kingdom-of-cyprus]], "the Kingdom of Jerusalem", "Emperor Henry VI"]
+affiliated_with: [ [[lusignan-dynasty]], [[kingdom-of-cyprus]], "the Kingdom of Jerusalem", "Emperor Henry VI"]
 opposed_by: ["Ralph of Tiberias (exile)", "Thierry of Flanders (claimant 1203)"]
 key_events: ["Latin hierarchy of Cyprus (1196)", "coronation as king of Cyprus (1197)", "union of Cyprus and Jerusalem crowns (1197–1205)"]
-key_processes: [[[crusades]]]
+key_processes: [ [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, cyprus, levant]

@@ -1,5 +1,6 @@
 ---
 title: The Kingdom of Kush (Napata and Meroe)
+aliases: [meroe]
 actor_type: state
 date_start: c. 850 BCE (rise of the Napatan kingdom at el-Kurru)
 date_end: c. 350 CE (fall of Meroe; conquest by Aksum)
@@ -8,7 +9,7 @@ region: [north-africa, horn-of-africa, sub-saharan-africa]
 affiliated_with: [the cult of Amun at Napata/Thebes, later the god Apedemak; the Indian Ocean and Nile trade]
 opposed_by: [the Assyrians, the 26th-dynasty Egyptians, Roman Egypt, the rising [[aksum|Aksum]]]
 key_events: [transformation of a Nubian chieftaincy into a kingdom (9th c. BCE), the 25th "Kushite" dynasty conquest of Egypt (c. 728 BCE), Assyrian expulsion from Egypt (664 BCE), shift of capital to Meroe (after c. 300 BCE), fall to Aksum (c. 350 CE)]
-key_processes: [[[trade-network-formation]], [[empire]], [[indian-ocean-trade]]]
+key_processes: [ [[trade-network-formation]], [[empire]], [[indian-ocean-trade]]]
 sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, state, classical-antiquity, north-africa, sub-saharan-africa]

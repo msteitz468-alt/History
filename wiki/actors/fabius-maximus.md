@@ -5,9 +5,9 @@ date_start: c. 280 BCE
 date_end: 203 BCE
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
-affiliated_with: [[[roman-republic]], the Fabii]
-opposed_by: [[[hannibal]]; politically [[scipio-africanus|the Scipios]] and Minucius Rufus]
-key_events: [[[second-punic-war-218-201bce]], dictatorship of 217, recapture of Tarentum (209)]
+affiliated_with: [ [[roman-republic]], the Fabii]
+opposed_by: [ [[hannibal]]; politically [[scipio-africanus|the Scipios]] and Minucius Rufus]
+key_events: [ [[second-punic-war-218-201bce]], dictatorship of 217, recapture of Tarentum (209)]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11

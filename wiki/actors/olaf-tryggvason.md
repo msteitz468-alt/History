@@ -5,10 +5,10 @@ date_start: c. 960s CE
 date_end: 1000 CE
 period: [Early Middle Ages]
 region: [norway, scandinavia]
-affiliated_with: [[[norway|Norway]]]
+affiliated_with: [ [[norway|Norway]]]
 opposed_by: [Sweyn Forkbeard of Denmark and the Swedish king at Svolder]
 key_events: []
-key_processes: [[[christianization-of-scandinavia|Christianization of Scandinavia]]]
+key_processes: [ [[christianization-of-scandinavia|Christianization of Scandinavia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, norway]

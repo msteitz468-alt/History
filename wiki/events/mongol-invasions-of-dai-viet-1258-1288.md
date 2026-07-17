@@ -5,9 +5,9 @@ date_end: 1288
 date_precision: year
 period: [high-middle-ages, late-middle-ages]
 region: [southeast-asia, china]
-location: [[[thang-long]]]
-actors_primary: [[[tran-dynasty-vietnam]], [[mongol-empire]], [[kublai-khan]]]
-actors_secondary: [[[champa]], [[song-dynasty]]]
+location: [ [[thang-long]]]
+actors_primary: [ [[tran-dynasty-vietnam]], [[mongol-empire]], [[kublai-khan]]]
+actors_secondary: [ [[champa]], [[song-dynasty]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational

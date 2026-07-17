@@ -6,7 +6,7 @@ date_precision: year
 period: [Archaic Period]
 region: [levant]
 location: [Megiddo, the pass into the Jezreel valley]
-actors_primary: [[[josiah|Josiah of Judah]], Necho II of Egypt]
+actors_primary: [ [[josiah|Josiah of Judah]], Necho II of Egypt]
 actors_secondary: [the [[neo-assyrian-empire|Assyrian remnant]] (Ashur-uballit II), [[nabopolassar|Nabopolassar]]]
 event_type: [battle, political]
 scale_immediate: local

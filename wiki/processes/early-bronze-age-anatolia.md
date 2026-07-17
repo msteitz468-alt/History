@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Early Bronze Age]
 region: [anatolia]
 process_type: [economic, political, cultural]
-driven_by: [[[trade-network-formation]], metal wealth, [[urbanization]]]
-produces: [[[troy]], fortified kingdoms, the Anatolian metal trade]
+driven_by: [ [[trade-network-formation]], metal wealth, [[urbanization]]]
+produces: [ [[troy]], fortified kingdoms, the Anatolian metal trade]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [process, early-bronze-age, anatolia]

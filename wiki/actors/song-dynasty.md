@@ -5,10 +5,10 @@ date_start: 960 CE (founding by Zhao Kuangyin, Emperor Taizu)
 date_end: 1279 CE (Mongol conquest of the Southern Song)
 period: [High Middle Ages]
 region: [china, east-asia]
-affiliated_with: [[[neo-confucianism]], [[confucianism]], [[afro-eurasian-world-system]]]
+affiliated_with: [ [[neo-confucianism]], [[confucianism]], [[afro-eurasian-world-system]]]
 opposed_by: ["the Khitan Liao", "the Tangut Xixia", "the Jurchen Jin", [[mongol-empire|the Mongols]]]
 key_events: ["the founding of the Song (960)", "the loss of the north to the Jin (1127)", "the Mongol conquest (1279)"]
-key_processes: [[[afro-eurasian-world-system]], [[commercial-revolution]], [[state-formation]], [[cultural-crystallization]]]
+key_processes: [ [[afro-eurasian-world-system]], [[commercial-revolution]], [[state-formation]], [[cultural-crystallization]]]
 sources_ingested: 4
 last_updated: 2026-07-03
 tags: [actor, dynasty, high-middle-ages, china, east-asia]

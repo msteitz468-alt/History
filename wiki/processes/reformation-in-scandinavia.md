@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Early Modern]
 region: [scandinavia, denmark, sweden, norway, finland, iceland]
 process_type: [religious, political]
-driven_by: [[[protestant-reformation-1517]], [[gustav-i-vasa]]]
-produces: [[[scandinavian-absolutism]]]
+driven_by: [ [[protestant-reformation-1517]], [[gustav-i-vasa]]]
+produces: [ [[scandinavian-absolutism]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, early-modern, scandinavia]

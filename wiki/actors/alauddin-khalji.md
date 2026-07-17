@@ -5,10 +5,10 @@ date_start: c. 1266 (birth)
 date_end: 1316 (death)
 period: [Late Middle Ages]
 region: [south-asia, india]
-affiliated_with: [[[delhi-sultanate|the Delhi Sultanate]], the Khalji dynasty]
+affiliated_with: [ [[delhi-sultanate|the Delhi Sultanate]], the Khalji dynasty]
 opposed_by: [the Mongols (Chagatai khanate), the [[rajputs|Rajput]] kingdoms (Chitor, Ranthambhor), the Hindu kingdoms of the [[vijayanagara-bahmani|Deccan]]]
 key_events: ["seizure of the throne (1296)", "the Mongol invasions repelled (c. 1297–1308)", "the conquest of the Deccan under Malik Kafur (1307–11)", "the market/price control reforms"]
-key_processes: [[[state-formation]], [[indian-feudalism|the iqta and land-revenue system]]]
+key_processes: [ [[state-formation]], [[indian-feudalism|the iqta and land-revenue system]]]
 sources_ingested: 1
 last_updated: 2026-06-14
 tags: [actor, person, late-middle-ages, south-asia]

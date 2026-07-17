@@ -8,7 +8,7 @@ region: [north-africa, levant]
 affiliated_with: [the [[new-kingdom-egypt|Nineteenth Dynasty]]]
 opposed_by: [the [[hittites|Hittites]], the Shasu of Palestine, the Libyans]
 key_events: [the reconquest of Palestine, the Syrian campaigns against Qadesh and the Hittites, the building of the Abydos temple]
-key_processes: [[[imperialism]], [[state-formation]]]
+key_processes: [ [[imperialism]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, late-bronze-age, north-africa]

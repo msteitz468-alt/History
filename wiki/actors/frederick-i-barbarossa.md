@@ -5,10 +5,10 @@ date_start: "c. 1122 (born)"
 date_end: 1190 (drowned in the River Saleph, on the Third Crusade)
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[hohenstaufen-dynasty|the Hohenstaufen]], "the Holy Roman Empire", "the imperial (Ghibelline) party"]
-opposed_by: [[[lombard-league|the Lombard League]], "Pope Alexander III", "Henry the Lion (eventually)", "the communes of northern Italy"]
-key_events: [[[battle-of-legnano-1176]], "the Diet of Roncaglia (1158)", "the Peace of Venice (1177)", "the Third Crusade (1189–90)"]
-key_processes: [[[commune-movement]]]
+affiliated_with: [ [[hohenstaufen-dynasty|the Hohenstaufen]], "the Holy Roman Empire", "the imperial (Ghibelline) party"]
+opposed_by: [ [[lombard-league|the Lombard League]], "Pope Alexander III", "Henry the Lion (eventually)", "the communes of northern Italy"]
+key_events: [ [[battle-of-legnano-1176]], "the Diet of Roncaglia (1158)", "the Peace of Venice (1177)", "the Third Crusade (1189–90)"]
+key_processes: [ [[commune-movement]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, high-middle-ages, western-europe, mediterranean]

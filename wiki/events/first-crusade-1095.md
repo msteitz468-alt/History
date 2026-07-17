@@ -6,13 +6,13 @@ date_precision: year
 period: [High Middle Ages]
 region: [western-europe, anatolia, levant, mediterranean]
 location: [Clermont, Constantinople, Nicaea, Antioch, Jerusalem]
-actors_primary: [[[urban-ii|Pope Urban II]], "the crusade princes (Godfrey of Bouillon, Raymond of Toulouse, Bohemond of Taranto, Robert of Normandy)", [[byzantine-empire|Alexios I Komnenos]]]
+actors_primary: [ [[urban-ii|Pope Urban II]], "the crusade princes (Godfrey of Bouillon, Raymond of Toulouse, Bohemond of Taranto, Robert of Normandy)", [[byzantine-empire|Alexios I Komnenos]]]
 actors_secondary: ["Peter the Hermit", "the Seljuk Turks", "the Fatimids of Egypt", "the Rhineland Jewish communities"]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[gregorian-reform]], [[just-war]], "the Seljuk conquest of Anatolia and the Byzantine appeal", "the pilgrimage tradition and the ideology of liberating Jerusalem"]
-consequences: [[[crusader-states|the crusader states]], "the launching of the crusading movement", "the 1096 massacres of Rhineland Jews", "lasting Latin–Byzantine and Christian–Muslim antagonism"]
+causes: [ [[gregorian-reform]], [[just-war]], "the Seljuk conquest of Anatolia and the Byzantine appeal", "the pilgrimage tradition and the ideology of liberating Jerusalem"]
+consequences: [ [[crusader-states|the crusader states]], "the launching of the crusading movement", "the 1096 massacres of Rhineland Jews", "lasting Latin–Byzantine and Christian–Muslim antagonism"]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [event, high-middle-ages, levant, western-europe]

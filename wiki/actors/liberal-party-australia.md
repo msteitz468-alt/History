@@ -7,8 +7,8 @@ period: [Cold War, Contemporary]
 region: [australia]
 affiliated_with: []
 opposed_by: [[australian-labour-movement]]
-key_events: [[[alp-split-1955]], [[dismissal-1975]]]
-key_processes: [[[post-war-immigration-australia]], [[australian-cold-war-politics]]]
+key_events: [ [[alp-split-1955]], [[dismissal-1975]]]
+key_processes: [ [[post-war-immigration-australia]], [[australian-cold-war-politics]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, organization, cold-war, australia]

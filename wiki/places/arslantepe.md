@@ -6,7 +6,7 @@ coordinates: [38.4 N, 38.4 E]
 period_active: [chalcolithic, early-bronze-age]
 controlled_by: []
 events_here: []
-processes_here: [[[urbanization]], [[trade-network-formation]]]
+processes_here: [ [[urbanization]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, anatolia, near-east, chalcolithic, early-bronze-age]

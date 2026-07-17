@@ -8,7 +8,7 @@ region: [south-asia]
 affiliated_with: [the [[mauryan-empire|Mauryan Empire]], the Buddhist sangha]
 opposed_by: [Kalinga (conquered); rival claimants to the throne]
 key_events: [conquest of Kalinga c. 261 BCE, conversion to Buddhism, the rock and pillar edicts, Buddhist missions to Sri Lanka]
-key_processes: [[[empire]], [[buddhism|propagation of Buddhism]]]
+key_processes: [ [[empire]], [[buddhism|propagation of Buddhism]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, south-asia]

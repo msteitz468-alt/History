@@ -8,7 +8,7 @@ region: [peloponnese, mediterranean]
 affiliated_with: [its colonies (Corcyra, Syracuse, the Adriatic foundations), later the Peloponnesian League]
 opposed_by: [Megara, Corcyra (in revolt), Argos at times]
 key_events: [the seizure of the Megarid (~740–700), the foundation of Corcyra and Syracuse (733), the first sea-battle with Corcyra (~664), the Cypselid tyranny (657–583)]
-key_processes: [[[greek-colonization|colonization]], the development of naval power, the Protocorinthian pottery trade, [[greek-tyranny|tyranny]]]
+key_processes: [ [[greek-colonization|colonization]], the development of naval power, the Protocorinthian pottery trade, [[greek-tyranny|tyranny]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, state, archaic-period, peloponnese]

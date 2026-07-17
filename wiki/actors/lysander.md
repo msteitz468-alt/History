@@ -5,8 +5,8 @@ date_start: unknown (fl. 407–404 BCE)
 date_end: 395 BCE (killed at Haliartus — beyond this volume)
 period: [Classical Antiquity]
 region: [aegean, anatolia, peloponnese]
-affiliated_with: [[[sparta]], Cyrus the Younger ([[achaemenid-empire|Persia]])]
-opposed_by: [[[athens]], [[alcibiades]], Conon, Callicratidas (rival Spartan)]
+affiliated_with: [ [[sparta]], Cyrus the Younger ([[achaemenid-empire|Persia]])]
+opposed_by: [ [[athens]], [[alcibiades]], Conon, Callicratidas (rival Spartan)]
 key_events: [the victory at Notium 406 BCE, the destruction of the Athenian fleet at Aegospotami 405 BCE, the surrender of Athens 404 BCE]
 key_processes: [the Spartan naval ascendancy, the imposition of pro-Spartan oligarchies, the [[spartan-hegemony]]]
 sources_ingested: 3
@@ -98,4 +98,4 @@ II]]** expecting to manage him, and was swiftly sidelined.
 
 **Post-victory system and Athens' surrender (405-404):** "He stationed garrisons in them under commanders called harmosts, not 'on the basis of aristocratic birth or of wealth, but he put control of affairs into the hands of members of his political faction and those connected to him by personal ties, and he put them in charge of rewards and punishments' (Plutarch, Lysander 13.4). Everywhere he found them he replaced democratic governments with oligarchies of his own loyalists, often consisting of boards of ten men called 'decarchies'..." "Before long the 'liberator of the Greeks' was collecting tribute from the cities under his control, and the Spartan government ratified all these arrangements." Samos resisted alone. "In October 405 [[actors/lysander]] finally arrived in Attica, where he met the entire Peloponnesian army at the precinct of the Academy..." Allies pressed for destruction of [[places/athens]]; Spartans demanded breach of Long Walls. Cleophon blocked compromise. Theramenes negotiated; final terms included walls down, limited ships, exiles return, ancestral constitution, follow Spartan foreign policy. "Lysander" supported acceptable peace in part due to calculations about Theban ambitions, his own rivals among Spartan kings (jealous of divine honors like Lysandreia festival), and Cyrus' impending recall (Darius II deathbed, unfriendly Artaxerxes II to succeed, ending subsidies). (THE RESULTS OF THE BATTLE; THE FATE OF ATHENS; THERAMENES NEGOTIATES A PEACE)
 
-All claims grounded exclusively in Kagan Range 8 text. Links strictly to approved names only. Complements prior material on [[actors/lysander]]'s role in ending the [[peloponnesian-war]] via Persian gold, personal networks, and naval mastery. See also [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/strategy]], [[hubs/warfare/tactics-and-battle-strategies]], [[sources/hanson-a-war-like-no-other-2005]], [[concepts/hanson-peloponnesian-fighting]].
+All claims grounded exclusively in Kagan Range 8 text. Links strictly to approved names only. Complements prior material on [[actors/lysander]]'s role in ending the [[peloponnesian-war]] via Persian gold, personal networks, and naval mastery. See also hubs/warfare/classical-antiquity/, [[hubs/warfare/strategy]], [[hubs/warfare/tactics-and-battle-strategies]], [[sources/hanson-a-war-like-no-other-2005]], [[concepts/hanson-peloponnesian-fighting]].

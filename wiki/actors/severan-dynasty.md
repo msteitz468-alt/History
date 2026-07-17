@@ -5,10 +5,10 @@ date_start: 193 CE
 date_end: 235 CE
 period: [Late Antiquity]
 region: [italy, north-africa, near-east, mediterranean-world]
-affiliated_with: [[[roman-imperial-army]], [[roman-empire]]]
-opposed_by: [[[parthian-empire]], [[sasanian-empire]]]
-key_events: [[[year-of-the-five-emperors-193]], [[constitutio-antoniniana-212]]]
-key_processes: [[[militarization-of-the-roman-state]]]
+affiliated_with: [ [[roman-imperial-army]], [[roman-empire]]]
+opposed_by: [ [[parthian-empire]], [[sasanian-empire]]]
+key_events: [ [[year-of-the-five-emperors-193]], [[constitutio-antoniniana-212]]]
+key_processes: [ [[militarization-of-the-roman-state]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, dynasty, late-antiquity, italy]

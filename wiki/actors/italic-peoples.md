@@ -8,7 +8,7 @@ region: [italy, mediterranean]
 affiliated_with: [tribal leagues (the universum Samnium; the central-Italic and Campanian federations)]
 opposed_by: [the Western Greeks of [[magna-graecia|Magna Graecia]], the [[etruscans|Etruscans]], the Roman Republic]
 key_events: [the Sabellian seizure of Capua c. 424–423 BCE, the Social War 91–87 BCE]
-key_processes: [[[migration]], [[state-formation]]]
+key_processes: [ migration, [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, movement, early-iron-age, archaic-period, italy]
@@ -98,7 +98,7 @@ the massive polygonal-walled hill-fortresses of fourth-/third-century Samnium.
 caused_by: the **Apennine pastoral** Iron Age culture and the linguistic split into
 Oscan and Umbrian groups.
 contributed_to: the religious institution of the **Sacred Spring**, channeling
-population pressure into organized [[migration|migration]].
+population pressure into organized migration.
 produced: the **Sabellian conquest** of Campania, Lucania and Bruttium, ending
 Etruscan and weakening Greek power in the south; the federative *touto*-and-*meddix*
 political tradition; ultimately the **Social War** (91–87) and the extension of
@@ -120,6 +120,6 @@ originally distinct tongues remains an open linguistic question.
 ## Related
 
 - Neighbours & rivals: [[etruscans]] · [[magna-graecia]] · [[rome]] · [[carthage]]
-- Language: [[languages-of-italy]] (Osco-Umbrian) · process: [[migration]] · [[state-formation]]
+- Language: [[languages-of-italy]] (Osco-Umbrian) · process: migration · [[state-formation]]
 - War: [[hoplite-warfare]] (the tactics the Sabelli helped Rome supersede) · Period: [[archaic-period]]
 - Source: [[boardman-cah-v4-1988]] (Ch. 14, E. T. Salmon)

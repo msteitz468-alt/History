@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Xiangfen, Linfen basin, southern Shanxi (China)]
 coordinates: ~35.9°N 111.5°E
 period_active: [Neolithic, Chalcolithic]
-controlled_by: [[[longshan-culture]]]
+controlled_by: [ [[longshan-culture]]]
 events_here: [unknown]
-processes_here: [[[early-china-state-formation]]]
+processes_here: [ [[early-china-state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [place, china, east-asia, neolithic, chalcolithic]

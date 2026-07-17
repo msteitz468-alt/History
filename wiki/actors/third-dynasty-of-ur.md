@@ -6,9 +6,9 @@ date_end: ~2004 BCE (Elamite sack of Ur)
 period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
 affiliated_with: []
-opposed_by: [[[amorites|Amorites]], [[elam|Elam]], the Gutians, the Hurrians/Subarians]
-key_events: [[[fall-of-ur-2004bce]]]
-key_processes: [[[state-formation]], [[temple-economy]], [[writing-and-record-keeping]], [[divine-kingship]]]
+opposed_by: [ [[amorites|Amorites]], [[elam|Elam]], the Gutians, the Hurrians/Subarians]
+key_events: [ [[fall-of-ur-2004bce]]]
+key_processes: [ [[state-formation]], [[temple-economy]], [[writing-and-record-keeping]], [[divine-kingship]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, empire, middle-bronze-age, mesopotamia]

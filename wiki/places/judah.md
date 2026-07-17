@@ -4,7 +4,7 @@ place_type: empire-territory
 modern_equivalent: [the Jerusalem hills, Israel/Palestine]
 coordinates: [31.8 N, 35.2 E]
 period_active: [Late Antiquity precursor; Classical Antiquity (Achaemenid period 539–332 BCE)]
-controlled_by: [[[achaemenid-empire|Achaemenid Persia]], the Davidic governors, the High Priests of Jerusalem]
+controlled_by: [ [[achaemenid-empire|Achaemenid Persia]], the Davidic governors, the High Priests of Jerusalem]
 events_here: [the Return from Exile 538 BCE, the building of the Second Temple 520–515 BCE, the missions of Ezra and Nehemiah, the Samaritan schism]
 processes_here: [the formation of Second Temple Judaism, the centrality of the Torah, the Samaritan separation]
 sources_ingested: 1

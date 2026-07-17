@@ -5,7 +5,7 @@ date_start: 404 BCE (installed after the surrender of Athens)
 date_end: 403 BCE (overthrown; democracy restored)
 period: [Classical Antiquity]
 region: [aegean]
-affiliated_with: [[[sparta]], [[lysander]], Critias, Theramenes]
+affiliated_with: [ [[sparta]], [[lysander]], Critias, Theramenes]
 opposed_by: [Thrasybulus and the democratic exiles, the demos of Athens]
 key_events: [installation under Lysander 404 BCE, the reduction of the citizen body to 3,000, the execution of Theramenes, the democratic restoration of 403 BCE, the Amnesty]
 key_processes: [the [[spartan-hegemony]], oligarchic reaction at Athens]

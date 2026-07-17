@@ -1,5 +1,6 @@
 ---
 title: The Third Council of Toledo (589)
+aliases: [third-council-of-toledo]
 date_start: 589-05-08
 date_end: 589-05-08
 date_precision: exact

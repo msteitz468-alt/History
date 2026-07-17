@@ -1,5 +1,6 @@
 ---
 title: Winfield Scott
+aliases: [winfield-scott]
 actor_type: person / military-force
 date_start: 1786
 date_end: 1866

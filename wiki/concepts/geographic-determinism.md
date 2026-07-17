@@ -1,5 +1,6 @@
 ---
 title: Geographic Determinism
+aliases: [geographic-determinism-diamond]
 concept_type: analytical / historiographical
 origin: Long-standing idea in geography and history (e.g., Montesquieu, Ratzel, Huntington); modern synthesis and popularization by Jared Diamond in *Guns, Germs, and Steel* (1997), which argues continental environmental differences (domesticable species, axes of continents, diffusion barriers, area/population size) explain the broadest patterns of historical divergence; also central to Diamond’s *Collapse* (2005) for societal failure
 applies_to_periods: [neolithic, chalcolithic, early-bronze-age through contemporary]

@@ -4,8 +4,8 @@ place_type: battle-site
 modern_equivalent: [West Point, New York, USA — United States Military Academy]
 coordinates: [41.39 N, 73.96 W]
 period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
-controlled_by: [[[continental-army]], United States]
-events_here: [[[american-revolution]]]
+controlled_by: [ [[continental-army]], United States]
+events_here: [ [[american-revolution]]]
 processes_here: []
 sources_ingested: 1
 last_updated: 2026-06-23

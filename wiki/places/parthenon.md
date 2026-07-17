@@ -6,7 +6,7 @@ coordinates: [37.97 N, 23.73 E]
 period_active: [Classical Antiquity]
 controlled_by: [the Athenian state]
 events_here: [the Persian sack of the Acropolis 480 BCE, the Periclean building program 447–404 BCE]
-processes_here: [[[classical-greek-art]], imperial self-representation, civic religion]
+processes_here: [ [[classical-greek-art]], imperial self-representation, civic religion]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, mediterranean, classical-antiquity]

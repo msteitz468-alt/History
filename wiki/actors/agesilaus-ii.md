@@ -5,10 +5,10 @@ date_start: c. 444 BCE (born)
 date_end: c. 360 BCE (died in Cyrenaica, returning from mercenary service in Egypt)
 period: [Classical Antiquity]
 region: [peloponnese, aegean, anatolia]
-affiliated_with: [[[sparta]], [[lysander]] (early patron, later rival), [[xenophon]] (his admirer and biographer)]
+affiliated_with: [ [[sparta]], [[lysander]] (early patron, later rival), [[xenophon]] (his admirer and biographer)]
 opposed_by: [Thebes, [[epaminondas]], Persia, Athens, Argos, Corinth]
 key_events: [accession c. 400 BCE, the Asian campaign 396–394 BCE, [[corinthian-war-395bce|Coronea]] 394 BCE, the seizure of the Theban Cadmea 382 BCE, defeat at [[thebes-hegemony-371bce|Leuctra]] 371 BCE]
-key_processes: [[[spartan-hegemony]]]
+key_processes: [ [[spartan-hegemony]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, peloponnese]

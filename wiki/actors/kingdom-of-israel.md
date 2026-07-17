@@ -5,10 +5,10 @@ date_start: 931 BCE (secession under Jeroboam I)
 date_end: 722/721 BCE (fall of Samaria to Assyria)
 period: [Early Iron Age, Archaic Period]
 region: [levant]
-affiliated_with: [[[phoenicians|Tyre]] (the Omride–Jezebel alliance), at times [[kingdom-of-judah|Judah]]]
-opposed_by: [[[hazael|Aram-Damascus]], [[neo-assyrian-empire|Assyria]], Moab, [[kingdom-of-judah|Judah]] (intermittently)]
-key_events: [[[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the founding of Samaria, the [[battle-of-qarqar-853bce|battle of Qarqar (853)]], the [[jehu-revolt-841bce|revolt of Jehu (841)]], the fall of Samaria (722)]
-key_processes: [[[state-formation]], dynastic instability, Assyrian imperial expansion]
+affiliated_with: [ [[phoenicians|Tyre]] (the Omride–Jezebel alliance), at times [[kingdom-of-judah|Judah]]]
+opposed_by: [ [[hazael|Aram-Damascus]], [[neo-assyrian-empire|Assyria]], Moab, [[kingdom-of-judah|Judah]] (intermittently)]
+key_events: [ [[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the founding of Samaria, the [[battle-of-qarqar-853bce|battle of Qarqar (853)]], the [[jehu-revolt-841bce|revolt of Jehu (841)]], the fall of Samaria (722)]
+key_processes: [ [[state-formation]], dynastic instability, Assyrian imperial expansion]
 sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]

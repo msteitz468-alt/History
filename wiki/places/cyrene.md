@@ -6,7 +6,7 @@ coordinates: [32.8 N, 21.9 E]
 period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [the Battiad dynasty (kings, then a republic), at times allied/subject to Saite Egypt, then Persia]
 events_here: [the foundation from Thera (c. 631 BCE), the defeat of Apries's Egyptian army, the reforms of Demonax, the alliance with Amasis]
-processes_here: [[[greek-colonization|Greek colonization]], Greek–Libyan intermarriage, the silphium trade]
+processes_here: [ [[greek-colonization|Greek colonization]], Greek–Libyan intermarriage, the silphium trade]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, north-africa, archaic-period]

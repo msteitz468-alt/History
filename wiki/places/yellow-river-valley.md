@@ -4,9 +4,9 @@ place_type: region
 modern_equivalent: [Shandong, Henan, southern Shanxi, southern Hebei, central Shaanxi, eastern Gansu, northern Jiangsu (China)]
 coordinates: ~35°N 113°E (middle reaches)
 period_active: [Neolithic, Chalcolithic, Early Bronze Age, and later]
-controlled_by: [[[yangshao-culture]], [[longshan-culture]], [[dawenkou-culture]], [[erlitou-culture]], [[shang-dynasty]]]
+controlled_by: [ [[yangshao-culture]], [[longshan-culture]], [[dawenkou-culture]], [[erlitou-culture]], [[shang-dynasty]]]
 events_here: [unknown]
-processes_here: [[[early-china-state-formation]], [[early-agriculture-china]]]
+processes_here: [ [[early-china-state-formation]], [[early-agriculture-china]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [place, china, east-asia, neolithic, chalcolithic, early-bronze-age]

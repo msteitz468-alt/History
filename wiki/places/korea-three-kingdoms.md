@@ -6,7 +6,7 @@ coordinates: [38 N, 127 E]
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Koguryŏ, Paekche, Silla (the Three Kingdoms); Han China (north, 109 BCE-4th c. CE)]
 events_here: [Han conquest of northern Korea 109 BCE, Tang-Silla conquest of Paekche 660 and Koguryŏ 668 CE, Sillan unification 676 CE]
-processes_here: [[[state-formation]], [[buddhism|Buddhist transmission]], [[east-asian-cultural-sphere|Sinicization]]]
+processes_here: [ [[state-formation]], [[buddhism|Buddhist transmission]], [[east-asian-cultural-sphere|Sinicization]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, korea, east-asia, late-antiquity]

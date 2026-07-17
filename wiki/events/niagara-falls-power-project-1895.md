@@ -11,7 +11,7 @@ actors_secondary: [J. P. Morgan, General Electric]
 event_type: economic
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[concepts/alternating-current|polyphase AC system]], [[events/worlds-columbian-exposition-1893|Columbian Exposition demonstration]], industrial demand for power]
+causes: [ [[concepts/alternating-current|polyphase AC system]], [[events/worlds-columbian-exposition-1893|Columbian Exposition demonstration]], industrial demand for power]
 consequences: [first large-scale hydroelectric AC power, transmission to Buffalo (1896), confirmation of AC as world standard]
 sources_ingested: 1
 last_updated: 2026-06-25

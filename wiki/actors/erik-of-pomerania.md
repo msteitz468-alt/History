@@ -5,9 +5,9 @@ date_start: c. 1382 CE
 date_end: 1459 CE
 period: [Late Middle Ages]
 region: [denmark, norway, sweden, scandinavia]
-affiliated_with: [[[kalmar-union-1397|Kalmar Union]]; [[margaret-i-of-denmark|Margaret I]]]
+affiliated_with: [ [[kalmar-union-1397|Kalmar Union]]; [[margaret-i-of-denmark|Margaret I]]]
 opposed_by: [the Hanseatic League; the Holstein counts; the rebels of 1434–39]
-key_events: [[[kalmar-union-1397|Kalmar Union (1397)]], [[engelbrekt-rebellion-1434|Engelbrekt rebellion (1434)]]]
+key_events: [ [[kalmar-union-1397|Kalmar Union (1397)]], [[engelbrekt-rebellion-1434|Engelbrekt rebellion (1434)]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-27

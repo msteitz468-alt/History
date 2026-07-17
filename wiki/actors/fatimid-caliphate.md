@@ -8,7 +8,7 @@ region: [north-africa, egypt, levant, mediterranean]
 affiliated_with: [Ismaili Shi'a Islam, the Kutama Berbers, the trans-Saharan and Indian Ocean gold trade]
 opposed_by: [the Abbasid Caliphate, the Sunni Maghrib, the Zirids (after their defection), the Crusaders, Saladin]
 key_events: [the proclamation of al-Mahdi (909), founding of Mahdiyya, the conquest of Egypt (969), the founding of Cairo (970) and al-Azhar, the Zirid defection and the Hilali invasion (11th c.), abolition by Saladin (1171)]
-key_processes: [[[islamization-of-africa]], [[trans-saharan-trade]], [[indian-ocean-trade]], [[empire]]]
+key_processes: [ [[islamization-of-africa]], [[trans-saharan-trade]], [[indian-ocean-trade]], [[empire]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, state, early-middle-ages, north-africa, egypt, islamic-world]

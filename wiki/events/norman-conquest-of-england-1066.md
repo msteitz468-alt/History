@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [british-isles, western-europe]
 location: [Hastings, England, Normandy]
-actors_primary: [[[william-the-conqueror|William the Conqueror]], "Harold Godwinson", "the Anglo-Saxon kingdom of England", "the duchy of Normandy"]
+actors_primary: [ [[william-the-conqueror|William the Conqueror]], "Harold Godwinson", "the Anglo-Saxon kingdom of England", "the duchy of Normandy"]
 actors_secondary: ["Edward the Confessor", "Harald Hardrada of Norway", "the Anglo-Norman aristocracy"]
 event_type: war
 scale_immediate: regional

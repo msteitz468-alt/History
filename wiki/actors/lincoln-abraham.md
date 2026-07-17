@@ -1,5 +1,6 @@
 ---
 title: Abraham Lincoln
+aliases: [abraham-lincoln]
 actor_type: person
 date_start: 1809-02-12 (born near Hodgenville, Kentucky)
 date_end: 1865-04-15 (assassinated in Washington, D.C.)

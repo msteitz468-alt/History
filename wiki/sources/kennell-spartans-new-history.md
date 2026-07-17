@@ -1,5 +1,6 @@
 ---
 title: "Spartans: A New History (Nigel M. Kennell)"
+aliases: [kennell-spartans-a-new-history-2010]
 author: Nigel M. Kennell
 year: 2010
 source_type: secondary

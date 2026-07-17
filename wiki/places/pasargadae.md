@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Pasargad, Fars Province, Iran]
 coordinates: [30.19 N, 53.17 E]
 period_active: [Archaic Period, Classical Antiquity]
-controlled_by: [[[achaemenid-empire|Achaemenid Persia]]]
+controlled_by: [ [[achaemenid-empire|Achaemenid Persia]]]
 events_here: [the royal investiture of Achaemenid kings]
-processes_here: [[[achaemenid-royal-ideology]]]
+processes_here: [ [[achaemenid-royal-ideology]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, iran-plateau, archaic-period]

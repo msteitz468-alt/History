@@ -8,7 +8,7 @@ region: [china, central-asia]
 affiliated_with: ["[[han-dynasty|Han Dynasty]]", "[[han-wudi|Emperor Wudi]]"]
 opposed_by: ["[[xiongnu]]"]
 key_events: [zhang-qian-mission-138bce, Wusun mission 120 BCE, Wei Qing's 123 BCE campaign]
-key_processes: [[[silk-roads]], [[trade-network-formation]]]
+key_processes: [ [[silk-roads]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, china, central-asia]

@@ -6,7 +6,7 @@ date_end: 687/686 BCE
 period: [Archaic Period]
 region: [levant]
 affiliated_with: [the [[kingdom-of-judah|kingdom of Judah]], the Davidic dynasty, the Jerusalem Temple, the prophets Isaiah and Micah]
-opposed_by: [[[sennacherib|Sennacherib]] and [[neo-assyrian-empire|Assyria]], the Philistine and Transjordanian vassals]
+opposed_by: [ [[sennacherib|Sennacherib]] and [[neo-assyrian-empire|Assyria]], the Philistine and Transjordanian vassals]
 key_events: [the religious reform and Temple reopening, the Siloam tunnel, the revolt against Assyria, [[sennacherib-siege-jerusalem-701bce|Sennacherib's siege of Jerusalem (701)]]]
 key_processes: [religious centralization, [[assyrian-mass-deportation|Assyrian deportation]]]
 sources_ingested: 2

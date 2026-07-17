@@ -6,7 +6,7 @@ coordinates: [41.0 S, 174.0 E]
 period_active: [Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: [Māori iwi, the British Empire (from 1840), independent New Zealand]
 events_here: [Polynesian settlement c. 1250–1300, Cook's voyages 1769, Treaty of Waitangi 1840, the New Zealand (Land) Wars]
-processes_here: [[[pacific-voyaging-and-settlement]], [[neo-europes]], [[portmanteau-biota]], [[virgin-soil-epidemics]]]
+processes_here: [ [[pacific-voyaging-and-settlement]], [[neo-europes]], [[portmanteau-biota]], [[virgin-soil-epidemics]]]
 sources_ingested: 1
 last_updated: 2026-06-23
 tags: [place, polynesia, age-of-expansion, long-19th-century]

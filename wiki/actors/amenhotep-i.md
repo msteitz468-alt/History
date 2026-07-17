@@ -5,7 +5,7 @@ date_start: ~1525 BCE (accession)
 date_end: ~1504 BCE
 period: [Late Bronze Age]
 region: [north-africa, nubia]
-affiliated_with: [[[new-kingdom-egypt]], Thebes]
+affiliated_with: [ [[new-kingdom-egypt]], Thebes]
 opposed_by: [Nubia / Kush]
 key_events: []
 key_processes: []

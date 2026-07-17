@@ -6,8 +6,8 @@ date_precision: year
 period: [World Wars Era]
 region: [eastern-europe]
 location: [Łódź, Warsaw, Radomsko, and hundreds of towns in annexed Poland and the General Government]
-actors_primary: [[[nazi-germany]], [[schutzstaffel-ss]], the Jewish Councils (Rumkowski in Łódź, Czerniaków in Warsaw)]
-actors_secondary: [[[frank-hans|Hans Frank]], Arthur Greiser, [[eichmann-adolf|Adolf Eichmann]] (Nisko Plan)]
+actors_primary: [ [[nazi-germany]], [[schutzstaffel-ss]], the Jewish Councils (Rumkowski in Łódź, Czerniaków in Warsaw)]
+actors_secondary: [ [[frank-hans|Hans Frank]], Arthur Greiser, [[eichmann-adolf|Adolf Eichmann]] (Nisko Plan)]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational

@@ -6,7 +6,7 @@ coordinates: [34.6 S, 58.4 W]
 period_active: [Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: [indigenous peoples (Mapuche, Guaraní, others), the Spanish Empire (Viceroyalty of the Río de la Plata), independent Argentina (from 1816)]
 events_here: [Spanish foundation of Buenos Aires 1536/1580, independence 1816, the "Conquest of the Desert" 1870s]
-processes_here: [[[neo-europes]], [[portmanteau-biota]], [[columbian-exchange-1492]]]
+processes_here: [ [[neo-europes]], [[portmanteau-biota]], [[columbian-exchange-1492]]]
 sources_ingested: 1
 last_updated: 2026-06-23
 tags: [place, southern-cone, age-of-expansion, long-19th-century]

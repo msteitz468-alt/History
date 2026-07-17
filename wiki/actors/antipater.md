@@ -5,10 +5,10 @@ date_start: c. 397 BCE
 date_end: 319 BCE
 period: [Classical Antiquity]
 region: [balkans, mediterranean]
-affiliated_with: [[[philip-ii-of-macedon]], [[alexander-the-great]], [[craterus]]]
-opposed_by: [[[perdiccas]], [[olympias]], [[athens]], [[aetolian-league]]]
-key_events: [[[lamian-war-323]], [[wars-of-the-diadochi-323]]]
-key_processes: [[[hellenistic-world]]]
+affiliated_with: [ [[philip-ii-of-macedon]], [[alexander-the-great]], [[craterus]]]
+opposed_by: [ [[perdiccas]], [[olympias]], [[athens]], [[aetolian-league]]]
+key_events: [ [[lamian-war-323]], [[wars-of-the-diadochi-323]]]
+key_processes: [ [[hellenistic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, balkans]

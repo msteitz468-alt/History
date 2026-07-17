@@ -5,9 +5,9 @@ date_start: 1791
 date_end: 1841
 period: [long-19th-century]
 region: [southeast-asia, vietnam]
-affiliated_with: [[[nguyen-dynasty|Nguyen Dynasty]]]
-opposed_by: [[[siam-chakri-dynasty|Siam (Chakri Dynasty)]]]
-key_events: [[[le-van-khoi-rebellion-1833-1835|Le Van Khoi's Rebellion]]]
+affiliated_with: [ [[nguyen-dynasty|Nguyen Dynasty]]]
+opposed_by: [ [[siam-chakri-dynasty|Siam (Chakri Dynasty)]]]
+key_events: [ [[le-van-khoi-rebellion-1833-1835|Le Van Khoi's Rebellion]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-07-03

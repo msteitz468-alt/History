@@ -1,5 +1,6 @@
 ---
 title: Alba (the Kingdom of the Scots)
+aliases: [alba]
 actor_type: state
 date_start: c. 900 CE (first styled "king of Alba")
 date_end: c. 1100 CE (opening of the Anglo-Norman era under Máel Coluim III)

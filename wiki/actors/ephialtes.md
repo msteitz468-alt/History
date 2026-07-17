@@ -5,8 +5,8 @@ date_start: unknown (fl. 460s BCE)
 date_end: 461 BCE (murdered)
 period: [Classical Antiquity]
 region: [central-greece]
-affiliated_with: [[[athens]], the democratic faction, [[pericles]]]
-opposed_by: [[[cimon]], the [[areopagus|Areopagus]], the pro-Spartan aristocracy]
+affiliated_with: [ [[athens]], the democratic faction, [[pericles]]]
+opposed_by: [ [[cimon]], the [[areopagus|Areopagus]], the pro-Spartan aristocracy]
 key_events: [the reform of the Areopagus 462/1 BCE ([[ephialtes-reform-462bce]]), his murder 461 BCE]
 key_processes: [the radicalization of [[athenian-democracy]]]
 sources_ingested: 1

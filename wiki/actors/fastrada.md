@@ -5,7 +5,7 @@ date_start: c. 765 CE
 date_end: 10 August 794 CE
 period: [Early Middle Ages]
 region: [western-europe]
-affiliated_with: [[[charlemagne]], East Frankish nobility, [[carolingian-empire]]]
+affiliated_with: [ [[charlemagne]], East Frankish nobility, [[carolingian-empire]]]
 opposed_by: []
 key_events: [marriage to Charlemagne 783, Avar war litanies 791, Council of Frankfurt 794]
 key_processes: []

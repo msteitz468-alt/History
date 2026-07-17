@@ -6,9 +6,9 @@ date_end: ~1340 BCE (kingdom broken by [[shuppiluliuma-i|Šuppiluliuma I]]; rump
 period: [Late Bronze Age]
 region: [near-east, mesopotamia, levant]
 affiliated_with: [the [[hurrians|Hurrians]], an Indo-Aryan ruling class, [[new-kingdom-egypt|Egypt]] (later ally)]
-opposed_by: [[[new-kingdom-egypt|Egypt]] (Thutmose I & III), the [[hittites|Hittites]] ([[shuppiluliuma-i|Šuppiluliuma I]]), [[ashur-uballit-i|Assyria]] (vassal then rival)]
+opposed_by: [ [[new-kingdom-egypt|Egypt]] (Thutmose I & III), the [[hittites|Hittites]] ([[shuppiluliuma-i|Šuppiluliuma I]]), [[ashur-uballit-i|Assyria]] (vassal then rival)]
 key_events: [the consolidation of the Hurrian confederacy, the empire of Saustatar (Taurus to Zagros), the marriage alliance with Egypt under Thutmose IV, the destruction by Šuppiluliuma I and the murder of Tushratta]
-key_processes: [[[state-formation]], [[interpolity-law]], [[migration-in-human-history]]]
+key_processes: [ [[state-formation]], [[interpolity-law]], [[migration-in-human-history]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, near-east, mesopotamia, levant]

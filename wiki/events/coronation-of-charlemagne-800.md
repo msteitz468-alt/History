@@ -6,12 +6,12 @@ date_precision: exact
 period: [Early Middle Ages]
 region: [western-europe, mediterranean]
 location: [Old St Peter's Basilica, Rome]
-actors_primary: [[[charlemagne]], Pope Leo III]
+actors_primary: [ [[charlemagne]], Pope Leo III]
 actors_secondary: [the Frankish court, the Roman aristocracy, [[byzantine-empire|Byzantium]]]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[carolingian-empire|Charlemagne's conquests and rule over many peoples]], his protection of and intervention in the papacy, the leadership of western Christendom, the vacancy of a male emperor in Byzantium]
+causes: [ [[carolingian-empire|Charlemagne's conquests and rule over many peoples]], his protection of and intervention in the papacy, the leadership of western Christendom, the vacancy of a male emperor in Byzantium]
 consequences: [revival of the western imperial title, the "two emperors" problem with Byzantium, the ideological basis of the later Holy Roman Empire]
 sources_ingested: 2
 last_updated: 2026-06-27

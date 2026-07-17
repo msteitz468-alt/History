@@ -7,7 +7,7 @@ period: [Middle Bronze Age]
 region: [north-africa, levant]
 process_type: [political]
 driven_by: [the decline of the [[middle-kingdom-egypt|Middle Kingdom]], Asiatic settlement in the Delta, the [[hyksos|Hyksos]] ascendancy]
-produces: [[[new-kingdom-egypt|the New Kingdom]], the Egyptian "empire", a militarized monarchy]
+produces: [ [[new-kingdom-egypt|the New Kingdom]], the Egyptian "empire", a militarized monarchy]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, middle-bronze-age, north-africa]

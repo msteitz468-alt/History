@@ -5,10 +5,10 @@ date_start: ~1810 BCE (uncertain)
 date_end: ~1760 BCE (fall of Mari; reigned ~1775–1761/1759, middle chronology)
 period: [Middle Bronze Age]
 region: [mesopotamia, near-east, levant]
-affiliated_with: [[[mari|Mari]], [[amorites|the Amorites]], [[iamkhad|Yamhad/Aleppo]] (his father-in-law), [[hammurabi|Babylon]] (ally, then conqueror)]
-opposed_by: [[[shamshi-adad-i|Shamshi-Adad I]] and Yasmah-Adad, Eshnunna, [[elam|Elam]], the Benjaminite and Sutian nomads, [[hammurabi|Hammurabi]] (finally)]
+affiliated_with: [ [[mari|Mari]], [[amorites|the Amorites]], [[iamkhad|Yamhad/Aleppo]] (his father-in-law), [[hammurabi|Babylon]] (ally, then conqueror)]
+opposed_by: [ [[shamshi-adad-i|Shamshi-Adad I]] and Yasmah-Adad, Eshnunna, [[elam|Elam]], the Benjaminite and Sutian nomads, [[hammurabi|Hammurabi]] (finally)]
 key_events: [reconquest of Mari (~1775 BCE), fall of Mari to [[hammurabi|Hammurabi]] (~1761/1759 BCE)]
-key_processes: [[[interpolity-law]], [[trade-network-formation]], [[state-formation]]]
+key_processes: [ [[interpolity-law]], [[trade-network-formation]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, middle-bronze-age, mesopotamia, levant]

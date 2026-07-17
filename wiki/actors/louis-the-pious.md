@@ -5,10 +5,10 @@ date_start: 778 CE
 date_end: 840 CE
 period: [Early Middle Ages]
 region: [western-europe]
-affiliated_with: [[[carolingian-empire]], the Latin Church, the Papacy]
+affiliated_with: [ [[carolingian-empire]], the Latin Church, the Papacy]
 opposed_by: [his rebellious sons (Lothar, Pippin of Aquitaine, Louis the German); rebel aristocratic factions]
 key_events: [Ordinatio imperii 817, revolt of 830, the "Field of Lies" and public penance 833, restoration 834]
-key_processes: [[[carolingian-renaissance]], the reform of the Frankish church, the unravelling of imperial unity]
+key_processes: [ [[carolingian-renaissance]], the reform of the Frankish church, the unravelling of imperial unity]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, western-europe]

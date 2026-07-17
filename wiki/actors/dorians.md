@@ -6,9 +6,9 @@ date_end: ongoing (the Dorian Greeks of the historic period — Sparta, Argos, C
 period: [Bronze Age Collapse, Early Iron Age]
 region: [aegean, western-europe, mediterranean]
 affiliated_with: [the Heracleidae (their royal clan), the Northwest-Greek-speaking invaders]
-opposed_by: [[[mycenaean-civilization|the Mycenaean Achaeans]], the Ionians, Arcadia]
-key_events: [[[dorian-invasion-1120bce|the Dorian invasion of the Peloponnese]], the death of Hyllus at the Isthmus (~1220 BCE), the conquest of Argos/Laconia/Messenia (~1120 BCE)]
-key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], the Dark Age migrations, the spread of the West-Greek dialect]
+opposed_by: [ [[mycenaean-civilization|the Mycenaean Achaeans]], the Ionians, Arcadia]
+key_events: [ [[dorian-invasion-1120bce|the Dorian invasion of the Peloponnese]], the death of Hyllus at the Isthmus (~1220 BCE), the conquest of Argos/Laconia/Messenia (~1120 BCE)]
+key_processes: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]], the Dark Age migrations, the spread of the West-Greek dialect]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, movement, bronze-age-collapse, early-iron-age, aegean]

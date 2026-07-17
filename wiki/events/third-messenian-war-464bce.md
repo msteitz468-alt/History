@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [peloponnese]
 location: [Messenia, Mount Ithome, Sparta]
-actors_primary: [[[sparta]], the Messenian Helots, the perioikic rebels]
-actors_secondary: [[[places/athens|Athens]], [[cimon]], Archidamus II, the suppliants of Ithome]
+actors_primary: [ [[sparta]], the Messenian Helots, the perioikic rebels]
+actors_secondary: [ [[places/athens|Athens]], [[cimon]], Archidamus II, the suppliants of Ithome]
 event_type: revolution
 scale_immediate: regional
 scale_consequential: regional

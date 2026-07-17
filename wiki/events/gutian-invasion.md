@@ -7,13 +7,13 @@ dating_method: ~
 period: [Early Bronze Age]
 region: [mesopotamia, near-east]
 location: [Akkad/Sumer; the Zagros piedmont]
-actors_primary: [[[akkadian-empire]], [[gutian-invasion|the Gutians]], Utu-khegal of Uruk]
+actors_primary: [ [[akkadian-empire]], [[gutian-invasion|the Gutians]], Utu-khegal of Uruk]
 actors_secondary: [Amorites, Elam, [[gudea|Gudea of Lagash]]]
 event_type: collapse
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[naram-sin|imperial overextension and internal Sumerian revolt]], Amorite pressure from the northwest, Gutian incursion from the Zagros, secession of Elam]
-consequences: [[[mesopotamian-chronology|the Sumerian revival under the Third Dynasty of Ur]], [[gudea|the Lagash II cultural flowering]], the Sumerian "national" idea]
+causes: [ [[naram-sin|imperial overextension and internal Sumerian revolt]], Amorite pressure from the northwest, Gutian incursion from the Zagros, secession of Elam]
+consequences: [ [[mesopotamian-chronology|the Sumerian revival under the Third Dynasty of Ur]], [[gudea|the Lagash II cultural flowering]], the Sumerian "national" idea]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, early-bronze-age, mesopotamia, transition]

@@ -6,8 +6,8 @@ date_precision: decade
 period: [Middle Bronze Age]
 region: [anatolia, mesopotamia, near-east]
 process_type: [economic]
-driven_by: [[[ashur|Ashur]]'s merchant houses, the Anatolian metal market, tin and textile demand]
-produces: [[[kultepe|the kārum colonies]], a long-distance commercial law, the earliest dense business archive]
+driven_by: [ [[ashur|Ashur]]'s merchant houses, the Anatolian metal market, tin and textile demand]
+produces: [ [[kultepe|the kārum colonies]], a long-distance commercial law, the earliest dense business archive]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, middle-bronze-age, anatolia, mesopotamia]

@@ -23,3 +23,7 @@ tags: [event, late-middle-ages, western-europe]
 The Siege of Orléans (12 October 1428 – 8 May 1429) was the watershed military engagement of the final phase of the **[[hundred-years-war-1337|Hundred Years War]]**. 
 
 *(To be filled by subagents)*
+
+## Historiography
+
+The siege is documented in the *Journal du siège d'Orléans*, a near-contemporary civic account composed to celebrate the city's deliverance and Joan of Arc's role in it, alongside chronicles by Jean Chartier and Perceval de Cagny and, retrospectively, the rich witness testimony compiled for the 1455–56 nullification trial. Because most detailed narrative sources were produced by parties invested in vindicating either the city's resistance or Joan's divine mission, the siege's purely military dimensions (the effectiveness of the English siege works, the extent of French command disagreement before Joan's arrival) are harder to reconstruct independently of the hagiographic framing that dominates the tradition. Historians broadly agree on the siege's strategic importance as the war's turning point but continue to debate how much credit for the relief belongs to Joan's leadership versus the pre-existing military and political circumstances (Bedford's overstretched resources, Salisbury's death) that already favored the French cause.

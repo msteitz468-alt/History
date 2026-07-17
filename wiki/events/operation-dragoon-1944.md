@@ -48,6 +48,10 @@ By 1944 the Allies had mastered many of the lessons from Torch and Italy. Dragoo
 
 **Comparison and Legacy:** "The successful landings and the lack of a coordinated German defense presented an opportunity." But "logistics... continued to be our most formidable opponent." (6th AG). Northern ports failed expectations (Cherbourg Jun 26 slow to capacity; Brest Sep 19 little use; Antwerp Nov 26 estuary clear). Southern provided alternative: by late Sep Eisenhower transferred XV Corps south; >80% 6th AG 1944 supplies via Marseilles. "Had the Allies chosen to land in France in 1943, they would not have had these same skills and abilities." Experience from 2 yrs MTO produced "remarkable level of capability, flexibility, and agility." "The Mediterranean SOS had been conducting support operations for the past twenty-four months, whereas the European SOS had been planning support..." Full-ship unload vs northern selective. Technical chiefs more integrated in MTO. Integration of SLOC staff into European COMZ brought "wealth of experience"; first act cancel selective unloading (unless Eisenhower direct). "The Mediterranean was the laboratory in which the US military could learn, experiment, and adapt."
 
+## Historiography
+
+This page's detail derives substantially from Dworak's *War of Supply* (2022), a logistics-focused reassessment built on Services of Supply records, unit logs, and official index/endnote material; it treats Dragoon less as a tactical narrative than as a case study in the maturation of Allied sustainment doctrine between North Africa and the drive into Germany. Because the operation is comparatively understudied relative to Overlord, much of its documentary basis remains institutional and logistical rather than derived from a rich secondary literature of competing interpretations; where debate exists it concerns the operation's strategic necessity (given competing demands for landing craft and troops against a continued Italian campaign) rather than contested facts about its execution.
+
 **Related**
 
 - `part_of:` [[world-war-ii-1939-1945]]

@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Camden, South Carolina]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[gates-horatio]], [[cornwallis-charles]]]
+actors_secondary: [ [[gates-horatio]], [[cornwallis-charles]]]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
@@ -46,6 +46,10 @@ his victory achieved so little" — beyond the battlefield it changed few allegi
 - `produced:` the **annihilation of the southern army** and Gates's disgrace.
 - `produced:` his replacement by **[[greene-nathanael|Nathanael Greene]]**, who would convert the ruin
   into a war-winning campaign of attrition.
+
+## Historiography
+
+Documented mainly through British officers' accounts (Cornwallis's and Tarleton's own narratives, the latter notoriously self-serving) and American courts of inquiry into Gates's conduct, the battle has long been read as a case study in command failure — Gates's decision to post raw militia opposite British regulars is near-universally criticized, though historians differ on whether this reflects poor generalship or the genuinely difficult hand he was dealt (an underfed, half-trained force assembled in weeks). The disgrace of a hero of Saratoga raises long-standing questions about the transferability of command reputation between theaters, a theme the West Point History and Washington biographers both explore. Tarleton's pursuit and reputation for ruthlessness (compare the Waxhaws) are debated separately from the battle's tactics proper.
 
 ## Related
 

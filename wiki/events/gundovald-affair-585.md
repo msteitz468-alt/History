@@ -11,7 +11,7 @@ actors_secondary: [Childebert-ii, Brunhild, Fredegund, the Byzantine Empire, Bis
 event_type: revolution
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[chilperic-i|the assassination of Chilperic I in 584]], dynastic vacancy in southern Gaul, [[byzantine-empire|Byzantine intervention against the Franks]], the ambitions of disaffected dukes]
+causes: [ [[chilperic-i|the assassination of Chilperic I in 584]], dynastic vacancy in southern Gaul, [[byzantine-empire|Byzantine intervention against the Franks]], the ambitions of disaffected dukes]
 consequences: [the destruction of Gundovald and his backers, the sack of Comminges, the consolidation of [[guntram|Guntram's]] authority over the south, intensified suspicion of [[brunhild|Brunhild]]]
 sources_ingested: 1
 last_updated: 2026-06-27

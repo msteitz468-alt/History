@@ -6,7 +6,7 @@ date_end: 57 BCE
 period: [Classical Antiquity]
 region: [italy, anatolia, near-east]
 affiliated_with: [Sulla and the Sullani; the optimates]
-opposed_by: [[[mithridates-vi]], Tigranes II; the publicani; the tribunes and Pompey's faction at Rome]
+opposed_by: [ [[mithridates-vi]], Tigranes II; the publicani; the tribunes and Pompey's faction at Rome]
 key_events: [the [[third-mithridatic-war-73-63bce]], the relief of Cyzicus, the battle of Tigranocerta (69), the financial reform of Asia]
 key_processes: []
 sources_ingested: 1

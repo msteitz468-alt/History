@@ -6,7 +6,7 @@ date_end: 1329 (died)
 period: [Late Middle Ages]
 region: [british-isles]
 affiliated_with: [the Scottish crown, the cause of Scottish independence]
-opposed_by: [[[edward-i-plantagenet|Edward I]] and [[edward-ii-of-england|Edward II]] of England, the Comyn/Balliol faction]
+opposed_by: [ [[edward-i-plantagenet|Edward I]] and [[edward-ii-of-england|Edward II]] of England, the Comyn/Balliol faction]
 key_events: [his rising and coronation (1306), the battle of [[battle-of-bannockburn-1314|Bannockburn]] (1314), the Declaration of Arbroath (1320), the Treaty of Edinburgh (1328)]
 key_processes: [the Wars of Scottish Independence]
 sources_ingested: 1

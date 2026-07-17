@@ -5,7 +5,7 @@ date_start: "c. 1209–1216 (founding of the Friars Minor and Friars Preacher)"
 date_end: ongoing
 period: [High Middle Ages, Late Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[papacy]], [[medieval-university]], [[medieval-inquisition]]]
+affiliated_with: [ [[papacy]], [[medieval-university]], [[medieval-inquisition]]]
 opposed_by: [the secular clergy (William of St Amour), [[catharism|Cathars]], the older monastic orders]
 key_events: [Fourth Lateran Council 1215, the bull Quo elongati 1230, the bull Exiit qui seminat 1279, the secular–mendicant dispute at Paris 1250s]
 key_processes: [the suppression of [[catharism]], the rise of [[medieval-university|universities and scholasticism]], [[urbanization|urbanization]]]

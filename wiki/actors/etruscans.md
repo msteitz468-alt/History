@@ -1,5 +1,6 @@
 ---
 title: The Etruscans
+aliases: [etruscan-civilization]
 actor_type: state
 date_start: ~900 BCE (Villanovan Iron Age origins in situ)
 date_end: ~90 BCE (final absorption by Rome; language and dress extinguished)
@@ -8,7 +9,7 @@ region: [italy, mediterranean]
 affiliated_with: [the Twelve-Peoples League at the Voltumna sanctuary, the Tarquin kings of [[rome|Rome]], Carthage (anti-Greek alliance)]
 opposed_by: [the Western Greeks (Phocaeans, [[magna-graecia|Magna Graecia]], Syracuse), the Celts/Gauls, the expanding Roman Republic]
 key_events: [battle of the Sardinian Sea (Alalia) c. 540 BCE, sea-battle of Cyme/Cumae 474 BCE, Roman destruction of Veii 396 BCE]
-key_processes: [[[urbanization]], [[trade-network-formation]], [[state-formation]]]
+key_processes: [ [[urbanization]], [[trade-network-formation]], [[state-formation]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, state, early-iron-age, archaic-period, italy]

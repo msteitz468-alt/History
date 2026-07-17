@@ -6,7 +6,7 @@ coordinates: ~35°N 115°E (approximate regional center)
 period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: [Qing China and the tributary-trade order, then European/American/Japanese empires, then independent and socialist states]
 events_here: [the Opium Wars, the collapse of the Qing, the Chinese revolutions, the Japanese empire, US–China accommodation (early 1970s)]
-processes_here: [[[self-strengthening]], [[industrialization]], the [[great-divergence|Great Divergence]] and its reversal, [[decolonization]], the post-1970 East Asian resurgence]
+processes_here: [ [[self-strengthening]], [[industrialization]], the [[great-divergence|Great Divergence]] and its reversal, [[decolonization]], the post-1970 East Asian resurgence]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [place, east-asia, china, long-19th-century]

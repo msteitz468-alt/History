@@ -6,7 +6,7 @@ coordinates: ~13.9°N, 4.55°W
 period_active: [Late Antiquity, Early Middle Ages, High Middle Ages]
 controlled_by: [self-governing corporate groups; later Mali sphere]
 events_here: [founding as a village c. 200 BCE, growth into a 33-hectare walled city by the late 1st millennium CE]
-processes_here: [[[urbanization]], [[agriculture-and-urbanism]], [[trans-saharan-trade]]]
+processes_here: [ [[urbanization]], [[agriculture-and-urbanism]], [[trans-saharan-trade]]]
 sources_ingested: 4
 last_updated: 2026-06-12
 tags: [place, west-africa, sub-saharan-africa, late-antiquity]

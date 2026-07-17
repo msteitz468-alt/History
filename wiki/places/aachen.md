@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Aachen, North Rhine-Westphalia, Germany]
 coordinates: [50.78 N, 6.08 E]
 period_active: [Early Middle Ages, High Middle Ages]
-controlled_by: [[[carolingian-empire]], Holy Roman Empire]
-events_here: [[[coronation-of-charlemagne-800|aftermath & imperial residence]], coronation of Louis the Pious 813, death of Charlemagne 814]
-processes_here: [[[carolingian-renaissance]], [[carolingian-capitularies|government by capitulary]]]
+controlled_by: [ [[carolingian-empire]], Holy Roman Empire]
+events_here: [ [[coronation-of-charlemagne-800|aftermath & imperial residence]], coronation of Louis the Pious 813, death of Charlemagne 814]
+processes_here: [ [[carolingian-renaissance]], [[carolingian-capitularies|government by capitulary]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, western-europe, early-middle-ages]

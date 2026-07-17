@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [mediterranean-world, anatolia]
 location: [the whole Mediterranean; Cilicia]
-actors_primary: [[[pompey]], the tribunes Gabinius and Manilius; the Cilician pirates]
+actors_primary: [ [[pompey]], the tribunes Gabinius and Manilius; the Cilician pirates]
 actors_secondary: [Cicero (in support), Metellus (Crete), the optimate opposition]
 event_type: political
 scale_immediate: hemispheric

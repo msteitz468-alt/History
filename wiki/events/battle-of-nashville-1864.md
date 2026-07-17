@@ -36,6 +36,10 @@ Thomas's superior numbers, preparation, and coordination vs. Hood's depleted and
 
 Effectively ended the war in the Western Theater.
 
+## Historiography
+
+Nashville is well documented through the Official Records and George Thomas's own careful, methodical reports, which reflect his reputation (then and now) as a meticulous planner sometimes criticized by Grant for moving too slowly before the battle. The historiographical debate centers on this tension: whether Grant's impatience with Thomas's preparations (he nearly relieved him before the battle) was justified given the eventual decisive victory, or whether it reflects a broader pattern of Grant undervaluing methodical generalship in favor of aggression. The battle is less contested in outcome than in its place within the wider Grant-generalship narrative, and Confederate sources are comparatively thin given the army's near-destruction and the loss of unit cohesion in the aftermath.
+
 ## Related
 
 - Analysis: [[hubs/warfare/long-19th-century/american-civil-war/battle-of-nashville-1864]]

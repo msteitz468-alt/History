@@ -1,5 +1,6 @@
 ---
 title: Fedor von Bock
+aliases: [fedor-von-bock]
 actor_type: person
 date_start: 1880
 date_end: 1945

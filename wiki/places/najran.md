@@ -4,8 +4,8 @@ place_type: city
 modern_equivalent: [Najran, Saudi Arabia]
 coordinates: [17.49 N, 44.13 E]
 period_active: [classical-antiquity, late-antiquity]
-controlled_by: [[[himyar]]]
-events_here: [[[najran-massacre-523]], [[aelius-gallus-expedition-26bce]]]
+controlled_by: [ [[himyar]]]
+events_here: [ [[najran-massacre-523]], [[aelius-gallus-expedition-26bce]]]
 processes_here: []
 sources_ingested: 1
 last_updated: 2026-07-08

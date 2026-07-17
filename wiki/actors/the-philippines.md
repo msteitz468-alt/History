@@ -8,7 +8,7 @@ region: [southeast-asia]
 affiliated_with: [the Propaganda Movement, the Katipunan, the United States, ASEAN]
 opposed_by: [Spanish colonial rule, the United States (1899-1902), the Japanese occupation]
 key_events: [the 1896 Philippine Revolution, the Philippine-American War 1899-1902, the [[japanese-occupation-southeast-asia|Japanese occupation]], independence 1946, the Marcos dictatorship and 1986 People Power]
-key_processes: [[[southeast-asian-nationalism]], Catholic colonization, [[decolonization-southeast-asia]]]
+key_processes: [ [[southeast-asian-nationalism]], Catholic colonization, [[decolonization-southeast-asia]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, state, long-19th-century, world-wars-era, cold-war, contemporary, southeast-asia]

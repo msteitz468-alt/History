@@ -8,7 +8,7 @@ region: [caribbean, mesoamerica, iberia]
 affiliated_with: [the Dominican Order, the Spanish Crown (as "Protector of the Indians")]
 opposed_by: [Juan Ginés de Sepúlveda, the encomenderos]
 key_events: ["the New Laws of 1542", "the Valladolid debate (1550–51)"]
-key_processes: [[[colonial-latin-america]]]
+key_processes: [ [[colonial-latin-america]]]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, caribbean]

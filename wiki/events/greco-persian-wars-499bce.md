@@ -1,5 +1,6 @@
 ---
 title: The Greco-Persian Wars (499–479 BCE)
+aliases: [persian-wars]
 date_start: 499 BCE
 date_end: 479 BCE
 date_precision: year
@@ -12,7 +13,7 @@ actors_secondary: [Ionian Greeks, Eretria, the Hellenic League, Themistocles, Le
 event_type: [war]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[achaemenid-empire|Persian imperial expansion]] absorbing Ionia, the [[ionian-revolt-499bce|Ionian Revolt (499–494)]] and Athenian/Eretrian aid, Darius's drive for retribution, Xerxes' inherited ambition of conquest]
+causes: [ [[achaemenid-empire|Persian imperial expansion]] absorbing Ionia, the [[ionian-revolt-499bce|Ionian Revolt (499–494)]] and Athenian/Eretrian aid, Darius's drive for retribution, Xerxes' inherited ambition of conquest]
 consequences: [the survival and independence of mainland Greece, the rise of Athens and the [[delian-league|Delian League]], the classical Athenian cultural flowering, the invention of history-writing]
 sources_ingested: 4
 last_updated: 2026-07-08

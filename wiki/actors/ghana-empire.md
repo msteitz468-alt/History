@@ -8,7 +8,7 @@ region: [west-africa, sub-saharan-africa]
 affiliated_with: [the Soninke people; North African Muslim merchants resident at Kumbi]
 opposed_by: [the [[trans-saharan-trade|Almoravids]] (11th c.); rival Sahelian states]
 key_events: [emergence as a powerful kingdom by c. 800 CE, control of the Sahelian gold-salt trade, the double-city of Kumbi Saleh, conversion of the ruling class to Islam (11th c.)]
-key_processes: [[[trans-saharan-trade]], [[empire]], [[islamization-of-africa]]]
+key_processes: [ [[trans-saharan-trade]], [[empire]], [[islamization-of-africa]]]
 sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, empire, early-middle-ages, west-africa]

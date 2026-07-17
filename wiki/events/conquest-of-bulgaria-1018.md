@@ -5,7 +5,7 @@ date_end: 1018
 date_precision: year
 period: [High Middle Ages]
 region: [balkans]
-actors_primary: [[[basil-ii|Basil II]], Samuel (tsar of [[first-bulgarian-empire|Bulgaria]])]
+actors_primary: [ [[basil-ii|Basil II]], Samuel (tsar of [[first-bulgarian-empire|Bulgaria]])]
 actors_secondary: [the Byzantine theme armies, the Bulgarian boyars]
 event_type: war
 scale_immediate: regional

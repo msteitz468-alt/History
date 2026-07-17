@@ -5,9 +5,9 @@ date_start: c. 110 BCE
 date_end: c. 570s CE
 period: [classical-antiquity, late-antiquity]
 region: [arabian-peninsula]
-affiliated_with: [[[kinda]]]
-opposed_by: [[[aksum]], [[al-mundhir-iii-lakhmid]]]
-key_events: [[[najran-massacre-523]]]
+affiliated_with: [ [[kinda]]]
+opposed_by: [ [[aksum]], [[al-mundhir-iii-lakhmid]]]
+key_events: [ [[najran-massacre-523]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-07-08

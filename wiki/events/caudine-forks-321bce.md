@@ -12,12 +12,12 @@ event_type: battle
 scale_immediate: regional
 scale_consequential: regional
 causes:
-  - caused_by: "[[second-samnite-war-context|Roman offensive into western Samnium in 326–322 BCE]]"
-  - caused_by: "[[roman-advance-samnium-322bce|Roman army advancing through terrain without adequate intelligence or security]]"
+  - caused_by: "Roman offensive into western Samnium in 326–322 BCE"
+  - caused_by: "Roman army advancing through terrain without adequate intelligence or security"
 consequences:
-  - produced: "[[caudine-peace|A peace (or truce) that suspended hostilities until c. 316 BCE]]"
-  - produced: "[[roman-honor-crisis|Profound crisis of Roman military reputation and honor]]"
-  - enabled: "[[samnite-consolidation-316|Samnite consolidation of position while Rome recovered politically]]"
+  - produced: "A peace (or truce) that suspended hostilities until c. 316 BCE"
+  - produced: "Profound crisis of Roman military reputation and honor"
+  - enabled: "Samnite consolidation of position while Rome recovered politically"
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, mediterranean, western-europe]

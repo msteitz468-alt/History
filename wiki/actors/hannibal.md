@@ -5,10 +5,10 @@ date_start: 247 BCE
 date_end: 183/182 BCE
 period: [Classical Antiquity]
 region: [north-africa, iberia, italy, mediterranean-world]
-affiliated_with: [[[carthage]], the [[hamilcar-barca|Barcid family]]]
-opposed_by: [[[roman-republic]], [[scipio-africanus]], [[fabius-maximus]]]
-key_events: [[[siege-of-saguntum-219bce]], [[second-punic-war-218-201bce]], [[battle-of-cannae-216bce]], [[battle-of-zama-202bce]]]
-key_processes: [[[heracles-melqart-syncretism]]]
+affiliated_with: [ [[carthage]], the [[hamilcar-barca|Barcid family]]]
+opposed_by: [ [[roman-republic]], [[scipio-africanus]], [[fabius-maximus]]]
+key_events: [ [[siege-of-saguntum-219bce]], [[second-punic-war-218-201bce]], [[battle-of-cannae-216bce]], [[battle-of-zama-202bce]]]
+key_processes: [ [[heracles-melqart-syncretism]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, north-africa, iberia, italy]

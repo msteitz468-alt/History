@@ -5,7 +5,7 @@ date_start: 867 CE (accession of Basil I)
 date_end: 1056 CE (death of Theodora)
 period: [Early Middle Ages, High Middle Ages]
 region: [anatolia, balkans, mediterranean, levant]
-affiliated_with: [[[byzantine-empire|the Byzantine state]], the Orthodox Church, the Phokas and Lekapenos military houses]
+affiliated_with: [ [[byzantine-empire|the Byzantine state]], the Orthodox Church, the Phokas and Lekapenos military houses]
 opposed_by: [the Abbasids and the Hamdanids of Aleppo, the [[first-bulgarian-empire|First Bulgarian Empire]], the Fatimids, the Sicilian Arabs]
 key_events: [reconquest of Crete 961, capture of Antioch 969, [[conquest-of-bulgaria-1018]]]
 key_processes: [the Byzantine military reconquest, the codification of law and ceremony]

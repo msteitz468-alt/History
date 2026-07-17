@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Kom Aushim, Faiyum Governorate, Egypt]
 coordinates: [29.52 N, 30.90 E]
 period_active: [Classical Antiquity, Late Antiquity]
-controlled_by: [[[ptolemaic-egypt|the Ptolemies]], [[roman-egypt|Rome]]]
+controlled_by: [ [[ptolemaic-egypt|the Ptolemies]], [[roman-egypt|Rome]]]
 events_here: [foundation in the 3rd c. BCE, University of Michigan excavations 1925–35]
-processes_here: [[[hellenistic-world]], land reclamation, [[papyrology]]]
+processes_here: [ [[hellenistic-world]], land reclamation, [[papyrology]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, egypt, north-africa, classical-antiquity, late-antiquity]

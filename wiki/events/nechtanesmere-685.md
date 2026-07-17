@@ -22,6 +22,10 @@ tags: [event, celts, early-middle-ages, picts, battle]
 
 Decisive Pictish victory over Northumbrian king Ecgfrith at Dunnichen (Nechtanesmere). Ended major Anglian over-kingship ambitions in northern Britain; preserved Pictish autonomy and shifted balance of power among Picts, Gaels, and Britons.
 
+## Historiography
+
+The battle is known almost entirely from Bede's *Historia Ecclesiastica Gentis Anglorum* (completed 731), a Northumbrian source written within living memory but shaped by Bede's providentialist framework, which presents Ecgfrith's defeat and death as divine punishment for his disregard of counsel (including warnings attributed to Cuthbert) rather than as a straightforward military account. Irish annals (the Annals of Ulster and Tigernach) corroborate the date and outcome independently but add little tactical detail. No Pictish-authored account survives, so the battle is necessarily seen almost entirely through Anglo-Saxon and Irish eyes rather than that of the victors; this asymmetry is a standing limitation for any assessment of Pictish strategy or leadership at Dunnichen. The precise site identification (traditionally Dunnichen, Angus) rests on toponymic and later antiquarian argument rather than contemporary documentation, and remains debated among historians and archaeologists.
+
 ## Related
 
 - [[events/nechtanesmere-685]]

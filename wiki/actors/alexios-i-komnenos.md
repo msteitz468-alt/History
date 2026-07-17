@@ -5,10 +5,10 @@ date_start: "c. 1057 (born)"
 date_end: 1118 (died)
 period: [High Middle Ages]
 region: [anatolia, balkans, mediterranean]
-affiliated_with: [[[byzantine-empire|Byzantium]], "the Komnenos military aristocracy"]
+affiliated_with: [ [[byzantine-empire|Byzantium]], "the Komnenos military aristocracy"]
 opposed_by: ["the Normans (Robert Guiscard, Bohemond)", "the Pechenegs", "the Seljuk Turks", "rival aristocratic factions"]
-key_events: [[[komnenian-restoration]], "the Battle of Levounion (1091)", [[first-crusade-1095|the First Crusade]]]
-key_processes: [[[komnenian-restoration]]]
+key_events: [ [[komnenian-restoration]], "the Battle of Levounion (1091)", [[first-crusade-1095|the First Crusade]]]
+key_processes: [ [[komnenian-restoration]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, high-middle-ages, anatolia, balkans]

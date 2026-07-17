@@ -5,10 +5,10 @@ date_start: r. 680 BCE
 date_end: 669 BCE
 period: [Archaic Period]
 region: [mesopotamia, near-east, levant, north-africa]
-affiliated_with: [[[neo-assyrian-empire|Assyria]], the cult of Ashur, his mother Naqia/Zakutu]
+affiliated_with: [ [[neo-assyrian-empire|Assyria]], the cult of Ashur, his mother Naqia/Zakutu]
 opposed_by: [Taharqa of [[kush-meroe|Kush]]/Egypt, Sidon, the Cimmerians, Elam]
 key_events: [the conquest of Egypt — capture of Memphis (671), the rebuilding of Babylon, the destruction of Sidon (677/676), the succession oath of 672]
-key_processes: [[[empire]], [[assyrian-mass-deportation|mass deportation]], imperial restoration]
+key_processes: [ [[empire]], [[assyrian-mass-deportation|mass deportation]], imperial restoration]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, mesopotamia, near-east, north-africa]

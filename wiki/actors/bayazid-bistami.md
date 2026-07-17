@@ -6,10 +6,10 @@ date_end: 874 (died, Bisṭām)
 date_precision: approximate
 period: [Early Middle Ages]
 region: [iran-plateau]
-affiliated_with: [[[sufism|Sufism]], [[early-sufism|formative period]]]
-opposed_by: [[[junayd|Junayd]]'s "sober" school (in spirit; Junayd admired but critiqued him)]
+affiliated_with: [ [[sufism|Sufism]], [[early-sufism|formative period]]]
+opposed_by: [ [[junayd|Junayd]]'s "sober" school (in spirit; Junayd admired but critiqued him)]
 key_events: [his theopathic utterances (shaṭḥiyyāt), especially "Subḥānī — Praise be to Me, how great is My Majesty!"]
-key_processes: [[[sufism]], [[early-sufism]], [[fana-and-baqa]]]
+key_processes: [ [[sufism]], [[early-sufism]], [[fana-and-baqa]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, iran-plateau, islamic-world]

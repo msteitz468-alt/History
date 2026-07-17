@@ -6,9 +6,9 @@ date_end: c. 1150 BCE (settlement / dispersal)
 period: [Late Bronze Age, Bronze Age Collapse, Early Iron Age]
 region: [mediterranean, levant, anatolia, aegean, cyprus, north-africa]
 affiliated_with: [Libyan coalition (Merneptah's war), [[philistines|Philistines]]]
-opposed_by: [[[merneptah|Merneptah]], [[ramesses-iii|Ramesses III]], [[new-kingdom-egypt|New Kingdom Egypt]]]
-key_events: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], Merneptah's Year 5 victory, Ramesses III's Year 8 land and sea battles]
-key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], end of the Mycenaean palace system]
+opposed_by: [ [[merneptah|Merneptah]], [[ramesses-iii|Ramesses III]], [[new-kingdom-egypt|New Kingdom Egypt]]]
+key_events: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]], Merneptah's Year 5 victory, Ramesses III's Year 8 land and sea battles]
+key_processes: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]], end of the Mycenaean palace system]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, movement, late-bronze-age, bronze-age-collapse, mediterranean, levant, aegean]

@@ -6,7 +6,7 @@ coordinates: ~17 N, 38 E (approximate, disputed)
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age]
 controlled_by: []
 events_here: []
-processes_here: [[[egyptian-imperialism]], [[trade-network-formation]]]
+processes_here: [ [[egyptian-imperialism]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, horn-of-africa, north-africa]

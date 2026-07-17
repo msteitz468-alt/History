@@ -5,10 +5,10 @@ date_start: 214 CE
 date_end: 275 CE
 period: [Late Antiquity]
 region: [italy, balkans, near-east, mediterranean-world]
-affiliated_with: [[[roman-imperial-army]], [[roman-empire]]]
-opposed_by: [[[zenobia]], [[gallic-empire]], [[gothic-peoples]]]
+affiliated_with: [ [[roman-imperial-army]], [[roman-empire]]]
+opposed_by: [ [[zenobia]], [[gallic-empire]], [[gothic-peoples]]]
 key_events: []
-key_processes: [[[third-century-crisis]]]
+key_processes: [ [[third-century-crisis]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]

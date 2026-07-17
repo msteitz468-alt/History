@@ -6,9 +6,9 @@ date_end: 362 BCE (died of wounds at the battle of Mantinea)
 period: [Classical Antiquity]
 region: [central-greece, peloponnese]
 affiliated_with: [Thebes, the Boeotian Confederacy, Pelopidas, the Arcadian League]
-opposed_by: [[[sparta]], [[agesilaus-ii|Agesilaus II]], [[athens]], Alexander of Pherae]
+opposed_by: [ [[sparta]], [[agesilaus-ii|Agesilaus II]], [[athens]], Alexander of Pherae]
 key_events: [the victory at [[battle-of-leuctra-371bce|Leuctra]] 371 BCE, the invasion of Laconia and [[liberation-of-messenia-369bce|liberation of Messenia]] 370–369 BCE, the founding of Megalopolis, the [[battle-of-mantinea-362bce|battle of Mantinea]] 362 BCE]
-key_processes: [[[thebes-hegemony-371bce]], the tactical revolution in hoplite warfare]
+key_processes: [ [[thebes-hegemony-371bce]], the tactical revolution in hoplite warfare]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, central-greece]

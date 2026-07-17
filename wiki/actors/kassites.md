@@ -8,7 +8,7 @@ region: [mesopotamia, near-east, iran-plateau]
 affiliated_with: []
 opposed_by: [the [[babylon-first-dynasty|First Dynasty of Babylon]] (early clashes), [[elam|Elam]] (eventually)]
 key_events: [first clash with [[babylon-first-dynasty|Samsuiluna]] (~1740 BCE), accession at Babylon after the [[fall-of-babylon-1595bce|Hittite sack]] (~1595 BCE), Agum II's recovery of Marduk's statue, the Middle Kassite "great power" age (Burnaburiaš II, Kurigalzu II) and the Assyrian dynastic intervention]
-key_processes: [[[migration-in-human-history]], [[state-formation]], [[interpolity-law]]]
+key_processes: [ [[migration-in-human-history]], [[state-formation]], [[interpolity-law]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, dynasty, middle-bronze-age, late-bronze-age, mesopotamia]

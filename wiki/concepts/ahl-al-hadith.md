@@ -1,5 +1,6 @@
 ---
 title: Ahl al-Hadith (The Traditionalists)
+aliases: [hadith-movement]
 concept_type: analytical / ideological / legal-methodological
 origin: "Emerged as an identifiable tendency during the 2nd/8th century; crystallized as a distinct movement by the early 3rd/9th century. Emic term used by the jurists themselves."
 applies_to_periods:

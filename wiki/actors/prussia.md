@@ -8,7 +8,7 @@ region: [western-europe, eastern-europe]
 affiliated_with: [the Hohenzollern dynasty, [[german-empire|the German Empire]], [[german-confederation|German Confederation]]]
 opposed_by: [Habsburg Austria, Napoleonic France, [[revolutions-of-1848|the 1848 revolutionaries]]]
 key_events: [War of the Austrian Succession 1740, Seven Years' War 1756, defeat by Napoleon 1806, [[austro-prussian-war-1866]], [[franco-prussian-war-1870]], [[german-unification|unification of Germany 1871]]]
-key_processes: [[[state-formation]], [[german-industrialization]], militarization]
+key_processes: [ [[state-formation]], [[german-industrialization]], militarization]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, state, early-modern, age-of-expansion, long-19th-century, western-europe, eastern-europe]

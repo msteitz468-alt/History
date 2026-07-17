@@ -51,6 +51,22 @@ caused_by: the structural narrowing of Spartan citizenship and the exclusion of 
 the Spartan system — a fragility that [[thebes-hegemony-371bce|Thebes]] would exploit a
 generation later.
 
+## Historiography
+
+The episode rests entirely on **Xenophon**'s account in the *Hellenica* (iii.3) — no
+independent corroborating source survives. Xenophon was a Spartan sympathizer resident
+at Sparta with personal contacts among the elite, which lends his report of an
+embarrassing internal crisis unusual credibility (he had no motive to invent a story
+damaging to Sparta), but also means the episode is filtered entirely through an
+insider's perspective on the interrogation and its outcome. The vivid speech attributed
+to Cinadon in the agora — enumerating the disproportion between Spartiates and the
+subordinate population — is widely treated by modern historians as substantially
+Xenophon's own dramatic reconstruction rather than a verbatim transcript, a common
+feature of ancient historiography's use of speeches. The precise demographic scale
+implied (how few genuine Spartiates remained) cannot be independently verified and is
+argued over in modern accounts of Spartan *oliganthropia*, but the episode is generally
+accepted as reflecting a real structural crisis rather than invention.
+
 ## Related
 
 - King: [[agesilaus-ii]] · city: [[sparta]] · source-witness: [[xenophon]]

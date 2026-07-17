@@ -8,7 +8,7 @@ region: [andes]
 affiliated_with: [the north coast of Peru, the Moche Valley, the capital [[chan-chan|Chan Chan]]]
 opposed_by: [the [[inca-empire|Inka]] (who conquered Chimor c. 1470)]
 key_events: [the rise of the Kingdom of Chimor, the building of Chan Chan, the Inka conquest of the north coast]
-key_processes: [[[andean-state-formation]]]
+key_processes: [ [[andean-state-formation]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, state, late-middle-ages, andes]

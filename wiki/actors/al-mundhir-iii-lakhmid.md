@@ -5,10 +5,10 @@ date_start: c. 480
 date_end: 554
 period: [late-antiquity]
 region: [mesopotamia, arabian-peninsula]
-affiliated_with: [[[sasanian-empire]], [[lakhmids]]]
-opposed_by: [[[al-harith-ibn-jabala]], [[ghassanids]]]
-key_events: [[[najran-massacre-523]]]
-key_processes: [[[super-phylarchate]]]
+affiliated_with: [ [[sasanian-empire]], [[lakhmids]]]
+opposed_by: [ [[al-harith-ibn-jabala]], [[ghassanids]]]
+key_events: [ [[najran-massacre-523]]]
+key_processes: [ [[super-phylarchate]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, mesopotamia, arabian-peninsula]

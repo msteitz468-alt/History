@@ -41,7 +41,7 @@ Einstein's decision reflected transformation: "I am really doing whatever I can 
 
 Unprecedented scientific celebrity: "the world had never before seen... such a scientific celebrity superstar". Strengthened Einstein's role as visible patron of Hebrew University and Jewish identity ("My relationship to the Jewish people has become my strongest human tie"). Financial results modest (~$750k vs hoped $4M) due to assimilated vs recent-immigrant donor split. Reinforced image as internationalist, not German; fueled domestic German backlash.
 
-`produced: [[concepts/celebrity-scientist]]`.  
+`produced: concepts/celebrity-scientist`.  
 `part_of: [[processes/zionist-movement-early-20c]]`.
 
 ## Historiography

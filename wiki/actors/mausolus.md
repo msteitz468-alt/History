@@ -5,10 +5,10 @@ date_start: 392 BCE (Hecatomnus made satrap of Caria); Mausolus r. 377–353 BCE
 date_end: 334 BCE (Caria absorbed by Alexander; last Hecatomnid Pixodarus/Ada)
 period: [Classical Antiquity]
 region: [anatolia, aegean]
-affiliated_with: [[[achaemenid-empire|Achaemenid Persia]] (as satraps), Rhodes, Cos, the Carian cities]
-opposed_by: [[[athens]] and the Second Athenian Confederacy (Social War), rival satraps, at times the Great King]
+affiliated_with: [ [[achaemenid-empire|Achaemenid Persia]] (as satraps), Rhodes, Cos, the Carian cities]
+opposed_by: [ [[athens]] and the Second Athenian Confederacy (Social War), rival satraps, at times the Great King]
 key_events: [Hecatomnus' satrapy 392 BCE, Mausolus' move of the capital to Halicarnassus, the Revolt of the Satraps, the Social War 357–355 BCE, the Mausoleum]
-key_processes: [[[achaemenid-satrapy|satrapal autonomy]], the Hellenization of a native Anatolian dynasty]
+key_processes: [ [[achaemenid-satrapy|satrapal autonomy]], the Hellenization of a native Anatolian dynasty]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, dynasty, classical-antiquity, anatolia]

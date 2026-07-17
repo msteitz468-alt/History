@@ -11,7 +11,7 @@ actors_secondary: [coptic-church, alexandria]
 event_type: religious
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[christianization-of-the-roman-empire]], the anti-pagan legislation of Theodosius I, communal tension between pagans and Christians in Alexandria]
+causes: [ [[christianization-of-the-roman-empire]], the anti-pagan legislation of Theodosius I, communal tension between pagans and Christians in Alexandria]
 consequences: [the end of organised public paganism in Egypt, [[christianization-of-the-roman-empire|Christianisation]] of Alexandria, destruction of the Serapeum's "daughter" library]
 sources_ingested: 2
 last_updated: 2026-07-08

@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, mediterranean, mediterranean-world]
 location: [the eastern Adriatic coast — Illyria, Corcyra, Apollonia, Epidamnus, Pharos]
-actors_primary: [[[roman-republic]], Queen Teuta, Demetrius of Pharos]
+actors_primary: [ [[roman-republic]], Queen Teuta, Demetrius of Pharos]
 actors_secondary: [the Ardiaei, [[philip-v|Macedon]], the Greek leagues, Italian traders]
 event_type: war
 scale_immediate: regional

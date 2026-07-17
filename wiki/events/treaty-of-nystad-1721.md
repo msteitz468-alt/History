@@ -41,3 +41,7 @@ The Treaty of Nystad produced:
 * **The Russian Empire:** At the peace celebrations in October 1721, the Senate prevailed upon Peter I to accept the titles of "Great," "Father of the Fatherland," and "Emperor," formally transforming the Tsardom of Russia into the Russian Empire (L2902-L2906).
 * **Baltic Window:** Russia secured its long-sought direct maritime access to Western Europe, enabling trade and rapid Westernization (L2902, L2908).
 * **Northern Hegemony:** Russia replaced Sweden as the dominant power in Northern Europe, obtaining a preponderant influence over Poland and German affairs (L2908).
+
+## Historiography
+
+The Cambridge History of Russia's index-level treatment used here draws on Russian Senate records and diplomatic correspondence surrounding the peace, which — like other Petrine-era sources — are shaped by the court's interest in presenting Nystad as the crowning validation of Peter's reign, culminating in the Senate's bestowal of the imperial title. Swedish-side sources instead emphasize national exhaustion and the loss of Charles XII's leadership rather than any particular Russian negotiating brilliance. Because the settlement resulted from extended, multi-year negotiation rather than a single battlefield outcome, historians of the Baltic balance of power still debate the relative weight of Russian naval coercion (the 1719–21 raids into Sweden proper) versus diplomatic pressure from Britain and other powers seeking to check Russia's rising strength.

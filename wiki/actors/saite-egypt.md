@@ -6,7 +6,7 @@ date_end: 525 BCE (Persian conquest under Cambyses)
 period: [Archaic Period]
 region: [north-africa]
 affiliated_with: [Sais (the capital), Carian and Ionian (Greek) mercenaries, Naucratis, at times Assyria, Lydia, and the Greek tyrants]
-opposed_by: [[[neo-babylonian-empire|Babylon]] (Nebuchadnezzar II), [[kush-meroe|Kush]], finally [[achaemenid-empire|Persia]]]
+opposed_by: [ [[neo-babylonian-empire|Babylon]] (Nebuchadnezzar II), [[kush-meroe|Kush]], finally [[achaemenid-empire|Persia]]]
 key_events: [the reunification under Psammetichus I (656), the battles of [[battle-of-megiddo-609bce|Megiddo (609)]] and [[battle-of-carchemish-605bce|Carchemish (605)]], the circumnavigation of Africa, the fall to Cambyses (525)]
 key_processes: [reunification, the building of an Egyptian navy, [[greek-colonization|Greek trade]] and mercenary service, [[orientalizing-revolution|the orientalizing transmission to Greece]]]
 sources_ingested: 5

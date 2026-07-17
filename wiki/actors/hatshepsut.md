@@ -5,10 +5,10 @@ date_start: ~1507 BCE (birth, uncertain)
 date_end: ~1458 BCE (reigned as pharaoh ~1473–1458, middle chronology)
 period: [Late Bronze Age]
 region: [north-africa]
-affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]], the [[amun-priesthood|priesthood of Amun]]]
-opposed_by: [[[thutmose-iii|Thutmose III]] (stepson and co-regent, who later erased her)]
+affiliated_with: [ [[new-kingdom-egypt|Eighteenth Dynasty]], the [[amun-priesthood|priesthood of Amun]]]
+opposed_by: [ [[thutmose-iii|Thutmose III]] (stepson and co-regent, who later erased her)]
 key_events: [assumption of pharaonic titles (~1473 BCE), the expedition to Punt, the Deir el-Bahri temple, the posthumous erasure of her monuments]
-key_processes: [[[trade-network-formation]], [[state-formation]]]
+key_processes: [ [[trade-network-formation]], [[state-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]

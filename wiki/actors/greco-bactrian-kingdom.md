@@ -6,9 +6,9 @@ date_end: c. 130 BCE
 period: [Classical Antiquity]
 region: [central-asia, south-asia]
 affiliated_with: [the Graeco-Macedonian settlers of Bactria]
-opposed_by: [[[seleucid-empire]], the Saka/Yuezhi nomads]
+opposed_by: [ [[seleucid-empire]], the Saka/Yuezhi nomads]
 key_events: [secession from the Seleucids c. 250 BCE]
-key_processes: [[[hellenistic-world]], [[seleucid-colonization]]]
+key_processes: [ [[hellenistic-world]], [[seleucid-colonization]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, state, classical-antiquity, central-asia]

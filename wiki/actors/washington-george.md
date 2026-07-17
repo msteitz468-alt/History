@@ -5,10 +5,10 @@ date_start: 1732
 date_end: 1799
 period: [Age of Expansion]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[continental-army]], [[american-revolution]]]
-opposed_by: [[[howe-william]], [[clinton-henry]], [[cornwallis-charles]]]
-key_events: [[[siege-of-boston-1775]], [[battle-of-long-island-1776]], [[battle-of-trenton-1776]], [[battle-of-princeton-1777]], [[battle-of-brandywine-1777]], [[battle-of-monmouth-1778]], [[siege-of-yorktown-1781]]]
-key_processes: [[[fiscal-military-state]]]
+affiliated_with: [ [[continental-army]], [[american-revolution]]]
+opposed_by: [ [[howe-william]], [[clinton-henry]], [[cornwallis-charles]]]
+key_events: [ [[siege-of-boston-1775]], [[battle-of-long-island-1776]], [[battle-of-trenton-1776]], [[battle-of-princeton-1777]], [[battle-of-brandywine-1777]], [[battle-of-monmouth-1778]], [[siege-of-yorktown-1781]]]
+key_processes: [ [[fiscal-military-state]]]
 sources_ingested: 3
 last_updated: "2026-07-03"
 tags: [actor, person, age-of-expansion, north-america]

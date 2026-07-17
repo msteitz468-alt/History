@@ -6,12 +6,12 @@ date_precision: year
 period: [Cold War]
 region: [global]
 location: [worldwide; last endemic reservoirs in South Asia, the Horn of Africa, Indonesia, Brazil]
-actors_primary: [[[world-health-organization]], the Soviet Union, the United States]
+actors_primary: [ [[world-health-organization]], the Soviet Union, the United States]
 actors_secondary: [Edward Jenner (vaccine, 1796), Viktor Zhdanov, the WHO Intensified Smallpox Eradication Programme]
 event_type: [other]
 scale_immediate: global
 scale_consequential: global
-causes: [[[fossil-fuel-energy-transition|freeze-dried vaccine and mass production]], the rise of global health institutions, Cold War "peaceful coexistence", acceptance of disease control as a global task]
+causes: [ [[fossil-fuel-energy-transition|freeze-dried vaccine and mass production]], the rise of global health institutions, Cold War "peaceful coexistence", acceptance of disease control as a global task]
 consequences: [first deliberate extinction of a human disease, model for later eradication campaigns, landmark of internationalist public health]
 sources_ingested: 1
 last_updated: 2026-06-10

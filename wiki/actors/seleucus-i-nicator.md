@@ -5,10 +5,10 @@ date_start: c. 358 BCE
 date_end: 281 BCE
 period: [Classical Antiquity]
 region: [mesopotamia, near-east, levant, iran-plateau, central-asia, anatolia]
-affiliated_with: [[[ptolemy-i-soter]], [[alexander-the-great]]]
-opposed_by: [[[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]], [[lysimachus]]]
-key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]]]
-key_processes: [[[hellenistic-world]], [[seleucid-empire]], [[seleucid-era]]]
+affiliated_with: [ [[ptolemy-i-soter]], [[alexander-the-great]]]
+opposed_by: [ [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]], [[lysimachus]]]
+key_events: [ [[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]]]
+key_processes: [ [[hellenistic-world]], [[seleucid-empire]], [[seleucid-era]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, dynasty, classical-antiquity, mesopotamia]

@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Salhiyah, Deir ez-Zor Governorate, Syria]
 coordinates: [34.7497, 40.7297]
 period_active: [classical-antiquity, late-antiquity]
-controlled_by: [[[roman-syria]], [[parthian-empire]], [[sasanian-empire]]]
+controlled_by: [ [[roman-syria]], [[parthian-empire]], [[sasanian-empire]]]
 events_here: []
-processes_here: [[[orientalization-of-rome]]]
+processes_here: [ [[orientalization-of-rome]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [place, near-east, mesopotamia, levant, classical-antiquity, late-antiquity]

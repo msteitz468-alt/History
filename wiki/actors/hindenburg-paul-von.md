@@ -1,5 +1,6 @@
 ---
 title: Paul von Hindenburg
+aliases: [hindenburg, paul-von-hindenburg]
 actor_type: person
 date_start: 1847
 date_end: 1934

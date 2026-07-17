@@ -5,10 +5,10 @@ date_start: c. 265 BCE
 date_end: 241 BCE
 period: [Classical Antiquity]
 region: [peloponnese]
-affiliated_with: [[[sparta]], the Eurypontid royal house]
+affiliated_with: [ [[sparta]], the Eurypontid royal house]
 opposed_by: [the Spartan rich, King Leonidas II, [[achaean-league|the Achaean propertied class]]]
 key_events: [the attempted Spartan reform (243–241)]
-key_processes: [[[hellenistic-world]], Spartan social crisis]
+key_processes: [ [[hellenistic-world]], Spartan social crisis]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, peloponnese]

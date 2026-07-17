@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, mediterranean-world]
 location: [Macedonia — Pydna]
-actors_primary: [[[roman-republic]], [[perseus-of-macedon]], [[aemilius-paullus]]]
-actors_secondary: [[[pergamon|Eumenes II]], [[rhodes]], [[achaean-league]], [[polybius]], Genthius of Illyria]
+actors_primary: [ [[roman-republic]], [[perseus-of-macedon]], [[aemilius-paullus]]]
+actors_secondary: [ [[pergamon|Eumenes II]], [[rhodes]], [[achaean-league]], [[polybius]], Genthius of Illyria]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[nature-of-roman-imperialism]], the incompatibility of Macedon's revival with Roman supremacy in Greece, Eumenes' charges against Perseus]
+causes: [ [[nature-of-roman-imperialism]], the incompatibility of Macedon's revival with Roman supremacy in Greece, Eumenes' charges against Perseus]
 consequences: [the end of the [[antigonid-dynasty|Antigonid kingdom]], the four Macedonian republics, the deportation of 1,000 Achaeans, the harsh new Roman tone in Greece]
 sources_ingested: 2
 last_updated: 2026-06-11

@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [the Yamato court, Paekche (ally)]
 opposed_by: [the Tang-Silla alliance (defeated at the Paekchon River 663 CE)]
 key_events: [Yayoi-to-Kofun transition, introduction of Buddhism 538/552 CE, the [[taika-reform-645|Taika Reform (645)]], Battle of the Paekchon River 663 CE, building of Nara 710 CE]
-key_processes: [[[state-formation]], [[japanese-buddhism]], [[shinto]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
+key_processes: [ [[state-formation]], [[japanese-buddhism]], [[shinto]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
 sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, state, late-antiquity, early-middle-ages, japan, east-asia]

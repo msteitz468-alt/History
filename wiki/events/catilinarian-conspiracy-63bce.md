@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
 location: [Rome; Etruria (Faesulae, Pistoria)]
-actors_primary: [[[catiline|L. Sergius Catilina]], [[cicero]], the Senate; the Etrurian rebels under Manlius]
+actors_primary: [ [[catiline|L. Sergius Catilina]], [[cicero]], the Senate; the Etrurian rebels under Manlius]
 actors_secondary: [Lentulus Sura, Cethegus, Cato, Caesar, the Allobroges]
 event_type: political
 scale_immediate: regional

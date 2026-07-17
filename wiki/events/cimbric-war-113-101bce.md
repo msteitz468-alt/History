@@ -6,13 +6,13 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, western-europe, mediterranean]
 location: [Noreia, Arausio (Orange), Aquae Sextiae (Aix-en-Provence), Vercellae (Po valley)]
-actors_primary: [[[roman-republic|Roman Republic]], [[marius|Gaius Marius]], Cimbri, Teutones, Ambrones]
+actors_primary: [ [[roman-republic|Roman Republic]], [[marius|Gaius Marius]], Cimbri, Teutones, Ambrones]
 actors_secondary: [Quintus Lutatius Catulus, Gnaeus Mallius Maximus, Quintus Servilius Caepio]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [migration of the Cimbri and Teutones out of northern Europe, Roman frontier insecurity in Gaul, Roman command failures and political rivalry]
-consequences: [[[marius|Marius's]] unprecedented sequence of consulships, acceleration of the Marian military reforms, elevation of the victorious general as savior of Rome, precedent for extraordinary military commands]
+consequences: [ [[marius|Marius's]] unprecedented sequence of consulships, acceleration of the Marian military reforms, elevation of the victorious general as savior of Rome, precedent for extraordinary military commands]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, mediterranean, italy]

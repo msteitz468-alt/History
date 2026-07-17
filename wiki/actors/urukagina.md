@@ -5,10 +5,10 @@ date_start: ~2350 BCE (reign, ~8 years)
 date_end: ~2342 BCE
 period: [Early Bronze Age]
 region: [mesopotamia]
-affiliated_with: [[[lagash]], [[early-dynastic-sumer]]]
+affiliated_with: [ [[lagash]], [[early-dynastic-sumer]]]
 opposed_by: [Lugalzaggisi of Umma]
 key_events: []
-key_processes: [[[temple-economy]]]
+key_processes: [ [[temple-economy]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, early-bronze-age, mesopotamia]
@@ -60,8 +60,8 @@ His program was cut short: within a few years Lagash was overwhelmed and sacked 
 **Lugalzaggisi of Umma**. A defiant tablet found in the ruins blames Lugalzaggisi
 ("may his goddess make him carry his sin upon his neck") — a curse Gadd notes was
 "dramatically fulfilled" when Lugalzaggisi in turn fell to
-[[naram-sin|Sargon of Akkad]]. [[fagan-world-prehistory-2020|Fagan & Durrani
-(2020)]] corroborate this sequence — Lugalzagesi conquered Lagash from
+[[naram-sin|Sargon of Akkad]]. Fagan & Durrani
+(2020) corroborate this sequence — Lugalzagesi conquered Lagash from
 Urukagina — and note that Lugalzagesi's own later claim to rule "from the
 Persian Gulf to the Mediterranean" is judged "probably false," likely an
 overstatement of intermittent control over trade routes rather than of

@@ -5,9 +5,9 @@ date_start: unknown (fl. 480–470 BCE)
 date_end: c. 466 BCE (starved to death in sanctuary)
 period: [Classical Antiquity]
 region: [peloponnese, aegean]
-affiliated_with: [[[sparta]], the Hellenic League against Persia]
+affiliated_with: [ [[sparta]], the Hellenic League against Persia]
 opposed_by: [the Spartan ephors, the allies, [[athens]]]
-key_events: [[[battle-of-plataea-479bce|Plataea]] (479), the command at Byzantium (478), recall and downfall, death c. 466 BCE]
+key_events: [ [[battle-of-plataea-479bce|Plataea]] (479), the command at Byzantium (478), recall and downfall, death c. 466 BCE]
 key_processes: [the passing of naval leadership from Sparta to Athens]
 sources_ingested: 1
 last_updated: 2026-06-11

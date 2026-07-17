@@ -6,7 +6,7 @@ coordinates: ~34.9°N, 69.3°E
 period_active: [Classical Antiquity, Late Antiquity]
 controlled_by: ["Greco-Bactrians", "[[kushan-empire|Kushans]]", "[[sasanian-empire|Sasanians]]"]
 events_here: []
-processes_here: [[[silk-roads]], [[trade-network-formation]]]
+processes_here: [ [[silk-roads]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, central-asia, bactria, silk-road]

@@ -6,9 +6,9 @@ date_end: c. 700 BCE (Cimmerian destruction of the Phrygian kingdom)
 period: [Bronze Age Collapse, Early Iron Age]
 region: [anatolia]
 affiliated_with: [Mushki (contested identification)]
-opposed_by: [[[assyria-middle|Assyria]], [[hittites|Neo-Hittite states]], Urartu, Cimmerians]
-key_events: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]]]
-key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], post-Hittite reconfiguration of Anatolia]
+opposed_by: [ [[assyria-middle|Assyria]], [[hittites|Neo-Hittite states]], Urartu, Cimmerians]
+key_events: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]]]
+key_processes: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]], post-Hittite reconfiguration of Anatolia]
 sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, movement, bronze-age-collapse, early-iron-age, anatolia]

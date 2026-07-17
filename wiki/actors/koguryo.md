@@ -5,10 +5,10 @@ date_start: ~37 BCE
 date_end: 668 CE
 period: [Late Antiquity, Early Middle Ages]
 region: [korea, east-asia, steppe]
-affiliated_with: [[[puyo]], [[korea-three-kingdoms]], [[yamato-japan]]]
-opposed_by: [[[lelang-commandery]], [[paekche]], [[silla]], [[han-dynasty]]]
+affiliated_with: [ [[puyo]], [[korea-three-kingdoms]], [[yamato-japan]]]
+opposed_by: [ [[lelang-commandery]], [[paekche]], [[silla]], [[han-dynasty]]]
 key_events: [unknown]
-key_processes: [[[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
+key_processes: [ [[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, late-antiquity, korea, east-asia]

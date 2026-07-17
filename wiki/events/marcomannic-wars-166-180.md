@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Antiquity]
 region: [balkans, central-europe, italy]
 location: [the middle and upper Danube frontier; northern Italy]
-actors_primary: [[[marcus-aurelius|Marcus Aurelius]], the Marcomanni, the Quadi, the Sarmatian Iazyges]
+actors_primary: [ [[marcus-aurelius|Marcus Aurelius]], the Marcomanni, the Quadi, the Sarmatian Iazyges]
 actors_secondary: [the Danube legions, migrating Germanic and other peoples (Langobardi, Victuali, Goths)]
 event_type: war
 scale_immediate: regional
@@ -70,6 +70,22 @@ become only a memory." They revealed the empire's **vulnerability to coordinated
 pressure** once its forces were committed elsewhere, exhausted its resources, and inaugurated the
 long defensive struggle on the Rhine–Danube line. They are conventionally taken, with the plague
 and the accession of Commodus, to close the "golden age" of the High Empire.
+
+## Historiography
+
+The wars are frustratingly poorly narrated for events of such consequence. **Cassius
+Dio**'s contemporary-adjacent account survives only through the later Byzantine epitome
+of Xiphilinus, stripped of much original detail and chronological precision. The
+**Historia Augusta**'s *Life of Marcus Aurelius* is notoriously unreliable — a much
+later composite work prone to invention and anecdote — and cannot be trusted for
+specifics without external corroboration. The **Column of Marcus Aurelius** in Rome
+offers rich visual evidence of campaign episodes (including the famous "rain miracle"),
+but correlating its reliefs with a precise chronology of events is difficult and
+disputed among modern scholars. Marcus's own *Meditations*, written largely during the
+campaigns, gives insight into his state of mind but almost no narrative detail. As a
+result, the exact sequence, number, and geography of individual campaigns (166–180) are
+substantially reconstructed by modern historians from a patchwork of epigraphic,
+numismatic, and archaeological evidence rather than a coherent ancient narrative.
 
 ## Related
 

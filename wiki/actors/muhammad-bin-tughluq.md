@@ -5,10 +5,10 @@ date_start: c. 1290 (birth)
 date_end: 1351 (death)
 period: [Late Middle Ages]
 region: [south-asia, india]
-affiliated_with: [[[delhi-sultanate|the Delhi Sultanate]], the Tughluq dynasty]
+affiliated_with: [ [[delhi-sultanate|the Delhi Sultanate]], the Tughluq dynasty]
 opposed_by: [rebel provincial governors, the southern kingdoms ([[vijayanagara-bahmani|Vijayanagara, the Bahmanis]]), famine and his own overreach]
 key_events: ["accession (1325)", "the transfer of the capital to Daulatabad (1327)", "the token (copper) currency (c. 1330)", "the Khurasan and Qarachil expeditions", "the secession of the Deccan and the south (1330s–40s)"]
-key_processes: [[[state-formation]], the fragmentation of the [[delhi-sultanate|Sultanate]]]
+key_processes: [ [[state-formation]], the fragmentation of the [[delhi-sultanate|Sultanate]]]
 sources_ingested: 2
 last_updated: 2026-06-22
 tags: [actor, person, late-middle-ages, south-asia, islamic-world]

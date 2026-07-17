@@ -5,9 +5,9 @@ date_start: 1742
 date_end: 1786
 period: [Age of Expansion]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[continental-army]], [[washington-george]]]
-opposed_by: [[[cornwallis-charles]]]
-key_events: [[[battle-of-brandywine-1777]], [[battle-of-monmouth-1778]], [[battle-of-cowpens-1781]], [[battle-of-guilford-courthouse-1781]]]
+affiliated_with: [ [[continental-army]], [[washington-george]]]
+opposed_by: [ [[cornwallis-charles]]]
+key_events: [ [[battle-of-brandywine-1777]], [[battle-of-monmouth-1778]], [[battle-of-cowpens-1781]], [[battle-of-guilford-courthouse-1781]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

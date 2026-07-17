@@ -6,7 +6,7 @@ date_precision: year
 period: [Early Iron Age]
 region: [levant]
 location: [Jezreel and Samaria, Kingdom of Israel]
-actors_primary: [[[jehu-revolt-841bce|Jehu ben-Nimshi]], the [[omride-dynasty|House of Omri]] (Jehoram, Jezebel), [[kingdom-of-judah|Ahaziah of Judah]]]
+actors_primary: [ [[jehu-revolt-841bce|Jehu ben-Nimshi]], the [[omride-dynasty|House of Omri]] (Jehoram, Jezebel), [[kingdom-of-judah|Ahaziah of Judah]]]
 actors_secondary: [the Yahwist prophetic movement (Elisha's circle), the Rechabites, [[neo-assyrian-empire|Shalmaneser III]], [[hazael|Hazael of Damascus]]]
 event_type: revolution
 scale_immediate: regional

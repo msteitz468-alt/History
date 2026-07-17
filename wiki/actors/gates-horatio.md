@@ -5,9 +5,9 @@ date_start: 1727
 date_end: 1806
 period: [Age of Expansion]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[continental-army]]]
-opposed_by: [[[burgoyne-john]], [[cornwallis-charles]]]
-key_events: [[[battles-of-saratoga-1777]], [[battle-of-camden-1780]]]
+affiliated_with: [ [[continental-army]]]
+opposed_by: [ [[burgoyne-john]], [[cornwallis-charles]]]
+key_events: [ [[battles-of-saratoga-1777]], [[battle-of-camden-1780]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

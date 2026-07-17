@@ -1,5 +1,6 @@
 ---
 title: The Early Slavs (Merovingian Frontier)
+aliases: [slavs-early-middle-ages]
 actor_type: movement
 date_start: c. 560 CE
 date_end: c. 800 CE

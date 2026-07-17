@@ -6,7 +6,7 @@ coordinates: [approx. 56–65°N, 8–18°E]
 period_active: [Early Middle Ages]
 controlled_by: [Danish kings (early state formation), regional chieftains, Icelandic goðar]
 events_here: [foundation of Ribe, construction of the Danevirke and Kanhave canal, settlement of Iceland]
-processes_here: [[[viking-age]], early Scandinavian state formation, North Sea and North Atlantic trade]
+processes_here: [ [[viking-age]], early Scandinavian state formation, North Sea and North Atlantic trade]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [place, scandinavia, early-middle-ages]

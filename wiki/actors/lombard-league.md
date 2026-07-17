@@ -6,9 +6,9 @@ date_end: "1250s (revived against Frederick II); effectively superseded thereaft
 period: [High Middle Ages]
 region: [mediterranean]
 affiliated_with: ["the north-Italian communes", [[papacy|Pope Alexander III]]]
-opposed_by: [[[frederick-i-barbarossa|Frederick Barbarossa]], "the Hohenstaufen empire"]
-key_events: [[[battle-of-legnano-1176]], "the Peace of Constance (1183)"]
-key_processes: [[[commune-movement]]]
+opposed_by: [ [[frederick-i-barbarossa|Frederick Barbarossa]], "the Hohenstaufen empire"]
+key_events: [ [[battle-of-legnano-1176]], "the Peace of Constance (1183)"]
+key_processes: [ [[commune-movement]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, organization, high-middle-ages, mediterranean]

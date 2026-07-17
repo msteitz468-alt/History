@@ -1,5 +1,6 @@
 ---
 title: Writing and Record-Keeping in Early Cities (Information Technologies)
+aliases: [writing]
 concept_type: analytical
 origin: >
   V. Gordon Childe made writing one of his urban-revolution criteria; the

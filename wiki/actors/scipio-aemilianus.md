@@ -5,9 +5,9 @@ date_start: 185/184 BCE
 date_end: 129 BCE
 period: [Classical Antiquity]
 region: [italy, north-africa, iberia, mediterranean-world]
-affiliated_with: [[[roman-republic]], the Cornelii Scipiones (by adoption), the Aemilii Paulli (by birth), [[polybius]]]
-opposed_by: [[[carthage]], the Aravaci of Numantia; politically the Gracchan reformers]
-key_events: [[[third-punic-war-149-146bce]], [[numantine-war-153-133bce]]]
+affiliated_with: [ [[roman-republic]], the Cornelii Scipiones (by adoption), the Aemilii Paulli (by birth), [[polybius]]]
+opposed_by: [ [[carthage]], the Aravaci of Numantia; politically the Gracchan reformers]
+key_events: [ [[third-punic-war-149-146bce]], [[numantine-war-153-133bce]]]
 key_processes: []
 sources_ingested: 2
 last_updated: 2026-07-08

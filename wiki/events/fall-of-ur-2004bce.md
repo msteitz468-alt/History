@@ -7,12 +7,12 @@ dating_method: ~
 period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
 location: [Ur; southern Mesopotamia]
-actors_primary: [[[third-dynasty-of-ur]] (Ibbi-Sin), [[elam|Elam]], [[amorites|the Amorites]]]
+actors_primary: [ [[third-dynasty-of-ur]] (Ibbi-Sin), [[elam|Elam]], [[amorites|the Amorites]]]
 actors_secondary: [Ishbi-Erra of Isin, the Subarians, the Gutians]
 event_type: collapse
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[amorites|Amorite invasion from the northwest]], [[elam|Elamite invasion from the east]], the defection of Ishbi-Erra and the cities, famine]
+causes: [ [[amorites|Amorite invasion from the northwest]], [[elam|Elamite invasion from the east]], the defection of Ishbi-Erra and the cities, famine]
 consequences: [the end of Sumerian-language empire, the Isin–Larsa period, the rise of Amorite Babylon, the Lamentations over Ur]
 sources_ingested: 1
 last_updated: 2026-06-11

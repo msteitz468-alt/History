@@ -1,5 +1,6 @@
 ---
 title: Conroi (Medieval Tactical Unit)
+aliases: [conroi]
 concept_type: military-organisation
 origin: Germanic (conroten/conrois); appears in vernacular sources from at least 12th century; root roi = measure/order
 applies_to_periods: [early-middle-ages, high-middle-ages, late-middle-ages]

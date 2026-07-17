@@ -24,4 +24,7 @@ The August 1942 "Quit India" resolution and the subsequent mass uprising — the
 
 Guha provides a detailed reconstruction of Gandhi's own thinking, the internal Congress debates, the scale of British repression (shootings, collective fines, destruction of villages), and the movement's long-term effects on the Raj's will to stay. Kasturba Gandhi died in prison during this period.
 
+## Historiography
+Guha's *Gandhi: The Years That Changed the World* (2018), the source for this page, draws on Congress internal records, British colonial intelligence and repression reports, and Gandhi's own correspondence and statements from detention. British administrative records of the repression (troop deployments, collective fines, village destruction) provide the fullest documentary base, though official colonial reporting likely understated both the scale of repression and of popular participation. Historians debate how much Quit India actually weakened British capacity to govern India versus how much its significance was retrospective — a symbolic marker of irreversible nationalist momentum rather than a movement that by itself forced British withdrawal, which came only after the war's end and Britain's own changed postwar calculations.
+
 **Related**: [[mahatma-gandhi]] · [[jawaharlal-nehru]] · [[subhas-chandra-bose]] · [[indian-national-congress]] · [[british-raj]] · [[sources/guha-gandhi-the-years-that-changed-the-world-2018]]

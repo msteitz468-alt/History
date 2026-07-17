@@ -6,9 +6,9 @@ date_end: ~2154 BCE (Gutian overthrow)
 period: [Early Bronze Age]
 region: [mesopotamia, near-east]
 affiliated_with: []
-opposed_by: [[[early-dynastic-sumer|the Sumerian cities]], Elam, Lullubi, [[gutian-invasion|Gutians]], Amorites]
-key_events: [[[gutian-invasion|fall of Akkad]]]
-key_processes: [[[state-formation]], [[imperialism]], [[trade-network-formation]], [[writing-and-record-keeping]]]
+opposed_by: [ [[early-dynastic-sumer|the Sumerian cities]], Elam, Lullubi, [[gutian-invasion|Gutians]], Amorites]
+key_events: [ [[gutian-invasion|fall of Akkad]]]
+key_processes: [ [[state-formation]], [[imperialism]], [[trade-network-formation]], [[writing-and-record-keeping]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, empire, early-bronze-age, mesopotamia]

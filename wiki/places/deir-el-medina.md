@@ -4,7 +4,7 @@ place_type: city
 modern_equivalent: Deir el-Medina, west bank of Luxor (Thebes), Egypt
 coordinates: ~25.73 N, 32.60 E
 period_active: [New Kingdom]
-controlled_by: [[[actors/new-kingdom-egypt]]]
+controlled_by: [ [[actors/new-kingdom-egypt]]]
 events_here: []
 processes_here: []
 sources_ingested: 1

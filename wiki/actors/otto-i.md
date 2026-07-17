@@ -5,10 +5,10 @@ date_start: 912 CE (born)
 date_end: 973 CE (died, Memleben)
 period: [Early Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[ottonian-dynasty]], the Reichskirche, [[papacy]]]
+affiliated_with: [ [[ottonian-dynasty]], the Reichskirche, [[papacy]]]
 opposed_by: [Berengar II of Italy, the Magyars, [[elbe-slavs|the Elbe Slavs]], rebel kin (Thankmar, Henry, Liudolf)]
-key_events: [[[battle-of-lechfeld-955]], [[coronation-of-otto-i-962]]]
-key_processes: [[[reichskirche]], German eastward expansion]
+key_events: [ [[battle-of-lechfeld-955]], [[coronation-of-otto-i-962]]]
+key_processes: [ [[reichskirche]], German eastward expansion]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, early-middle-ages, western-europe]

@@ -3,6 +3,7 @@ title: Sufism
 process_type: [religious, cultural]
 date_start: c. 750 (ascetic roots) — flowering c. 1100–1500
 date_end: ongoing
+date_precision: century
 period: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern]
 region: [near-east, iran-plateau, central-asia, south-asia, north-africa, southeast-asia]
 driven_by: [the search for inward religious experience, the [[early-sufism|early ascetic tradition]], the institutionalization of the [[tariqa-orders|tariqa orders]]]

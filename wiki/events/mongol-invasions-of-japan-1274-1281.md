@@ -115,6 +115,10 @@ A rare case where **weather changed world history**: the typhoons preserved Japa
 Mongols, but the victory's very lack of spoils helped doom the regime that won it. The
 **kamikaze** entered Japanese self-understanding as proof of a divinely shielded nation.
 
+## Historiography
+
+The two invasions are known from both Mongol/Chinese and Japanese sources, each shaped by its own interests: the Yuan-compiled *History of Yuan* (Yuan Shi) is a terse official record written decades later under a successor dynasty, while the most vivid Japanese source, the illustrated hand-scroll *Mōko Shūrai Ekotoba*, was commissioned by the samurai Takezaki Suenaga specifically to document his own battlefield exploits and press his claim for reward — a self-interested source whose depictions (including of Mongol tactics and weapons) require independent corroboration rather than literal acceptance. The role of the typhoons ("kamikaze") in both invasions, especially their scale and the precise proportion of the Mongol defeat attributable to storm versus Japanese resistance, has been substantially informed by modern underwater archaeology of the wrecked 1281 fleet off Takashima, which has both confirmed catastrophic losses and revealed details (ship construction, cargo) not recoverable from the textual sources alone. The later ideological use of the "kamikaze" myth — especially its revival for the Pacific War's suicide pilots — is itself a distinct subject of modern historiographical and cultural analysis, separate from the thirteenth-century military event.
+
 ## Related
 
 - [[mongol-empire]] — the attacker, at its maximum reach.

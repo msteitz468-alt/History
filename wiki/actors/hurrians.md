@@ -8,7 +8,7 @@ region: [near-east, mesopotamia, levant, anatolia]
 affiliated_with: [later [[mitanni|Mitanni]], the kingdom of Khanigalbat]
 opposed_by: [the [[hittites|Hittites]] (Hattusili I, Mursili I), the [[amorites|Amorites]] (whom they displaced in the north)]
 key_events: [Hurrian attack on [[hittites|Hattusili I]]'s rear (~16th c. BCE), formation of [[mitanni|Mitanni]] (~16th–15th c. BCE)]
-key_processes: [[[migration-in-human-history]], [[state-formation]]]
+key_processes: [ [[migration-in-human-history]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, movement, middle-bronze-age, late-bronze-age, near-east]

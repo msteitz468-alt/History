@@ -5,10 +5,10 @@ date_start: c. 1115 (Barisan/Balian the Elder, castellan of Jaffa)
 date_end: "male line ends after Genoese war 1373–74"
 period: [High Middle Ages, Late Middle Ages]
 region: [levant, cyprus, mediterranean]
-affiliated_with: [[[kingdom-of-cyprus]], [[crusader-states]], [[lusignan-dynasty]]]
-opposed_by: [[[frederick-ii-hohenstaufen]], "the five baillis / imperialist party"]
-key_events: [[[war-of-the-lombards-1228]], [[fall-of-acre-1291]], [[genoese-invasion-of-cyprus-1373]]]
-key_processes: [[[crusades]]]
+affiliated_with: [ [[kingdom-of-cyprus]], [[crusader-states]], [[lusignan-dynasty]]]
+opposed_by: [ [[frederick-ii-hohenstaufen]], "the five baillis / imperialist party"]
+key_events: [ [[war-of-the-lombards-1228]], [[fall-of-acre-1291]], [[genoese-invasion-of-cyprus-1373]]]
+key_processes: [ [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, dynasty, high-middle-ages, late-middle-ages, cyprus, levant]

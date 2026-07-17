@@ -5,10 +5,10 @@ date_start: 1270
 date_end: 1324-03-31 (Strovolos)
 period: [High Middle Ages, Late Middle Ages]
 region: [cyprus, levant]
-affiliated_with: [[[lusignan-dynasty]], [[kingdom-of-cyprus]], "titular Kingdom of Jerusalem", [[ibelin-family]]]
+affiliated_with: [ [[lusignan-dynasty]], [[kingdom-of-cyprus]], "titular Kingdom of Jerusalem", [[ibelin-family]]]
 opposed_by: ["Amaury of Tyre (brother; coup 1306–10)", [[mamluk-sultanate]], [[republic-of-genoa]]]
-key_events: [[[fall-of-acre-1291]], "Amaury's coup and Henry's exile (1306–10)", "restoration 27 August 1310"]
-key_processes: [[[crusades]]]
+key_events: [ [[fall-of-acre-1291]], "Amaury's coup and Henry's exile (1306–10)", "restoration 27 August 1310"]
+key_processes: [ [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, late-middle-ages, cyprus]

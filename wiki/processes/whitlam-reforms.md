@@ -6,7 +6,7 @@ date_precision: year
 period: [Cold War]
 region: [australia]
 process_type: political
-driven_by: [[[whitlam-gough]], [[australian-labour-movement]]]
+driven_by: [ [[whitlam-gough]], [[australian-labour-movement]]]
 produces: []
 sources_ingested: 1
 last_updated: 2026-06-27

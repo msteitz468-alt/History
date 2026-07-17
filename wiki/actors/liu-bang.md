@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the rebel coalition against Qin, the Han dynasty (founder), the Liu clan]
 opposed_by: [the Qin dynasty, Xiang Yu of Chu, the non-Liu ally-kings, the Xiongnu]
 key_events: ["rebellion against Qin (from 209 BCE)", "title king of Han (206 BCE)", "Battle of Gaixia and defeat of Xiang Yu (202 BCE)", "purge of the non-Liu kings (to 195 BCE)"]
-key_processes: [[[han-dynasty]], the founding of the Chinese imperial-Confucian state]
+key_processes: [ [[han-dynasty]], the founding of the Chinese imperial-Confucian state]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, china, east-asia]

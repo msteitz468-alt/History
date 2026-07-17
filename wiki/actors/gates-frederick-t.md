@@ -5,10 +5,10 @@ date_start: 1853
 date_end: 1929
 period: [long-19th-century, world-wars-era]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[actors/rockefeller-john-d]], [[actors/rockefeller-john-d-jr]]]
+affiliated_with: [ [[actors/rockefeller-john-d]], [[actors/rockefeller-john-d-jr]]]
 opposed_by: []
 key_events: []
-key_processes: [[[concepts/scientific-philanthropy]]]
+key_processes: [ [[concepts/scientific-philanthropy]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [actor, person, long-19th-century, world-wars-era, north-america, eastern-north-america, gates-frederick-t, philanthropy]

@@ -8,7 +8,7 @@ region: [north-africa, mediterranean]
 affiliated_with: [the Ottoman Empire (nominal suzerainty), the Janissary corps, the corsair captains]
 opposed_by: [Habsburg Spain, the Mediterranean Christian powers, the Knights of Malta]
 key_events: [the Ottoman seizure of Algiers (1516) under the Barbarossa brothers, the Ottoman conquest of Egypt (1517), the apogee of the corsair economy (17th c.)]
-key_processes: [[[trans-saharan-trade]], Mediterranean corsairing, [[islamization-of-africa]]]
+key_processes: [ [[trans-saharan-trade]], Mediterranean corsairing, [[islamization-of-africa]]]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-modern, north-africa]

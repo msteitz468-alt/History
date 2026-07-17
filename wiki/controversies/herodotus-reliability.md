@@ -1,5 +1,6 @@
 ---
 title: The Reliability of Herodotus as a Historical Source
+aliases: [reliability-of-herodotus]
 dispute_type: source-reliability
 period_involved: [Archaic Period, Classical Antiquity]
 regions_involved: [aegean, near-east, mediterranean, iran-plateau, central-greece]

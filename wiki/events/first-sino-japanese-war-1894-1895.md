@@ -8,7 +8,7 @@ period: [Long 19th Century]
 region: [korea, china, japan, east-asia]
 location: [Korea, the Yellow Sea, the Liaodong peninsula, Weihaiwei, Shimonoseki]
 actors_primary: [Meiji Japan, Qing China (Li Hongzhang), Chosŏn Korea]
-actors_secondary: [[[ito-hirobumi|Itō Hirobumi]], Russia/France/Germany (the Triple Intervention)]
+actors_secondary: [ [[ito-hirobumi|Itō Hirobumi]], Russia/France/Germany (the Triple Intervention)]
 event_type: war
 scale_immediate: regional
 scale_consequential: hemispheric

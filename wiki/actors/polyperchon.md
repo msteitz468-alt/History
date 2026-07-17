@@ -5,10 +5,10 @@ date_start: c. 380 BCE
 date_end: after 304 BCE
 period: [Classical Antiquity]
 region: [balkans, mediterranean]
-affiliated_with: [[[antipater]], [[eumenes-of-cardia]], [[olympias]]]
-opposed_by: [[[cassander]]]
-key_events: [[[wars-of-the-diadochi-323]]]
-key_processes: [[[hellenistic-world]]]
+affiliated_with: [ [[antipater]], [[eumenes-of-cardia]], [[olympias]]]
+opposed_by: [ [[cassander]]]
+key_events: [ [[wars-of-the-diadochi-323]]]
+key_processes: [ [[hellenistic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, balkans]

@@ -5,10 +5,10 @@ date_start: c. 163 BCE
 date_end: 133 BCE
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
-affiliated_with: [[[roman-republic]], the Sempronii Gracchi; allies P. Mucius Scaevola, Appius Claudius, Crassus Mucianus]
+affiliated_with: [ [[roman-republic]], the Sempronii Gracchi; allies P. Mucius Scaevola, Appius Claudius, Crassus Mucianus]
 opposed_by: [the Senate majority, M. Octavius, Scipio Nasica]
 key_events: [the tribunate and agrarian law of 133, his death]
-key_processes: [[[agrarian-crisis-roman-republic]], [[optimates-populares]]]
+key_processes: [ [[agrarian-crisis-roman-republic]], [[optimates-populares]]]
 sources_ingested: 6
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]

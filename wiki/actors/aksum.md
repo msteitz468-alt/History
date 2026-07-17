@@ -8,7 +8,7 @@ region: [horn-of-africa, east-africa]
 affiliated_with: [Rome/Byzantium (ally and trading partner), the Indian Ocean trade network, Christianity from the 4th c. CE]
 opposed_by: [the [[kush-meroe|Kingdom of Kush]] (conquered c. 350 CE), Sasanian Persia, the early Caliphate]
 key_events: [rise to prominence late 1st c. BCE, establishment of Adulis as a treaty port, conquest of Kush c. 350 CE, conversion to Christianity (4th c.), control of Yemen (early 6th c.), collapse and relocation c. 700 CE]
-key_processes: [[[indian-ocean-trade]], [[trade-network-formation]], [[empire]], [[christianization]]]
+key_processes: [ [[indian-ocean-trade]], [[trade-network-formation]], [[empire]], [[christianization]]]
 sources_ingested: 6
 last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, horn-of-africa]

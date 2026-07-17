@@ -7,7 +7,7 @@ date_exact: 22 June 217 BCE
 period: [Classical Antiquity]
 region: [levant, egypt]
 location: [Raphia (southern Palestine, near Gaza)]
-actors_primary: [[[ptolemaic-egypt]], [[seleucid-empire]], [[antiochus-iii-the-great]]]
+actors_primary: [ [[ptolemaic-egypt]], [[seleucid-empire]], [[antiochus-iii-the-great]]]
 actors_secondary: [Ptolemy IV Philopator, Sosibius, Arsinoe III]
 event_type: battle
 scale_immediate: regional

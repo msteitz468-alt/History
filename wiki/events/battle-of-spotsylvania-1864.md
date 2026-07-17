@@ -1,5 +1,6 @@
 ---
 title: Battle of Spotsylvania Court House
+aliases: [battle-of-spotsylvania-court-house-1864]
 date_start: "1864-05-08"
 date_end: "1864-05-21"
 date_precision: exact

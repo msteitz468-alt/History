@@ -6,9 +6,9 @@ date_end: 1970
 period: [World Wars Era]
 region: [western-europe]
 affiliated_with: [Centre Party (Zentrum), [[hindenburg-paul-von]]]
-opposed_by: [[[nazi-germany|NSDAP]], KPD, agrarian and industrial lobbies]
-key_events: [[[reichstag-election-september-1930]], [[great-depression]]]
-key_processes: [[[weimar-democracy-and-its-collapse]]]
+opposed_by: [ [[nazi-germany|NSDAP]], KPD, agrarian and industrial lobbies]
+key_events: [ [[reichstag-election-september-1930]], [[great-depression]]]
+key_processes: [ [[weimar-democracy-and-its-collapse]]]
 sources_ingested: [evans-coming-of-third-reich-2003]
 last_updated: 2026-07-02
 tags: [actor, person, world-wars-era, western-europe]

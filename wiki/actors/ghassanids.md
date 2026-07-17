@@ -5,10 +5,10 @@ date_start: c. 490
 date_end: 637
 period: [late-antiquity]
 region: [near-east, levant, arabian-peninsula]
-affiliated_with: [[[roman-syria]]]
-opposed_by: [[[sasanian-empire]], [[tanukhids]]]
+affiliated_with: [ [[roman-syria]]]
+opposed_by: [ [[sasanian-empire]], [[tanukhids]]]
 key_events: []
-key_processes: [[[orientalization-of-rome]]]
+key_processes: [ [[orientalization-of-rome]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, movement, late-antiquity, near-east, arabian-peninsula]

@@ -34,6 +34,9 @@ On May 20, 1927, Charles Lindbergh took off from Roosevelt Field, Long Island, i
 - **Global Celebrity:** Lindbergh became an international icon, using his influence to promote global commercial routes and secure funding for Robert Goddard's rocketry research.
 - **Transregional Integration:** The flight bridged the Atlantic, accelerating the development of international air travel and passenger transport.
 
+## Historiography
+The flight is unusually well documented through Lindbergh's own detailed account (*We*, 1927, and the later Pulitzer Prize-winning *The Spirit of St. Louis*, 1953), contemporary press coverage of the record attempt, and Ryan Aeronautical's engineering records. Because Lindbergh's own retrospective writing is the dominant primary source, historians have noted the need to read his self-presentation critically, particularly regarding his later political reputation; the flight itself, however, is not a contested episode factually. Aviation historians debate primarily the flight's causal weight in the "Lindbergh Boom" versus broader technological and economic trends already pushing commercial aviation forward in the late 1920s.
+
 ## Related Pages
 - [[actors/lindbergh-charles|Charles A. Lindbergh]]
 - [[places/le-bourget-field|Le Bourget Field]]

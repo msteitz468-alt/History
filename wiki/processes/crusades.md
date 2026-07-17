@@ -6,8 +6,8 @@ date_precision: year
 period: [High Middle Ages, Late Middle Ages]
 region: [levant, near-east, anatolia, mediterranean, western-europe, iberia, balkans, eastern-europe]
 process_type: religious
-driven_by: [[[gregorian-reform]], [[just-war]], "the pilgrimage tradition", "the papal claim to authorise sanctified violence", "the Seljuk Turkish conquest of Anatolia and the Byzantine appeal", "the ideology of liberation (of eastern Christians and of Jerusalem)"]
-produces: [[[crusader-states|the crusader states]], "the military-religious orders (Templars, Hospitallers)", "the indulgence and the crusade vow", "the militarisation of medieval Christendom", "lasting Latin–Byzantine and Christian–Muslim antagonism"]
+driven_by: [ [[gregorian-reform]], [[just-war]], "the pilgrimage tradition", "the papal claim to authorise sanctified violence", "the Seljuk Turkish conquest of Anatolia and the Byzantine appeal", "the ideology of liberation (of eastern Christians and of Jerusalem)"]
+produces: [ [[crusader-states|the crusader states]], "the military-religious orders (Templars, Hospitallers)", "the indulgence and the crusade vow", "the militarisation of medieval Christendom", "lasting Latin–Byzantine and Christian–Muslim antagonism"]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [process, high-middle-ages, levant, mediterranean, western-europe, islamic-world]

@@ -5,10 +5,10 @@ date_start: "c. 1015 (born, Sovana, Tuscany)"
 date_end: 1085 (died in exile, Salerno)
 period: [High Middle Ages]
 region: [mediterranean, western-europe]
-affiliated_with: [[[papacy]], [[gregorian-reform]], "the Normans of southern Italy", "Countess Matilda of Tuscany"]
-opposed_by: [[[henry-iv-holy-roman-emperor|Emperor Henry IV]], "the antipope Clement III (Wibert of Ravenna)", "the imperial church party"]
-key_events: [[[investiture-contest]], "the Synod of Worms (1076)", "Canossa (1077)"]
-key_processes: [[[gregorian-reform]], [[papal-monarchy]]]
+affiliated_with: [ [[papacy]], [[gregorian-reform]], "the Normans of southern Italy", "Countess Matilda of Tuscany"]
+opposed_by: [ [[henry-iv-holy-roman-emperor|Emperor Henry IV]], "the antipope Clement III (Wibert of Ravenna)", "the imperial church party"]
+key_events: [ [[investiture-contest]], "the Synod of Worms (1076)", "Canossa (1077)"]
+key_processes: [ [[gregorian-reform]], [[papal-monarchy]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, mediterranean, western-europe]

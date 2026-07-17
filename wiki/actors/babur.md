@@ -8,7 +8,7 @@ region: [south-asia, india, central-asia]
 affiliated_with: [the Timurid dynasty, the [[mughal-empire|Mughal Empire]] (founder), Chaghatai Turkic and Persianate culture]
 opposed_by: [the Uzbeks (Shaybani Khan) in Central Asia, the [[delhi-sultanate|Lodi]] sultanate, the [[rajputs|Rajput]] confederacy under Rana Sanga]
 key_events: ["the loss of Samarkand and Fergana to the Uzbeks", "the seizure of Kabul (1504)", "the first battle of Panipat (1526)", "the battle of Khanwa (1527)"]
-key_processes: [[[state-formation]], the founding of the [[mughal-empire|Mughal Empire]]]
+key_processes: [ [[state-formation]], the founding of the [[mughal-empire|Mughal Empire]]]
 sources_ingested: 2
 last_updated: 2026-06-14
 tags: [actor, person, early-modern, south-asia, central-asia]

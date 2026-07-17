@@ -8,17 +8,17 @@ period: [Classical Antiquity]
 region: [mediterranean, western-europe]
 location: Veii (modern Isola Farnese, approximately 16 km north of Rome)
 actors_primary: [Rome, M. Furius Camillus (dictator)]
-actors_secondary: [[[veii]], [[latin-league]], [[caere]]]
+actors_secondary: [ [[veii]], [[latin-league]], [[caere]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
 causes:
-  - caused_by: "[[roman-veii-rivalry|Long-standing Roman-Veii rivalry over the Tiber crossing and salt routes]]"
-  - contributed_to: "[[ager-veientanus-pressure|Population pressure and land hunger in Rome driving demand for the ager Veientanus]]"
-  - preceded_by: "[[wars-with-veii-fifth-century|Fifth-century warfare between Rome and Veii, culminating in the Roman capture of Fidenae]]"
+  - caused_by: "Long-standing Roman-Veii rivalry over the Tiber crossing and salt routes"
+  - contributed_to: "Population pressure and land hunger in Rome driving demand for the ager Veientanus"
+  - preceded_by: "Fifth-century warfare between Rome and Veii, culminating in the Roman capture of Fidenae"
 consequences:
-  - produced: "[[ager-veientanus-distribution|Distribution of the ager Veientanus in 7-iugera lots to Roman citizens — near-doubling of Roman territory]]"
-  - produced: "[[juno-regina-transfer|Transfer of Veii's patron goddess Juno Regina to Rome by evocatio ritual]]"
+  - produced: "Distribution of the ager Veientanus in 7-iugera lots to Roman citizens — near-doubling of Roman territory"
+  - produced: "Transfer of Veii's patron goddess Juno Regina to Rome by evocatio ritual"
   - enabled: "[[roman-expansion-italy|Roman expansion into Etruria and beyond — Veii's fall removed the northern barrier]]"
   - contributed_to: "[[gallic-sack-of-rome-390bce|Gallic reaction: Gauls allied with Etruscan cities threatened by Roman power]]"
 sources_ingested: 1

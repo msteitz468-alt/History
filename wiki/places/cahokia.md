@@ -6,7 +6,7 @@ coordinates: ~38.66°N, 90.06°W
 period_active: [Early Middle Ages, High Middle Ages]
 controlled_by: [Mississippian polity]
 events_here: [spread of platform mounds after 800 CE, Mississippian emergence in the American Bottom c. 950 CE, the "big bang" rebuilding c. 1050 CE]
-processes_here: [[[urbanization]], [[ruralization]], [[north-american-mound-building]]]
+processes_here: [ [[urbanization]], [[ruralization]], [[north-american-mound-building]]]
 sources_ingested: 2
 last_updated: 2026-06-10
 tags: [place, eastern-north-america, high-middle-ages]

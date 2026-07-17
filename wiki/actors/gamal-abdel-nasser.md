@@ -8,7 +8,7 @@ region: [egypt, near-east, north-africa]
 affiliated_with: [the Free Officers, Egypt, the pan-Arab and Non-Aligned movements]
 opposed_by: [Britain & France (Suez), Israel, the monarchies, the Muslim Brotherhood, the Baʿthist rivals]
 key_events: ["the Free Officers' coup (1952)", "the nationalization of the Suez Canal & the Suez Crisis (1956)", "the United Arab Republic (1958–61)", "the Six-Day War defeat (1967)"]
-key_processes: [[[arab-nationalism]], [[decolonization]], [[cold-war]]]
+key_processes: [ [[arab-nationalism]], [[decolonization]], [[cold-war]]]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [actor, person, cold-war, egypt, near-east]

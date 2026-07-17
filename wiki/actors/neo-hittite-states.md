@@ -6,9 +6,9 @@ date_end: c. 700 BCE (annexation of the last states by Assyria)
 period: [Early Iron Age, Archaic Period]
 region: [anatolia, levant, near-east, syria]
 affiliated_with: [the Luwian-Hittite cultural tradition, the city of Carchemish, the Aramaean states (fusion)]
-opposed_by: [[[neo-assyrian-empire|Assyria]], [[urartu|Urartu]], the Aramaean states (rivalry and absorption)]
+opposed_by: [ [[neo-assyrian-empire|Assyria]], [[urartu|Urartu]], the Aramaean states (rivalry and absorption)]
 key_events: [the [[bronze-age-collapse-1200bce|fall of the Hittite Empire]], annexation by Tiglath-pileser III and Sargon II]
-key_processes: [[[indo-european-migrations|post-collapse population movements]], Aramaization, [[state-formation]]]
+key_processes: [ [[indo-european-migrations|post-collapse population movements]], Aramaization, [[state-formation]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, anatolia, levant]

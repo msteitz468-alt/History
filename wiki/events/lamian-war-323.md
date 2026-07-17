@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, mediterranean]
 location: [Lamia, Crannon, Amorgos, Athens]
-actors_primary: [[[places/athens|Athens]], [[antipater]], [[aetolian-league]], [[leosthenes]]]
-actors_secondary: [[[craterus]], [[demosthenes]], [[hyperides]], [[phocion]], [[leonnatus]]]
+actors_primary: [ [[places/athens|Athens]], [[antipater]], [[aetolian-league]], [[leosthenes]]]
+actors_secondary: [ [[craterus]], [[demosthenes]], [[hyperides]], [[phocion]], [[leonnatus]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional

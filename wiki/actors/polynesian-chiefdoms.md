@@ -8,7 +8,7 @@ region: [polynesia, oceania]
 affiliated_with: [the descendants of the Lapita peoples, the ancestral homeland of Hawaiki (Tonga/Samoa)]
 opposed_by: [rival chiefdoms; territorial and militaristic inter-polity competition]
 key_events: [elaboration of paramount chiefdoms c. 600–350 BP, the Tongan maritime empire, Kamehameha I's unification of Hawaii (1810)]
-key_processes: [[[pacific-voyaging-and-settlement]], [[state-formation]]]
+key_processes: [ [[pacific-voyaging-and-settlement]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [actor, polynesia, high-middle-ages]

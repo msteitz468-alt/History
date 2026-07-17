@@ -6,7 +6,7 @@ coordinates: ~13.41°N, 103.87°E (Angkor)
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Funan, Chenla, Khmer Empire]
 events_here: []
-processes_here: [[[urbanization]]]
+processes_here: [ [[urbanization]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [place, southeast-asia, late-antiquity]

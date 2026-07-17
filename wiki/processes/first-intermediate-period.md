@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Early Bronze Age, Middle Bronze Age]
 region: [north-africa]
 process_type: [political, cultural]
-driven_by: [[[fall-of-old-kingdom-2160bce|the collapse of the Old Kingdom]], provincial autonomy, low Nile floods / famine]
-produces: [[[reunification-of-egypt-2040bce|the Theban reunification]], [[middle-kingdom-egypt|the Middle Kingdom]], [[democratization-of-afterlife|the "democratization of the afterlife"]]]
+driven_by: [ [[fall-of-old-kingdom-2160bce|the collapse of the Old Kingdom]], provincial autonomy, low Nile floods / famine]
+produces: [ [[reunification-of-egypt-2040bce|the Theban reunification]], [[middle-kingdom-egypt|the Middle Kingdom]], [[democratization-of-afterlife|the "democratization of the afterlife"]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, early-bronze-age, middle-bronze-age, north-africa]

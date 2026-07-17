@@ -5,9 +5,9 @@ date_start: "traditional founder, 753 BCE (legendary)"
 date_end: "legendary"
 period: [Archaic Period]
 region: [italy, rome]
-affiliated_with: [[[actors/roman-kingdom]]]
+affiliated_with: [ [[actors/roman-kingdom]]]
 opposed_by: []
-key_events: [[[events/founding-of-rome-753bce]]]
+key_events: [ [[events/founding-of-rome-753bce]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-07-08

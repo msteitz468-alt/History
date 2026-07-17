@@ -6,13 +6,13 @@ date_precision: year
 period: [Archaic Period]
 region: [near-east, levant, anatolia]
 location: [Carchemish, on the upper Euphrates (modern Syrian–Turkish border, Jarablus)]
-actors_primary: [[[nebuchadnezzar-ii|Nebuchadnezzar II]] (crown prince of Babylon), Necho II of Egypt]
-actors_secondary: [[[nabopolassar|Nabopolassar]], Greek mercenaries (incl. Antimenidas, brother of Alcaeus), [[kingdom-of-judah|Judah]]]
+actors_primary: [ [[nebuchadnezzar-ii|Nebuchadnezzar II]] (crown prince of Babylon), Necho II of Egypt]
+actors_secondary: [ [[nabopolassar|Nabopolassar]], Greek mercenaries (incl. Antimenidas, brother of Alcaeus), [[kingdom-of-judah|Judah]]]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[neo-babylonian-empire|Babylonian]] inheritance of the Assyrian west, Egyptian (Saite) ambition to hold Syria, the [[fall-of-nineveh-612bce|collapse of Assyria]]]
-consequences: [[[neo-babylonian-empire|Babylonian]] mastery of the Levant, the end of Saite Egyptian power in Asia, the subjugation and eventual [[fall-of-jerusalem-587bce|destruction of Judah]]]
+causes: [ [[neo-babylonian-empire|Babylonian]] inheritance of the Assyrian west, Egyptian (Saite) ambition to hold Syria, the [[fall-of-nineveh-612bce|collapse of Assyria]]]
+consequences: [ [[neo-babylonian-empire|Babylonian]] mastery of the Levant, the end of Saite Egyptian power in Asia, the subjugation and eventual [[fall-of-jerusalem-587bce|destruction of Judah]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, archaic-period, near-east, levant]

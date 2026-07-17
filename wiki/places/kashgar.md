@@ -6,7 +6,7 @@ coordinates: ~39.5°N, 76.0°E
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: ["Tarim oasis polity", "[[han-dynasty|Han]] (Protectorate)", "[[kushan-empire|Kushans]] (intermittent)", "[[xiongnu]] (intermittent)"]
 events_here: []
-processes_here: [[[silk-roads]], [[trade-network-formation]]]
+processes_here: [ [[silk-roads]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, central-asia, china, silk-road]

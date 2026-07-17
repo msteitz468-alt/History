@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Antwerp (Antwerpen), Flanders, Belgium]
 coordinates: [51.22N, 4.40E]
 period_active: [Late Middle Ages, Early Modern]
-controlled_by: [[[valois-burgundian-state|Valois Burgundian State]], [[habsburg-empire|Habsburg Empire]]]
+controlled_by: [ [[valois-burgundian-state|Valois Burgundian State]], [[habsburg-empire|Habsburg Empire]]]
 events_here: []
-processes_here: [[[urban-competition-commercial-institutions]], [[early-modern-commerce]]]
+processes_here: [ [[urban-competition-commercial-institutions]], [[early-modern-commerce]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, western-europe, northern-europe, late-middle-ages, early-modern]

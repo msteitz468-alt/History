@@ -1,5 +1,6 @@
 ---
 title: Second Urbanisation of India (Gangetic Plain)
+aliases: [south-asia-classical]
 date_start: 600
 date_end: 300
 date_precision: century

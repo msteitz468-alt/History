@@ -6,7 +6,7 @@ coordinates: [35.46 N, 43.26 E]
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Iron Age]
 controlled_by: [Akkadian Empire, Third Dynasty of Ur, the Puzur-Ashur dynasty, Shamshi-Adad I]
 events_here: []
-processes_here: [[[old-assyrian-trade]], [[trade-network-formation]], [[state-formation]]]
+processes_here: [ [[old-assyrian-trade]], [[trade-network-formation]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, mesopotamia, near-east, middle-bronze-age]

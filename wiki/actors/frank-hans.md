@@ -5,10 +5,10 @@ date_start: 1900
 date_end: 1946
 period: [World Wars Era]
 region: [central-europe, eastern-europe]
-affiliated_with: [[[nazi-germany]], the Nazi Party (chief jurist), the General Government of occupied Poland]
+affiliated_with: [ [[nazi-germany]], the Nazi Party (chief jurist), the General Government of occupied Poland]
 opposed_by: [the Polish underground, rival SS authorities (Krüger, [[himmler-heinrich|Himmler]])]
-key_events: [[[invasion-of-poland-1939]], [[the-holocaust]], [[operation-reinhard-1942]]]
-key_processes: [[[german-occupation-of-poland-1939-1945]]]
+key_events: [ [[invasion-of-poland-1939]], [[the-holocaust]], [[operation-reinhard-1942]]]
+key_processes: [ [[german-occupation-of-poland-1939-1945]]]
 sources_ingested: 1
 last_updated: 2026-07-02
 tags: [actor, person, world-wars-era, eastern-europe]

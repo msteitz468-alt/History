@@ -4,6 +4,8 @@ analysis_type: biography
 actor_page: "actors/clark-william"
 date_birth: "1770-08-01"
 date_death: "1838-09-01"
+period: "long-19th-century"
+region: "north-america"
 key_sources: ["fehrman-this-vast-enterprise-2026"]
 scale: civilizational (for U.S. continental identity and expansion)
 last_updated: "2026-07-03"

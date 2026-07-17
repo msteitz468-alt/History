@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [peloponnese, aegean, central-greece, anatolia]
 process_type: political
-driven_by: [[[lysander]], [[agesilaus-ii|Agesilaus II]], Spartan victory in the [[peloponnesian-war]], Persian subsidy]
-produces: [[[corinthian-war-395bce|the Corinthian War]], the [[kings-peace-386bce|King's Peace]], the [[second-athenian-confederacy|Second Athenian Confederacy]], the rise of Thebes]
+driven_by: [ [[lysander]], [[agesilaus-ii|Agesilaus II]], Spartan victory in the [[peloponnesian-war]], Persian subsidy]
+produces: [ [[corinthian-war-395bce|the Corinthian War]], the [[kings-peace-386bce|King's Peace]], the [[second-athenian-confederacy|Second Athenian Confederacy]], the rise of Thebes]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [process, classical-antiquity, peloponnese, greece]

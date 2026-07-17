@@ -5,10 +5,10 @@ date_start: 1080 (Roupen I declares Cilicia's independence from Byzantium)
 date_end: 1375 (Mamluk capture of Sis); royal title passes to the Lusignans, extinct 1393
 period: [High Middle Ages, Late Middle Ages]
 region: [anatolia, levant, mediterranean, near-east]
-affiliated_with: [[[crusader-states|the crusader states]], [[crusades|the Crusades]], "the principality of Antioch", "the Lusignan kingdom of Cyprus", [[mongol-empire|the Mongol Ilkhanate]], "the papacy and the Latin West"]
-opposed_by: [[[byzantine-empire|the Byzantine Empire]], [[seljuk-empire|the Seljuks]], [[mamluk-sultanate|the Mamluk Sultanate]]]
-key_events: [[[coronation-of-levon-i-1199|the coronation of King Levon I (1199)]], [[fall-of-cilician-armenia-1375|the fall of Sis (1375)]], "the First Crusade", "the Mongol alliance of Hetum I (1247–53)"]
-key_processes: [[[armenian-latin-integration]], [[crusades]]]
+affiliated_with: [ [[crusader-states|the crusader states]], [[crusades|the Crusades]], "the principality of Antioch", "the Lusignan kingdom of Cyprus", [[mongol-empire|the Mongol Ilkhanate]], "the papacy and the Latin West"]
+opposed_by: [ [[byzantine-empire|the Byzantine Empire]], [[seljuk-empire|the Seljuks]], [[mamluk-sultanate|the Mamluk Sultanate]]]
+key_events: [ [[coronation-of-levon-i-1199|the coronation of King Levon I (1199)]], [[fall-of-cilician-armenia-1375|the fall of Sis (1375)]], "the First Crusade", "the Mongol alliance of Hetum I (1247–53)"]
+key_processes: [ [[armenian-latin-integration]], [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, high-middle-ages, late-middle-ages, anatolia, levant]

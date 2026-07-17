@@ -7,7 +7,7 @@ dating_method: ""
 period: [Early Middle Ages]
 region: [central-asia]
 location: ["Talas River, near Ferghana Valley"]
-actors_primary: [[[abbasid-caliphate]]]
+actors_primary: [ [[abbasid-caliphate]]]
 actors_secondary: []
 event_type: battle
 scale_immediate: regional

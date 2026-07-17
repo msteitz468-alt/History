@@ -5,10 +5,10 @@ date_start: 224 CE (Ardashir I defeats the Parthians)
 date_end: 651 CE (death of Yazdgerd III; Arab conquest)
 period: [Late Antiquity, Early Middle Ages]
 region: [iran-plateau, mesopotamia, central-asia, near-east, arabian-peninsula]
-affiliated_with: [[[zoroastrianism]], the Sasanian dynasty, Iranshahr]
-opposed_by: [[[roman-empire|Rome]]/[[byzantine-empire|Byzantium]], the [[white-huns|Hephthalites]], the [[gokturk|Türks]], the Arab-Muslim armies]
+affiliated_with: [ [[zoroastrianism]], the Sasanian dynasty, Iranshahr]
+opposed_by: [ [[roman-empire|Rome]]/[[byzantine-empire|Byzantium]], the [[white-huns|Hephthalites]], the [[gokturk|Türks]], the Arab-Muslim armies]
 key_events: [Shapur I's capture of Valerian, wars with Byzantium, Khusro II's invasion 602-628 CE, Battle of Qadisiyya 637 CE]
-key_processes: [[[empire]], [[universal-religions]], [[silk-roads]]]
+key_processes: [ [[empire]], [[universal-religions]], [[silk-roads]]]
 sources_ingested: 8
 last_updated: 2026-07-08
 tags: [actor, empire, late-antiquity, early-middle-ages, iran-plateau]

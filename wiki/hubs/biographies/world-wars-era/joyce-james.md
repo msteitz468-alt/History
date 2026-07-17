@@ -89,4 +89,4 @@ Joyce changed what it is possible to do with prose in English. *Ulysses* remains
 
 - Summary page: [[actors/joyce-james]]
 - Key events and processes: [[places/dublin]] · [[places/trieste]] · [[places/zurich]] · [[places/paris]] · [[concepts/ulysses-novel]] · [[concepts/finnegans-wake]]
-- Sources: [[sources/ellmann-james-joyce-1959]] · [[sources/maddox-nora-1988]] (for Nora perspective)
+- Sources: [[sources/ellmann-james-joyce-1959]] · sources/maddox-nora-1988 (for Nora perspective)

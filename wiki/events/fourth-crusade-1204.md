@@ -1,5 +1,6 @@
 ---
 title: The Fourth Crusade and the Sack of Constantinople (1202–1204)
+aliases: [fourth-crusade-1202, fourth-crusade-1202-1204]
 date_start: 1202
 date_end: 1204
 date_precision: year

@@ -7,7 +7,7 @@ period: [Late Middle Ages]
 region: [anatolia, levant, near-east]
 location: [Sis and Gaban, Cilicia]
 actors_primary: ["Levon V (the last king)", [[mamluk-sultanate|the Mamluk Sultanate]], "Sultan al-Ashraf Sha'ban"]
-actors_secondary: [[[cilician-armenian-kingdom|the Cilician Armenian Kingdom]], [[lusignan-dynasty|the Lusignans of Cyprus]]]
+actors_secondary: [ [[cilician-armenian-kingdom|the Cilician Armenian Kingdom]], [[lusignan-dynasty|the Lusignans of Cyprus]]]
 event_type: collapse
 scale_immediate: regional
 scale_consequential: regional

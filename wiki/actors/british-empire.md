@@ -8,7 +8,7 @@ region: [british-isles, atlantic-world, indian-ocean, australia, north-america, 
 affiliated_with: [settler colonies, chartered companies, the Royal Navy]
 opposed_by: [rival empires, anti-colonial and independence movements, [[aboriginal-australians]]]
 key_events: [colonisation of Australia from 1788, Australian Federation 1901]
-key_processes: [[[settler-colonialism]], [[convict-transportation-australia]], [[decolonization]]]
+key_processes: [ [[settler-colonialism]], [[convict-transportation-australia]], [[decolonization]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, empire, age-of-expansion, long-19th-century, atlantic-world]

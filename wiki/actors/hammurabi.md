@@ -5,10 +5,10 @@ date_start: ~1810 BCE (birth, uncertain)
 date_end: ~1750 BCE (death; reigned ~1792–1750, middle chronology)
 period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
-affiliated_with: [[[babylon-first-dynasty|First Dynasty of Babylon]], [[amorites|the Amorites]], [[zimri-lim|Mari]] (early ally)]
-opposed_by: [[[zimri-lim|Zimri-Lim of Mari]] (later), Rim-Sin of Larsa, Eshnunna, [[elam|Elam]], Assyria]
+affiliated_with: [ [[babylon-first-dynasty|First Dynasty of Babylon]], [[amorites|the Amorites]], [[zimri-lim|Mari]] (early ally)]
+opposed_by: [ [[zimri-lim|Zimri-Lim of Mari]] (later), Rim-Sin of Larsa, Eshnunna, [[elam|Elam]], Assyria]
 key_events: [defeat of Rim-Sin of Larsa (~1763 BCE), defeat of the Elam-led coalition (~1764 BCE), sack of [[mari|Mari]] (~1761/1759 BCE)]
-key_processes: [[[state-formation]], [[imperialism]], [[interpolity-law]]]
+key_processes: [ [[state-formation]], [[imperialism]], [[interpolity-law]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, mesopotamia]

@@ -6,7 +6,7 @@ date_end: after 794 CE (d. as monk at Lorsch/Jumièges, date uncertain)
 period: [Early Middle Ages]
 region: [central-europe, bavaria]
 affiliated_with: [Agilolfing dynasty, Duchy of Bavaria, [[desiderius|Lombard kingdom]] (by marriage)]
-opposed_by: [[[charlemagne]], the Frankish court]
+opposed_by: [ [[charlemagne]], the Frankish court]
 key_events: [submission at the Lechfeld 787, trial at Ingelheim 788, Council of Frankfurt 794]
 key_processes: []
 sources_ingested: 1

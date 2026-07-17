@@ -6,9 +6,9 @@ date_end: c. 906 CE (destroyed by the Magyars)
 period: [Early Middle Ages]
 region: [eastern-europe]
 affiliated_with: [the western Slavs]
-opposed_by: [[[louis-the-german|Louis the German]] and East Francia, the Magyars]
+opposed_by: [ [[louis-the-german|Louis the German]] and East Francia, the Magyars]
 key_events: [the Cyrillo-Methodian mission (863), Svatopluk's expansion, the Magyar destruction (c. 906)]
-key_processes: [[[cyrillo-methodian-mission|the Christianisation of the Slavs]], the contest between Frankish/Latin and Byzantine/Slavonic Christianity]
+key_processes: [ [[cyrillo-methodian-mission|the Christianisation of the Slavs]], the contest between Frankish/Latin and Byzantine/Slavonic Christianity]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, state, early-middle-ages, eastern-europe]

@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Yanshi, western Henan (China), Yiluo basin]
 coordinates: ~34.7°N 112.7°E
 period_active: [Early Bronze Age]
-controlled_by: [[[erlitou-culture]], [[xia-dynasty]]]
+controlled_by: [ [[erlitou-culture]], [[xia-dynasty]]]
 events_here: [unknown]
-processes_here: [[[early-china-state-formation]], [[state-formation]]]
+processes_here: [ [[early-china-state-formation]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [place, city, china, east-asia, early-bronze-age]

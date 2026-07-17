@@ -5,8 +5,8 @@ date_end: 1288
 date_precision: year
 period: [late-middle-ages]
 region: [southeast-asia]
-location: [[[thang-long]]]
-actors_primary: [[[tran-dynasty-vietnam]], [[mongol-empire]]]
+location: [ [[thang-long]]]
+actors_primary: [ [[tran-dynasty-vietnam]], [[mongol-empire]]]
 actors_secondary: []
 event_type: battle
 scale_immediate: regional

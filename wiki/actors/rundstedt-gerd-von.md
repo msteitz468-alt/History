@@ -1,5 +1,6 @@
 ---
 title: "Gerd von Rundstedt"
+aliases: [gerd-von-rundstedt]
 actor_type: person
 date_start: 1875
 date_end: 1953

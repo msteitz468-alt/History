@@ -12,7 +12,7 @@ key_processes: [american-revolution-diplomacy, enlightenment-science, constituti
 sources_ingested: 1
 last_updated: 2026-07-03
 tags: [actor, person, age-of-expansion, north-america]
-aliases: [Franklin Ben, Doctor Franklin]
+aliases: [Franklin Ben, Doctor Franklin, franklin-benjamin]
 ---
 
 # Benjamin Franklin

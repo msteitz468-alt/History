@@ -5,9 +5,9 @@ date_start: c. 307 BCE
 date_end: c. 250 BCE
 period: [Classical Antiquity]
 region: [italy, north-africa, sicily]
-affiliated_with: [[[roman-republic]]]
-opposed_by: [[[carthage]], [[xanthippus]]]
-key_events: [[[first-punic-war-264-241bce]], [[battle-of-the-bagradas-255bce]]]
+affiliated_with: [ [[roman-republic]]]
+opposed_by: [ [[carthage]], [[xanthippus]]]
+key_events: [ [[first-punic-war-264-241bce]], [[battle-of-the-bagradas-255bce]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

@@ -5,10 +5,10 @@ date_start: c. 500 BCE (born)
 date_end: 424 BCE (died; brief succession crisis follows)
 period: [Classical Antiquity]
 region: [iran-plateau, mesopotamia, anatolia, levant, north-africa]
-affiliated_with: [[[achaemenid-empire|Achaemenid Persia]], the satrap-general Megabyzus]
-opposed_by: [[[athens|Athens]] and the Delian League, the Egyptian rebel Inaros, his own rebellious satraps]
+affiliated_with: [ [[achaemenid-empire|Achaemenid Persia]], the satrap-general Megabyzus]
+opposed_by: [ [[athens|Athens]] and the Delian League, the Egyptian rebel Inaros, his own rebellious satraps]
 key_events: [accession 465 BCE after the murder of [[xerxes-i|Xerxes]], the revolt of Inaros in Egypt c. 464–454 BCE, the (disputed) [[peace-of-callias-449bce|Peace of Callias]] 449 BCE]
-key_processes: [[[achaemenid-tribute-economy]], the integration of Judah as a loyal sub-province under Ezra and Nehemiah]
+key_processes: [ [[achaemenid-tribute-economy]], the integration of Judah as a loyal sub-province under Ezra and Nehemiah]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, iran-plateau]

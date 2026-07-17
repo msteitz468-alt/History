@@ -6,7 +6,7 @@ date_precision: year
 period: [Archaic Period]
 region: [central-greece]
 location: [Athens and Attica]
-actors_primary: [[[cleisthenes|Cleisthenes]], the Athenian demos]
+actors_primary: [ [[cleisthenes|Cleisthenes]], the Athenian demos]
 actors_secondary: [Isagoras, [[cleomenes-i|Cleomenes I of Sparta]], the Council of Five Hundred]
 event_type: political
 scale_immediate: regional

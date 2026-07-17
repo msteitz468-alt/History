@@ -5,10 +5,10 @@ date_start: c. 154 BCE
 date_end: 121 BCE
 period: [Classical Antiquity]
 region: [italy, north-africa, mediterranean-world]
-affiliated_with: [[[roman-republic]], the Sempronii Gracchi; ally M. Fulvius Flaccus]
+affiliated_with: [ [[roman-republic]], the Sempronii Gracchi; ally M. Fulvius Flaccus]
 opposed_by: [the Senate majority, the consul L. Opimius, the tribune M. Livius Drusus]
 key_events: [the tribunates of 123–122, the senatus consultum ultimum and his death (121)]
-key_processes: [[[agrarian-crisis-roman-republic]], [[optimates-populares]], [[roman-italian-alliance]]]
+key_processes: [ [[agrarian-crisis-roman-republic]], [[optimates-populares]], [[roman-italian-alliance]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]

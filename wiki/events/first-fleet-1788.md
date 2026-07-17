@@ -7,7 +7,7 @@ dating_method: historical record
 period: [Age of Expansion]
 region: [australia, british-isles]
 location: Botany Bay / Sydney Cove, Port Jackson, New South Wales
-actors_primary: [[[arthur-phillip]], [[british-empire]]]
+actors_primary: [ [[arthur-phillip]], [[british-empire]]]
 actors_secondary: [Gweagal people, Kamaygal people, Philip Gidley King]
 event_type: migration
 scale_immediate: regional

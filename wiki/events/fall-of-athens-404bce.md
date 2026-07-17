@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [aegean, anatolia, central-greece]
 location: [Ionia, the Hellespont, Athens]
-actors_primary: [[[places/athens|Athens]], [[sparta]], [[lysander]], [[achaemenid-empire|Persia]], [[alcibiades]]]
+actors_primary: [ [[places/athens|Athens]], [[sparta]], [[lysander]], [[achaemenid-empire|Persia]], [[alcibiades]]]
 actors_secondary: [Tissaphernes, Pharnabazus, Cyrus the Younger, Theramenes, Cleophon, Conon]
 event_type: war
 scale_immediate: regional

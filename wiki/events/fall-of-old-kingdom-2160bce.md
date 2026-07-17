@@ -7,13 +7,13 @@ dating_method: king-lists
 period: [Early Bronze Age]
 region: [north-africa]
 location: [Memphis, Heracleopolis, Upper Egyptian nomes]
-actors_primary: [[[old-kingdom-egypt]]]
+actors_primary: [ [[old-kingdom-egypt]]]
 actors_secondary: [the nomarchs, Heracleopolis]
 event_type: collapse
 scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [fiscal exhaustion of the crown, decentralization to hereditary nomarchs, fragmentation of crown lands, [[societal-collapse-and-environmental-determinism|possible low-Nile drought]], the over-long reign of Pepi II]
-consequences: [[[first-intermediate-period|First Intermediate Period]], collapse of central authority, rise of regional powers (Heracleopolis, Thebes)]
+consequences: [ [[first-intermediate-period|First Intermediate Period]], collapse of central authority, rise of regional powers (Heracleopolis, Thebes)]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [event, early-bronze-age, north-africa, transition]

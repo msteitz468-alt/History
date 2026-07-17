@@ -6,9 +6,9 @@ date_end: 1208 BCE (death, by assassination)
 period: [Late Bronze Age]
 region: [mesopotamia, near-east]
 affiliated_with: [the [[assyria-middle|Middle Assyrian kingdom]]]
-opposed_by: [[[kassites|Kassite Babylonia]] (Kaštiliaš IV), the Hittites, the Zagros and Nairi peoples]
+opposed_by: [ [[kassites|Kassite Babylonia]] (Kaštiliaš IV), the Hittites, the Zagros and Nairi peoples]
 key_events: [the conquest of the Shubari/Nairi lands, the defeat of Kaštiliaš IV and the sack of Babylon, the founding of Kar-Tukulti-Ninurta]
-key_processes: [[[imperialism]], [[state-formation]]]
+key_processes: [ [[imperialism]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, late-bronze-age, mesopotamia, near-east]

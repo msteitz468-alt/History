@@ -86,6 +86,23 @@ later faded (giving way to [[fujiwara-clan|Fujiwara]] familism and the [[heian-p
 its administrative geography and court-rank system persisted into the nineteenth century —
 making 645 a genuine turning point in Japanese history.
 
+## Historiography
+
+The Reform Edict survives only through the ***Nihon Shoki*** (compiled 720, some 75
+years after the events, under imperial sponsorship), which is a retrospective court
+chronicle with an evident interest in legitimizing the imperial line's centralizing
+claims. As the "authenticity debate" section above notes, the Japanese historian **Tsuda
+Sōkichi** argued the edict's precise wording too closely anticipates later legal
+terminology (from the Taihō and Yōrō codes) to be a genuine 646 text, suggesting the
+*Nihon Shoki* compilers updated or even fabricated its language retrospectively to make
+the reform look more systematic than it was. **Inoue** and other historians in the
+Cambridge History tradition take a middle position, treating the edict's substance as
+authentic while acknowledging its transmitted wording was likely revised. Because no
+contemporary 7th-century document survives independently of the *Nihon Shoki*, the
+degree to which the "Taika Reform" was a single coherent program versus a gradual,
+retrospectively unified process remains a live question in the historiography of early
+Japan.
+
 ## Related
 
 - [[ritsuryo-state]] — the codified Chinese-modeled state the reform culminated in.

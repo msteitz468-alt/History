@@ -27,7 +27,7 @@ These entries ground the multi-language Insular Arthurian tradition and its inte
 ## Related
 
 - [[concepts/celticism]]
-- [[actors/arthur]]
+- actors/arthur
 - [[actors/celts]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
 

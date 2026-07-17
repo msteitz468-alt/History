@@ -8,7 +8,7 @@ region: [anatolia, near-east, levant]
 affiliated_with: [the [[hittites|Hittite kingdom]], the Syrian viceroyalty of Carchemish]
 opposed_by: [Arzawa and the Arzawa lands, the Kaska people, Aḫḫiyawa, rebel Syrian vassals]
 key_events: [the conquest of Arzawa (the "Ten-Year Annals"), the Kaska wars, the suppression of the Syrian revolts, the plague-prayers]
-key_processes: [[[imperialism]], [[interpolity-law]]]
+key_processes: [ [[imperialism]], [[interpolity-law]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, anatolia, near-east]

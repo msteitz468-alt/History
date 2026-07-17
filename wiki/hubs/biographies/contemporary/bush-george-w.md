@@ -4,7 +4,7 @@ analysis_type: biography
 actor_page: "[[actors/bush-george-w]]"
 period: "contemporary"
 date_birth: "1946-07-06"
-date_death: ""
+date_death: "ongoing"
 date_precision: "exact"
 region: "north-america"
 key_offices: "Governor of Texas (1995–2000); President of the United States (2001–2009)"

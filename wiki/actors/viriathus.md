@@ -6,7 +6,7 @@ date_end: 139 BCE
 period: [Classical Antiquity]
 region: [iberia, mediterranean-world]
 affiliated_with: [the Lusitanians]
-opposed_by: [[[roman-republic]]]
+opposed_by: [ [[roman-republic]]]
 key_events: [the Lusitanian war (c. 147–139), [[numantine-war-153-133bce|the Spanish wars of 154–133]]]
 key_processes: []
 sources_ingested: 1

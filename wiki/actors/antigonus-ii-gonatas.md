@@ -5,10 +5,10 @@ date_start: c. 319 BCE
 date_end: 239 BCE
 period: [Classical Antiquity]
 region: [balkans, mediterranean]
-affiliated_with: [[[antigonid-dynasty]], [[demetrius-i-poliorcetes]], the Stoa]
-opposed_by: [[[pyrrhus-of-epirus]], [[ptolemaic-egypt]], [[athens]], [[sparta]]]
-key_events: [[[celtic-invasion-of-greece-279]], [[chremonidean-war-267]]]
-key_processes: [[[hellenistic-monarchy]], [[antigonid-dynasty]]]
+affiliated_with: [ [[antigonid-dynasty]], [[demetrius-i-poliorcetes]], the Stoa]
+opposed_by: [ [[pyrrhus-of-epirus]], [[ptolemaic-egypt]], [[athens]], [[sparta]]]
+key_events: [ [[celtic-invasion-of-greece-279]], [[chremonidean-war-267]]]
+key_processes: [ [[hellenistic-monarchy]], [[antigonid-dynasty]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, balkans]

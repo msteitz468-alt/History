@@ -1,5 +1,6 @@
 ---
 title: The American Revolution (1765–1783)
+aliases: [american-revolution-1775-1783]
 date_start: 1765
 date_end: 1783
 date_precision: year

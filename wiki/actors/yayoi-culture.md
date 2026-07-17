@@ -5,10 +5,10 @@ date_start: ~1000 BCE
 date_end: ~250 CE
 period: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity]
 region: [japan, east-asia]
-affiliated_with: [[[jomon-culture]], [[mumun-culture]], [[lelang-commandery]], [[japan]]]
+affiliated_with: [ [[jomon-culture]], [[mumun-culture]], [[lelang-commandery]], [[japan]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[rice-agriculture-spread-east-asia]], [[yellow-sea-interaction-sphere]], [[east-asian-bronze-metallurgy]]]
+key_processes: [ [[rice-agriculture-spread-east-asia]], [[yellow-sea-interaction-sphere]], [[east-asian-bronze-metallurgy]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, movement, classical-antiquity, japan, east-asia]

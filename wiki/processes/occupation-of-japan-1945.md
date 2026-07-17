@@ -1,5 +1,6 @@
 ---
 title: "Occupation of Japan (1945–1952)"
+aliases: [occupation-of-japan-1945-1952]
 date_start: "1945-08-15 (surrender); 1945-09-02 (formal); 1945-08/09 atomic + Soviet invasion decisive"
 date_end: "1952 (Treaty of San Francisco; occupation ends)"
 date_precision: year

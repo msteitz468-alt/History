@@ -36,6 +36,10 @@ Hood's aggressive but poorly planned assault vs. strong Union defenses.
 
 Led directly to the destruction of the Confederate army at Nashville.
 
+## Historiography
+
+Franklin's primary-source base includes the Official Records and a substantial body of Confederate veterans' postwar memoirs and regimental histories, many written decades later amid the "Lost Cause" tradition that tended to emphasize Confederate valor while avoiding direct criticism of Hood's generalship. Modern military historians have been considerably harsher than many contemporaries, treating the frontal assault against Schofield's entrenched line as one of the war's most costly tactical errors, comparable to Pickett's Charge in its disproportion between casualties and objective. Debate continues over Hood's motives and state of mind — whether frustration at a missed flanking opportunity earlier that day (at Spring Hill) drove him to an ill-considered direct assault — a question complicated by the deaths of many senior Confederate officers at Franklin, which limited firsthand testimony from the army's own leadership.
+
 ## Related
 
 - Analysis: [[hubs/warfare/long-19th-century/american-civil-war/battle-of-franklin-1864]]

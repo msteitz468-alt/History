@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean]
 location: [the Megarid, the Saronic Gulf, Boeotia, the Corinthian Gulf]
-actors_primary: [[[places/athens|Athens]], [[delian-league|the Athenian alliance]], [[corinth]], [[aegina]], [[sparta]]]
+actors_primary: [ [[places/athens|Athens]], [[delian-league|the Athenian alliance]], [[corinth]], [[aegina]], [[sparta]]]
 actors_secondary: [Argos, Thessaly, Megara, Boeotia, [[pericles]], Myronides, Tolmides]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[ephialtes-reform-462bce|the break with Sparta after the rebuff of Cimon at Ithome]], Athenian expansionism on the mainland, the Megarian defection from the Peloponnesian League, Corinth's hostility, Athens' determination to subdue [[aegina]]]
+causes: [ [[ephialtes-reform-462bce|the break with Sparta after the rebuff of Cimon at Ithome]], Athenian expansionism on the mainland, the Megarian defection from the Peloponnesian League, Corinth's hostility, Athens' determination to subdue [[aegina]]]
 consequences: [the [[thirty-years-peace-446bce|Thirty Years' Peace]] (446/5), the Athenian land empire in central Greece (won then lost), the Athenian Long Walls, the recognition of the Athens–Sparta dualism]
 sources_ingested: 3
 last_updated: 2026-07-08

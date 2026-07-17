@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Charleston, South Carolina]
 actors_primary: [the British Army, the [[continental-army|Continental Army]]]
-actors_secondary: [[[clinton-henry]], Benjamin Lincoln]
+actors_secondary: [ [[clinton-henry]], Benjamin Lincoln]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
@@ -48,6 +48,10 @@ May) — "Tarleton's quarter" — soon poisoned that calm.
 - `produced:` the conditions for the backcountry **civil war** that Tarleton's brutality and Clinton's
   paroles proclamation would ignite, undoing the conquest (see [[battle-of-camden-1780|Camden]] and
   [[battle-of-kings-mountain-1780|Kings Mountain]]).
+
+## Historiography
+
+Clinton's and Lincoln's own reports and subsequent American courts of inquiry into the surrender document the siege closely; the disaster prompted a searching contemporary and later debate over Lincoln's decision to accept a siege in a peninsula city he could not relieve rather than withdraw the army inland while he could. The Waxhaws killing of surrendering Virginians by Tarleton's cavalry shortly after the siege is a separately and heavily disputed episode — American propaganda quickly labeled it a "massacre," while some British-sourced accounts (and some modern historians) argue the casualties resulted from confused, ongoing combat rather than deliberate slaughter after surrender; this dispute has shaped how the entire southern campaign's civil-war brutality is periodized. Historians broadly agree the surrender was the worst American defeat of the war but differ on how much blame belongs to Lincoln, Congress's under-resourcing of the southern department, or Clinton's well-executed siege.
 
 ## Related
 

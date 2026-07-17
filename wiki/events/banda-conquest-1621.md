@@ -6,12 +6,12 @@ date_precision: year
 period: [Early Modern]
 region: [southeast-asia]
 location: [Banda Islands, Maluku, Indonesia]
-actors_primary: [[[dutch-east-india-company]], Jan Pieterszoon Coen]
-actors_secondary: [[[english-east-india-company]], Bandanese orangkayas, Japanese soldiers in VOC service]
+actors_primary: [ [[dutch-east-india-company]], Jan Pieterszoon Coen]
+actors_secondary: [ [[english-east-india-company]], Bandanese orangkayas, Japanese soldiers in VOC service]
 event_type: [war]
 scale_immediate: local
 scale_consequential: regional
-causes: [[[dutch-east-india-company|VOC nutmeg-and-mace monopoly policy]], Bandanese refusal of exclusive-supply treaties, "VOC's chronic need to enforce spice monopoly by force"]
+causes: [ [[dutch-east-india-company|VOC nutmeg-and-mace monopoly policy]], Bandanese refusal of exclusive-supply treaties, "VOC's chronic need to enforce spice monopoly by force"]
 consequences: ["near-extermination of the Bandanese population", "the perken plantation-and-slavery system", "consolidation of the VOC nutmeg monopoly", "demonstration of treaties as instruments of dispossession"]
 sources_ingested: 1
 last_updated: 2026-06-27

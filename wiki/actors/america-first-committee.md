@@ -1,5 +1,6 @@
 ---
 title: "America First Committee"
+aliases: [america-first]
 actor_type: "organization"
 date_start: "1940-09-04"
 date_end: "1941-12-10"

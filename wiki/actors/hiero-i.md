@@ -8,7 +8,7 @@ region: [italy, mediterranean]
 affiliated_with: [the [[western-greek-tyranny|Deinomenid dynasty]], [[syracuse]], Theron of Acragas (the Emmenids), Cumae]
 opposed_by: [the Etruscans, his brother Polyzalos (rivalry), Thrasydaeus of Acragas]
 key_events: [accession on Gelon's death 478/7 BCE, the foundation of Aitna 476 BCE, the [[battle-of-cumae-474bce|battle of Cumae]] 474 BCE, death 467 BCE]
-key_processes: [[[western-greek-tyranny]], forced population transfer, panhellenic court patronage]
+key_processes: [ [[western-greek-tyranny]], forced population transfer, panhellenic court patronage]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, italy]

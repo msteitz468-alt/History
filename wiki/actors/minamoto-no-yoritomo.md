@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [the Minamoto (Genji) clan, the eastern warrior houses, the Kyoto court (nominally)]
 opposed_by: [the Taira (Heike) clan, his brother Yoshitsune, rival Minamoto]
 key_events: ["the Gempei War (1180–85)", "the appointment of shugo & jitō (1185)", "becoming sei-i-tai-shōgun (1192)"]
-key_processes: [[[shogunate-bakufu]], [[samurai]]]
+key_processes: [ [[shogunate-bakufu]], [[samurai]]]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, high-middle-ages, japan, east-asia]

@@ -1,5 +1,6 @@
 ---
 title: Kurt von Schleicher
+aliases: [kurt-von-schleicher]
 actor_type: person
 date_start: 1882
 date_end: 1934

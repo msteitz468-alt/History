@@ -5,10 +5,10 @@ date_start: legendary; traditional flight from Tyre c. 814 BCE
 date_end: legendary (self-immolation)
 period: [Early Iron Age]
 region: [north-africa, levant, mediterranean]
-affiliated_with: [[[tyre|Tyre]], [[carthage|Carthage]], [[phoenicians|the Phoenicians]]]
+affiliated_with: [ [[tyre|Tyre]], [[carthage|Carthage]], [[phoenicians|the Phoenicians]]]
 opposed_by: [Pygmalion (her brother), Hiarbus (Libyan king), [[roman-republic|Rome]] (in later myth)]
 key_events: [the legendary foundation of [[carthage|Carthage]]]
-key_processes: [[[phoenician-colonization]]]
+key_processes: [ [[phoenician-colonization]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-iron-age, north-africa, mediterranean]

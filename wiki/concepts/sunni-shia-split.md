@@ -1,5 +1,6 @@
 ---
 title: Sunni-Shi'a Split
+aliases: [schism-in-islam]
 concept_type: historiographical
 origin: "Crystallized after the Abbasid Revolution (750 CE); retroactively applied to earlier divisions dating from 656 CE"
 applies_to_periods:

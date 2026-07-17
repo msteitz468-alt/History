@@ -6,7 +6,7 @@ date_precision: exact
 period: [High Middle Ages]
 region: [levant]
 location: [Ain Jalut, north-eastern Galilee]
-actors_primary: [[[mamluk-sultanate|the Mamluk Sultanate]] (Qutuz, Baybars), [[mongol-empire|the Mongol Il-khanate]] (Ked-buqa)]
+actors_primary: [ [[mamluk-sultanate|the Mamluk Sultanate]] (Qutuz, Baybars), [[mongol-empire|the Mongol Il-khanate]] (Ked-buqa)]
 actors_secondary: [the Ayyubid princes of Syria, Cilician Armenia (Mongol ally)]
 event_type: [battle]
 scale_immediate: regional

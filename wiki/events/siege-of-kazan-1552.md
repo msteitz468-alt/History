@@ -43,3 +43,7 @@ The capture of Kazan produced:
 * **Tsar Ivan IV:** Personally led the campaign, consolidating his title as "Tsar" and "Autocrat" (L2048, L2088).
 * **Prince Andrew Kurbsky:** A leading commander who broke into the city, later a critic of the Tsar (L2090, L2116).
 * **Prince Michael Vorotynsky:** Acclaimed hero of the siege who led the final assault (L2090).
+
+## Historiography
+
+Muscovite chronicle sources, compiled under state patronage, frame the Kazan campaign in providentialist and imperial terms as righteous reconquest — Khodarkovsky notes Moscow itself "belatedly and unconvincingly" tried to construct its own "Reconquista" narrative around the conquest. Surviving Tatar/Kazan-perspective sources are far sparser than the Russian chancery record, producing an inherently one-sided documentary base. Modern scholarship, reflected in Khodarkovsky's steppe-frontier framework, has moved away from older narratives of straightforward religious or national conquest toward emphasizing pragmatic imperial administration — a "carrots and sticks" approach reliant on Nogai alliance — as the more accurate lens on Muscovite expansion. Specific figures for troop strength, siege duration, and casualties derive from Russian chronicle tradition and lack independent corroboration from a Tatar source base.

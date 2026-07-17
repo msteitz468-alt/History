@@ -5,8 +5,8 @@ date_start: 337 BCE
 date_end: 322 BCE (effectively, after the Lamian War)
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean]
-affiliated_with: [[[philip-ii-of-macedon|Philip II]] (hegemon), [[alexander-the-great|Alexander]], the member Greek states]
-opposed_by: [[[sparta]] (refused to join), anti-Macedonian factions]
+affiliated_with: [ [[philip-ii-of-macedon|Philip II]] (hegemon), [[alexander-the-great|Alexander]], the member Greek states]
+opposed_by: [ [[sparta]] (refused to join), anti-Macedonian factions]
 key_events: [the congress at Corinth 337 BCE, the declaration of war on Persia, the succession of Alexander as hegemon 336 BCE]
 key_processes: [Macedonian hegemony over Greece, the Common Peace tradition]
 sources_ingested: 3

@@ -88,7 +88,7 @@ Limitations: The framework is strongest for western Europe. Crusading armies and
 - **Interacts with**: [[concepts/high-medieval-armies]] (need for personal core troops); [[conroi-tactical-unit]] and [[knightly-cavalry-organisation-and-tactics]] (units commanders had to control).
 - **Contributed specific evidence to**: [[events/battle-of-bouvines-1214]] and [[hubs/warfare/high-middle-ages/bouvines-campaign/battle-of-bouvines-1214.md]] (Guérin as effective commander; Philip in charge vs Otto's lack of control; exposure of both kings; <20,000 total).
 - **Updated / cross-referenced**: [[processes/medieval-warfare]], [[periods/high-middle-ages]], [[hubs/warfare/strategy]], [[hubs/warfare/tactics-and-battle-strategies]], [[sources/france-western-warfare-in-the-age-of-the-crusades-1999]], [[philip-ii-augustus]], [[hubs/warfare/high-middle-ages/crusades/crusades]].
-- See also: [[chivalry]], [[feudalism]], [[medieval-warfare]] (process), [[actors]] for individual commanders.
+- See also: [[chivalry]], [[feudalism]], [[medieval-warfare]] (process), actors for individual commanders.
 
 ## Sources
 

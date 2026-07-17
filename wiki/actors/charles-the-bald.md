@@ -7,7 +7,7 @@ period: [Early Middle Ages]
 region: [western-europe]
 affiliated_with: [West Francia, [[carolingian-empire]], the imperial title (875–877)]
 opposed_by: [his brother Lothar I; his nephew Pippin II of Aquitaine; the Vikings; rebellious magnates]
-key_events: [[[battle-of-fontenoy-841]], Strasbourg Oaths 842, [[treaty-of-verdun-843]], imperial coronation 875, Edict of Pîtres 864]
+key_events: [ [[battle-of-fontenoy-841]], Strasbourg Oaths 842, [[treaty-of-verdun-843]], imperial coronation 875, Edict of Pîtres 864]
 key_processes: [the formation of West Francia, the Carolingian renaissance under royal patronage]
 sources_ingested: 1
 last_updated: 2026-06-12

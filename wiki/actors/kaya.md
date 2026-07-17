@@ -5,10 +5,10 @@ date_start: ~42 CE
 date_end: 562 CE
 period: [Late Antiquity]
 region: [korea, east-asia]
-affiliated_with: [[[samhan]], [[yamato-japan]], [[korea-three-kingdoms]]]
-opposed_by: [[[silla]], [[koguryo]]]
+affiliated_with: [ [[samhan]], [[yamato-japan]], [[korea-three-kingdoms]]]
+opposed_by: [ [[silla]], [[koguryo]]]
 key_events: [unknown]
-key_processes: [[[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
+key_processes: [ [[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, late-antiquity, korea, east-asia]

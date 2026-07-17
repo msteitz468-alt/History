@@ -8,7 +8,7 @@ region: [central-asia]
 affiliated_with: []
 opposed_by: []
 key_events: []
-key_processes: [[[silk-roads]]]
+key_processes: [ [[silk-roads]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, dynasty, early-middle-ages, high-middle-ages, central-asia]

@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Late Antiquity]
 region: [china, central-asia, iran-plateau, mediterranean, indian-ocean, silk-road]
 location: [Eurasia]
-actors_primary: [[[han-dynasty]], [[parthian-empire]], [[kushan-empire]], [[roman-empire]]]
-actors_secondary: [[[sasanian-empire]], [[sogdians]]]
+actors_primary: [ [[han-dynasty]], [[parthian-empire]], [[kushan-empire]], [[roman-empire]]]
+actors_secondary: [ [[sasanian-empire]], [[sogdians]]]
 event_type: collapse
 scale_immediate: hemispheric
 scale_consequential: hemispheric

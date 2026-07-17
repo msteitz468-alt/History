@@ -8,7 +8,7 @@ region: [south-asia]
 affiliated_with: [Magadha, the city of [[pataliputra|Pataliputra]], Buddhist and Jain sanghas]
 opposed_by: [the Nanda dynasty (overthrown), the Seleucids, Kalinga]
 key_events: [overthrow of the Nandas c. 321 BCE, defeat of Seleucus Nikator, conquest of Kalinga c. 261 BCE, Ashoka's dhamma]
-key_processes: [[[empire]], [[state-formation]], [[buddhism|patronage of Buddhism]], [[vedic-age|culmination of the Second Urbanization]]]
+key_processes: [ [[empire]], [[state-formation]], [[buddhism|patronage of Buddhism]], [[vedic-age|culmination of the Second Urbanization]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, empire, classical-antiquity, south-asia]

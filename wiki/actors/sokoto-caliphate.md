@@ -8,7 +8,7 @@ region: [west-africa]
 affiliated_with: [the Fulani, the Qadiriyya Sufi order, the jihad movement]
 opposed_by: [the Hausa kings of Gobir and the other Hausa states, Borno, ultimately Britain]
 key_events: [the jihad against Gobir (1804), the founding of Sokoto (1809), the partition into emirates, the British conquest (1903)]
-key_processes: [[[west-african-jihads]], [[islamization-of-africa]], [[trans-saharan-trade]], state-formation]
+key_processes: [ [[west-african-jihads]], [[islamization-of-africa]], [[trans-saharan-trade]], state-formation]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, state, long-19th-century, west-africa, islamic-world]

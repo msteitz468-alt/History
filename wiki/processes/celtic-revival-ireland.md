@@ -1,5 +1,6 @@
 ---
 title: Celtic Revival in Ireland
+aliases: [celtic-revival]
 date_start: "1830"
 date_end: "1930"
 date_precision: decade

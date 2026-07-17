@@ -147,7 +147,7 @@ a Buddhist imperial ethic propagated by edict. See [[south-asia-classical]].
 script, weights, and roads. The [[han-dynasty|Han]] (206 BCE–220 CE) blended
 Confucian and Legalist statecraft into a durable bureaucratic empire and, under
 Wu, opened formal contact with Central Asia — the eastern anchor of the Silk
-Roads. See [[east-asia-classical]].
+Roads. See east asia classical.
 
 **The first Silk Roads era.** By the late first millennium BCE, [[han-dynasty|Han]]
 China, the steppe [[xiongnu]] and [[yuezhi]] confederations, the

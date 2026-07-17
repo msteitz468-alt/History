@@ -6,7 +6,7 @@ date_end: 332 BCE (Alexander takes Egypt; end of native rule)
 period: [Classical Antiquity]
 region: [north-africa]
 affiliated_with: [Greek mercenaries, [[athens]], Sparta (Agesilaus, Chabrias), Cypriot and satrapal rebels]
-opposed_by: [[[achaemenid-empire|Achaemenid Persia]] (Artaxerxes II and III), internal rivals]
+opposed_by: [ [[achaemenid-empire|Achaemenid Persia]] (Artaxerxes II and III), internal rivals]
 key_events: [independence from Persia 404 BCE, Tachos' expedition against Persia c. 360 BCE, the Persian reconquest under Artaxerxes III 343 BCE, Alexander's conquest 332 BCE]
 key_processes: [reliance on Greek mercenaries, dynastic instability, temple-building revival]
 sources_ingested: 1

@@ -5,10 +5,10 @@ date_start: 1800
 date_end: 1891
 period: [Long 19th Century]
 region: [western-europe, eastern-europe]
-affiliated_with: [[[otto-von-bismarck]]]
+affiliated_with: [ [[otto-von-bismarck]]]
 opposed_by: []
-key_events: [[[german-unification]], [[franco-prussian-war-1870]]]
-key_processes: [[[total-war]]]
+key_events: [ [[german-unification]], [[franco-prussian-war-1870]]]
+key_processes: [ [[total-war]]]
 sources_ingested: 1
 last_updated: 2026-06-23
 tags: [actor, person, long-19th-century, western-europe]

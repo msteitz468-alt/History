@@ -1,5 +1,6 @@
 ---
 title: The Fall of the Western Roman Empire
+aliases: [fall-of-the-western-roman-empire, fall-of-western-roman-empire]
 date_start: 476
 date_end: 476
 date_precision: year

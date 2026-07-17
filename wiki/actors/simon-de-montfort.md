@@ -6,7 +6,7 @@ date_end: 1265 (killed, Evesham)
 period: [High Middle Ages]
 region: [british-isles, western-europe]
 affiliated_with: [the reforming barons, the gentry ("bachelery of England"), London, the reforming bishops (circle of Robert Grosseteste)]
-opposed_by: [[[henry-iii-of-england|Henry III]], the Lord Edward (later [[edward-i-plantagenet|Edward I]]), royalist magnates]
+opposed_by: [ [[henry-iii-of-england|Henry III]], the Lord Edward (later [[edward-i-plantagenet|Edward I]]), royalist magnates]
 key_events: [the Provisions of Oxford (1258), the battle of Lewes (1264), the parliament of 1265, the battle of Evesham (1265)]
 key_processes: [the emergence of [[english-parliament|parliament]], English baronial reform]
 sources_ingested: 1

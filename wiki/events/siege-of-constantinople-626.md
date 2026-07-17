@@ -40,7 +40,7 @@ The siege began in late July 626. On August 7, the Avars launched a massive assa
 
 - `produced: [[heraclius|Byzantine Survival and Counter-offensive]]`: The victory secured the imperial center, allowing Heraclius to launch the campaign that culminated at the [[battle-of-nineveh-627|Battle of Nineveh]].
 - `contributed_to: [[empire-of-samo|Avar Decline]]`: The disaster at the walls decimated the Avar military elite and shattered the Khagan's prestige. This sparked immediate rebellions among their Slavic subjects, leading to the rise of [[empire-of-samo|Samo's Empire]] and the formation of independent Slavic tribal confederations (*Sclavinias*) in the Balkans.
-- `produced: [[religious-perceptions-in-byzantium|Cult of the Theotokos]]`: The defense was attributed to divine intervention by the Virgin Mary (the Theotokos). The famous Akathist Hymn was sung in her honor, reinforcing the religious ideology of the Byzantine state.
+- `produced: Cult of the Theotokos`: The defense was attributed to divine intervention by the Virgin Mary (the Theotokos). The famous Akathist Hymn was sung in her honor, reinforcing the religious ideology of the Byzantine state.
 
 ## Actors
 

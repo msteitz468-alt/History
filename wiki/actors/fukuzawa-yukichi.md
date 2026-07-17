@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [the Meirokusha enlightenment society, Keiō Gijuku (Keiō University), the journal Jiji Shinpō]
 opposed_by: [Confucian traditionalists, Meiji conservatives, advocates of pan-Asian solidarity]
 key_events: ["bakufu missions to America and Europe (1860–67)", "founding of Keiō Gijuku (1868)", "publication of An Encouragement of Learning (1872–76) and An Outline of a Theory of Civilization (1875)"]
-key_processes: [[[meiji-modernization]], [[tokugawa-intellectual-life]]]
+key_processes: [ [[meiji-modernization]], [[tokugawa-intellectual-life]]]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [actor, person, long-19th-century, japan, east-asia]

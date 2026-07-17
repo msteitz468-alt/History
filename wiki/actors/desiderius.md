@@ -6,7 +6,7 @@ date_end: after 774 CE (d. as monk at Corbie)
 period: [Early Middle Ages]
 region: [mediterranean, western-europe]
 affiliated_with: [Lombard kingdom, Duchy of Tuscany]
-opposed_by: [[[charlemagne]], [[pope-hadrian-i]], the Papacy]
+opposed_by: [ [[charlemagne]], [[pope-hadrian-i]], the Papacy]
 key_events: [marriage alliance with the Franks 770, repudiation of his daughter 771, fall of Pavia 774]
 key_processes: []
 sources_ingested: 1

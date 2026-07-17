@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Takhar Province, northern Afghanistan (confluence of the Amu Darya/Oxus and the Kokcha)]
 coordinates: [37.16 N, 69.42 E]
 period_active: [Classical Antiquity]
-controlled_by: [[[seleucid-empire|the Seleucids]], the [[greco-bactrian-kingdom|Greco-Bactrian kingdom]]]
+controlled_by: [ [[seleucid-empire|the Seleucids]], the [[greco-bactrian-kingdom|Greco-Bactrian kingdom]]]
 events_here: [destruction by nomad invaders c. 145 BCE]
-processes_here: [[[hellenistic-world]], [[seleucid-colonization]], [[urbanization]]]
+processes_here: [ [[hellenistic-world]], [[seleucid-colonization]], [[urbanization]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, central-asia, classical-antiquity]

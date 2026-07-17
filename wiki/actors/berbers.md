@@ -8,7 +8,7 @@ region: [north-africa, sahara]
 affiliated_with: [Carthage (allies and subjects), Rome (client kings, then provinces), later Islam]
 opposed_by: [Carthage and Rome at various times; Numidia vs. Carthage in the Punic Wars]
 key_events: [Libyan/Tehenou contact with Egypt, the kingdom of Numidia under Masinissa, the Jugurthine War, the Roman annexation of Mauretania, the Arab conquest]
-key_processes: [[[trans-saharan-trade]], state-formation, Romanization, Islamization]
+key_processes: [ [[trans-saharan-trade]], state-formation, Romanization, Islamization]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, people, north-africa, classical-antiquity]

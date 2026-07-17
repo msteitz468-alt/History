@@ -5,9 +5,9 @@ date_start: 1577
 date_end: 1648
 period: [Early Modern]
 region: [scandinavia, denmark, norway, northern-europe]
-affiliated_with: [[[denmark-norway]]]
-opposed_by: [[[swedish-empire]]]
-key_events: [[[thirty-years-war-1618]]]
+affiliated_with: [ [[denmark-norway]]]
+opposed_by: [ [[swedish-empire]]]
+key_events: [ [[thirty-years-war-1618]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-27

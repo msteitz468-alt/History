@@ -5,7 +5,7 @@ modern_equivalent: [England (UK)]
 coordinates: [52.5N, 1.5W]
 period_active: [all periods]
 controlled_by: [the Anglo-Saxon kingdoms, the kingdom of the English, the Danelaw, the Anglo-Danish and Norman kings]
-events_here: [[[synod-of-whitby-664]], [[great-heathen-army-865]], [[battle-of-brunanburh-937]], [[norman-conquest-of-england-1066]]]
+events_here: [ [[synod-of-whitby-664]], [[great-heathen-army-865]], [[battle-of-brunanburh-937]], [[norman-conquest-of-england-1066]]]
 processes_here: [the making of England, the Viking Age, the Benedictine reform]
 sources_ingested: 1
 last_updated: 2026-06-27

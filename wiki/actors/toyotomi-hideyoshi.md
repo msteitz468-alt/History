@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [Oda Nobunaga (his lord), the imperial court (as kampaku), the Toyotomi house]
 opposed_by: [rival daimyo (Shimazu, Hōjō), Ming China & Korea (his invasions)]
 key_events: ["the completion of reunification (1582–90)", "the sword hunt (1588)", "the land survey (1582–98)", "the invasions of Korea (1592, 1597)"]
-key_processes: [[[azuchi-momoyama-period|the reunification of Japan]], [[global-silver-trade]]]
+key_processes: [ [[azuchi-momoyama-period|the reunification of Japan]], [[global-silver-trade]]]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, japan, east-asia]

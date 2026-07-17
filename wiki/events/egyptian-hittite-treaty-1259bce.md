@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Bronze Age]
 region: [levant, north-africa, anatolia]
 location: [concluded between the courts of Pi-Ramesse (Egypt) and Hattusha (Hatti)]
-actors_primary: [[[ramesses-ii|Ramesses II]], [[hattusili-iii|Ḫattušili III]]]
+actors_primary: [ [[ramesses-ii|Ramesses II]], [[hattusili-iii|Ḫattušili III]]]
 actors_secondary: [Queen Puduḫepa, the Egyptian and Hittite courts]
 event_type: treaty
 scale_immediate: regional

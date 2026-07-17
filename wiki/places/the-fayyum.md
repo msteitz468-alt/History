@@ -4,9 +4,9 @@ place_type: region
 modern_equivalent: [Faiyum Governorate, Egypt]
 coordinates: [29.3 N, 30.8 E]
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
-controlled_by: [[[ptolemaic-egypt|the Ptolemies]], [[roman-egypt|Rome]], Byzantium, the early Caliphate]
+controlled_by: [ [[ptolemaic-egypt|the Ptolemies]], [[roman-egypt|Rome]], Byzantium, the early Caliphate]
 events_here: [Ptolemaic reclamation (c. 310–250 BCE), Antonine-plague depopulation (late 2nd c. CE), early-4th-c. abandonment of edge villages]
-processes_here: [[[hellenistic-world]], land reclamation and irrigation, [[papyrology|papyrus survival]], [[christianization-of-the-roman-empire]]]
+processes_here: [ [[hellenistic-world]], land reclamation and irrigation, [[papyrology|papyrus survival]], [[christianization-of-the-roman-empire]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, egypt, north-africa, classical-antiquity, late-antiquity]

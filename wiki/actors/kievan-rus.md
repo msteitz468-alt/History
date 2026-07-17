@@ -7,7 +7,7 @@ period: [Early Middle Ages, High Middle Ages]
 region: [eastern-europe, steppe]
 affiliated_with: [the Rurikid dynasty, [[byzantine-empire|Byzantium]], the Varangian–Greek trade route]
 opposed_by: [the Pechenegs, the Khazar khaganate, the Volga Bulgars, Byzantium (intermittently)]
-key_events: [[[conversion-of-vladimir-988]], Lyubech Congress 1097, blinding of Vasil'ko 1097, Rus' victory over Polovtsians at Suten' 1103]
+key_events: [ [[conversion-of-vladimir-988]], Lyubech Congress 1097, blinding of Vasil'ko 1097, Rus' victory over Polovtsians at Suten' 1103]
 key_processes: [the Christianisation of Rus′, the Varangian river trade, political fragmentation of the Rurikid appanage system, Polovtsian steppe wars]
 sources_ingested: 6
 last_updated: 2026-06-22

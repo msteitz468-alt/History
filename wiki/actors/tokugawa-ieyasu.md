@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [the Tokugawa house, Nobunaga & Hideyoshi (allies/overlords), the imperial court]
 opposed_by: [Ishida Mitsunari & the "western" daimyo, the Toyotomi loyalists]
 key_events: ["the battle of Sekigahara (1600)", "becoming shōgun (1603)", "the founding of the Edo bakufu", "the siege of Osaka castle (1615)"]
-key_processes: [[[shogunate-bakufu]], [[edo-period]]]
+key_processes: [ [[shogunate-bakufu]], [[edo-period]]]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, japan, east-asia]

@@ -7,7 +7,7 @@ period: [Late Antiquity]
 region: [italy, mediterranean-world, western-europe, near-east]
 location: [Rome; the Rhine; Spain; northern Italy (Bedriacum/Cremona); the eastern provinces]
 actors_primary: [Galba, Otho, Vitellius, Vespasian]
-actors_secondary: [[[nero|Nero]], Vindex, Verginius Rufus, Caecina, Fabius Valens, Antonius Primus, Mucianus, the praetorian guard, the Rhine, Danube and eastern legions]
+actors_secondary: [ [[nero|Nero]], Vindex, Verginius Rufus, Caecina, Fabius Valens, Antonius Primus, Mucianus, the praetorian guard, the Rhine, Danube and eastern legions]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational

@@ -5,8 +5,8 @@ date_start: 478/477 BCE (foundation on Delos)
 date_end: 404 BCE (dissolved at the fall of Athens)
 period: [Classical Antiquity]
 region: [aegean, central-greece, anatolia]
-affiliated_with: [[[athens]], the eastern Greek states, the islands]
-opposed_by: [[[achaemenid-empire|Achaemenid Persia]], [[peloponnesian-league|the Peloponnesian League]], revolting allies]
+affiliated_with: [ [[athens]], the eastern Greek states, the islands]
+opposed_by: [ [[achaemenid-empire|Achaemenid Persia]], [[peloponnesian-league|the Peloponnesian League]], revolting allies]
 key_events: [foundation 478/477 BCE, battle of the Eurymedon, the Thasian war 465–463 BCE, the Egyptian disaster c. 454 BCE, transfer of the treasury to Athens 454/3 BCE, the Peace of Callias c. 449 BCE]
 key_processes: [the transformation of a free alliance into an empire, imperial tribute, [[athenian-democracy]]]
 sources_ingested: 3

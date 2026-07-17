@@ -6,7 +6,7 @@ coordinates: [53.96N, 1.08W]
 period_active: [classical-antiquity, late-antiquity, early-middle-ages, high-middle-ages]
 controlled_by: [Roman Eboracum, the kingdom of Deira/Northumbria, the Scandinavian kings of York, the kings of England]
 events_here: [capture by the Great Army 867, Æthelstan's seizure 927]
-processes_here: [[[scandinavian-settlement-of-britain]]]
+processes_here: [ [[scandinavian-settlement-of-britain]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, british-isles, northern-europe]

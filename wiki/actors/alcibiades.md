@@ -5,7 +5,7 @@ date_start: c. 452 BCE (birth)
 date_end: 404 BCE (death)
 period: [Classical Antiquity]
 region: [central-greece, aegean, anatolia]
-affiliated_with: [[[athens]] (intermittently), [[sparta]] (in exile), the court of Tissaphernes ([[achaemenid-empire|Persia]])]
+affiliated_with: [ [[athens]] (intermittently), [[sparta]] (in exile), the court of Tissaphernes ([[achaemenid-empire|Persia]])]
 opposed_by: [Nicias, the Athenian democracy's suspicion, [[sparta|King Agis]], [[lysander]]]
 key_events: [the Quadruple Alliance and Mantinea (418), the Sicilian Expedition and his recall 415 BCE, his defection to Sparta, his role in the Ionian War and Cyzicus (410), his return to Athens 407 BCE, Notium and final exile 406 BCE]
 key_processes: [the politics of the late [[peloponnesian-war]]]

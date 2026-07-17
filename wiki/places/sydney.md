@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Sydney, New South Wales, Australia]
 coordinates: [-33.87, 151.21]
 period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
-controlled_by: [[[new-south-wales-colony]], [[british-empire]], Commonwealth of Australia]
+controlled_by: [ [[new-south-wales-colony]], [[british-empire]], Commonwealth of Australia]
 events_here: [First Fleet landing 1788, founding of the colony]
-processes_here: [[[convict-transportation-australia]], colonial urbanisation]
+processes_here: [ [[convict-transportation-australia]], colonial urbanisation]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, australia, age-of-expansion, long-19th-century]

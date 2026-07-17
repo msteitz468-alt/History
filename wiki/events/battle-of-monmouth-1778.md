@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Monmouth Courthouse, New Jersey]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[washington-george]], [[clinton-henry]], [[greene-nathanael]], [[steuben-friedrich]], Charles Lee]
+actors_secondary: [ [[washington-george]], [[clinton-henry]], [[greene-nathanael]], [[steuben-friedrich]], Charles Lee]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
@@ -53,6 +53,10 @@ Americans. Losses were roughly 500 British to 350 Americans.
 - `produced:` the consolidation of Washington's authority: **Lee's court-martial** and [[gates-horatio|
   Gates]]'s eclipse removed his last serious rivals, fixing the continuity of command that "would prove
   decisive for American victory."
+
+## Historiography
+
+Documented through courts-martial records (Charles Lee's trial is an unusually rich primary source, producing extensive sworn testimony), officer correspondence, and later recollections, the battle is a focal point for the historiography of the Continental Army's professionalization under Steuben. Lengel and other Washington biographers treat it as the campaign's turning point, evidence that European-style drill let the Continentals stand in the open against regulars; some historians push back on how much credit belongs to Steuben's training versus simply the army's cumulative combat experience by 1778. The Lee controversy — whether his conduct constituted genuine misconduct or a defensible tactical retreat later scapegoated by Washington's allies — remains debated, with Lee's modern defenders arguing his court-martial reflected factional politics as much as battlefield fact.
 
 ## Related
 

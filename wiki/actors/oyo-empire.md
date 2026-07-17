@@ -8,7 +8,7 @@ region: [west-africa]
 affiliated_with: [the Yoruba peoples, Ife (spiritual metropolis), the Atlantic and savanna trades]
 opposed_by: [Nupe (which once drove Oyo into exile), Dahomey (a tributary), the Sokoto jihadists]
 key_events: [the recovery from Nupe exile, the conquest of Dahomey as a tributary (18th c.), the constitutional crises and collapse (early 19th c.)]
-key_processes: [[[atlantic-slave-trade]], [[state-formation]], cavalry warfare]
+key_processes: [ [[atlantic-slave-trade]], [[state-formation]], cavalry warfare]
 sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, empire, early-modern, west-africa]

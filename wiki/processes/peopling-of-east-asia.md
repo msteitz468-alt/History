@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Early Prehistory, Late Prehistory, Behavioral Modernity, Mesolithic]
 region: [east-asia, china, korea, japan]
 process_type: demographic
-driven_by: [[[behavioral-modernity]], climatic-pulses, sea-level-change]
-produces: [[[early-agriculture-china]], [[early-agriculture-japan]]]
+driven_by: [ [[behavioral-modernity]], climatic-pulses, sea-level-change]
+produces: [ [[early-agriculture-china]], [[early-agriculture-japan]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, early-prehistory, east-asia]

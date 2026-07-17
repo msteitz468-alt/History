@@ -5,8 +5,8 @@ date_start: r. ~1620 BCE (approximate; middle chronology)
 date_end: ~1590 BCE (assassinated)
 period: [Middle Bronze Age]
 region: [anatolia, near-east, mesopotamia]
-affiliated_with: [[[hittites|the Hittite Old Kingdom]], [[hattusha|Hattusha]], the [[kassites|Kassites]] (probable allies of convenience)]
-opposed_by: [[[iamkhad|Yamhad/Aleppo]], [[babylon-first-dynasty|Babylon]], the [[hurrians|Hurrians]]]
+affiliated_with: [ [[hittites|the Hittite Old Kingdom]], [[hattusha|Hattusha]], the [[kassites|Kassites]] (probable allies of convenience)]
+opposed_by: [ [[iamkhad|Yamhad/Aleppo]], [[babylon-first-dynasty|Babylon]], the [[hurrians|Hurrians]]]
 key_events: [destruction of [[iamkhad|Aleppo]], [[fall-of-babylon-1595bce|the sack of Babylon (~1595)]], his own assassination by Hantili]
 key_processes: []
 sources_ingested: 2

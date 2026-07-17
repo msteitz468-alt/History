@@ -5,10 +5,10 @@ date_start: c. 204
 date_end: 249
 period: [late-antiquity]
 region: [near-east, levant]
-affiliated_with: [[[roman-syria]], [[sasanian-empire]]]
-opposed_by: [[[sasanian-empire]]]
+affiliated_with: [ [[roman-syria]], [[sasanian-empire]]]
+opposed_by: [ [[sasanian-empire]]]
 key_events: []
-key_processes: [[[orientalization-of-rome]], [[christianization-of-the-roman-empire]]]
+key_processes: [ [[orientalization-of-rome]], [[christianization-of-the-roman-empire]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, near-east, levant]

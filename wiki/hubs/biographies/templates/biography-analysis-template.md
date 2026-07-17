@@ -101,7 +101,7 @@ Structural consequences (intended and unintended) across the relevant scales. Ho
 
 ## Related
 
-- Summary page: [[actors/[person-slug]]]
+- Summary page: actors/[person-slug]
 - Key events and processes this life shaped or was shaped by: ...
 - Comparable or contrasting figures: ...
-- Sources: [[sources/...]] · reference works (CAH / CWH / etc.)
+- Sources: sources/... · reference works (CAH / CWH / etc.)

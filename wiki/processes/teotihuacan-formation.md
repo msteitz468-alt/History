@@ -7,7 +7,7 @@ period: [Classical Antiquity, Late Antiquity]
 region: [mesoamerica]
 process_type: demographic
 driven_by: [migration, volcanic displacement, trade-route advantages, religious authority, elite competition, Cuicuilco decline]
-produces: [[[teotihuacan]] (city-state), [[basin-of-mexico]] hegemony, Tzacualli-phase urban grid]
+produces: [ [[teotihuacan]] (city-state), [[basin-of-mexico]] hegemony, Tzacualli-phase urban grid]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, classical-antiquity, late-antiquity, mesoamerica, americas]

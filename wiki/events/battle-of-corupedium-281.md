@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [anatolia]
 location: [Corupedium (near Sardis, Lydia)]
-actors_primary: [[[seleucus-i-nicator]], [[lysimachus]]]
-actors_secondary: [[[ptolemy-ceraunus]], [[arsinoe-ii]], [[philetaerus]]]
+actors_primary: [ [[seleucus-i-nicator]], [[lysimachus]]]
+actors_secondary: [ [[ptolemy-ceraunus]], [[arsinoe-ii]], [[philetaerus]]]
 event_type: battle
 scale_immediate: civilizational
 scale_consequential: civilizational

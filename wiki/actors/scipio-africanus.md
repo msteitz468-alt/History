@@ -5,9 +5,9 @@ date_start: 236 BCE
 date_end: 183 BCE
 period: [Classical Antiquity]
 region: [italy, iberia, north-africa, mediterranean-world]
-affiliated_with: [[[roman-republic]], the Cornelii Scipiones]
-opposed_by: [[[hannibal]], [[carthage]], later [[fabius-maximus|Fabius]] and political rivals at Rome]
-key_events: [[[second-punic-war-218-201bce]], capture of [[new-carthage]] (209), [[battle-of-zama-202bce]], war against [[antiochus-iii-the-great|Antiochus III]]]
+affiliated_with: [ [[roman-republic]], the Cornelii Scipiones]
+opposed_by: [ [[hannibal]], [[carthage]], later [[fabius-maximus|Fabius]] and political rivals at Rome]
+key_events: [ [[second-punic-war-218-201bce]], capture of [[new-carthage]] (209), [[battle-of-zama-202bce]], war against [[antiochus-iii-the-great|Antiochus III]]]
 key_processes: []
 sources_ingested: 3
 last_updated: 2026-07-08

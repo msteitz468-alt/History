@@ -36,6 +36,10 @@ Strong Confederate entrenchments; Union frontal attacks without adequate prepara
 
 Led to the decision to cross the James River for Petersburg.
 
+## Historiography
+
+Cold Harbor is unusually well documented for a single battle, thanks to the Official Records, Grant's own memoirs (which candidly call the June 3 assault a mistake), and numerous Union soldiers' letters and diaries describing the futility of the attack. Casualty figures for the disputed June 3 assault vary across sources — older accounts sometimes repeated the popular claim of thousands of Union dead in under an hour, a figure modern historians regard as exaggerated relative to documented losses, though the assault remains one of the war's starkest examples of a failed frontal attack against entrenchments. The battle features prominently in debates over Grant's generalship: whether Cold Harbor represents a rare tactical blunder in an otherwise shrewd campaign of attrition, or evidence of the broader "butcher" reputation contemporaries and later critics assigned him. Its role in accelerating the shift toward trench warfare and the eventual Petersburg siege is not seriously disputed.
+
 ## Related
 
 - Analysis: [[hubs/warfare/long-19th-century/american-civil-war/battle-of-cold-harbor-1864]]

@@ -1,8 +1,8 @@
 ---
 title: Late Bronze Age
 period_number: 10
-preceded_by: [[[middle-bronze-age|Middle Bronze Age]]]
-followed_by: [[[early-iron-age|Early Iron Age]]]
+preceded_by: [ [[middle-bronze-age|Middle Bronze Age]]]
+followed_by: [ [[early-iron-age|Early Iron Age]]]
 date_range: 1,550–1,200 BCE (Near East; regionally variable)
 regions_covered: [near-east, mesopotamia, levant, anatolia, north-africa, iran-plateau, aegean, mediterranean, europe, central-europe, western-europe]
 major_themes: [the great-powers system, international diplomacy, chariot warfare, empire, the palace economy, long-distance luxury trade, the Indo-European expansions]

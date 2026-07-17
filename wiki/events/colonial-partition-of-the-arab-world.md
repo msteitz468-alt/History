@@ -89,6 +89,10 @@ The partition is the formative trauma of the modern Arab world: it ended four ce
 states the Arabs still inhabit, and bred the nationalism — and the sense of betrayal — that
 shaped the century that followed.
 
+## Historiography
+
+The partition is documented through an unusually large and multilingual archive — British and French diplomatic and colonial records (many only fully declassified decades later), the Husayn–McMahon correspondence itself (whose ambiguous wording remains a live subject of textual dispute), and Arabic-language memoirs and nationalist histories from figures in Faysal's circle. Rogan's account, drawing on Arab as well as European sources, exemplifies a historiographical shift away from earlier Western narratives centered on Lawrence of Arabia and British strategy, toward Arab-centered accounts of agency, betrayal, and state formation. The central scholarly controversy concerns the compatibility of the three wartime British commitments — whether the Husayn–McMahon correspondence's exclusions genuinely covered Palestine (the British position) or did not (the Arab and later Palestinian position) — a dispute with direct bearing on the legitimacy claims still contested in the Arab–Israeli conflict. Ottoman-side archival material and the perspectives of Arab populations outside the Hashemite orbit remain comparatively underused relative to British and French sources.
+
 ## Related
 
 - [[arab-nationalism]] — the movement it frustrated and provoked; [[middle-east-modern]] — the region.

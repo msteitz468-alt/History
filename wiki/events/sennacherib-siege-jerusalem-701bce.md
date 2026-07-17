@@ -6,7 +6,7 @@ date_precision: year
 period: [Archaic Period]
 region: [levant]
 location: Jerusalem and the Judaean Shephelah (Lachish)
-actors_primary: [[[sennacherib|Sennacherib]], [[hezekiah|Hezekiah of Judah]]]
+actors_primary: [ [[sennacherib|Sennacherib]], [[hezekiah|Hezekiah of Judah]]]
 actors_secondary: [Egypt and [[kush-meroe|Kush]] (Taharqa), Ekron, Sidon, Ashkelon]
 event_type: [war]
 scale_immediate: regional

@@ -7,13 +7,13 @@ dating_method: stratigraphy / king-lists
 period: [Early Bronze Age]
 region: [north-africa]
 location: [Nile Valley, Hierakonpolis, the Delta apex, Memphis]
-actors_primary: [[[narmer]], [[early-dynastic-egypt]]]
+actors_primary: [ [[narmer]], [[early-dynastic-egypt]]]
 actors_secondary: [Scorpion, Lower Egyptian kingdom]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[predynastic-egypt]], [[state-formation]], wealth-concentration in Upper Egyptian centres]
-consequences: [[[early-dynastic-egypt]], foundation of [[memphis]], [[divine-kingship]], pharaonic state]
+causes: [ [[predynastic-egypt]], [[state-formation]], wealth-concentration in Upper Egyptian centres]
+consequences: [ [[early-dynastic-egypt]], foundation of [[memphis]], [[divine-kingship]], pharaonic state]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [event, early-bronze-age, north-africa, transition]

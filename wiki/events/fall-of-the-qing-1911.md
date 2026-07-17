@@ -82,6 +82,10 @@ continuous political institution. Yet Spence stresses it **resolved little** —
 weak, fragmented, and soon prey to warlords; the deeper "search for modern China" had only
 entered a new phase.
 
+## Historiography
+
+Spence's account draws on a wide range of Chinese-language sources — court and provincial records, revolutionary-society publications, and Sun Yat-sen's own writings — alongside foreign diplomatic reporting from Beijing and the treaty ports. A central scholarly debate concerns how "revolutionary" 1911 actually was: some historians stress the mass mobilization and genuine anti-Manchu nationalism behind the Wuchang uprising, while others (echoing Spence's own emphasis that the revolution "resolved little") treat it primarily as an elite and military realignment — a negotiated transfer of power between Yuan Shikai and the revolutionaries rather than a popular overthrow. The relative weight given to accident (the Wuchang mutiny began almost by chance) versus long-building structural causes (the railway crisis, New Army reform, provincial gentry alienation) also divides interpretations. Chinese Communist historiography later reframed 1911 as an incomplete "bourgeois" revolution superseded by the 1949 Communist revolution, a periodization increasingly qualified by more recent, less teleological scholarship.
+
 ## Related
 
 - [[qing-dynasty]] — the dynasty it ended; [[china]] — the imperial system abolished after 2,000 years.

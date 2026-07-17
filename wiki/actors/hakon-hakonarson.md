@@ -5,10 +5,10 @@ date_start: 1204 CE
 date_end: 1263 CE
 period: [High Middle Ages]
 region: [norway, iceland, scandinavia]
-affiliated_with: [[[norway|Norway]]; the Sverre dynasty]
+affiliated_with: [ [[norway|Norway]]; the Sverre dynasty]
 opposed_by: [Earl Skule Bårdsson; Scottish claims in the Hebrides]
-key_events: [[[treaty-of-perth-1266|Treaty of Perth (1266, under his successor)]]]
-key_processes: [[[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+key_events: [ [[treaty-of-perth-1266|Treaty of Perth (1266, under his successor)]]]
+key_processes: [ [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, high-middle-ages, norway]

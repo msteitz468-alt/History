@@ -6,7 +6,7 @@ date_end: absorbed into the Neo-Babylonian state after 626 BCE
 period: [Early Iron Age, Archaic Period]
 region: [mesopotamia, near-east]
 affiliated_with: [the cult of Marduk, at times Elam, the [[arameans|Aramaeans]]]
-opposed_by: [[[neo-assyrian-empire|Assyria]]]
+opposed_by: [ [[neo-assyrian-empire|Assyria]]]
 key_events: [the reign of [[merodach-baladan]] in Babylon, the Chaldaean struggle for Babylonia (721–689), the accession of [[nabopolassar|Nabopolassar]] (626)]
 key_processes: [tribal confederation, Babylonization, [[state-formation]]]
 sources_ingested: 2

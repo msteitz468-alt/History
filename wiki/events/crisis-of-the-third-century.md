@@ -6,8 +6,8 @@ date_precision: year
 period: [Late Antiquity]
 region: [mediterranean, mediterranean-world, near-east, western-europe]
 location: [Roman Empire]
-actors_primary: [[[roman-empire]]]
-actors_secondary: [[[sasanian-empire]], [[palmyra]], "the Gallic Empire", "Goths and Vandals"]
+actors_primary: [ [[roman-empire]]]
+actors_secondary: [ [[sasanian-empire]], [[palmyra]], "the Gallic Empire", "Goths and Vandals"]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational

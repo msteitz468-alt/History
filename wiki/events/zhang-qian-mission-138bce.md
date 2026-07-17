@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Classical Antiquity]
 region: [china, central-asia]
 location: [Chang'an, Gansu Corridor, Ferghana, Bactria]
-actors_primary: [[[zhang-qian]], [[han-wudi]]]
-actors_secondary: [[[yuezhi]], [[xiongnu]], [[bactria|Greco-Bactria]]]
+actors_primary: [ [[zhang-qian]], [[han-wudi]]]
+actors_secondary: [ [[yuezhi]], [[xiongnu]], [[bactria|Greco-Bactria]]]
 event_type: discovery
 scale_immediate: regional
 scale_consequential: hemispheric

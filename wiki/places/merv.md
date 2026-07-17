@@ -6,7 +6,7 @@ coordinates: ~37.7°N, 62.2°E
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: ["Seleucids", "[[parthian-empire|Parthians]]", "[[sasanian-empire|Sasanians]]"]
 events_here: []
-processes_here: [[[silk-roads]], [[trade-network-formation]]]
+processes_here: [ [[silk-roads]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, central-asia, iran-plateau, silk-road]

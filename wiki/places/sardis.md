@@ -4,7 +4,7 @@ place_type: city
 modern_equivalent: [Sart, Manisa Province, western Turkey]
 coordinates: [38.49 N, 28.04 E]
 period_active: [Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity]
-controlled_by: [[[lydia|the Mermnad kings of Lydia]], [[achaemenid-empire|Persia]], later Macedon and Rome]
+controlled_by: [ [[lydia|the Mermnad kings of Lydia]], [[achaemenid-empire|Persia]], later Macedon and Rome]
 events_here: [the Cimmerian capture of the lower city, the rise of electrum coinage, the fall to Cyrus (546)]
 processes_here: [the invention of [[coinage|coinage]], Lydian–Greek cultural exchange, Achaemenid provincial administration]
 sources_ingested: 3

@@ -5,8 +5,8 @@ date_start: 378 BCE (nucleus formed); 377 BCE (Decree of Aristoteles)
 date_end: 338 BCE (effectively dissolved after Chaeronea)
 period: [Classical Antiquity]
 region: [aegean, mediterranean]
-affiliated_with: [[[athens]] (hegemon), Chios, Byzantium, Rhodes, Mytilene, Thebes, the Euboean cities]
-opposed_by: [[[sparta]], later Athens' own imperial tendencies and the Social War]
+affiliated_with: [ [[athens]] (hegemon), Chios, Byzantium, Rhodes, Mytilene, Thebes, the Euboean cities]
+opposed_by: [ [[sparta]], later Athens' own imperial tendencies and the Social War]
 key_events: [foundation 378 BCE, the Decree of Aristoteles 377 BCE, the naval peace of 375 BCE, the Social War 357–355 BCE]
 key_processes: [the resurgence of Athenian naval power, the defence of "freedom and autonomy" against Sparta]
 sources_ingested: 1

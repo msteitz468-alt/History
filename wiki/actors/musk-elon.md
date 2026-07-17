@@ -40,7 +40,7 @@ Scale: global (EV transition acceleration, reusable orbital rockets, global low-
 ## Related
 - Detailed biography: [[hubs/biographies/contemporary/musk-elon]]
 - Companies: [[actors/tesla-inc]], [[actors/spacex]], [[actors/x-corp]], [[actors/neuralink]]
-- Key people: [[actors/shotwell-gwynne]], [[actors/straubel-jb]], [[actors/musk-kimbal]], [[actors/grimes]]
+- Key people: [[actors/shotwell-gwynne]], [[actors/straubel-jb]], actors/musk-kimbal, [[actors/grimes]]
 - Key events: [[events/twitter-acquisition-2022]], [[events/falcon-1-fourth-launch-2008]]
 - Concepts: [[concepts/first-principles]], [[concepts/idiot-index]], [[concepts/hardcore]]
 

@@ -6,9 +6,9 @@ date_end: 1099 (died, Valencia)
 period: [High Middle Ages]
 region: [iberia]
 affiliated_with: ["the kingdom of Castile (Sancho II, Alfonso VI)", "the taifa of Saragossa (in exile)"]
-opposed_by: [[[almoravids|the Almoravids]], "rival Christian and Muslim lords"]
+opposed_by: [ [[almoravids|the Almoravids]], "rival Christian and Muslim lords"]
 key_events: ["the conquest of Valencia (1094)", [[reconquista]]]
-key_processes: [[[reconquista]]]
+key_processes: [ [[reconquista]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, high-middle-ages, iberia]

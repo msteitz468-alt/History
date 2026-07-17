@@ -1,8 +1,8 @@
 ---
 title: Early Bronze Age
 period_number: 8
-preceded_by: [[[chalcolithic|Chalcolithic]]]
-followed_by: [[[middle-bronze-age|Middle Bronze Age]]]
+preceded_by: [ [[chalcolithic|Chalcolithic]]]
+followed_by: [ [[middle-bronze-age|Middle Bronze Age]]]
 date_range: 3,300–2,100 BCE (Near East; regionally variable)
 regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, south-asia, aegean, china, east-asia, europe, western-europe, central-europe]
 major_themes: [first cities, state formation, writing, bronze metallurgy, city-states, kingship]

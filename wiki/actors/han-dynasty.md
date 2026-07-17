@@ -8,7 +8,7 @@ region: [china, east-asia, central-asia, korea]
 affiliated_with: [Confucian-Legalist statecraft, local elites]
 opposed_by: [the [[xiongnu]], rival warlords, the Yellow Turban rebels]
 key_events: [Emperor Wu's Xiongnu wars 141-87 BCE, Zhang Qian's mission to the Yuezhi 139 BCE, opening of the [[silk-roads|Silk Roads]], conquest of northern Korea 109 BCE]
-key_processes: [[[empire]], [[silk-roads]], [[confucianism|Confucian state ideology]], [[east-asian-cultural-sphere]]]
+key_processes: [ [[empire]], [[silk-roads]], [[confucianism|Confucian state ideology]], [[east-asian-cultural-sphere]]]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, dynasty, classical-antiquity, late-antiquity, china, east-asia]

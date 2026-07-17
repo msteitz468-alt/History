@@ -80,6 +80,10 @@ reads the union's failure as structurally determined by the incompatibility of
 Denmark's centralising, Denmark-centred monarchy with the constitutional demands of
 the Swedish council aristocracy.
 
+## Historiography
+
+The interpretive debate over the Union's founding documents — Erik Lönnroth's 1934 reading of the Act of Coronation and Union Document as embodying rival constitutional principles (*regimen regale* versus *regimen politicum*), discussed above — remains the central historiographical question, and current scholarship (as synthesized in the Cambridge History of Scandinavia) has moved away from the older "Norwegian explanation" toward seeing Margaret's own dynastic interests as the reason the more binding Union Document went unratified. Primary sources are unevenly distributed across the three kingdoms: Danish and to a lesser extent Swedish administrative and charter evidence is relatively rich, while Norwegian source survival for this period is thinner, which has shaped (and arguably skewed) older historiography toward Danish- and Swedish-centered narratives of the union's politics. The degree to which Swedish resistance reflected genuine "national" sentiment versus aristocratic and regional self-interest is also debated, particularly around the Engelbrekt rebellion and the later Sture regencies.
+
 ## Related
 
 - `part_of:` the late-medieval Baltic/Nordic world; `concurrent_with:` the commercial dominance of the [[hanseatic-league|Hanseatic League]].

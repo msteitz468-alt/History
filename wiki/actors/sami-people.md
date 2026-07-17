@@ -8,7 +8,7 @@ region: [scandinavia, norway, sweden, finland, horn-of-africa]
 affiliated_with: []
 opposed_by: [taxation and missionising by Norwegian, Swedish, and later states]
 key_events: []
-key_processes: [[[christianization-of-scandinavia|Christianization of Scandinavia]]]
+key_processes: [ [[christianization-of-scandinavia|Christianization of Scandinavia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, movement, scandinavia]

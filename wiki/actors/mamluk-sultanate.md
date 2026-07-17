@@ -6,7 +6,7 @@ date_end: "1517 (Ottoman conquest) — this page covers the thirteenth century"
 period: [High Middle Ages, Late Middle Ages]
 region: [near-east, levant, north-africa]
 affiliated_with: [the revived Abbasid caliphate at Cairo, the Genoese slave traders of the Black Sea]
-opposed_by: [[[mongol-empire|the Mongol Il-khanate]], the crusader states, Cilician Armenia]
+opposed_by: [ [[mongol-empire|the Mongol Il-khanate]], the crusader states, Cilician Armenia]
 key_events: [the battle of [[battle-of-ain-jalut-1260|Ain Jalut]] (1260), the fall of Antioch (1268), the fall of Tripoli (1289), the [[fall-of-acre-1291|fall of Acre]] (1291)]
 key_processes: [the rise of slave-soldier rule, the destruction of the crusader states, the Mamluk–Mongol wars]
 sources_ingested: 3

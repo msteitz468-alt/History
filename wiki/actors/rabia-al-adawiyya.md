@@ -6,10 +6,10 @@ date_end: c. 801 (died, Basra)
 date_precision: approximate
 period: [Early Middle Ages]
 region: [mesopotamia]
-affiliated_with: [[[sufism|Sufism]], the Basra ascetic circle]
+affiliated_with: [ [[sufism|Sufism]], the Basra ascetic circle]
 opposed_by: []
 key_events: [her life as a freed slave and itinerant ascetic in Basra; her teaching on selfless divine love]
-key_processes: [[[sufism]], [[early-sufism]]]
+key_processes: [ [[sufism]], [[early-sufism]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, mesopotamia, islamic-world]

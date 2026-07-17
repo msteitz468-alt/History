@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, anatolia, near-east, mediterranean-world]
 location: [Greece (Thermopylae), Asia Minor (Magnesia), Apamea]
-actors_primary: [[[roman-republic]], [[antiochus-iii-the-great]], [[scipio-africanus]]]
-actors_secondary: [[[aetolian-league]], [[pergamon|Eumenes II]], [[rhodes]], [[hannibal]], [[seleucid-empire]]]
+actors_primary: [ [[roman-republic]], [[antiochus-iii-the-great]], [[scipio-africanus]]]
+actors_secondary: [ [[aetolian-league]], [[pergamon|Eumenes II]], [[rhodes]], [[hannibal]], [[seleucid-empire]]]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational

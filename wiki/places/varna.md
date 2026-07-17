@@ -6,7 +6,7 @@ coordinates: ~43.2° N, 27.9° E
 period_active: [Chalcolithic]
 controlled_by: [Gumelnița–Kodzadermen–Karanovo VI cultural complex (Varna culture)]
 events_here: []
-processes_here: [[[old-europe-copper-metallurgy]]]
+processes_here: [ [[old-europe-copper-metallurgy]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [place, balkans, eastern-europe, chalcolithic]

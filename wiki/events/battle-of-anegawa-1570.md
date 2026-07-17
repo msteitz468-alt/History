@@ -59,6 +59,10 @@ The immediate cause was the defensive need to contain the Asai-Asakura coalition
 
 The victory was attributed primarily to Ieyasu's tactical intervention at the critical moment — swinging forces from the Asakura front to support Nobunaga against Asai. Nobunaga's subsequent tribute described Ieyasu as "the sheet-anchor of our house, and the great builder of the portal of martial valour" and presented him with the Shogun Yoshiteru's sword and an arrowhead formerly belonging to Minamoto Tametomo. The battle did not end the Asai-Asakura threat, which continued until 1573, but it secured Nobunaga's position in Omi for the time being.
 
+## Historiography
+
+The primary source for this battle is A.L. Sadler's 1937 biography of Ieyasu, itself built on Japanese house-chronicle traditions such as the *Mikawa Go-Fudoki* — a document compiled to celebrate Tokugawa martial virtue and inherently favorable to Ieyasu's role. Numbers such as troop strengths and the 3,170-head count derive from this chronicle tradition and should be read as period convention rather than precise administrative record, a common caveat for Sengoku-era battle accounts. Anegawa receives comparatively little independent scholarly attention next to more celebrated engagements of the unification wars (Nagashino, Sekigahara), and modern narratives largely reproduce the same chronicle material rather than offering fresh archival discovery. No major revisionist reassessment of the battle is reflected in this wiki; its status as a secondary action supporting the ongoing Yokoyama siege is not seriously disputed.
+
 ## Links
 
 - preceded_by: [[battle-of-okehazama-1560]]

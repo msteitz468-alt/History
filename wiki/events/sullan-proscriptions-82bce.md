@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
 location: [Rome and the towns of Italy]
-actors_primary: [[[sulla]], the *Sullani*; the proscribed (senators and equites)]
-actors_secondary: [[[crassus]], Catiline, Verres, Chrysogonus; the young Julius Caesar (spared)]
+actors_primary: [ [[sulla]], the *Sullani*; the proscribed (senators and equites)]
+actors_secondary: [ [[crassus]], Catiline, Verres, Chrysogonus; the young Julius Caesar (spared)]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: regional

@@ -7,8 +7,8 @@ period: [Age of Expansion]
 region: [western-europe, british-isles]
 affiliated_with: []
 opposed_by: []
-key_events: [[[war-of-the-spanish-succession-1701]]]
-key_processes: [[[limited-war]]]
+key_events: [ [[war-of-the-spanish-succession-1701]]]
+key_processes: [ [[limited-war]]]
 sources_ingested: 1
 last_updated: 2026-06-23
 tags: [actor, person, age-of-expansion, british-isles, western-europe]

@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
 location: [the central and southern Apennines — Asculum, Corfinium, Samnium, Campania]
-actors_primary: [[[roman-republic]], the Italian allies (the *socii*), [[marius]], Sulla, Pompeius Strabo]
-actors_secondary: [[[livius-drusus-younger|M. Livius Drusus the Younger]], Poppaedius Silo, Papius Mutilus, Pompeius Strabo]
+actors_primary: [ [[roman-republic]], the Italian allies (the *socii*), [[marius]], Sulla, Pompeius Strabo]
+actors_secondary: [ [[livius-drusus-younger|M. Livius Drusus the Younger]], Poppaedius Silo, Papius Mutilus, Pompeius Strabo]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[roman-italian-alliance|the allies' long-denied demand for citizenship]], the Gracchan agrarian crisis, the murder of M. Livius Drusus (91), the Lex Licinia Mucia (95)]
+causes: [ [[roman-italian-alliance|the allies' long-denied demand for citizenship]], the Gracchan agrarian crisis, the murder of M. Livius Drusus (91), the Lex Licinia Mucia (95)]
 consequences: [the enfranchisement of all Italy south of the Po, the transformation of Rome from city-state into a state of municipia, the merging into the civil wars of the 80s]
 sources_ingested: 7
 last_updated: 2026-07-08

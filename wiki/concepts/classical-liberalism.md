@@ -1,5 +1,6 @@
 ---
 title: Classical Liberalism
+aliases: [liberalism]
 concept_type: ideological
 origin: "Emerged from 17th–18th-c. English Whig constitutionalism, Scottish Enlightenment political economy, and continental liberal constitutionalism; the label 'classical' is retrospective (20th c.), distinguishing the older tradition from New Liberalism and American 'liberalism'"
 applies_to_periods: [Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]

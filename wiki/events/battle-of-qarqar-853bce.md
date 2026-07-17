@@ -6,12 +6,12 @@ date_precision: year
 period: [Early Iron Age]
 region: [levant, near-east]
 location: [Qarqar, on the Orontes river (northern Syria)]
-actors_primary: [[[neo-assyrian-empire|Shalmaneser III of Assyria]], the Damascus coalition (Hadadezer/Adad-idri of Damascus, Irhuleni of Hamath, [[kingdom-of-israel|Ahab of Israel]])]
+actors_primary: [ [[neo-assyrian-empire|Shalmaneser III of Assyria]], the Damascus coalition (Hadadezer/Adad-idri of Damascus, Irhuleni of Hamath, [[kingdom-of-israel|Ahab of Israel]])]
 actors_secondary: [Byblos, Arvad, Egypt, Gindibu the Arab, the [[arameans|Aramaean]] states]
 event_type: battle
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[neo-assyrian-empire|Assyrian expansion into Syria]], the threat to the independent Levantine states]
+causes: [ [[neo-assyrian-empire|Assyrian expansion into Syria]], the threat to the independent Levantine states]
 consequences: [a decade of inconclusive Assyrian–Syrian warfare, the temporary survival of the Levantine states, the first datable synchronism for [[kingdom-of-israel|Israelite]] and Arab history]
 sources_ingested: 1
 last_updated: 2026-06-11

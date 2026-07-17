@@ -6,7 +6,7 @@ date_end: died in exile in Elam, after 700 BCE
 period: [Archaic Period]
 region: [mesopotamia, near-east]
 affiliated_with: [the Chaldaean tribe [[chaldeans|Bit-Yakin]], Elam, [[kingdom-of-judah|Hezekiah of Judah]]]
-opposed_by: [[[sargon-ii|Sargon II]], [[sennacherib|Sennacherib]]]
+opposed_by: [ [[sargon-ii|Sargon II]], [[sennacherib|Sennacherib]]]
 key_events: [the seizure of Babylon (721), expulsion by Sargon (710), brief return (703), the embassy to Hezekiah]
 key_processes: [Chaldaean resistance to Assyria]
 sources_ingested: 1

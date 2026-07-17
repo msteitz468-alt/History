@@ -25,4 +25,15 @@ After three consecutive Falcon 1 failures (2006–2008), the fourth launch on 28
 
 **Narrative and analysis** to be expanded from Isaacson claims (Range 03–04).
 
+## Historiography
+
+The primary account is Isaacson's *Elon Musk* (2023), based on
+extensive access and interviews with Musk and SpaceX personnel over roughly two years;
+as an authorized/access-driven biography it has been criticized by some reviewers for
+crediting Musk's own framing of events (including the "bet the company" drama around the
+fourth launch) without full independent corroboration. SpaceX itself has not released
+internal engineering post-mortems publicly in full. As a recent event, no substantial
+independent scholarly historiography yet exists; most coverage is journalistic and
+company-authorized.
+
 Related: [[actors/spacex]], [[actors/musk-elon]], [[events/tesla-2008-crisis]].

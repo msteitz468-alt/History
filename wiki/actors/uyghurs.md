@@ -8,7 +8,7 @@ region: [central-asia, china, east-asia]
 affiliated_with: []
 opposed_by: []
 key_events: []
-key_processes: [[[islam-in-china]]]
+key_processes: [ [[islam-in-china]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, other, contemporary, central-asia, china]

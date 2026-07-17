@@ -8,7 +8,7 @@ region: [andes]
 affiliated_with: [the Lake Titicaca altiplano, the post-[[tiwanaku|Tiwanaku]] reorganization, the [[inca-empire|Inka]] province of Collasuyu]
 opposed_by: [rival altiplano kingdoms; the conquering [[inca-empire|Inka]]]
 key_events: [the post-Tiwanaku reorganization, the rise of the Lupaqa and Colla kingdoms, the Inka conquest of the altiplano]
-key_processes: [[[andean-state-formation]], [[vertical-archipelago]]]
+key_processes: [ [[andean-state-formation]], [[vertical-archipelago]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, late-middle-ages, andes]

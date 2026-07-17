@@ -8,7 +8,7 @@ region: [north-africa, egypt, mediterranean]
 affiliated_with: [Fatimid Caliphate, Ismaili da'wa, Kutama Berbers, Kalbids of Sicily]
 opposed_by: [Umayyads of Córdoba, Byzantine Empire, Abbasid Egypt (Ikhshidids)]
 key_events: [fatimid-conquest-of-egypt-969, founding of Cairo (969), transfer of the capital to Egypt (972–973)]
-key_processes: [[[ismaili-movement]], [[dawa]]]
+key_processes: [ [[ismaili-movement]], [[dawa]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, north-africa, egypt, islamic-world]

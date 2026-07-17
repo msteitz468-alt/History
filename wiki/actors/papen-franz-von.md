@@ -1,5 +1,6 @@
 ---
 title: Franz von Papen
+aliases: [franz-von-papen]
 actor_type: person
 date_start: 1879
 date_end: 1969

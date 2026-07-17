@@ -5,8 +5,8 @@ date_start: c. 445 BCE (born; first prominent c. 413 BCE)
 date_end: 395 BCE (arrested and beheaded at Celaenae on Parysatis's orders)
 period: [Classical Antiquity]
 region: [anatolia, iran-plateau]
-affiliated_with: [[[achaemenid-empire|Achaemenid Persia]], the kings [[artaxerxes-ii|Darius II and Artaxerxes II]]]
-opposed_by: [[[cyrus-the-younger|Cyrus the Younger]], Sparta under Agesilaus, the Ionian Greek cities]
+affiliated_with: [ [[achaemenid-empire|Achaemenid Persia]], the kings [[artaxerxes-ii|Darius II and Artaxerxes II]]]
+opposed_by: [ [[cyrus-the-younger|Cyrus the Younger]], Sparta under Agesilaus, the Ionian Greek cities]
 key_events: [the Spartan–Persian alliances of 412–411 BCE, the battle of [[march-of-the-ten-thousand-401bce|Cunaxa]] 401 BCE, the campaign against Agesilaus 396–395 BCE]
 key_processes: [Persian financial warfare and the manipulation of Greek interstate politics]
 sources_ingested: 1

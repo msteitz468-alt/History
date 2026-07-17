@@ -1,5 +1,6 @@
 ---
 title: Ibn al-Arabi (Muhyi al-Din Muhammad Ibn al-Arabi)
+aliases: [ibn-al-arabi]
 actor_type: person
 date_start: "1165"
 date_end: "1240"

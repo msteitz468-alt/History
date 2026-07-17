@@ -7,8 +7,8 @@ period: [Late Antiquity, Early Middle Ages]
 region: [egypt, north-africa]
 affiliated_with: [christianity, egyptian-monasticism, alexandria]
 opposed_by: [the Chalcedonian (Melkite) imperial church, Constantinople]
-key_events: [[[council-of-chalcedon-451]]]
-key_processes: [[[christianization-of-the-roman-empire]], [[egyptian-monasticism]]]
+key_events: [ [[council-of-chalcedon-451]]]
+key_processes: [ [[christianization-of-the-roman-empire]], [[egyptian-monasticism]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, institution, late-antiquity, north-africa, egypt]

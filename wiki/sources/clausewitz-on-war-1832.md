@@ -1,5 +1,6 @@
 ---
 title: "On War (Vom Kriege)"
+aliases: [clausewitz-on-war]
 author: ["Carl von Clausewitz"]
 translators: ["Michael Howard", "Peter Paret"]
 year: 1832

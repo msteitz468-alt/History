@@ -5,10 +5,10 @@ date_start: c. 1162 CE (birth, as Temüjin)
 date_end: 1227 CE (death)
 period: [High Middle Ages]
 region: [steppe, central-asia, china]
-affiliated_with: [[[mongol-empire]], [[pastoral-nomadism]], "the Chinggisid line"]
+affiliated_with: [ [[mongol-empire]], [[pastoral-nomadism]], "the Chinggisid line"]
 opposed_by: ["the Jurchen Jin", "the Tangut Xixia", "the Khwarazmian Empire", "rival Mongol and Turkic clans"]
 key_events: ["unification of the Mongol and Turkic tribes (1206)", "the invasion of the Khwarazmian Empire (1219–1221)", "campaigns against Jin and Xixia"]
-key_processes: [[[pastoral-nomadism]], [[state-formation]], [[afro-eurasian-world-system]]]
+key_processes: [ [[pastoral-nomadism]], [[state-formation]], [[afro-eurasian-world-system]]]
 sources_ingested: 8
 last_updated: 2026-06-22
 tags: [actor, person, high-middle-ages, steppe]

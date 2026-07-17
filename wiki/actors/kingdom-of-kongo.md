@@ -8,7 +8,7 @@ region: [central-africa]
 affiliated_with: [the BaKongo people, Portugal (from 1483), Christianity (from 1491)]
 opposed_by: [Ndongo/Angola, the Jaga invaders, ultimately Portugal (Mbwila, 1665)]
 key_events: [the founding at Mbanza Kongo, Portuguese contact (1483), the baptism of João I (1491), the reign of Afonso I (1509–43), the battle of Mbwila (1665)]
-key_processes: [[[atlantic-slave-trade]], [[christianization]], state-formation]
+key_processes: [ [[atlantic-slave-trade]], [[christianization]], state-formation]
 sources_ingested: 3
 last_updated: 2026-06-13
 tags: [actor, state, late-middle-ages, early-modern, central-africa]

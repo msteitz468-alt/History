@@ -7,7 +7,7 @@ period: [High Middle Ages]
 region: [balkans, anatolia, mediterranean]
 affiliated_with: [the [[macedonian-dynasty|Macedonian dynasty]], [[byzantine-empire|Byzantium]], [[kievan-rus|the Rus′ of Vladimir]] (Varangian alliance)]
 opposed_by: [Bardas Skleros and Bardas Phokas (rebel generals), Samuel of [[first-bulgarian-empire|Bulgaria]], the Fatimids]
-key_events: [[[conquest-of-bulgaria-1018]], the alliance with Vladimir of Rus′ (988)]
+key_events: [ [[conquest-of-bulgaria-1018]], the alliance with Vladimir of Rus′ (988)]
 key_processes: [the Byzantine reconquest, the curbing of the military aristocracy]
 sources_ingested: 2
 last_updated: 2026-07-08

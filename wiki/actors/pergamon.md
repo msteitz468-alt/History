@@ -6,9 +6,9 @@ date_end: 133 BCE
 period: [Classical Antiquity]
 region: [anatolia, mediterranean]
 affiliated_with: [the Attalid dynasty, [[rome|Rome]] (later)]
-opposed_by: [[[galatians]], [[seleucid-empire]], Antiochus Hierax]
+opposed_by: [ [[galatians]], [[seleucid-empire]], Antiochus Hierax]
 key_events: [the secession from Lysimachus' kingdom (281), Attalus I's victories over the Galatians]
-key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], Pergamene art]
+key_processes: [ [[hellenistic-monarchy]], [[hellenistic-world]], Pergamene art]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, dynasty, classical-antiquity, anatolia]

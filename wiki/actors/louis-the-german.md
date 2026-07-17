@@ -39,7 +39,7 @@ of a coherent East Frankish realm.
 
 Louis's kingdom faced outward onto the Slavic world: the Sorbs, the Bohemians, and above all
 **Great Moravia** under Rastislav and Svatopluk, which he sought repeatedly to subdue and which became the
-arena of the Cyrillo-Methodian mission (see [[slavs-and-bulgars]]). He governed the marches through
+arena of the Cyrillo-Methodian mission (see slavs and bulgars). He governed the marches through
 frontier commanders and used sub-kingdoms to position his sons, notably Karlmann on the Bavarian/Carinthian
 frontier.
 

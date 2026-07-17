@@ -6,7 +6,7 @@ coordinates: [12.03, 39.04]
 period_active: [Early Middle Ages, High Middle Ages]
 controlled_by: [Zagwe Dynasty]
 events_here: [construction of rock-hewn church complex (c. 8th–13th c. CE)]
-processes_here: [[[aksumite-legacy]]]
+processes_here: [ [[aksumite-legacy]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, horn-of-africa, early-middle-ages, high-middle-ages]

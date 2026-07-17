@@ -6,8 +6,8 @@ date_precision: year
 period: [late-antiquity]
 region: [arabian-peninsula]
 location: [Red Sea coast, Najran, Marib (Yemen)]
-actors_primary: [[[augustus]], Aelius Gallus]
-actors_secondary: [[[nabataean-kingdom]], Saba, Himyar]
+actors_primary: [ [[augustus]], Aelius Gallus]
+actors_secondary: [ [[nabataean-kingdom]], Saba, Himyar]
 event_type: [other]
 scale_immediate: regional
 scale_consequential: regional

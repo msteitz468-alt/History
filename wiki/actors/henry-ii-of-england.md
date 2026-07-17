@@ -5,10 +5,10 @@ date_start: 1133 (born, Le Mans)
 date_end: 1189 (died, Chinon)
 period: [High Middle Ages]
 region: [british-isles, western-europe]
-affiliated_with: [[[angevin-empire|the Angevin empire]], "the house of Anjou (Plantagenet)"]
-opposed_by: [[[thomas-becket|Thomas Becket]], "Louis VII and Philip II of France", "his rebellious sons and Eleanor of Aquitaine"]
+affiliated_with: [ [[angevin-empire|the Angevin empire]], "the house of Anjou (Plantagenet)"]
+opposed_by: [ [[thomas-becket|Thomas Becket]], "Louis VII and Philip II of France", "his rebellious sons and Eleanor of Aquitaine"]
 key_events: ["the end of the Anarchy (Treaty of Winchester, 1153)", "the Becket controversy", "the Assize of Clarendon (1166)"]
-key_processes: [[[ius-commune|the rise of English common law]]]
+key_processes: [ [[ius-commune|the rise of English common law]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, high-middle-ages, british-isles, western-europe]

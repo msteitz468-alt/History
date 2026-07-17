@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [peloponnese, central-greece, aegean, anatolia]
 location: [Haliartus, Nemea, Coronea, Cnidus, Corinth, Lechaeum]
-actors_primary: [[[sparta]], [[places/athens|Athens]], Thebes, Corinth, Argos, [[achaemenid-empire|Persia]]]
-actors_secondary: [[[agesilaus-ii|Agesilaus II]], [[lysander]], [[conon]], Pharnabazus, [[artaxerxes-ii|Artaxerxes II]], Iphicrates]
+actors_primary: [ [[sparta]], [[places/athens|Athens]], Thebes, Corinth, Argos, [[achaemenid-empire|Persia]]]
+actors_secondary: [ [[agesilaus-ii|Agesilaus II]], [[lysander]], [[conon]], Pharnabazus, [[artaxerxes-ii|Artaxerxes II]], Iphicrates]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional
@@ -104,6 +104,22 @@ would see "turned against her" — but which Sparta first used, via Agesilaus's 
 the autonomy clause, to break up rival leagues and coerce Mantinea, Phlius, and Thebes.
 The war is the textbook case of **Persia as arbiter** of Greek affairs — "the only power
 to have derived unmitigated gain."
+
+## Historiography
+
+The war is narrated primarily by **Xenophon** (*Hellenica* iii–iv), a contemporary but
+openly partisan source — a friend and admirer of **Agesilaus** who omits or minimizes
+episodes unflattering to Sparta (as with his silence, elsewhere, on the liberation of
+Messenia) and gives the Persian-financed coalition's motives comparatively short shrift.
+**Diodorus Siculus**, drawing on the fourth-century historian Ephorus, often supplies
+fuller or independent detail, including material Xenophon suppresses. Modern scholarship
+places particular value on the anonymous **Hellenica Oxyrhynchia**, a papyrus fragment of
+a near-contemporary history covering part of this period with a notably more balanced,
+less Spartan-centered perspective than Xenophon, and it is regularly used to check and
+supplement his account. Historians continue to debate the precise sequence and dating of
+the early campaigns, the real weight of Persian gold in triggering the war (a point
+Xenophon and Diodorus frame differently), and how far Sparta's use of the King's Peace's
+autonomy clause represents calculated policy versus opportunism.
 
 ## Related
 

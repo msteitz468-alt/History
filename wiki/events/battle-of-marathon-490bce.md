@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece]
 location: [the plain of Marathon, north-east Attica]
-actors_primary: [[[athens|Athens]] and Plataea, [[achaemenid-empire|the Achaemenid empire]] (Datis and Artaphernes)]
-actors_secondary: [[[miltiades|Miltiades]], the polemarch Callimachus, the ex-tyrant Hippias, the liberated slaves, Sparta (arriving late)]
+actors_primary: [ [[athens|Athens]] and Plataea, [[achaemenid-empire|the Achaemenid empire]] (Datis and Artaphernes)]
+actors_secondary: [ [[miltiades|Miltiades]], the polemarch Callimachus, the ex-tyrant Hippias, the liberated slaves, Sparta (arriving late)]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational

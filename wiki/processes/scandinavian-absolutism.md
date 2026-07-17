@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Early Modern, Age of Expansion]
 region: [scandinavia, denmark, sweden, norway]
 process_type: [political]
-driven_by: [[[struggle-for-baltic-supremacy]]]
+driven_by: [ [[struggle-for-baltic-supremacy]]]
 produces: []
 sources_ingested: 1
 last_updated: 2026-06-27

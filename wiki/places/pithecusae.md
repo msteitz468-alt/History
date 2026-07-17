@@ -6,7 +6,7 @@ coordinates: [40.73 N, 13.90 E]
 period_active: [Early Iron Age, Archaic Period]
 controlled_by: [Euboean (Chalcidian and Eretrian) colonists]
 events_here: [the foundation as the earliest western Greek settlement (c. 770 BCE), iron-working with Elban ore, the deposition of the "Cup of Nestor"]
-processes_here: [[[greek-colonization|Greek colonization]], [[orientalizing-revolution|East–West trade]], the spread of the alphabet]
+processes_here: [ [[greek-colonization|Greek colonization]], [[orientalizing-revolution|East–West trade]], the spread of the alphabet]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, mediterranean, early-iron-age, archaic-period]

@@ -55,6 +55,10 @@ decline**, and landlords could not restore the old order. The revolt left the pr
 with a lasting fear of popular rising — and stands with the **Jacquerie (1358)** in France and the
 **Ciompi (1378)** in Florence as part of the Europe-wide cluster of late-fourteenth-century revolts.
 
+## Historiography
+
+The fullest and most reliable narrative is the anonymous *Anonimalle Chronicle*, written close to events and unusually detailed on the negotiations at Mile End and Smithfield; Thomas Walsingham's monastic chronicle from St Albans is more hostile and class-inflected, treating the rebels as a dangerous rabble, while Jean Froissart's account, written from a French aristocratic perspective at some remove, adds vivid but less reliable detail (including embellished dialogue). Rodney Hilton's mid-twentieth-century Marxist-influenced scholarship reframed the revolt as a symptom of deep class conflict over feudal dues and the market for labour after the Black Death, a reading later scholars (including Christopher Dyer) have nuanced by stressing regional variation and the specific grievances (poll tax administration, local officeholding) that triggered the rising in particular communities rather than a uniform national movement. The extent to which John Ball's preaching represented an existing radical undercurrent versus a rhetorical flashpoint seized upon by chroniclers is also debated, as is the precise sequence of events at Smithfield surrounding Wat Tyler's death, which varies between accounts.
+
 ## Related
 
 - `caused_by:` the poll taxes and the post-plague [[late-medieval-crisis|labour crisis]]; `part_of:` the reign of [[richard-ii-of-england|Richard II]].

@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [iberia, mediterranean-world]
 location: [Celtiberia — Numantia (near Soria), central and northern Spain]
-actors_primary: [[[roman-republic]], the Aravaci of Numantia, [[scipio-aemilianus]]]
+actors_primary: [ [[roman-republic]], the Aravaci of Numantia, [[scipio-aemilianus]]]
 actors_secondary: [the Celtiberians (Belli, Titthi, Lusones), [[viriathus|the Lusitanians under Viriathus]], Q. Pompeius, Hostilius Mancinus]
 event_type: war
 scale_immediate: regional

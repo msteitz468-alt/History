@@ -11,7 +11,7 @@ actors_secondary: [the British South Africa Company (Rhodes), African rulers (Le
 event_type: [political]
 scale_immediate: continental
 scale_consequential: global
-causes: [[[imperialism|New Imperialism]] and great-power rivalry, [[industrialization|industrial]] "tools of empire", the [[southern-african-mineral-revolution|mineral revolution]], strategic competition (the route to India, the Nile), missionary and humanitarian pretexts]
+causes: [ [[imperialism|New Imperialism]] and great-power rivalry, [[industrialization|industrial]] "tools of empire", the [[southern-african-mineral-revolution|mineral revolution]], strategic competition (the route to India, the Nile), missionary and humanitarian pretexts]
 consequences: [the partition of nearly all Africa into European colonies, arbitrary borders, colonial labour and extraction economies, African resistance and later [[decolonization|decolonization]]]
 sources_ingested: 3
 last_updated: 2026-06-13
@@ -78,6 +78,10 @@ responses (Samori, the Maji Maji, the Herero, the Asante, the Mahdiyya) that the
   famine]] elsewhere).
 - The grievances and structures against which mid-twentieth-century **[[decolonization|decolonization]]**
   would mobilize.
+
+## Historiography
+
+The partition's documentary record is overwhelmingly European in origin — colonial office correspondence, missionary and company records (including the concession treaties Reader analyzes as instruments of deception), and conference minutes from Berlin (1884–85) — with African-side perspectives recovered mainly indirectly, through oral tradition, court records of resistance movements, and retrospective African historiography. This asymmetry is itself a major subject of historiographical reflection: the UNESCO General History of Africa project (represented here by Vol. VII) was explicitly conceived to counter a colonial-era historiography that treated Africa as a passive object of European conquest, recentering African agency and resistance. Reader's account, while sympathetic to African rulers, still relies substantially on the same European archival record it critiques, since Lozi and other African oral and documentary traditions survive unevenly. A live debate concerns how much weight to give economic motives (the mineral revolution, monopoly capital) versus strategic and prestige-driven great-power rivalry in explaining the timing and intensity of the Scramble — economic-imperialism theses remain contested against accounts stressing diplomatic and nationalist drivers.
 
 ## Related pages
 

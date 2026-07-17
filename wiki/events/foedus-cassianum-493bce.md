@@ -14,12 +14,12 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes:
   - caused_by: "[[battle-of-lake-regillus|Roman victory at Lake Regillus (c. 499 or 496 BCE) over a Latin coalition]]"
-  - contributed_to: "[[porsenna-occupation|Post-Porsenna vulnerability of both Rome and Latium]]"
-  - contributed_to: "[[volsci-aequi-pressure|External pressure from the Volsci and Aequi on both Rome and the Latin cities]]"
+  - contributed_to: "Post-Porsenna vulnerability of both Rome and Latium"
+  - contributed_to: "External pressure from the Volsci and Aequi on both Rome and the Latin cities"
 consequences:
-  - produced: "[[roman-latin-alliance-fifth-century|The Roman–Latin bilateral alliance, the constitutional foundation of their relationship for 150 years]]"
-  - enabled: "[[joint-campaigns-volsci-aequi|Joint Roman–Latin military campaigns against the Volsci and Aequi throughout the fifth century]]"
-  - produced: "[[latin-rights-ius-latii|Formal legal framework for Latin rights: conubium, commercium, ius migrationis]]"
+  - produced: "The Roman–Latin bilateral alliance, the constitutional foundation of their relationship for 150 years"
+  - enabled: "Joint Roman–Latin military campaigns against the Volsci and Aequi throughout the fifth century"
+  - produced: "Formal legal framework for Latin rights: conubium, commercium, ius migrationis"
   - preceded_by: "[[latin-war-340-338bce|Latin War of 340–338 BCE, which dissolved the alliance]]"
 sources_ingested: 1
 last_updated: 2026-06-11

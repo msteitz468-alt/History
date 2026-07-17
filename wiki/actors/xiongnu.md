@@ -8,7 +8,7 @@ region: [steppe, central-asia, east-asia, china]
 affiliated_with: [the Mongolian steppe pastoral confederations]
 opposed_by: [the [[qin-dynasty|Qin]] and [[han-dynasty|Han]] empires, the Yuezhi, the Xianbei]
 key_events: [unification c. 209 BCE, encirclement of the Han emperor 200 BCE, Han offensives under Emperor Wu 141-87 BCE]
-key_processes: [[[pastoral-nomadism]], [[state-formation]], [[silk-roads]]]
+key_processes: [ [[pastoral-nomadism]], [[state-formation]], [[silk-roads]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, state, classical-antiquity, steppe, east-asia]

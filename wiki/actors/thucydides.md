@@ -5,9 +5,9 @@ date_start: c. 460 BCE (birth)
 date_end: c. 400 BCE (death; after 404)
 period: [Classical Antiquity]
 region: [aegean, central-greece]
-affiliated_with: [[[athens]], [[delian-league|Athenian empire]]]
+affiliated_with: [ [[athens]], [[delian-league|Athenian empire]]]
 opposed_by: []
-key_events: [[[peloponnesian-war|Peloponnesian War]], the loss of Amphipolis 424/3 BCE and his twenty-year exile]
+key_events: [ [[peloponnesian-war|Peloponnesian War]], the loss of Amphipolis 424/3 BCE and his twenty-year exile]
 key_processes: [the writing of critical history, [[classical-greek-historiography]]]
 sources_ingested: 5
 last_updated: 2026-07-08

@@ -8,7 +8,7 @@ region: [iberia, mediterranean]
 affiliated_with: [the county of Barcelona, nominally the king of France (for Catalan lands), the papacy]
 opposed_by: [the Almohads and Andalusi Muslims, [[charles-of-anjou|Charles of Anjou]] (after the Vespers), the king of France]
 key_events: [Las Navas de Tolosa (1212), the death of Peter II at Muret (1213), the conquest of Majorca (1229) and Valencia (1238), the Treaty of Corbeil (1258), the [[sicilian-vespers-1282|Sicilian Vespers]] (1282)]
-key_processes: [[[reconquista|the Reconquista]], the building of a Catalan Mediterranean commercial and political empire]
+key_processes: [ [[reconquista|the Reconquista]], the building of a Catalan Mediterranean commercial and political empire]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, iberia, mediterranean]

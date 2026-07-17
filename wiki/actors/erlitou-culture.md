@@ -5,10 +5,10 @@ date_start: ~1900 BCE
 date_end: ~1500 BCE
 period: [Early Bronze Age]
 region: [china, east-asia]
-affiliated_with: [[[yiluo-basin]], [[central-plains-china]], [[yellow-river-valley]], [[xia-dynasty]]]
+affiliated_with: [ [[yiluo-basin]], [[central-plains-china]], [[yellow-river-valley]], [[xia-dynasty]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[early-china-state-formation]], [[state-formation]]]
+key_processes: [ [[early-china-state-formation]], [[state-formation]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, china, east-asia]

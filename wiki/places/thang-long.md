@@ -4,8 +4,8 @@ place_type: city
 modern_equivalent: [hanoi]
 coordinates: [21.03, 105.85]
 period_active: [early-middle-ages, high-middle-ages, late-middle-ages]
-controlled_by: [[[ly-dynasty-vietnam]], [[tran-dynasty-vietnam]]]
-events_here: [[[ly-song-war-1075-1077]], [[mongol-invasions-of-dai-viet-1258-1288]], [[battle-of-bach-dang-1288]]]
+controlled_by: [ [[ly-dynasty-vietnam]], [[tran-dynasty-vietnam]]]
+events_here: [ [[ly-song-war-1075-1077]], [[mongol-invasions-of-dai-viet-1258-1288]], [[battle-of-bach-dang-1288]]]
 processes_here: []
 sources_ingested: 1
 last_updated: "2026-07-03"

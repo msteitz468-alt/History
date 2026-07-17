@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Kom el-Ahmar, Egypt]
 coordinates: ~25.10 N, 32.78 E
 period_active: [Late Prehistory, Chalcolithic, Early Bronze Age]
-controlled_by: [[[predynastic-egypt]], [[early-dynastic-egypt]]]
-events_here: [[[unification-of-egypt-3100bce]]]
-processes_here: [[[predynastic-egypt]], [[state-formation]]]
+controlled_by: [ [[predynastic-egypt]], [[early-dynastic-egypt]]]
+events_here: [ [[unification-of-egypt-3100bce]]]
+processes_here: [ [[predynastic-egypt]], [[state-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, north-africa, chalcolithic, early-bronze-age]

@@ -6,9 +6,9 @@ date_end: ~1294 BCE (death)
 period: [Late Bronze Age]
 region: [anatolia, levant]
 affiliated_with: [the [[hittites|Hittite kingdom]]]
-opposed_by: [[[new-kingdom-egypt|Egypt]] ([[ramesses-ii|Ramesses II]]), the Kaska, Assyria]
+opposed_by: [ [[new-kingdom-egypt|Egypt]] ([[ramesses-ii|Ramesses II]]), the Kaska, Assyria]
 key_events: [the [[battle-of-qadesh-1274bce|battle of Qadesh]], the transfer of the capital to [[tarhuntassa|Tarḫuntašša]]]
-key_processes: [[[imperialism]], [[interpolity-law]]]
+key_processes: [ [[imperialism]], [[interpolity-law]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, anatolia, near-east]

@@ -7,7 +7,7 @@ dating_method: numismatic
 period: [Late Antiquity, Early Middle Ages]
 region: [horn-of-africa]
 location: [Aksum city; eastern Tigray highlands; Kubar (unlocated)]
-actors_primary: [[[aksum|Kingdom of Aksum]]]
+actors_primary: [ [[aksum|Kingdom of Aksum]]]
 actors_secondary: [Arab Caliphate, Sasanian Persia]
 event_type: transition
 scale_immediate: civilizational

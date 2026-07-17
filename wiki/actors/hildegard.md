@@ -5,7 +5,7 @@ date_start: 758 CE
 date_end: 30 April 783 CE
 period: [Early Middle Ages]
 region: [western-europe, central-europe]
-affiliated_with: [[[charlemagne]], the Agilolfing/Alemannian nobility, [[carolingian-empire]]]
+affiliated_with: [ [[charlemagne]], the Agilolfing/Alemannian nobility, [[carolingian-empire]]]
 opposed_by: []
 key_events: [marriage to Charlemagne 771, siege of Pavia 774, births of Charles the Younger, Pippin of Italy and Louis the Pious]
 key_processes: []

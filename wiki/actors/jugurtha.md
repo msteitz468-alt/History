@@ -6,8 +6,8 @@ date_end: 104 BCE
 period: [Classical Antiquity]
 region: [north-africa]
 affiliated_with: [Kingdom of Numidia]
-opposed_by: [[[roman-republic|Roman Republic]], [[marius|Gaius Marius]], Quintus Caecilius Metellus Numidicus, Sulla]
-key_events: [[[jugurthine-war-112-105bce|Jugurthine War]]]
+opposed_by: [ [[roman-republic|Roman Republic]], [[marius|Gaius Marius]], Quintus Caecilius Metellus Numidicus, Sulla]
+key_events: [ [[jugurthine-war-112-105bce|Jugurthine War]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-07-08

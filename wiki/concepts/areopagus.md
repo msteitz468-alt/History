@@ -24,4 +24,4 @@ The ancient Athenian council that met on the Areopagus hill. In early times a po
 - Ephialtes: stripped of most non-judicial powers; transfer to the demos/boule.
 - Later: symbol of conservative tradition (Isocrates, etc.).
 
-See: [[athens]], [[solon]], [[ephialtes]], [[classical-antiquity]], [[areopagiticus]] (Isocrates).
+See: [[athens]], [[solon]], [[ephialtes]], [[classical-antiquity]], areopagiticus (Isocrates).

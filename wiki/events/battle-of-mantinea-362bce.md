@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [peloponnese]
 location: [Mantinea (Arcadia)]
-actors_primary: [[[epaminondas]], Thebes/Boeotia, the pro-Theban Arcadians, Argos, Messene]
-actors_secondary: [[[sparta]], [[places/athens|Athens]], Mantinea, Elis, Achaea]
+actors_primary: [ [[epaminondas]], Thebes/Boeotia, the pro-Theban Arcadians, Argos, Messene]
+actors_secondary: [ [[sparta]], [[places/athens|Athens]], Mantinea, Elis, Achaea]
 event_type: battle
 scale_immediate: regional
 scale_consequential: regional

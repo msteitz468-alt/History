@@ -5,10 +5,10 @@ date_start: 1611
 date_end: 1721
 period: [Early Modern]
 region: [scandinavia, sweden, finland, baltic, northern-europe]
-affiliated_with: [[[gustavus-adolphus]], [[gustav-i-vasa]]]
-opposed_by: [[[denmark-norway]]]
-key_events: [[[thirty-years-war-1618]], [[great-northern-war-1700]]]
-key_processes: [[[scandinavian-absolutism]]]
+affiliated_with: [ [[gustavus-adolphus]], [[gustav-i-vasa]]]
+opposed_by: [ [[denmark-norway]]]
+key_events: [ [[thirty-years-war-1618]], [[great-northern-war-1700]]]
+key_processes: [ [[scandinavian-absolutism]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, early-modern, scandinavia, sweden]

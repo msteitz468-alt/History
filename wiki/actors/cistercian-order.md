@@ -1,14 +1,15 @@
 ---
 title: The Cistercian Order (Cîteaux)
+aliases: [citeaux]
 actor_type: organization
 date_start: 1098 (foundation of Cîteaux)
 date_end: ongoing
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[medieval-monastic-revival]], "Benedictine monasticism", "the reform papacy"]
+affiliated_with: [ [[medieval-monastic-revival]], "Benedictine monasticism", "the reform papacy"]
 opposed_by: ["the wealth and liturgical elaboration of Cluny (in polemic)"]
 key_events: ["foundation of Cîteaux (1098)", "Bernard's entry and the foundation of Clairvaux (1115)"]
-key_processes: [[[medieval-monastic-revival]], [[gregorian-reform]]]
+key_processes: [ [[medieval-monastic-revival]], [[gregorian-reform]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, organization, high-middle-ages, western-europe, mediterranean]

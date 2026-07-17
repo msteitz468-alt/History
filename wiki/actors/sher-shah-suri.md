@@ -8,7 +8,7 @@ region: [south-asia, india]
 affiliated_with: [the Sur (Afghan) dynasty, the Afghan nobility of north India]
 opposed_by: [the [[mughal-empire|Mughals]] (Humayun), the Rajputs, rival Afghan chiefs]
 key_events: ["the defeat of Humayun at Chausa (1539) and Kanauj (1540)", "the establishment of the Sur empire (1540–45)", "the land-revenue and administrative reforms", "death at Kalinjar (1545)"]
-key_processes: [[[state-formation]], [[indian-feudalism|land-revenue administration]]]
+key_processes: [ [[state-formation]], [[indian-feudalism|land-revenue administration]]]
 sources_ingested: 1
 last_updated: 2026-06-14
 tags: [actor, person, early-modern, south-asia]

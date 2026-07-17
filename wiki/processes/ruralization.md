@@ -6,7 +6,7 @@ date_precision: century
 period: [Chalcolithic, Early Bronze Age, Classical Antiquity, Late Antiquity]
 region: [mesopotamia, mesoamerica, andes, near-east]
 process_type: economic
-driven_by: [[[urbanization]], surplus mobilization, central-place organization]
+driven_by: [ [[urbanization]], surplus mobilization, central-place organization]
 produces: [hinterlands, urban neighborhoods, restructured countryside, rural-urban inequality]
 sources_ingested: 1
 last_updated: 2026-06-10

@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [near-east, north-africa, mediterranean-world]
 location: [Eleusis, a suburb of Alexandria, Egypt]
-actors_primary: [[[roman-republic]], [[antiochus-iv-epiphanes]], C. Popillius Laenas]
-actors_secondary: [[[ptolemaic-egypt]]]
+actors_primary: [ [[roman-republic]], [[antiochus-iv-epiphanes]], C. Popillius Laenas]
+actors_secondary: [ [[ptolemaic-egypt]]]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational

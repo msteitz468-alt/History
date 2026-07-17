@@ -5,7 +5,7 @@ date_start: 1239 (born)
 date_end: 1307 (died, Burgh by Sands)
 period: [High Middle Ages]
 region: [british-isles, western-europe]
-affiliated_with: [[[angevin-empire|the Plantagenet dynasty]], the Italian Ricciardi bankers, the gentry in parliament]
+affiliated_with: [ [[angevin-empire|the Plantagenet dynasty]], the Italian Ricciardi bankers, the gentry in parliament]
 opposed_by: [Llywelyn ap Gruffudd of Gwynedd, John Balliol and the Scots, [[philip-iv-capetian|Philip IV of France]]]
 key_events: [the conquest of Wales (1277, 1282–1283), the expulsion of the Jews (1290), the invasion of Scotland (1296), the battles of Dunbar (1296) and Falkirk (1298)]
 key_processes: [the consolidation of the late-medieval English state, the establishment of the Commons in [[english-parliament|parliament]], the customs and the tax-based state]

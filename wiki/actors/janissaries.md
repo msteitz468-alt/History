@@ -8,7 +8,7 @@ region: [anatolia, balkans, near-east]
 affiliated_with: [the Ottoman sultan (as his slave household, kapıkulu)]
 opposed_by: [the empire's enemies in the field; later, reforming sultans]
 key_events: ["the battle of Ankara (1402)", "the battle of Varna (1444)", "the fall of Constantinople (1453)", "the Ottoman 'military revolution' (post-1590)"]
-key_processes: [[[devshirme]], [[ottoman-empire]]]
+key_processes: [ [[devshirme]], [[ottoman-empire]]]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, military-force, early-modern, near-east, anatolia, islamic-world]

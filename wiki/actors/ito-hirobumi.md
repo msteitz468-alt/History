@@ -8,7 +8,7 @@ region: [japan, east-asia, korea]
 affiliated_with: [the Chōshū domain, the Meiji oligarchy (genrō), the imperial court, the Seiyūkai party]
 opposed_by: [Ōkuma Shigenobu & the British-model constitutionalists, the popular-rights movement, Korean nationalists]
 key_events: ["the Iwakura mission (1871–73)", "the drafting of the Meiji Constitution (1882–89)", "first prime minister of Japan (1885)", "the Sino-Japanese War settlement (1895)", "resident-general of Korea (1906–09)"]
-key_processes: [[[meiji-modernization]], [[japanese-imperialism]]]
+key_processes: [ [[meiji-modernization]], [[japanese-imperialism]]]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [actor, person, long-19th-century, japan, east-asia]

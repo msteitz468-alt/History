@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean]
 location: [Himera, on the north coast of Sicily (the plain of the Fiume Torto / Buonfornello)]
-actors_primary: [[[gelon|Gelon of Syracuse]] and Theron of Acragas, Hamilcar the Magonid and the Carthaginian army]
+actors_primary: [ [[gelon|Gelon of Syracuse]] and Theron of Acragas, Hamilcar the Magonid and the Carthaginian army]
 actors_secondary: [the exiled tyrant Terillus of Himera, Anaxilas of Rhegium, the pro-Punic Selinuntians, the Elymians]
 event_type: battle
 scale_immediate: regional

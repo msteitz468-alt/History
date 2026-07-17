@@ -5,10 +5,10 @@ date_start: 382 BCE
 date_end: 301 BCE
 period: [Classical Antiquity]
 region: [anatolia, near-east, mediterranean-world]
-affiliated_with: [[[demetrius-i-poliorcetes]], [[polyperchon]]]
-opposed_by: [[[eumenes-of-cardia]], [[ptolemy-i-soter]], [[seleucus-i-nicator]], [[lysimachus]], [[cassander]]]
-key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[siege-of-rhodes-305]]]
-key_processes: [[[hellenistic-world]], [[hellenistic-monarchy]]]
+affiliated_with: [ [[demetrius-i-poliorcetes]], [[polyperchon]]]
+opposed_by: [ [[eumenes-of-cardia]], [[ptolemy-i-soter]], [[seleucus-i-nicator]], [[lysimachus]], [[cassander]]]
+key_events: [ [[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[siege-of-rhodes-305]]]
+key_processes: [ [[hellenistic-world]], [[hellenistic-monarchy]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, anatolia]

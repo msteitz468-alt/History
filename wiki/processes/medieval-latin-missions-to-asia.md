@@ -6,7 +6,7 @@ date_precision: decade
 period: [High Middle Ages, Late Middle Ages]
 region: [central-asia, china, near-east, steppe, indian-ocean]
 process_type: [religious]
-driven_by: [[[mongol-empire|Mongol religious toleration]], "the Mendicant Orders (Franciscans & Dominicans)", the Pax Mongolica, "hopes of converting the Mongols"]
+driven_by: [ [[mongol-empire|Mongol religious toleration]], "the Mendicant Orders (Franciscans & Dominicans)", the Pax Mongolica, "hopes of converting the Mongols"]
 produces: ["the Latin archbishopric of Khanbaligh", "European knowledge of Asia (Carpini, Rubruck)", "the Catholic missions' collapse after 1368"]
 sources_ingested: 1
 last_updated: 2026-06-13

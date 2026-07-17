@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece]
 location: [Chaeronea (Boeotia)]
-actors_primary: [[[philip-ii-of-macedon|Philip II]], [[alexander-the-great|Alexander]], Macedon, [[places/athens|Athens]], Thebes]
-actors_secondary: [[[demosthenes-orator|Demosthenes]], the Theban Sacred Band, the allied Greek coalition]
+actors_primary: [ [[philip-ii-of-macedon|Philip II]], [[alexander-the-great|Alexander]], Macedon, [[places/athens|Athens]], Thebes]
+actors_secondary: [ [[demosthenes-orator|Demosthenes]], the Theban Sacred Band, the allied Greek coalition]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational

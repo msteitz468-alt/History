@@ -5,10 +5,10 @@ date_start: 1811
 date_end: ongoing
 period: [Long 19th Century, World Wars Era, Cold War]
 region: [western-europe]
-affiliated_with: [[[prussia]], German Empire, [[weimar-republic]], [[nazi-germany]], Federal Republic]
+affiliated_with: [ [[prussia]], German Empire, [[weimar-republic]], [[nazi-germany]], Federal Republic]
 opposed_by: [Allied prosecutors at Nuremberg (Krupp trial 1947–48)]
-key_events: [[[first-world-war-1914]], [[second-world-war-1939]]]
-key_processes: [[[nazi-economic-mobilization-and-rearmament-1933-1936]]]
+key_events: [ [[first-world-war-1914]], [[second-world-war-1939]]]
+key_processes: [ [[nazi-economic-mobilization-and-rearmament-1933-1936]]]
 sources_ingested: 1
 last_updated: 2026-07-02
 tags: [actor, organization, long-19th-century, world-wars-era, western-europe]

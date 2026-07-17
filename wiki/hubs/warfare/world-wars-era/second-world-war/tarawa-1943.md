@@ -1,5 +1,6 @@
 ---
 title: "Battle of Tarawa — Tactical Analysis"
+aliases: [battle-of-tarawa-1943]
 analysis_type: battle
 period: "World Wars Era"
 war: "second-world-war"

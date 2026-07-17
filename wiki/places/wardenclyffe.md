@@ -6,7 +6,7 @@ coordinates: [40.95 N, 72.89 W]
 period_active: [long-19th-century]
 controlled_by: [Nikola Tesla]
 events_here: []
-processes_here: [[[concepts/wireless-power-transmission|wireless power transmission]]]
+processes_here: [ [[concepts/wireless-power-transmission|wireless power transmission]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [place, north-america, long-19th-century, technology]

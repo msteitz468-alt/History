@@ -6,9 +6,9 @@ date_end: ~1550 BCE
 period: [Middle Bronze Age]
 region: [north-africa]
 affiliated_with: [Theban 17th Dynasty]
-opposed_by: [[[hyksos]], [[kerma-kingdom|the Kingdom of Kush]]]
+opposed_by: [ [[hyksos]], [[kerma-kingdom|the Kingdom of Kush]]]
 key_events: []
-key_processes: [[[second-intermediate-period]]]
+key_processes: [ [[second-intermediate-period]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, north-africa]

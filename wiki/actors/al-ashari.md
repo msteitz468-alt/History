@@ -5,10 +5,10 @@ date_start: 874 (born, Basra)
 date_end: 936 (died, Baghdad)
 period: [Early Middle Ages]
 region: [mesopotamia, near-east]
-affiliated_with: [[[asharism|the Ashʿarī school]], [[sunni-islam|Sunni Islam]]]
-opposed_by: [[[mutazilism|the Muʿtazila]], the Hanbalī literalists (in part)]
+affiliated_with: [ [[asharism|the Ashʿarī school]], [[sunni-islam|Sunni Islam]]]
+opposed_by: [ [[mutazilism|the Muʿtazila]], the Hanbalī literalists (in part)]
 key_events: [his break with the Muʿtazila c. 912, the systematization of Sunni kalam]
-key_processes: [[[asharism]], [[kalam]], [[sunni-internationalism]]]
+key_processes: [ [[asharism]], [[kalam]], [[sunni-internationalism]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, near-east, islamic-world]

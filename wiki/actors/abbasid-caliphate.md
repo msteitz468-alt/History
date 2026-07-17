@@ -8,7 +8,7 @@ region: [near-east, mesopotamia, iran-plateau]
 affiliated_with: [the Abbasid dynasty, the [[ulama]], the Persian administrative class]
 opposed_by: [the [[umayyad-caliphate|Umayyads]], the [[kharijites]], Shi'i movements, the Byzantines]
 key_events: [the [[abbasid-revolution-750|Abbasid Revolution 750]], the founding of [[baghdad|Baghdad]] 762, the translation movement, the mihna, the rise of the Buyids 945]
-key_processes: [[[islamicate|Islamicate civilization]], [[the-translation-movement]], [[sharia|the elaboration of Islamic law]]]
+key_processes: [ [[islamicate|Islamicate civilization]], [[the-translation-movement]], [[sharia|the elaboration of Islamic law]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, state, early-middle-ages, high-middle-ages, near-east, mesopotamia, islamic-world]

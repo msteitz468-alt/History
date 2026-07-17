@@ -5,9 +5,9 @@ date_start: c. 212 BCE
 date_end: c. 166 BCE
 period: [Classical Antiquity]
 region: [balkans, mediterranean-world]
-affiliated_with: [[[antigonid-dynasty]], Macedon]
-opposed_by: [[[roman-republic]], [[pergamon|Eumenes II]]]
-key_events: [[[third-macedonian-war-171-168bce]], Pydna (168)]
+affiliated_with: [ [[antigonid-dynasty]], Macedon]
+opposed_by: [ [[roman-republic]], [[pergamon|Eumenes II]]]
+key_events: [ [[third-macedonian-war-171-168bce]], Pydna (168)]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11

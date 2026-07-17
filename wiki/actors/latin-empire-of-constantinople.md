@@ -5,8 +5,8 @@ date_start: 1204 (the Fourth Crusade's conquest)
 date_end: 1261 (Byzantine recovery of Constantinople); Frankish Greek states persisted longer
 period: [High Middle Ages]
 region: [balkans, mediterranean, anatolia]
-affiliated_with: [[[republic-of-venice|Venice]], the papacy, [[charles-of-anjou|Charles of Anjou]] (after 1267)]
-opposed_by: [[[empire-of-nicaea|the empire of Nicaea]], the despotate of Epiros, the Vlacho-Bulgarian kingdom]
+affiliated_with: [ [[republic-of-venice|Venice]], the papacy, [[charles-of-anjou|Charles of Anjou]] (after 1267)]
+opposed_by: [ [[empire-of-nicaea|the empire of Nicaea]], the despotate of Epiros, the Vlacho-Bulgarian kingdom]
 key_events: [the [[fourth-crusade-1204|Fourth Crusade]] (1204), the battle of Adrianople (1205), the recovery of Constantinople (1261)]
 key_processes: [the feudalisation and Latinisation of Byzantine lands, the integration of the Black Sea into Mediterranean trade]
 sources_ingested: 1

@@ -49,6 +49,10 @@ executed in reprisal for **Tarleton's "massacre" at the Waxhaws**.
 - `contributed_to:` the momentum [[greene-nathanael|Greene]] would exploit at
   [[battle-of-cowpens-1781|Cowpens]].
 
+## Historiography
+
+As an almost entirely American civil-war engagement (Loyalist militia against Patriot militia, with no regular troops present), the battle is documented mainly through participant reminiscences and pension depositions collected decades later, which historians treat cautiously for embellishment and hindsight. It figures centrally in the historiography of the Revolution as civil war in the Carolina backcountry, and in debates over reprisal violence — the killing of surrendering Loyalists and the subsequent execution of captured Loyalist officers (tied to Tarleton's "quarter" at the Waxhaws) are cited on both sides of arguments about which side's brutality "started" the escalation. Recent scholarship increasingly treats the southern campaign's civil-war violence as a distinct historiographical strand from the conventional Continental–British narrative.
+
 ## Related
 
 - `preceded_by:` [[battle-of-camden-1780]] · `followed_by:` [[battle-of-cowpens-1781]]

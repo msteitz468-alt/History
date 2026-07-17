@@ -1,5 +1,6 @@
 ---
 title: Islamic conquests (seventh–eighth centuries)
+aliases: [arab-conquests]
 date_start: 632 CE
 date_end: c. 750 CE
 date_precision: decade

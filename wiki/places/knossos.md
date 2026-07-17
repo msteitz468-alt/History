@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: Knossos, near Heraklion, Crete, Greece
 coordinates: ~35.30°N, 25.16°E
 period_active: [Neolithic, Early Bronze Age, Middle Bronze Age, Late Bronze Age]
-controlled_by: [[[minoan-civilization|Minoan rulers]], [[mycenaean-civilization|Mycenaean Greeks]] (from ~1450 BCE)]
+controlled_by: [ [[minoan-civilization|Minoan rulers]], [[mycenaean-civilization|Mycenaean Greeks]] (from ~1450 BCE)]
 events_here: [repeated earthquake destructions & rebuildings, the Mycenaean takeover (~1450 BCE), the final destruction (~1380 BCE)]
-processes_here: [[[minoan-civilization]], [[trade-network-formation]]]
+processes_here: [ [[minoan-civilization]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, aegean, mediterranean, middle-bronze-age, late-bronze-age]

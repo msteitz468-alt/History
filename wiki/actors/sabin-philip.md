@@ -37,6 +37,6 @@ Key quote grounding the project:
 ## Related
 
 - Primary source: [[sources/sabin-lost-battles-2009]]
-- Enriches multiple battle analyses in [[hubs/warfare/classical-antiquity/]] (Cannae, Trebia, Zama, Gaugamela, Pharsalus, etc.)
+- Enriches multiple battle analyses in hubs/warfare/classical-antiquity/ (Cannae, Trebia, Zama, Gaugamela, Pharsalus, etc.)
 - Cross-references: Goldsworthy works, Lazenby, Hanson, Engels, Delbrück, wargaming methods in military history.
 - Complements the high-resolution tactical analysis standard in the warfare hub.

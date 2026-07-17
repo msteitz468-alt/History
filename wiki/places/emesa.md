@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Homs, Syria]
 coordinates: [34.7324, 36.7137]
 period_active: [classical-antiquity, late-antiquity]
-controlled_by: [[[emesene-dynasty]], [[roman-syria]]]
+controlled_by: [ [[emesene-dynasty]], [[roman-syria]]]
 events_here: []
-processes_here: [[[orientalization-of-rome]]]
+processes_here: [ [[orientalization-of-rome]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [place, near-east, levant, classical-antiquity, late-antiquity]

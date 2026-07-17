@@ -6,12 +6,12 @@ date_precision: year
 period: [Early Middle Ages]
 region: [western-europe, northern-europe]
 location: [Saxony (between the Rhine/Weser and the Elbe)]
-actors_primary: [[[charlemagne]], [[widukind]], the Saxon peoples (Westphalians, Angrarians, Eastphalians)]
-actors_secondary: [[[carolingian-empire]], the Frankish church]
+actors_primary: [ [[charlemagne]], [[widukind]], the Saxon peoples (Westphalians, Angrarians, Eastphalians)]
+actors_secondary: [ [[carolingian-empire]], the Frankish church]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[charlemagne|Frankish expansionism]], frontier raiding, religious ideology of forced conversion, pagan Saxon resistance to Christianisation]
+causes: [ [[charlemagne|Frankish expansionism]], frontier raiding, religious ideology of forced conversion, pagan Saxon resistance to Christianisation]
 consequences: [incorporation of Saxony into the Frankish realm, forced Christianisation, mass deportation of Saxon elites, eastward extension of Latin Christendom]
 sources_ingested: 1
 last_updated: 2026-06-27

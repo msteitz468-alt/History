@@ -5,10 +5,10 @@ date_start: c. 350 BCE
 date_end: c. 250 BCE
 period: [Classical Antiquity]
 region: [mediterranean-world, anatolia, balkans]
-affiliated_with: [[[eumenes-of-cardia]], [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]]]
+affiliated_with: [ [[eumenes-of-cardia]], [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]]]
 opposed_by: []
-key_events: [[[wars-of-the-diadochi-323]]]
-key_processes: [[[hellenistic-historiography]]]
+key_events: [ [[wars-of-the-diadochi-323]]]
+key_processes: [ [[hellenistic-historiography]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity]

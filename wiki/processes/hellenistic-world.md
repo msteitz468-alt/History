@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Classical Antiquity]
 region: [mediterranean-world, balkans, anatolia, near-east, levant, mesopotamia, egypt, iran-plateau, central-asia, south-asia]
 process_type: [political, cultural, economic, ideological]
-driven_by: [[[alexander-the-great]], [[wars-of-the-diadochi-323]], [[hellenistic-monarchy]]]
-produces: [[[hellenistic-monarchy]], [[ruler-cult]], [[koine-greek]], [[alexandria]]]
+driven_by: [ [[alexander-the-great]], [[wars-of-the-diadochi-323]], [[hellenistic-monarchy]]]
+produces: [ [[hellenistic-monarchy]], [[ruler-cult]], [[koine-greek]], [[alexandria]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [process, classical-antiquity, mediterranean-world, greece]

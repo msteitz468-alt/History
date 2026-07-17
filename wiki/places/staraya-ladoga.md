@@ -54,7 +54,7 @@ Staraya Ladoga is best understood as a trade and manufacturing town, one link in
 
 **concurrent_with:** other Baltic emporia (Birka, Hedeby, Ribe, Kaupang, Wolin, Paviken).
 
-**See also:** [[early-middle-ages]], [[russia-ukraine-early-middle-ages]], [[rus]], [[kievan-rus]].
+**See also:** [[early-middle-ages]], russia ukraine early middle ages, rus, [[kievan-rus]].
 
 Grounded exclusively in Bogucki & Crabtree (eds.) 2004 range 07 cache (Russia/Ukraine entry + Staraya Ladoga feature by Rae Ostman). Links to pre-established or exclusively owned titles.
 

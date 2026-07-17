@@ -6,7 +6,7 @@ date_end: 431 BCE (Athenian expulsion of the Aeginetans)
 period: [Archaic Period, Classical Antiquity]
 region: [central-greece, mediterranean]
 affiliated_with: [at times Argos, the founding consortium of Naucratis, ambiguously the [[peloponnesian-league|Peloponnesian League]]]
-opposed_by: [[[athens|Athens]] (the "war without heralds"), at times Samos, Persia only late]
+opposed_by: [ [[athens|Athens]] (the "war without heralds"), at times Samos, Persia only late]
 key_events: [the founding of Naucratis, the seizure of Cydonia in Crete (c. 519), the "unheralded war" with Athens (late 490s), the medism of 491, the aristeia at Salamis (480)]
 key_processes: [long-distance maritime trade, coinage (the "tortoise" stater and the Aeginetic standard), Greek commerce with Etruria and Egypt]
 sources_ingested: 1

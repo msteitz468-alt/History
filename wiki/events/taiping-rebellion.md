@@ -83,6 +83,10 @@ nineteenth-century dislocation had shaken Chinese society, and a foreshadowing o
 **revolutionary upheavals** (anti-Manchu, anti-Confucian, socially radical) that would
 culminate in the twentieth century. Spence treats it as a key episode in China's "search."
 
+## Historiography
+
+Spence's account (and his dedicated study *God's Chinese Son*) draws on Taiping religious tracts and proclamations, Qing official reports, and the records and memoirs of the provincial commanders (notably Zeng Guofan) who suppressed the rebellion, alongside Western missionary and diplomatic observers who had direct contact with the Taiping capital at Nanjing. Mortality estimates for the rebellion vary enormously across sources — figures from 20 to 30 million or more appear in the literature — reflecting the near-impossibility of reconstructing population loss across a war zone the size of the Yangzi valley using incomplete Qing census data. Historiographical debate concerns how to classify the movement: as a millenarian religious uprising, a proto-nationalist ethnic revolt (Hakka marginalization), a social-revolutionary movement (given its radical property and gender policies), or some combination — with Chinese Communist historiography historically emphasizing the Taiping's social radicalism as a precursor to twentieth-century revolution, a reading Western scholarship treats more cautiously.
+
 ## Related
 
 - [[qing-dynasty]] — the dynasty it nearly toppled; [[opium-wars]] — the crisis that bred it.

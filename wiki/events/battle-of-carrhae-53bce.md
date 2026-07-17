@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [near-east, mesopotamia]
 location: [Carrhae (Harran), northern Mesopotamia]
-actors_primary: [[[crassus]], the Roman army; the Parthians under the Surenas]
+actors_primary: [ [[crassus]], the Roman army; the Parthians under the Surenas]
 actors_secondary: [Publius Crassus, Orodes II, Abgar of Osrhoene, Artavasdes of Armenia]
 event_type: battle
 scale_immediate: regional

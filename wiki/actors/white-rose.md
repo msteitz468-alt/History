@@ -6,8 +6,8 @@ date_end: 1944
 period: [World Wars Era]
 region: [central-europe]
 affiliated_with: [Munich University students and faculty, the German youth-movement milieu, [[german-resistance-to-nazism]]]
-opposed_by: [[[nazi-germany]], the Gestapo, the People's Court]
-key_events: [[[the-holocaust]] (denounced in their leaflets), [[battle-of-stalingrad-1942]] (trigger of the graffiti campaign)]
+opposed_by: [ [[nazi-germany]], the Gestapo, the People's Court]
+key_events: [ [[the-holocaust]] (denounced in their leaflets), [[battle-of-stalingrad-1942]] (trigger of the graffiti campaign)]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-07-02

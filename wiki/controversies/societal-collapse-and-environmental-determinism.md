@@ -111,7 +111,7 @@ agency, the patchiness of the synchronism). CAH (1971) predates the thesis entir
 
 ## A Third Position — Collapse as Rational Economizing (Tainter)
 
-[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] introduce a further,
+Fagan & Durrani (2020) introduce a further,
 partly orthogonal account: **Joseph Tainter's** collapse-as-rational-process
 thesis. On this view, growing complexity is initially a successful, low-cost
 strategy for solving problems — agricultural intensification, bureaucracy, and

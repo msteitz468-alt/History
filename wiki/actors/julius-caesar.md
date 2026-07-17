@@ -8,7 +8,7 @@ region: [italy, mediterranean-world, western-europe]
 affiliated_with: [the populares; the Marian connection; the First Triumvirate]
 opposed_by: [Cato and the optimates (the *factio*); Bibulus; ultimately Pompey]
 key_events: [the consulship of 59, the [[first-triumvirate]], the [[caesar-gallic-war-58-50bce|conquest of Gaul]], the [[roman-civil-war-49-45bce|civil war]] (49–45), the [[caesars-dictatorship|dictatorship]], the [[julius-caesar-assassination-44bce|Ides of March]] (44)]
-key_processes: [[[optimates-populares]], the fall of the Republic]
+key_processes: [ [[optimates-populares]], the fall of the Republic]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]

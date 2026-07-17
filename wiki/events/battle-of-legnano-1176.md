@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [mediterranean]
 location: [Legnano, near Milan, Lombardy]
-actors_primary: [[[lombard-league|the Lombard League]], [[frederick-i-barbarossa|Frederick Barbarossa]]]
+actors_primary: [ [[lombard-league|the Lombard League]], [[frederick-i-barbarossa|Frederick Barbarossa]]]
 actors_secondary: ["the Milanese militia", "the Company of Death", "the imperial knights"]
 event_type: battle
 scale_immediate: regional
@@ -52,6 +52,10 @@ overlordship.
 failure of the medieval empire to dominate Italy.
 `produced:` an enduring symbol of **civic liberty** against imperial power (later
 mythologised in Italian national memory).
+
+## Historiography
+
+Near-contemporary narrative detail is sparse: brief notices in imperial-aligned chronicles (echoes of the lost or fragmentary German annalistic tradition around Frederick's Italian campaigns) can be set against Lombard communal memory, which magnified the battle over the following centuries into a foundational civic myth. Precise details often repeated as fact — the exact size and composition of the "Company of Death," the degree to which Barbarossa was believed dead, and the tactical role of the *carroccio* — rest on thin and later-elaborated sources rather than a single reliable eyewitness account. The battle's modern prominence owes much to nineteenth-century Italian Risorgimento historiography and nationalist commemoration (including its adoption as a symbol of Italian unification), which read back into 1176 a proto-national resistance to foreign domination that medieval communal particularism does not fully support. Modern scholarship (as synthesized in NCMH IV) treats the battle's strategic significance — the exhaustion of Barbarossa's Italian ambitions — as more secure than its tactical details.
 
 ## Related
 

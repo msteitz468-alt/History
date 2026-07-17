@@ -4,7 +4,7 @@ place_type: city
 modern_equivalent: [Al-Jazira, Nineveh Governorate, Iraq]
 coordinates: [35.58 N, 42.72 E]
 period_active: [classical-antiquity, late-antiquity]
-controlled_by: [[[parthian-empire]], [[sasanian-empire]]]
+controlled_by: [ [[parthian-empire]], [[sasanian-empire]]]
 events_here: []
 processes_here: []
 sources_ingested: 1

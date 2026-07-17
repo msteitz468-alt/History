@@ -56,7 +56,7 @@ Demosthenes exemplified the post-Periclean willingness to take risks for decisiv
 - Collaborator: Eurymedon (relief command); Hippocrates (earlier, see Delium)
 - Opponents: [[places/sparta]], Syracuse
 - Cities: [[places/athens]], [[places/sparta]], [[places/syracuse]]
-- Battles: night attack on Epipolae, Great Harbor naval battles, Assinarus (see [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/tactics-and-battle-strategies]])
+- Battles: night attack on Epipolae, Great Harbor naval battles, Assinarus (see hubs/warfare/classical-antiquity/, [[hubs/warfare/tactics-and-battle-strategies]])
 - Strategy: [[hubs/warfare/strategy]]
 - Source: [[actors/kagan-donald|Kagan, *The Peloponnesian War* (range 21001-25000)]]
 - Cross: [[concepts/hanson-peloponnesian-fighting]], [[sources/hanson-a-war-like-no-other-2005]]

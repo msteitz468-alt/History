@@ -6,7 +6,7 @@ date_precision: disputed
 period: [Classical Antiquity]
 region: [aegean, anatolia, near-east]
 location: [Susa]
-actors_primary: [[[places/athens|Athens]], [[delian-league|the Delian League]], [[achaemenid-empire|Achaemenid Persia]]]
+actors_primary: [ [[places/athens|Athens]], [[delian-league|the Delian League]], [[achaemenid-empire|Achaemenid Persia]]]
 actors_secondary: [Callias son of Hipponicus, Artaxerxes I, [[cimon]]]
 event_type: treaty
 scale_immediate: regional

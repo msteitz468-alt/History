@@ -5,8 +5,8 @@ date_start: 1207 (born)
 date_end: 1272 (died, Westminster)
 period: [High Middle Ages]
 region: [british-isles, western-europe]
-affiliated_with: [[[angevin-empire|the Plantagenet dynasty]], the papacy, the cult of Edward the Confessor]
-opposed_by: [[[simon-de-montfort|Simon de Montfort]] and the reforming barons (1258–1265), the discontented gentry and Church]
+affiliated_with: [ [[angevin-empire|the Plantagenet dynasty]], the papacy, the cult of Edward the Confessor]
+opposed_by: [ [[simon-de-montfort|Simon de Montfort]] and the reforming barons (1258–1265), the discontented gentry and Church]
 key_events: [the reissues of [[magna-carta-1215|Magna Carta]], the Treaty of Paris (1259), the Provisions of Oxford (1258), the battles of Lewes (1264) and Evesham (1265)]
 key_processes: [the rooting of Magna Carta, the emergence of [[english-parliament|parliament]]]
 sources_ingested: 1

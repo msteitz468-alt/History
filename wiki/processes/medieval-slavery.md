@@ -94,7 +94,7 @@ Mesoamerican and other societies).
 
 Medieval slavery is entangled with [[trans-saharan-trade]], [[indian-ocean-trade]], the
 [[mongol-empire]], the rise of [[feudalism|serfdom]], and the religious geography of
-[[spread-of-islam|Islam]] and Latin Christendom. Crucially, it forms the **bridge** between
+Islam and Latin Christendom. Crucially, it forms the **bridge** between
 [[slavery|ancient slavery]] and the [[atlantic-slave-trade|Atlantic system]]: the legal
 categories, the Mediterranean sugar-and-slave plantations of Cyprus, Crete, and the Atlantic
 islands, and the Iberian slaving experience were all inherited directly by the New World.

@@ -1,5 +1,6 @@
 ---
 title: "Battle of Leyte Gulf — Tactical Analysis"
+aliases: [leyte-gulf-1944]
 analysis_type: campaign
 period: "World Wars Era"
 war: "second-world-war"

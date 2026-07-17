@@ -5,10 +5,10 @@ date_start: ~2600 BCE
 date_end: ~2000 BCE
 period: [Neolithic, Chalcolithic]
 region: [china, east-asia]
-affiliated_with: [[[yellow-river-valley]], [[central-plains-china]], [[yangshao-culture]], [[dawenkou-culture]]]
+affiliated_with: [ [[yellow-river-valley]], [[central-plains-china]], [[yangshao-culture]], [[dawenkou-culture]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[early-china-state-formation]], [[early-agriculture-china]], [[settlement-archaeology]]]
+key_processes: [ [[early-china-state-formation]], [[early-agriculture-china]], [[settlement-archaeology]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [actor, movement, neolithic, chalcolithic, china, east-asia]

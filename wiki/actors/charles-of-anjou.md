@@ -5,8 +5,8 @@ date_start: 1226 (born)
 date_end: 1285 (died, Foggia)
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[capetian-dynasty|the Capetian dynasty]] (brother of [[louis-ix-capetian|Louis IX]]), the papacy, the [[kingdom-of-sicily|kingdom of Sicily]], the county of Provence]
-opposed_by: [[[frederick-ii-hohenstaufen|the Hohenstaufen]] (Manfred, Conradin), Peter III of Aragon, the Sicilian rebels of 1282]
+affiliated_with: [ [[capetian-dynasty|the Capetian dynasty]] (brother of [[louis-ix-capetian|Louis IX]]), the papacy, the [[kingdom-of-sicily|kingdom of Sicily]], the county of Provence]
+opposed_by: [ [[frederick-ii-hohenstaufen|the Hohenstaufen]] (Manfred, Conradin), Peter III of Aragon, the Sicilian rebels of 1282]
 key_events: [the marriage to Beatrice of Provence (1246), the conquest of Sicily (1266), [[sicilian-vespers-1282|the Sicilian Vespers (1282)]]]
 key_processes: [the Angevin displacement of the Hohenstaufen, the drawing of Provence into a Mediterranean state]
 sources_ingested: 2

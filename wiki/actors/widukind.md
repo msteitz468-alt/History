@@ -6,8 +6,8 @@ date_end: after 785 CE
 period: [Early Middle Ages]
 region: [western-europe, northern-europe]
 affiliated_with: [the Westphalian Saxons]
-opposed_by: [[[charlemagne]], the Frankish kingdom]
-key_events: [[[saxon-wars-772-804|Saxon wars]], baptism at Attigny 785]
+opposed_by: [ [[charlemagne]], the Frankish kingdom]
+key_events: [ [[saxon-wars-772-804|Saxon wars]], baptism at Attigny 785]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-27

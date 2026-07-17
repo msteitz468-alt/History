@@ -67,4 +67,4 @@ The distinction has roots in earlier work (e.g., on Greek poleis vs. empires) bu
 
 **Primary source:** [[sources/trigger-understanding-early-civilizations-2003|Trigger, *Understanding Early Civilizations* (2003)]]
 
-See also: [[concepts/early-civilization]], [[concepts/kingship]], [[concepts/administration]]
+See also: [[concepts/early-civilization]], concepts/kingship, concepts/administration

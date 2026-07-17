@@ -6,7 +6,7 @@ coordinates: [38.48 N, 22.50 E]
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [the sanctuary community of Delphi (in Phocis), then the Amphictyonic Council after the First Sacred War]
 events_here: [the blossoming of the oracle (~750), the First Sacred War and destruction of Crisa (~595–590), the Amphictyony's takeover, the rebuilding of the temple after the fire of 548]
-processes_here: [[[greek-colonization|Greek colonization]] (oracular sanction), Archaic political revolution, the panhellenic sanctuary]
+processes_here: [ [[greek-colonization|Greek colonization]] (oracular sanction), Archaic political revolution, the panhellenic sanctuary]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, central-greece, mediterranean, archaic-period, greece]

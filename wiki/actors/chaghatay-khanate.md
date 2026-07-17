@@ -1,5 +1,6 @@
 ---
 title: Chaghatay Khanate
+aliases: [chaghatayid-khanate]
 actor_type: state
 date_start: "1227"
 date_end: "1370"

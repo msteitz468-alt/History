@@ -7,8 +7,8 @@ period_coverage: ["Early Bronze Age", "Middle Bronze Age", "Late Bronze Age", "B
 region_coverage: ["mesopotamia", "levant", "north-africa", "anatolia", "mediterranean", "mediterranean-world", "near-east", "iran-plateau"]
 methodological_approach: "narrative"
 reliability_notes: "Authoritative single-author synthesis; the standard one-volume survey of the ancient Mediterranean (Oxford, foreword by Oswyn Murray). Textbook-level: current with scholarship to 2014, judicious on controversies, strong on cultural/social/art history, but synthetic rather than a source of primary research. Draws on and steers between specialist consensus; not a place for cutting-edge revisionism. Use as a backbone/citation for orientation and cultural history; defer to specialist monographs and Cambridge volumes on contested points."
-pages_created: 0
-pages_updated: 0
+pages_created: 7
+pages_updated: 43
 ingested: 2026-07-08
 tags: [source]
 ---

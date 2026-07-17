@@ -6,8 +6,8 @@ date_precision: disputed
 period: [Archaic Period]
 region: [italy, rome]
 location: [Palatine Hill, Rome]
-actors_primary: [[[actors/romulus]]]
-actors_secondary: [[[actors/roman-kingdom]]]
+actors_primary: [ [[actors/romulus]]]
+actors_secondary: [ [[actors/roman-kingdom]]]
 event_type: political
 scale_immediate: local
 scale_consequential: civilizational

@@ -5,10 +5,10 @@ date_start: c. 570
 date_end: "602 (disputed, possibly as late as 606)"
 period: [late-antiquity]
 region: [mesopotamia, arabian-peninsula]
-affiliated_with: [[[sasanian-empire]], [[lakhmids]]]
-opposed_by: [[[sasanian-empire]]]
+affiliated_with: [ [[sasanian-empire]], [[lakhmids]]]
+opposed_by: [ [[sasanian-empire]]]
 key_events: []
-key_processes: [[[super-phylarchate]]]
+key_processes: [ [[super-phylarchate]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, mesopotamia, arabian-peninsula]

@@ -7,7 +7,7 @@ period: [World Wars Era]
 region: [eastern-europe]
 location: [Katyn Forest near Smolensk; also Kalinin (Tver) and Kharkov NKVD sites]
 actors_primary: [the NKVD, the Soviet Union, Polish officer POWs]
-actors_secondary: [[[nazi-germany]] (discovered and publicized the graves, 1943), the Polish government-in-exile]
+actors_secondary: [ [[nazi-germany]] (discovered and publicized the graves, 1943), the Polish government-in-exile]
 event_type: political
 scale_immediate: regional
 scale_consequential: regional

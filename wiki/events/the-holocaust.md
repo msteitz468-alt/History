@@ -1,5 +1,6 @@
 ---
 title: The Holocaust (1933–1945)
+aliases: [final-solution, holocaust]
 date_start: 1933
 date_end: 1945
 date_precision: year

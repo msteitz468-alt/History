@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Hillah, Babil Governorate, Iraq (~85 km south of Baghdad)]
 coordinates: [32.54 N, 44.42 E]
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Iron Age, Archaic Period, Classical Antiquity, Late Antiquity]
-controlled_by: [[[babylonia-iron-age|Babylonian dynasties]], [[neo-assyrian-empire|Assyria]], the [[neo-babylonian-empire|Neo-Babylonian Empire]], [[achaemenid-empire|Persia]], Macedon (Alexander), the Seleucids]
+controlled_by: [ [[babylonia-iron-age|Babylonian dynasties]], [[neo-assyrian-empire|Assyria]], the [[neo-babylonian-empire|Neo-Babylonian Empire]], [[achaemenid-empire|Persia]], Macedon (Alexander), the Seleucids]
 events_here: [the rebuilding by [[nebuchadnezzar-ii|Nebuchadnezzar II]], [[sennacherib|Sennacherib's]] destruction (689), [[fall-of-babylon-539bce|fall to Cyrus 539]], the death of Alexander (323)]
-processes_here: [[[empire]], the [[neo-babylonian-civilization|flowering of Babylonian science and literature]], the [[wars-of-the-diadochi-323|wars of the Successors]]]
+processes_here: [ [[empire]], the [[neo-babylonian-civilization|flowering of Babylonian science and literature]], the [[wars-of-the-diadochi-323|wars of the Successors]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mesopotamia, near-east, archaic-period]

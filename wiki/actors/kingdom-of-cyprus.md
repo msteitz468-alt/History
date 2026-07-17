@@ -5,10 +5,10 @@ date_start: 1192 (Guy of Lusignan acquires the island); royal crown from 1196/97
 date_end: 1489 (Caterina Cornaro abdicates to Venice); Ottoman conquest 1571
 period: [High Middle Ages, Late Middle Ages]
 region: [cyprus, mediterranean, levant]
-affiliated_with: [[[lusignan-dynasty]], [[crusader-states]], "the Latin Church", "the military orders", [[cilician-armenian-kingdom]]]
-opposed_by: [[[mamluk-sultanate]], [[republic-of-genoa]], "later the Ottoman Empire"]
-key_events: [[[richard-conquest-of-cyprus-1191]], [[war-of-the-lombards-1228]], [[fall-of-acre-1291]], [[sack-of-alexandria-1365]], [[genoese-invasion-of-cyprus-1373]]]
-key_processes: [[[crusades]], [[armenian-latin-integration]]]
+affiliated_with: [ [[lusignan-dynasty]], [[crusader-states]], "the Latin Church", "the military orders", [[cilician-armenian-kingdom]]]
+opposed_by: [ [[mamluk-sultanate]], [[republic-of-genoa]], "later the Ottoman Empire"]
+key_events: [ [[richard-conquest-of-cyprus-1191]], [[war-of-the-lombards-1228]], [[fall-of-acre-1291]], [[sack-of-alexandria-1365]], [[genoese-invasion-of-cyprus-1373]]]
+key_processes: [ [[crusades]], [[armenian-latin-integration]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, state, high-middle-ages, late-middle-ages, cyprus, mediterranean]

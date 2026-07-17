@@ -56,7 +56,7 @@ the [[yiluo-basin|Yiluo basin]] produced [[erlitou-culture|Erlitou]].
 
 ## Fagan & Durrani (2020): Definitional Difficulty and Volatility
 
-[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] stress that "precise
+Fagan & Durrani (2020) stress that "precise
 definitions of chiefdoms... are virtually impossible to formulate" and treat
 Elman Service's typology (see [[band-tribe-chiefdom-state]]) as a loose, contested
 descriptive vocabulary rather than a settled stage in a ladder of complexity —

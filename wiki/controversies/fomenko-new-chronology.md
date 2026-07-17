@@ -1,7 +1,7 @@
 ---
 title: Fomenko New Chronology (radical revision of traditional historical chronology)
 dispute_type: periodization / source-reliability / interpretation
-period_involved: []
+period_involved: [all]
 regions_involved: [eurasia, global]
 positions: []
 resolution_status: open as discourse / resolved-by-consensus in academia

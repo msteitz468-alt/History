@@ -6,9 +6,9 @@ date_end: c. ~1500 BCE (approximate)
 date_precision: approximate
 period: [Middle Bronze Age]
 region: [anatolia, near-east]
-affiliated_with: [[[hittites|the Hittite Old Kingdom]], [[kizzuwatna|Kizzuwatna]] (treaty alliance)]
+affiliated_with: [ [[hittites|the Hittite Old Kingdom]], [[kizzuwatna|Kizzuwatna]] (treaty alliance)]
 opposed_by: [the usurper Huzziya (whom he deposed without killing), Hurrian threats in the south-east]
-key_events: [[[telipinu-edict-1500bce|the Edict of Telipinu (~1500 BCE)]], treaty with Isputahsu of [[kizzuwatna|Kizzuwatna]] (first known Hittite treaty)]
+key_events: [ [[telipinu-edict-1500bce|the Edict of Telipinu (~1500 BCE)]], treaty with Isputahsu of [[kizzuwatna|Kizzuwatna]] (first known Hittite treaty)]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-27

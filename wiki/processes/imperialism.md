@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [global]
 process_type: [political, economic, ideological]
-driven_by: [[[industrialization]], inter-state competition, [[fossil-fuel-energy-transition|new transport and military technology]], capitalist demand for raw materials and markets, ideologies of civilization and race]
+driven_by: [ [[industrialization]], inter-state competition, [[fossil-fuel-energy-transition|new transport and military technology]], capitalist demand for raw materials and markets, ideologies of civilization and race]
 produces: [the New Imperialism / scramble for Africa, colonial states, [[decolonization]], modern globalization, post-colonial inequalities]
 sources_ingested: 8
 last_updated: 2026-07-08

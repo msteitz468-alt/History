@@ -6,7 +6,7 @@ date_end: 374/373 BCE (murdered with his son Pnytagoras)
 period: [Classical Antiquity]
 region: [near-east, levant, aegean]
 affiliated_with: [Salamis (Cyprus), [[athens]], [[conon]], Acoris of Egypt]
-opposed_by: [[[achaemenid-empire|Artaxerxes II]], rival Cypriot kings (Citium, Soli, Amathus), Tiribazus, Orontes]
+opposed_by: [ [[achaemenid-empire|Artaxerxes II]], rival Cypriot kings (Citium, Soli, Amathus), Tiribazus, Orontes]
 key_events: [seizure of the throne of Salamis, the funding of Conon's fleet, the unification of Cyprus, the Cypriot War, the siege of Salamis]
 key_processes: [the Hellenization of Cyprus, satrapal/vassal revolt against Persia]
 sources_ingested: 1

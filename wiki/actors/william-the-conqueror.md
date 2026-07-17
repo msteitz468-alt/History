@@ -7,7 +7,7 @@ period: [High Middle Ages]
 region: [british-isles, western-europe]
 affiliated_with: ["the duchy of Normandy", "the kingdom of England", "the reform papacy (which backed the conquest)"]
 opposed_by: ["Harold Godwinson", "the Anglo-Saxon nobility", "the king of France and rival Norman lords"]
-key_events: [[[norman-conquest-of-england-1066]], "the Battle of Hastings (1066)", "Domesday Book (1086)"]
+key_events: [ [[norman-conquest-of-england-1066]], "the Battle of Hastings (1066)", "Domesday Book (1086)"]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-12

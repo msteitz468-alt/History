@@ -1,5 +1,6 @@
 ---
 title: The Zhou Dynasty
+aliases: [eastern-zhou]
 actor_type: dynasty
 date_start: c. 1045 BCE (King Wu conquers the Shang)
 date_end: 256 BCE (last Zhou king deposed by Qin)
@@ -8,7 +9,7 @@ region: [china, east-asia]
 affiliated_with: [the Ji royal house, regional vassal lords]
 opposed_by: [the Shang dynasty (conquered), steppe peoples, rival Warring States]
 key_events: [Zhou conquest of Shang c. 1045 BCE, sack of the western capital 771 BCE, [[warring-states-period-475-bce|Warring States era]] 475-221 BCE]
-key_processes: [[[state-formation]], [[mandate-of-heaven|Mandate of Heaven ideology]], [[confucianism]], [[axial-age]]]
+key_processes: [ [[state-formation]], [[mandate-of-heaven|Mandate of Heaven ideology]], [[confucianism]], [[axial-age]]]
 sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, dynasty, early-iron-age, archaic-period, china, east-asia]

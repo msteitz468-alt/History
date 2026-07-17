@@ -6,7 +6,7 @@ date_precision: approximate
 period: [long-19th-century, world-wars-era, cold-war, contemporary]
 region: [north-america, western-europe]
 process_type: technological
-driven_by: [[[concepts/alternating-current|polyphase AC system]], [[concepts/induction-motor|induction motor]], central power generation, [[processes/second-industrial-revolution|Second Industrial Revolution]]]
+driven_by: [ [[concepts/alternating-current|polyphase AC system]], [[concepts/induction-motor|induction motor]], central power generation, [[processes/second-industrial-revolution|Second Industrial Revolution]]]
 produces: [electric grids, electric lighting, electric motive power, modern industry and domestic life]
 sources_ingested: 1
 last_updated: 2026-06-25

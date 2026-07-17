@@ -6,8 +6,8 @@ date_precision: approximate
 dating_method: textual / synchronistic
 period: [Middle Bronze Age]
 region: [anatolia]
-location: [[[hattusha|Hattusha]]]
-actors_primary: [[[hittites|Telipinu]]]
+location: [ [[hattusha|Hattusha]]]
+actors_primary: [ [[hittites|Telipinu]]]
 actors_secondary: [the pankuš (the Hittite assembly), the royal aristocracy]
 event_type: [political]
 scale_immediate: regional

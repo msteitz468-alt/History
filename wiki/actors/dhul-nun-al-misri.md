@@ -6,10 +6,10 @@ date_end: 859 (died, Egypt)
 date_precision: approximate
 period: [Early Middle Ages]
 region: [north-africa, mesopotamia]
-affiliated_with: [[[sufism|Sufism]], [[early-sufism|formative Sufi circle]]]
+affiliated_with: [ [[sufism|Sufism]], [[early-sufism|formative Sufi circle]]]
 opposed_by: [the Muʿtazilite caliph al-Mutawakkil (briefly imprisoned)]
 key_events: [imprisonment during the Muʿtazilite persecution; formulation of the doctrine of maʿrifa]
-key_processes: [[[sufism]], [[early-sufism]]]
+key_processes: [ [[sufism]], [[early-sufism]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, north-africa, islamic-world]

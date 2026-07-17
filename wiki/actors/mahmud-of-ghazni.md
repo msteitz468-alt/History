@@ -1,5 +1,6 @@
 ---
 title: Mahmud of Ghazni
+aliases: [mahmud-of-ghazna]
 actor_type: person
 date_start: 971 CE
 date_end: 1030 CE

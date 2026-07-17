@@ -8,7 +8,7 @@ region: [italy, mediterranean-world]
 affiliated_with: [the populares; [[marius|Gaius Marius]] (as ally, 103–100); the praetor Gaius Servilius Glaucia]
 opposed_by: [the Senate optimates, Quintus Caecilius Metellus Numidicus]
 key_events: [the tribunates of 103 and 100 BCE, the veteran land laws, his death under the senatus consultum ultimum (100)]
-key_processes: [[[optimates-populares]]]
+key_processes: [ [[optimates-populares]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]

@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
 location: [Cannae, by the River Aufidus, Apulia]
-actors_primary: [[[hannibal]], [[roman-republic]]]
+actors_primary: [ [[hannibal]], [[roman-republic]]]
 actors_secondary: [L. Aemilius Paullus, C. Terentius Varro]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[second-punic-war-218-201bce]], the Roman decision to seek a decisive pitched battle after Trasimene]
+causes: [ [[second-punic-war-218-201bce]], the Roman decision to seek a decisive pitched battle after Trasimene]
 consequences: [the defection of much of southern Italy and Syracuse, the entrenchment of the [[fabian-strategy|Fabian strategy]], the survival-test of the Roman alliance system]
 sources_ingested: 4
 last_updated: 2026-07-08

@@ -5,7 +5,7 @@ date_start: c. 1150 CE
 date_end: c. 1220 CE
 period: [High Middle Ages]
 region: [denmark, scandinavia]
-affiliated_with: [[[valdemar-dynasty|Valdemarian Denmark]]; Archbishop Absalon of Lund]
+affiliated_with: [ [[valdemar-dynasty|Valdemarian Denmark]]; Archbishop Absalon of Lund]
 opposed_by: []
 key_events: []
 key_processes: []

@@ -6,9 +6,9 @@ date_end: 78 BCE
 period: [Classical Antiquity]
 region: [italy, mediterranean-world, anatolia]
 affiliated_with: [the Roman nobility; the optimates; the *Sullani*; the Metelli (by marriage)]
-opposed_by: [[[marius]], Sulpicius, Cinna, Carbo, the Marians/populares; [[mithridates-vi]]]
+opposed_by: [ [[marius]], Sulpicius, Cinna, Carbo, the Marians/populares; [[mithridates-vi]]]
 key_events: [the march on Rome (88), the [[first-mithridatic-war-89-85bce]], the [[sullan-civil-war-83-82bce]], the [[sullan-proscriptions-82bce]], the dictatorship]
-key_processes: [[[sullan-constitution]], the militarization of Roman politics]
+key_processes: [ [[sullan-constitution]], the militarization of Roman politics]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]

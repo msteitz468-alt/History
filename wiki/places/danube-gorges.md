@@ -6,7 +6,7 @@ coordinates: ~44.6° N, 22.3° E
 period_active: [Behavioral Modernity, Mesolithic, Neolithic]
 controlled_by: [autochthonous hunter-fisher-forager communities; later early farming groups]
 events_here: []
-processes_here: [[[balkans|Balkan Neolithic transition]]]
+processes_here: [ [[balkans|Balkan Neolithic transition]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, balkans, eastern-europe, mesolithic, neolithic]

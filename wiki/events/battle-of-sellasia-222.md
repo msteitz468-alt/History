@@ -1,13 +1,14 @@
 ---
 title: The Battle of Sellasia
+aliases: [battle-of-sellasia-222bce]
 date_start: 222 BCE
 date_end: 222 BCE
 date_precision: year
 period: [Classical Antiquity]
 region: [peloponnese]
 location: [Sellasia (northern Laconia)]
-actors_primary: [[[antigonus-iii-doson]], [[cleomenes-iii]]]
-actors_secondary: [[[achaean-league]], the Hellenic Symmachy]
+actors_primary: [ [[antigonus-iii-doson]], [[cleomenes-iii]]]
+actors_secondary: [ [[achaean-league]], the Hellenic Symmachy]
 event_type: battle
 scale_immediate: regional
 scale_consequential: regional

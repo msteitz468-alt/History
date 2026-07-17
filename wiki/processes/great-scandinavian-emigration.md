@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Long 19th Century]
 region: [scandinavia, north-america, norway, sweden, denmark, iceland]
 process_type: [demographic, economic]
-driven_by: [[[scandinavian-demographic-transition]]]
+driven_by: [ [[scandinavian-demographic-transition]]]
 produces: []
 sources_ingested: 1
 last_updated: 2026-06-27

@@ -7,12 +7,12 @@ dating_method: textual (Assyrian royal annals, Babylonian Chronicle)
 period: [Early Iron Age, Archaic Period]
 region: [iran-plateau, khuzistan, mesopotamia]
 location: [Susa, Elam]
-actors_primary: [[[ashurbanipal]], [[neo-assyrian-empire|Assyria]], "Huban-haltash III (Ummanaldash)", [[elam]]]
+actors_primary: [ [[ashurbanipal]], [[neo-assyrian-empire|Assyria]], "Huban-haltash III (Ummanaldash)", [[elam]]]
 actors_secondary: ["Shamash-shum-ukin", [[susa|Susa]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[elam|Elamite backing of Babylonian revolt]], "Elam's repeated intervention in Assyro-Babylonian wars", "the Shamash-shum-ukin rebellion (652–648 BCE)"]
+causes: [ [[elam|Elamite backing of Babylonian revolt]], "Elam's repeated intervention in Assyro-Babylonian wars", "the Shamash-shum-ukin rebellion (652–648 BCE)"]
 consequences: [destruction of Susa and the Elamite heartland, end of Elam as an independent great power, "the Elamite–Persian transition in highland Anshan", recovery of the Nanaya statue to Uruk]
 sources_ingested: 1
 last_updated: 2026-06-27

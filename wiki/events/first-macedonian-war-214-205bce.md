@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, mediterranean, mediterranean-world]
 location: [Illyria, western and central Greece, the Adriatic]
-actors_primary: [[[roman-republic]], [[philip-v]], the [[aetolian-league]]]
-actors_secondary: [[[hannibal]], [[pergamon|Attalus I]], Scerdilaidas, [[achaean-league]], Rome's trans-Adriatic amici]
+actors_primary: [ [[roman-republic]], [[philip-v]], the [[aetolian-league]]]
+actors_secondary: [ [[hannibal]], [[pergamon|Attalus I]], Scerdilaidas, [[achaean-league]], Rome's trans-Adriatic amici]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional

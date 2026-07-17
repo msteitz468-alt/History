@@ -5,7 +5,7 @@ date_start: c. 127 BCE
 date_end: 222 CE
 period: [classical-antiquity, late-antiquity]
 region: [mesopotamia, iran-plateau]
-affiliated_with: [[[parthian-empire]]]
+affiliated_with: [ [[parthian-empire]]]
 opposed_by: []
 key_events: []
 key_processes: []

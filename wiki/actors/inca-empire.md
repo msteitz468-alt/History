@@ -8,7 +8,7 @@ region: [andes]
 affiliated_with: ["the Inca of Cuzco", "the Sun cult (Inti)", [[tiwanaku|Tiwanaku's]] sacred legacy]
 opposed_by: ["the Chanca confederation", "the Chimú", "the Spanish"]
 key_events: ["the Chanca war and Pachacuti's accession (1438)", "the expansion into the four suyos", "the Spanish conquest (1532–1533)"]
-key_processes: [[[andean-state-formation]], [[state-formation]], [[empire]]]
+key_processes: [ [[andean-state-formation]], [[state-formation]], [[empire]]]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, empire, late-middle-ages, andes]

@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Archaic Period, Classical Antiquity]
 region: [iran-plateau, mesopotamia, near-east, anatolia, levant, north-africa, central-asia]
 process_type: economic
-driven_by: [[[achaemenid-empire|Achaemenid imperial conquest]], [[darius-i|Darius I's]] fiscal reorganization]
-produces: [[[achaemenid-kings-men|the royal gift economy]], imperial road and warehouse infrastructure, [[persepolis|the Persepolis archives]]]
+driven_by: [ [[achaemenid-empire|Achaemenid imperial conquest]], [[darius-i|Darius I's]] fiscal reorganization]
+produces: [ [[achaemenid-kings-men|the royal gift economy]], imperial road and warehouse infrastructure, [[persepolis|the Persepolis archives]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, classical-antiquity, near-east]

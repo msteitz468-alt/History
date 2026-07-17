@@ -5,8 +5,8 @@ modern_equivalent: [the Arab world, Turkey, Iran; in 1750 including Ottoman sout
 coordinates: ~30°N 40°E (approximate regional center)
 period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: [Ottoman Empire, Qajar/Pahlavi Iran, Alawi Morocco, European mandates (Britain, France), independent nation states]
-events_here: [[[smallpox-eradication]] (variolation roots), the Eastern Question, the post-WWI mandates, the 1948 creation of Israel, the 1951–53 Iranian oil crisis, the 2011 Arab Spring]
-processes_here: [[[self-strengthening]] (Tanzimat), [[nationalism]], [[decolonization]], [[industrialization]], the global resurgence of religion]
+events_here: [ [[smallpox-eradication]] (variolation roots), the Eastern Question, the post-WWI mandates, the 1948 creation of Israel, the 1951–53 Iranian oil crisis, the 2011 Arab Spring]
+processes_here: [ [[self-strengthening]] (Tanzimat), [[nationalism]], [[decolonization]], [[industrialization]], the global resurgence of religion]
 sources_ingested: 2
 last_updated: 2026-06-10
 tags: [place, near-east, long-19th-century]

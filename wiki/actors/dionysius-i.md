@@ -6,9 +6,9 @@ date_end: 367 BCE (died at Syracuse)
 period: [Classical Antiquity]
 region: [italy, mediterranean]
 affiliated_with: [Syracuse, Sparta, Locri, Philistus (his historian), mercenary armies]
-opposed_by: [[[carthage]], Rhegium and the Italiote Greeks, rival Sicilian cities, internal opposition]
+opposed_by: [ [[carthage]], Rhegium and the Italiote Greeks, rival Sicilian cities, internal opposition]
 key_events: [seizure of power at Syracuse 405 BCE, the wars against Carthage, the destruction of Motya 396 BCE, the sack of Rhegium 387 BCE]
-key_processes: [[[western-greek-tyranny]], the rise of territorial monarchy, military and technological innovation]
+key_processes: [ [[western-greek-tyranny]], the rise of territorial monarchy, military and technological innovation]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, italy]

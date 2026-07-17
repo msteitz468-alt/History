@@ -8,12 +8,12 @@ period: [High Middle Ages]
 region: [cyprus, mediterranean]
 location: [cyprus, Limassol, Nicosia, Kyrenia, Famagusta]
 actors_primary: ["Richard I of England", "Isaac Komnenos (Byzantine usurper of Cyprus)"]
-actors_secondary: [[[guy-of-lusignan]], "the Templars", [[crusader-states]], "Philip II of France"]
+actors_secondary: [ [[guy-of-lusignan]], "the Templars", [[crusader-states]], "Philip II of France"]
 event_type: conquest
 scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Third Crusade logistics and storm-driven diversion to Cyprus", "Isaac Komnenos's hostile treatment of shipwrecked crusaders and of Joanna and Berengaria", "Cyprus as a wealthy Byzantine province useful as a supply base"]
-consequences: [[[kingdom-of-cyprus|Latin kingdom of Cyprus]], "sale to the Templars then to Guy of Lusignan (1192)", "precedent for Latin seizure of Christian Byzantine territory (cf. Fourth Crusade 1204)"]
+consequences: [ [[kingdom-of-cyprus|Latin kingdom of Cyprus]], "sale to the Templars then to Guy of Lusignan (1192)", "precedent for Latin seizure of Christian Byzantine territory (cf. Fourth Crusade 1204)"]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [event, high-middle-ages, cyprus, mediterranean]

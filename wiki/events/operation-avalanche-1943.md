@@ -26,6 +26,10 @@ The Allied invasion of mainland Italy at Salerno (codenamed Avalanche). The firs
 
 Critical test of the lessons from Torch and Husky. Beachhead supply, the rapid development of Naples as a major port after its capture, and the challenges of sustaining forces in the mountainous terrain of southern Italy are central themes in the theater's logistical evolution.
 
+## Historiography
+
+The operation is documented through Allied and German unit records, after-action reports, and the logistical analysis in Dworak's *War of Supply* (2022), which this page draws on for its sustainment dimension. Historians broadly agree on the operational facts of the landing and beachhead crisis; debate centers on command decisions — particularly criticism of Mark Clark's conduct of the beachhead battle and of the strategic wisdom of invading the Italian mainland at all rather than concentrating resources on northern France or the Mediterranean islands. The campaign's logistics have received renewed scholarly attention as part of a broader historiographical shift toward treating sustainment (rather than only maneuver and command) as a decisive factor in Allied operational success.
+
 ## Related
 
 - `followed_by:` [[operation-shingle-1944]]

@@ -5,9 +5,9 @@ date_start: c. 229 BCE
 date_end: 160 BCE
 period: [Classical Antiquity]
 region: [italy, balkans, mediterranean-world]
-affiliated_with: [[[roman-republic]], the Aemilii Paulli]
-opposed_by: [[[perseus-of-macedon]]]
-key_events: [[[third-macedonian-war-171-168bce]], Pydna (168), the sack of Epirus (167)]
+affiliated_with: [ [[roman-republic]], the Aemilii Paulli]
+opposed_by: [ [[perseus-of-macedon]]]
+key_events: [ [[third-macedonian-war-171-168bce]], Pydna (168), the sack of Epirus (167)]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11

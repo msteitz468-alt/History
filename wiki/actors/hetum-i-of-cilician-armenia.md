@@ -5,10 +5,10 @@ date_start: c. 1213 (estimated)
 date_end: 1270
 period: [High Middle Ages]
 region: [anatolia, levant, near-east]
-affiliated_with: [[[cilician-armenian-kingdom|Cilician Armenia]], [[mongol-empire|the Mongol Empire / Ilkhanate]], "the principality of Antioch", "the Lusignan kingdom of Cyprus"]
-opposed_by: [[[mamluk-sultanate|the Mamluk Sultanate]], [[seljuk-empire|the Seljuks of Rum]]]
-key_events: [[[mongol-latin-crusade-alliance|the Mongol alliance (1247–53)]], "the Mongol sack of Baghdad (1258)", "Baybars' invasion of Cilicia (1266)"]
-key_processes: [[[armenian-latin-integration]], [[crusades]], [[mongol-conquests-13th-century]]]
+affiliated_with: [ [[cilician-armenian-kingdom|Cilician Armenia]], [[mongol-empire|the Mongol Empire / Ilkhanate]], "the principality of Antioch", "the Lusignan kingdom of Cyprus"]
+opposed_by: [ [[mamluk-sultanate|the Mamluk Sultanate]], [[seljuk-empire|the Seljuks of Rum]]]
+key_events: [ [[mongol-latin-crusade-alliance|the Mongol alliance (1247–53)]], "the Mongol sack of Baghdad (1258)", "Baybars' invasion of Cilicia (1266)"]
+key_processes: [ [[armenian-latin-integration]], [[crusades]], [[mongol-conquests-13th-century]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, high-middle-ages, anatolia, near-east]

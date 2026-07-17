@@ -46,6 +46,10 @@ recovered Florida and Minorca but not Gibraltar; for the Dutch the war "had been
   Confederation could not enforce the treaty — that fed the movement toward the
   **Constitution** (see [[fiscal-military-state]]).
 
+## Historiography
+
+The negotiating correspondence of Franklin, Adams, Jay, and Shelburne is extensively preserved and studied, making the treaty's diplomatic history unusually well documented; historians (Conway among them) debate how much of Shelburne's generosity toward American boundaries reflected genuine strategic calculation to split the United States from France versus domestic British political weakness that left him needing a quick peace. The treaty's near-total exclusion of Native American interests, despite Britain nominally ceding all territory to the Mississippi, is increasingly treated in more recent, ethnohistorically informed scholarship as a foundational injustice rather than a footnote, since none of the affected nations were party to the settlement — a theme this wiki also treats via the [[treaty-of-new-york-1790|Treaty of New York (1790)]]. The treaty's generous boundaries are also debated as a cause of the young Republic's subsequent fiscal-military weakness, since Congress could promise little to enforce them.
+
 ## Related
 
 - `caused_by:` [[siege-of-yorktown-1781]] · concludes [[american-revolution]]

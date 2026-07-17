@@ -6,7 +6,7 @@ date_precision: exact
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
 location: [Rome — the Curia of Pompey]
-actors_primary: [[[julius-caesar]], the conspirators (Brutus, Cassius, and c. 60 senators)]
+actors_primary: [ [[julius-caesar]], the conspirators (Brutus, Cassius, and c. 60 senators)]
 actors_secondary: [Mark Antony, Lepidus, Octavian, Cicero]
 event_type: political
 scale_immediate: civilizational

@@ -5,10 +5,10 @@ date_start: 203
 date_end: 222
 period: [late-antiquity]
 region: [near-east, levant, mediterranean]
-affiliated_with: [[[severan-dynasty]], [[emesene-dynasty]], [[julia-domna]]]
+affiliated_with: [ [[severan-dynasty]], [[emesene-dynasty]], [[julia-domna]]]
 opposed_by: [the Praetorian Guard, the Roman senatorial establishment]
 key_events: []
-key_processes: [[[orientalization-of-rome]], [[christianization-of-the-roman-empire]]]
+key_processes: [ [[orientalization-of-rome]], [[christianization-of-the-roman-empire]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, near-east, levant]

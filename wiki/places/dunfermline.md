@@ -18,4 +18,4 @@ Ancient royal burgh in Fife, Scotland, birthplace of Andrew Carnegie (November 2
 
 Carnegie retained strong sentimental attachment to Dunfermline throughout his life. He funded a public library there (one of his first), a park and other gifts, and revisited frequently. The town represents both the Old World artisanal world that was disappearing and the personal origin story Carnegie cultivated.
 
-**Related:** [[actors/carnegie-andrew]] · [[actors/carnegie-margaret]] · [[periods/long-19th-century]]
+**Related:** [[actors/carnegie-andrew]] · actors/carnegie-margaret · [[periods/long-19th-century]]

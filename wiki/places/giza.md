@@ -4,9 +4,9 @@ place_type: other
 modern_equivalent: [Giza, Egypt]
 coordinates: ~29.98 N, 31.13 E
 period_active: [Early Bronze Age]
-controlled_by: [[[old-kingdom-egypt]]]
+controlled_by: [ [[old-kingdom-egypt]]]
 events_here: []
-processes_here: [[[state-formation]]]
+processes_here: [ [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, north-africa, early-bronze-age]

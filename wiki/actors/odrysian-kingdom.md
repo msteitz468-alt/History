@@ -5,8 +5,8 @@ date_start: c. 470 BCE (Teres founds the dynasty)
 date_end: 340s BCE (subjected by Philip II of Macedon)
 period: [Classical Antiquity]
 region: [balkans, eastern-europe]
-affiliated_with: [[[athens]] (alliance under Sitalces), the Odrysian dynasty, Greek coastal cities]
-opposed_by: [[[scythians]], the Triballi and Getae, Macedon, rival Thracian dynasts]
+affiliated_with: [ [[athens]] (alliance under Sitalces), the Odrysian dynasty, Greek coastal cities]
+opposed_by: [ [[scythians]], the Triballi and Getae, Macedon, rival Thracian dynasts]
 key_events: [the founding by Teres, Sitalces' alliance with Athens 431 BCE, the reign of Cotys I, the conquest by Philip II of Macedon in the 340s BCE]
 key_processes: [Thracian state-formation, the Pangaeum silver/gold trade, Greek–Thracian interaction]
 sources_ingested: 1

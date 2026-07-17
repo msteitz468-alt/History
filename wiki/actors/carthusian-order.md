@@ -8,7 +8,7 @@ region: [western-europe]
 affiliated_with: ["eremitic Benedictine tradition", [[medieval-monastic-revival]]]
 opposed_by: []
 key_events: ["settlement of La Grande Chartreuse (1109)", "slow expansion to ~200 houses by the 16th century"]
-key_processes: [[[medieval-monastic-revival]]]
+key_processes: [ [[medieval-monastic-revival]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, organization, high-middle-ages, western-europe, monasticism]

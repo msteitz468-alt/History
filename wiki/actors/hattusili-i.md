@@ -5,10 +5,10 @@ date_start: r. ~1650 BCE (approximate; middle chronology)
 date_end: ~1620 BCE
 period: [Middle Bronze Age]
 region: [anatolia, near-east]
-affiliated_with: [[[hittites|the Hittite Old Kingdom]], [[hattusha|Hattusha]]]
-opposed_by: [[[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] (Hanigalbat), Arzawa, his own rebellious family]
+affiliated_with: [ [[hittites|the Hittite Old Kingdom]], [[hattusha|Hattusha]]]
+opposed_by: [ [[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] (Hanigalbat), Arzawa, his own rebellious family]
 key_events: [destruction of [[alalakh|Alalakh VII]], the Syrian wars against [[iamkhad|Aleppo]], the death-bed testament adopting [[mursili-i|Mursili I]]]
-key_processes: [[[indo-european-migrations]]]
+key_processes: [ [[indo-european-migrations]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, anatolia, near-east]

@@ -77,4 +77,8 @@ The Battle of Ankara illustrates the paradox at the heart of Timur's career: des
 
 **part_of**: [[timur]]'s western campaigns (1400–02)
 
+## Historiography
+
+Primary evidence for the battle survives in contemporary and near-contemporary Persian, Arabic, Ottoman Turkish, and Byzantine Greek chronicles, each shaped by the political needs of its patron — notably Ibn Arabshah's hostile Timurid-era account and later Ottoman chronicle traditions composed partly to explain away the dynasty's near-collapse. Hodgson's synthesis in *The Venture of Islam* draws on this literature at the level of grand civilizational narrative rather than adjudicating specific discrepancies in troop numbers or battle sequence; more granular Timurid- and Ottomanist-specialist reconstructions exist in the wider field but are not represented in this collection. A live interpretive question is how to characterize Timur's self-understanding and project — universalist Chinggisid legitimacy versus opportunistic conquest — and how much continuity to draw between his empire and the earlier Mongol military-patronage-state model; Hodgson favors the latter framing. No major recent revisionism beyond Hodgson's own account is reflected here.
+
 Source: [[hodgson-venture-of-islam-v2-1974]], Book Four, Chapter I.

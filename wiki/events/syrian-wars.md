@@ -7,12 +7,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [levant, near-east, anatolia, egypt, mediterranean]
 location: [Coele-Syria, Phoenicia, Asia Minor, the Aegean]
-actors_primary: [[[ptolemaic-egypt]], [[seleucid-empire]]]
-actors_secondary: [[[antiochus-iii-the-great]], [[ptolemy-ii-philadelphus]], [[pergamon]], [[rhodes]]]
+actors_primary: [ [[ptolemaic-egypt]], [[seleucid-empire]]]
+actors_secondary: [ [[antiochus-iii-the-great]], [[ptolemy-ii-philadelphus]], [[pergamon]], [[rhodes]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[battle-of-ipsus-301|Ptolemy I's retention of Coele-Syria after Ipsus]], the Seleucid claim to the same region, dynastic rivalry, the westward pull of both kingdoms toward the Aegean]
+causes: [ [[battle-of-ipsus-301|Ptolemy I's retention of Coele-Syria after Ipsus]], the Seleucid claim to the same region, dynastic rivalry, the westward pull of both kingdoms toward the Aegean]
 consequences: [a century of Ptolemaic–Seleucid enmity, the reshaping of Asia Minor's states, [[battle-of-raphia-217|Raphia]] and the arming of native Egyptians, eventual Roman intervention in the Near East]
 sources_ingested: 1
 last_updated: 2026-06-11

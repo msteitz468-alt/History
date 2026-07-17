@@ -6,9 +6,9 @@ date_end: c. ~1560 BCE (approximate; outlived wife and sons; died apparently of 
 date_precision: approximate
 period: [Middle Bronze Age]
 region: [anatolia, near-east, levant]
-affiliated_with: [[[hittites|the Hittite Old Kingdom]]]
-opposed_by: [[[hurrians|the Hurrians]], his own son-in-law Zidanta]
-key_events: [[[fall-of-babylon-1595bce|the sack of Babylon]] (preceded his reign; was Mursili I's achievement), campaign to Carchemish]
+affiliated_with: [ [[hittites|the Hittite Old Kingdom]]]
+opposed_by: [ [[hurrians|the Hurrians]], his own son-in-law Zidanta]
+key_events: [ [[fall-of-babylon-1595bce|the sack of Babylon]] (preceded his reign; was Mursili I's achievement), campaign to Carchemish]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-27

@@ -6,13 +6,13 @@ date_precision: year
 period: [Cold War]
 region: [australia]
 location: [Australia]
-actors_primary: [[[australian-labour-movement]], [[liberal-party-australia]]]
+actors_primary: [ [[australian-labour-movement]], [[liberal-party-australia]]]
 actors_secondary: []
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[australian-cold-war-politics]]]
-consequences: [[[dismissal-1975]]]
+causes: [ [[australian-cold-war-politics]]]
+consequences: [ [[dismissal-1975]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [event, cold-war, australia]

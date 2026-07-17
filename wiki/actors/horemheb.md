@@ -5,10 +5,10 @@ date_start: ~1348 BCE (accession; volume chronology)
 date_end: ~1321 BCE (death after a ~27-year reign)
 period: [Late Bronze Age]
 region: [north-africa]
-affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the army, the cult of [[amun-priesthood|Amun]]]
+affiliated_with: [ [[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the army, the cult of [[amun-priesthood|Amun]]]
 opposed_by: [the legacy of [[akhenaten|Akhenaten]] and the Amarna kings]
 key_events: [the Edict of Horemheb, the dismantling of the Aten temples, the appointment of Ramesses I as successor]
-key_processes: [[[state-formation]]]
+key_processes: [ [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, late-bronze-age, north-africa]

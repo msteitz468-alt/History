@@ -6,9 +6,9 @@ date_end: 587/586 BCE (fall of Jerusalem to Babylon)
 period: [Early Iron Age, Archaic Period]
 region: [levant]
 affiliated_with: [the Davidic dynasty, Jerusalem and its Temple, at times [[kingdom-of-israel|Israel]]]
-opposed_by: [[[kingdom-of-israel|Israel]] (intermittently), [[hazael|Aram-Damascus]], Edom, [[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]]]
-key_events: [[[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the usurpation of Athaliah, the Syro-Ephraimite War, [[sennacherib-siege-jerusalem-701bce|Sennacherib's siege (701)]], Josiah's reform, the [[fall-of-jerusalem-587bce|fall of Jerusalem (587)]]]
-key_processes: [[[state-formation]], dynastic continuity, Assyrian and Babylonian imperial expansion, the [[babylonian-exile|Babylonian Exile]]]
+opposed_by: [ [[kingdom-of-israel|Israel]] (intermittently), [[hazael|Aram-Damascus]], Edom, [[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]]]
+key_events: [ [[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the usurpation of Athaliah, the Syro-Ephraimite War, [[sennacherib-siege-jerusalem-701bce|Sennacherib's siege (701)]], Josiah's reform, the [[fall-of-jerusalem-587bce|fall of Jerusalem (587)]]]
+key_processes: [ [[state-formation]], dynastic continuity, Assyrian and Babylonian imperial expansion, the [[babylonian-exile|Babylonian Exile]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]

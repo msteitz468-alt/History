@@ -6,7 +6,7 @@ date_end: 453 CE (death)
 period: [Late Antiquity]
 region: [eastern-europe, steppe, western-europe, italy]
 affiliated_with: [the [[huns|Hunnic Empire]], briefly the western court of Aetius]
-opposed_by: [[[eastern-roman-empire-425-518|the Eastern Roman Empire]], the Western Roman Empire, the [[visigoths|Visigoths]]]
+opposed_by: [ [[eastern-roman-empire-425-518|the Eastern Roman Empire]], the Western Roman Empire, the [[visigoths|Visigoths]]]
 key_events: [the Balkan campaigns (441–447), the invasion of Gaul (451) and the battle of the Catalaunian Plains, the invasion of Italy (452)]
 key_processes: [the consolidation and collapse of the [[huns|Hunnic Empire]], the fiscal pressure on the late Roman state]
 sources_ingested: 4

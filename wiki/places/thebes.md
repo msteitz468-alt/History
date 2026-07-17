@@ -6,7 +6,7 @@ coordinates: ~25.7°N, 32.6°E
 period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [Egypt (Theban dynasties)]
 events_here: [the Theban war of liberation against the [[hyksos|Hyksos]], the building of Karnak and the Theban necropolis, Papyrus of Ani (famous Book of the Dead exemplar, c. 1250 BCE)]
-processes_here: [[[second-intermediate-period]], [[temple-economy]], [[egyptian-temple-economy]]]
+processes_here: [ [[second-intermediate-period]], [[temple-economy]], [[egyptian-temple-economy]]]
 sources_ingested: 3
 last_updated: 2026-06-26
 tags: [place, north-africa, late-bronze-age, middle-bronze-age, greece]

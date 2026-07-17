@@ -5,10 +5,10 @@ date_start: c. 360 BCE
 date_end: 281 BCE
 period: [Classical Antiquity]
 region: [balkans, anatolia, mediterranean-world]
-affiliated_with: [[[cassander]], [[seleucus-i-nicator]]]
-opposed_by: [[[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]]]
-key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]]]
-key_processes: [[[hellenistic-world]]]
+affiliated_with: [ [[cassander]], [[seleucus-i-nicator]]]
+opposed_by: [ [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]]]
+key_events: [ [[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]]]
+key_processes: [ [[hellenistic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, anatolia, balkans]

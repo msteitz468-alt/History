@@ -12,7 +12,7 @@ event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
 causes: ["the political fragmentation of southern Italy (Byzantine, Arab, and Lombard zones)", "the recruitment of Norman mercenaries from the 1010s", "the ambition of the Hauteville family", "the papal–Norman alliance against the empire"]
-consequences: [[[kingdom-of-sicily|the Norman kingdom of Sicily]], "the expulsion of Byzantine and Arab rule from Italy and Sicily", "a multicultural Arab-Greek-Latin polity", "a key papal ally against the empire"]
+consequences: [ [[kingdom-of-sicily|the Norman kingdom of Sicily]], "the expulsion of Byzantine and Arab rule from Italy and Sicily", "a multicultural Arab-Greek-Latin polity", "a key papal ally against the empire"]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [event, high-middle-ages, mediterranean]

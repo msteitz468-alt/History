@@ -5,9 +5,9 @@ date_end: 523
 date_precision: year
 period: [late-antiquity]
 region: [arabian-peninsula]
-location: [[[najran]]]
-actors_primary: [[[himyar]], [[najran]]]
-actors_secondary: [[[aksum]], [[al-mundhir-iii-lakhmid]]]
+location: [ [[najran]]]
+actors_primary: [ [[himyar]], [[najran]]]
+actors_secondary: [ [[aksum]], [[al-mundhir-iii-lakhmid]]]
 event_type: [religious]
 scale_immediate: regional
 scale_consequential: regional

@@ -6,8 +6,8 @@ date_precision: year
 period: [Cold War]
 region: [australia, asia-pacific]
 process_type: political
-driven_by: [[[liberal-party-australia]], [[commonwealth-of-australia]]]
-produces: [[[alp-split-1955]], [[australia-vietnam-war-commitment-1962]]]
+driven_by: [ [[liberal-party-australia]], [[commonwealth-of-australia]]]
+produces: [ [[alp-split-1955]], [[australia-vietnam-war-commitment-1962]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, cold-war, australia, asia-pacific]

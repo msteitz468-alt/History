@@ -7,8 +7,8 @@ period: [Early Middle Ages]
 region: [western-europe, mediterranean]
 affiliated_with: [the Pippinid/Arnulfing family, the Papacy, the Latin Church]
 opposed_by: [the Lombards, Aquitaine, his half-brother Grifo]
-key_events: [[[pippinid-coup-751]], papal anointing 754, conquest of Lombard Italy and the Donation of Pippin 756]
-key_processes: [[[carolingian-empire|rise of the Carolingians]], the Frankish–papal alliance]
+key_events: [ [[pippinid-coup-751]], papal anointing 754, conquest of Lombard Italy and the Donation of Pippin 756]
+key_processes: [ [[carolingian-empire|rise of the Carolingians]], the Frankish–papal alliance]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, western-europe]

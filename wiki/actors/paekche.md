@@ -5,10 +5,10 @@ date_start: ~18 BCE
 date_end: 660 CE
 period: [Late Antiquity, Early Middle Ages]
 region: [korea, east-asia]
-affiliated_with: [[[puyo]], [[yamato-japan]], [[kaya]], [[korea-three-kingdoms]]]
-opposed_by: [[[koguryo]], [[silla]]]
+affiliated_with: [ [[puyo]], [[yamato-japan]], [[kaya]], [[korea-three-kingdoms]]]
+opposed_by: [ [[koguryo]], [[silla]]]
 key_events: [unknown]
-key_processes: [[[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
+key_processes: [ [[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, late-antiquity, korea, east-asia]

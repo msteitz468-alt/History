@@ -6,8 +6,8 @@ date_precision: century
 period: [Early Iron Age, Archaic Period]
 region: [mediterranean, near-east, levant, aegean, north-africa]
 process_type: cultural
-driven_by: [[[al-mina|Greek–Levantine trade]], [[phoenicians|Phoenician]] commerce, Greek piracy and mercenary service, [[euboea|Euboean]] enterprise]
-produces: [[[alphabet|the Greek alphabet]], orientalizing art, monumental sculpture and architecture, Greek loan-words, mythological genealogies linking Greeks and "barbarians"]
+driven_by: [ [[al-mina|Greek–Levantine trade]], [[phoenicians|Phoenician]] commerce, Greek piracy and mercenary service, [[euboea|Euboean]] enterprise]
+produces: [ [[alphabet|the Greek alphabet]], orientalizing art, monumental sculpture and architecture, Greek loan-words, mythological genealogies linking Greeks and "barbarians"]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [process, early-iron-age, archaic-period, mediterranean, near-east]

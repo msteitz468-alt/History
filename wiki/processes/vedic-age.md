@@ -7,7 +7,7 @@ period: [Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity]
 region: [south-asia]
 process_type: political
 driven_by: [Indo-Aryan pastoral migration, the shift from pastoralism to Gangetic agriculture, iron, social surplus and stratification]
-produces: [[[caste-varna|the varna/caste system]], the sixteen mahajanapadas, the Second Urbanization, [[buddhism|Buddhism]] and [[jainism|Jainism]], the [[mauryan-empire|Mauryan Empire]]]
+produces: [ [[caste-varna|the varna/caste system]], the sixteen mahajanapadas, the Second Urbanization, [[buddhism|Buddhism]] and [[jainism|Jainism]], the [[mauryan-empire|Mauryan Empire]]]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [process, south-asia, early-iron-age, archaic-period]

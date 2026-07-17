@@ -55,6 +55,10 @@ revolution** that historians (Clifford Rogers) place at the heart of late-mediev
 [[edward-iii-of-england|Edward III]] · Edward the Black Prince (commanding the right "battle") · Philip VI of France · John of
 Bohemia (killed).
 
+## Historiography
+
+Jean Froissart's *Chronicles* — written decades after the battle in a chivalric register for an aristocratic audience — is the most famous account but is demonstrably inaccurate on troop numbers and some tactical detail; Geoffrey le Baker, an English monastic chronicler working closer to events, and the anonymous French *Grandes Chroniques* and *Récits d'un ménestrel de Reims* offer partly independent and partly conflicting testimony, especially on the sequence of the Genoese crossbowmen's collapse and the English archers' positioning. The Italian chronicler Giovanni Villani, hostile to French chivalric pretension, used Crécy as an object lesson in the folly of undisciplined cavalry. Modern scholarship (Clifford Rogers, Andrew Ayton, Anne Curry) has substantially revised troop-number estimates downward using English pay and muster records, and continues to debate the precise mechanics of the longbow's effectiveness against armour versus the decisive role of terrain and French command failure emphasized in the sources above.
+
 ## Related
 
 - **Tactical analysis (West Point–style):** [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346|Battle of Crécy — Tactical Analysis]]

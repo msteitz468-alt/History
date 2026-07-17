@@ -6,9 +6,9 @@ date_end: ~1600 BCE (absorbed into the Old Babylonian/Levantine world)
 period: [Early Bronze Age, Middle Bronze Age]
 region: [levant, mesopotamia, near-east]
 affiliated_with: []
-opposed_by: [[[akkadian-empire]], [[mesopotamian-chronology|Third Dynasty of Ur]], [[middle-kingdom-egypt|Egypt]]]
-key_events: [[[gutian-invasion|pressure on Akkad and Ur III]]]
-key_processes: [[[migration-in-human-history]], [[pastoral-nomadism]], [[state-formation]]]
+opposed_by: [ [[akkadian-empire]], [[mesopotamian-chronology|Third Dynasty of Ur]], [[middle-kingdom-egypt|Egypt]]]
+key_events: [ [[gutian-invasion|pressure on Akkad and Ur III]]]
+key_processes: [ [[migration-in-human-history]], [[pastoral-nomadism]], [[state-formation]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, movement, early-bronze-age, middle-bronze-age, levant, mesopotamia]

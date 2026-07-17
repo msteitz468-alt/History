@@ -5,10 +5,10 @@ date_start: 814/813 BCE (traditional foundation; archaeology from c. 750)
 date_end: 146 BCE (destruction by Rome — beyond this volume)
 period: [Archaic Period, Classical Antiquity]
 region: [north-africa, mediterranean, mediterranean-world]
-affiliated_with: [[[phoenicians|Tyre]] (mother-city), the western Phoenician colonies, the Magonid family]
+affiliated_with: [ [[phoenicians|Tyre]] (mother-city), the western Phoenician colonies, the Magonid family]
 opposed_by: [the western Greeks (Syracuse), later [[roman-republic|Rome]]]
 key_events: [the traditional foundation by Elissa/Dido (814), Malchus's Sardinian campaign (c. 550), the treaties with Rome (509, 348)]
-key_processes: [[[phoenician-colonization|Phoenician colonization]], [[trade-network-formation]], the Greco-Punic conflict in Sicily]
+key_processes: [ [[phoenician-colonization|Phoenician colonization]], [[trade-network-formation]], the Greco-Punic conflict in Sicily]
 sources_ingested: 8
 last_updated: 2026-07-08
 tags: [actor, state, archaic-period, north-africa, mediterranean]

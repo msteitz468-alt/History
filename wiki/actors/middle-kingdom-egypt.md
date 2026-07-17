@@ -7,8 +7,8 @@ period: [Middle Bronze Age]
 region: [north-africa, levant]
 affiliated_with: []
 opposed_by: [Lower Nubia / Kush, the Asiatic Amu, the Libyans, the [[hyksos|Hyksos]]]
-key_events: [[[reunification-of-egypt-2040bce]]]
-key_processes: [[[state-formation]], [[first-intermediate-period]], [[second-intermediate-period]], [[trade-network-formation]], [[provider-state]], [[egyptian-bureaucracy]]]
+key_events: [ [[reunification-of-egypt-2040bce]]]
+key_processes: [ [[state-formation]], [[first-intermediate-period]], [[second-intermediate-period]], [[trade-network-formation]], [[provider-state]], [[egyptian-bureaucracy]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, middle-bronze-age, north-africa]

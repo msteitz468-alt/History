@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Trenton, New Jersey]
 actors_primary: [the [[continental-army|Continental Army]], Hessian auxiliaries]
-actors_secondary: [[[washington-george]], [[knox-henry]], Johann Rall]
+actors_secondary: [ [[washington-george]], [[knox-henry]], Johann Rall]
 event_type: [battle]
 scale_immediate: local
 scale_consequential: regional
@@ -50,6 +50,10 @@ and Washington had lost just **2 killed and 4 wounded**.
   his men to re-enlist** and rebuild the army.
 - `produced:` the follow-on victory at **[[battle-of-princeton-1777|Princeton]]** and the recovery of
   most of New Jersey.
+
+## Historiography
+
+Extensively documented through Washington's own after-action report and Hessian officers' accounts — which have substantially revised the older American myth that the garrison was simply drunk from Christmas revelry — and later reminiscences of participants like Glover's boatmen. Historians debate the degree of genuine "complete surprise" versus Rall's documented (if disregarded) warnings of an American attack, complicating older narratives of pure Hessian negligence. The battle's outsized place in American national memory (Leutze's famous painting, etc.) is itself a subject of historiographical treatment distinct from the military facts, which historians increasingly try to separate from the myth.
 
 ## Related
 

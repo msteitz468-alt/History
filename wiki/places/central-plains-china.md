@@ -4,9 +4,9 @@ place_type: region
 modern_equivalent: [central Shaanxi, southern Shanxi, western & central Henan (China)]
 coordinates: ~34.7°N 113°E
 period_active: [Neolithic, Chalcolithic, Early Bronze Age, and later]
-controlled_by: [[[yangshao-culture]], [[longshan-culture]], [[erlitou-culture]], [[shang-dynasty]]]
+controlled_by: [ [[yangshao-culture]], [[longshan-culture]], [[erlitou-culture]], [[shang-dynasty]]]
 events_here: [unknown]
-processes_here: [[[early-china-state-formation]]]
+processes_here: [ [[early-china-state-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-26
 tags: [place, china, east-asia, neolithic, chalcolithic, early-bronze-age]

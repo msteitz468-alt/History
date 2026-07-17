@@ -7,7 +7,7 @@ dating_method: documentary
 period: [High Middle Ages]
 region: [british-isles]
 location: [Clarendon, near Salisbury]
-actors_primary: [[[henry-ii-of-england|Henry II]], [[thomas-becket|Thomas Becket]]]
+actors_primary: [ [[henry-ii-of-england|Henry II]], [[thomas-becket|Thomas Becket]]]
 actors_secondary: ["the English episcopate", "Pope Alexander III"]
 event_type: [political, religious]
 scale_immediate: regional

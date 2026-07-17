@@ -6,7 +6,7 @@ date_end: c. 337 BCE (died at Syracuse)
 period: [Classical Antiquity]
 region: [italy, mediterranean]
 affiliated_with: [Corinth (mother-city of Syracuse), the liberated Sicilian Greeks]
-opposed_by: [[[dionysius-ii|Dionysius II]], the Sicilian tyrants (Hicetas), [[carthage]]]
+opposed_by: [ [[dionysius-ii|Dionysius II]], the Sicilian tyrants (Hicetas), [[carthage]]]
 key_events: [the Corinthian expedition 344 BCE, the expulsion of Dionysius II, the victory at the Crimisus river 341 BCE, the refoundation of Syracuse and the Sicilian cities]
 key_processes: [the liberation of Greek Sicily, the overthrow of tyranny, resettlement and democratic restoration]
 sources_ingested: 1

@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [mesopotamia, near-east]
 location: [Baghdad]
-actors_primary: [[[hulegu|Hülegü]] and the Ilkhanid army, the Abbasid Caliphate (al-Musta'sim)]
+actors_primary: [ [[hulegu|Hülegü]] and the Ilkhanid army, the Abbasid Caliphate (al-Musta'sim)]
 actors_secondary: [Georgian and Armenian auxiliaries, Baiju, Ket-Buqa, Ibn al-Alqami, Nasir al-Din Tusi]
 event_type: [collapse, political]
 scale_immediate: civilizational
@@ -42,6 +42,10 @@ him and notables. The city was given over to thirty-four days of pillaging from 
 
 - `produced:` the **[[ilkhanate|Ilkhanate]]** as a Near Eastern power; end of Abbasid temporal rule.
 - `enabled:` Berke's Muslim outrage and Golden Horde–Ilkhanid war; Mamluk–Ilkhanid alliance.
+
+## Historiography
+
+Accounts diverge sharply along religious and political lines: Rashid al-Din's *Jami al-Tawarikh*, written under Ilkhanid Mongol patronage a generation later, is broadly favorable to Hülegü and downplays the massacre's scale, while Mamluk-era Muslim chroniclers (writing from Cairo, the Mongols' great rival) and later authors such as Ibn Kathir present the sack in far more catastrophic terms, with casualty estimates ranging from the low hundreds of thousands to inflated figures approaching two million that cannot be verified against any independent count. The Christian chronicler Bar Hebraeus, writing from a Syriac Christian perspective sympathetic to Mongol rule (which had relieved some Christian communities of Muslim dominance), gives a comparatively measured account. The role of the Shi'a wazir Ibn al-Alqami — portrayed by hostile Sunni sources as a traitorous collaborator who deliberately weakened the city's defenses — remains one of the most historiographically contested points, since the accusation served later Sunni polemical purposes and cannot be separated cleanly from the actual military and administrative failures of the Abbasid court.
 
 ## Related
 

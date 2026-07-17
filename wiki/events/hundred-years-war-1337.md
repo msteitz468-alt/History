@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Middle Ages]
 region: [western-europe, british-isles]
 location: [France, the Low Countries, the English Channel]
-actors_primary: [[[edward-iii-of-england|Edward III]] and the Plantagenet/Lancastrian kings of England, the Valois kings of France]
+actors_primary: [ [[edward-iii-of-england|Edward III]] and the Plantagenet/Lancastrian kings of England, the Valois kings of France]
 actors_secondary: [the dukes of Burgundy, Brittany, and the great French magnates, Scotland (the "Auld Alliance")]
 event_type: [war]
 scale_immediate: regional
@@ -98,6 +98,10 @@ The war thus accelerated the rise of the **fiscal-military Valois state** (perma
 standing army, the *noblesse de robe*) even as France remained "divided by law, language and custom,"
 not yet a nation — "the gradual and difficult progress towards absolutism had begun." Its sequel, the
 recovery and consolidation under [[louis-xi-of-france|Louis XI]], is treated separately (Ch. 19b).
+
+## Historiography
+
+The name "Hundred Years War" is a nineteenth-century historiographical construction — contemporaries experienced it as a series of distinct wars and truces, not a single continuous conflict — and historians still debate where to draw its start (1337, or earlier flashpoints over Gascony) and its true periodization (phases of war separated by long truces rather than one unbroken struggle). Jean Froissart's *Chronicles* dominate the traditional narrative but reflect an aristocratic, chivalric framing that both romanticizes knightly combat and obscures the war's administrative and fiscal dimensions; modern scholarship (Clifford Rogers, Anne Curry, Christopher Allmand) has shifted emphasis toward pay records, muster rolls, and administrative documents to reconstruct army sizes, recruitment, and the war's role in state formation. The "military revolution" thesis — that the war drove decisive tactical and institutional change (the longbow, contract armies, standing forces) — remains actively debated, as does the relative weight of dynastic ambition versus commercial/strategic rivalry (Flanders, Gascony, Scotland) in the war's origins. French-language chronicle traditions and English administrative sources naturally diverge in emphasis and blame, particularly around the volatile final phases (Joan of Arc, the Burgundian-Armagnac civil war) covered in the dedicated event pages.
 
 ## Related
 

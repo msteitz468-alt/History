@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, peloponnese, mediterranean]
 location: [Aetolia, the Peloponnese, Epirus, Acarnania, Thermum]
-actors_primary: [[[philip-v]], the Hellenic Symmachy, [[achaean-league]], [[aetolian-league]]]
-actors_secondary: [[[aratus-of-sicyon]], Sparta, Elis, Demetrius of Pharos]
+actors_primary: [ [[philip-v]], the Hellenic Symmachy, [[achaean-league]], [[aetolian-league]]]
+actors_secondary: [ [[aratus-of-sicyon]], Sparta, Elis, Demetrius of Pharos]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
@@ -57,3 +57,23 @@ volume ends with the self-contained Hellenistic world on the brink of the age of
 intervention: Philip's turn toward the west, encouraged by Demetrius of Pharos, set Macedon
 on the road to the Macedonian Wars with Rome. See [[philip-v]], [[aetolian-league]],
 [[hellenistic-world]].
+
+## Historiography
+
+The war's principal source is **Polybius**, writing within a lifetime or two of the
+events and drawing partly on his own Achaean family's political tradition (his father
+Lycortas was an Achaean statesman), which gives him a strongly pro-Achaean, pro-Aratus
+vantage point and a correspondingly hostile view of the Aetolians, whom he consistently
+frames as opportunistic brigands rather than a legitimate federal power — a bias modern
+historians must correct for when assessing Aetolian conduct and motives. Polybius's
+account is also shaped by his larger thesis about *symploke*, the "interweaving" of
+Mediterranean history from 217 onward; his selection of this war as the volume's closing
+episode, and his placement of Agelaus's "cloud in the west" speech at its climax, serve
+his overarching argument as much as they report the Nemean-games diplomacy itself, and
+some modern historians have questioned how much of Agelaus's specific wording is
+Polybian retrospective construction rather than a preserved record of the speech.
+
+## Related
+
+- Belligerents: [[philip-v]] · [[achaean-league]] · [[aetolian-league]]
+- Source: Polybius (via [[walbank-cah-v7-1-1984|CAH VII.1]] Ch. 12, Walbank)

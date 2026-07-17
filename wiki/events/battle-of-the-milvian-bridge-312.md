@@ -6,13 +6,13 @@ date_precision: exact
 period: [Late Antiquity]
 region: [italy, mediterranean-world]
 location: [Milvian Bridge, Rome, Tiber]
-actors_primary: [[[constantine-the-great]], [[maxentius]]]
+actors_primary: [ [[constantine-the-great]], [[maxentius]]]
 actors_secondary: []
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[roman-tetrarchy]], unknown]
-consequences: [[[edict-of-milan-313]], [[christianization-of-the-roman-empire]]]
+causes: [ [[roman-tetrarchy]], unknown]
+consequences: [ [[edict-of-milan-313]], [[christianization-of-the-roman-empire]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [event, late-antiquity, italy, rome]

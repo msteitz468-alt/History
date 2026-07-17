@@ -8,7 +8,7 @@ region: [central-asia, south-asia, bactria, iran-plateau]
 affiliated_with: [the Yuezhi confederation, Buddhist and Zoroastrian and Hindu communities]
 opposed_by: [the [[sasanian-empire|Sasanians]], the Hephthalites]
 key_events: [Yuezhi migration into Bactria 2nd c. BCE, crossing of the Hindu Kush into India c. 1st c. CE, patronage of Mahayana Buddhism]
-key_processes: [[[silk-roads]], [[trade-network-formation]], [[buddhism|spread of Buddhism]], [[empire]]]
+key_processes: [ [[silk-roads]], [[trade-network-formation]], [[buddhism|spread of Buddhism]], [[empire]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, empire, classical-antiquity, central-asia, south-asia]

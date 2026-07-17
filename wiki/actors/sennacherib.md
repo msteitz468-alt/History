@@ -5,10 +5,10 @@ date_start: r. 704 BCE
 date_end: 681 BCE (assassinated)
 period: [Archaic Period]
 region: [mesopotamia, near-east, levant]
-affiliated_with: [[[neo-assyrian-empire|Assyria]], the cult of Ashur]
-opposed_by: [[[neo-babylonian-empire|Merodach-baladan / Babylonia]], Elam, [[kingdom-of-judah|Judah (Hezekiah)]], Egypt/Kush]
+affiliated_with: [ [[neo-assyrian-empire|Assyria]], the cult of Ashur]
+opposed_by: [ [[neo-babylonian-empire|Merodach-baladan / Babylonia]], Elam, [[kingdom-of-judah|Judah (Hezekiah)]], Egypt/Kush]
 key_events: [the destruction of Babylon (689), the [[sennacherib-siege-jerusalem-701bce|siege of Jerusalem (701)]], the rebuilding of [[nineveh|Nineveh]], assassination (681)]
-key_processes: [[[empire]], [[assyrian-mass-deportation|mass deportation]], imperial city-building]
+key_processes: [ [[empire]], [[assyrian-mass-deportation|mass deportation]], imperial city-building]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, mesopotamia, near-east]

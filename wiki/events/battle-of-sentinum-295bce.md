@@ -13,12 +13,12 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes:
   - caused_by: "[[grand-coalition-298bce|Formation of the grand Samnite-Etruscan-Umbrian-Gallic coalition in 298–296 BCE]]"
-  - caused_by: "[[roman-offensive-strategy|Consistent Roman offensive strategy in Samnium from 298 BCE]]"
+  - caused_by: "Consistent Roman offensive strategy in Samnium from 298 BCE"
   - contributed_to: "[[gellius-egnatius|Samnite commander Gellius Egnatius's northern march to unite Samnite and Etruscan forces]]"
 consequences:
-  - produced: "[[samnite-final-defeat|Effective end of Samnite capacity for major offensive warfare]]"
-  - enabled: "[[roman-conquest-south-italy|Roman advance into southern Italy 294–264 BCE]]"
-  - produced: "[[pyrrhic-war-context|Pyrrhus's Italian adventure was a response to an already-dominant Rome]]"
+  - produced: "Effective end of Samnite capacity for major offensive warfare"
+  - enabled: "Roman advance into southern Italy 294–264 BCE"
+  - produced: "Pyrrhus's Italian adventure was a response to an already-dominant Rome"
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, mediterranean, western-europe]
@@ -111,6 +111,24 @@ Sentinum is unusually well-attested for an early Republican battle:
 
 The scale and drama of the battle make it unlikely to have been significantly invented;
 the main uncertainties concern the precise tactics and the numbers of casualties.
+
+## Historiography
+
+Sentinum sits inside the broader **controversy over the reliability of the early
+Roman historical tradition** (see [[reliability-of-early-roman-tradition]]): **Livy**'s
+detailed Book X account was written some 250 years after the battle, drawing on a
+chain of earlier (now lost) Roman annalists reaching back toward **Fabius Pictor**, and
+on family and triumphal records that were themselves prone to embellishment for the
+gens involved (notably the Fabii and the Decii). The **devotio** of P. Decius Mus is a
+particular point of scholarly caution — it repeats, almost formulaically, his father's
+sacrifice at Veseris (340 BCE), raising the suspicion of literary duplication or
+annalistic invention to flatter the Decian family, though Cornell judges the core
+event authentic given its wide attestation. The presence of **Duris of Samos**, a Greek
+historian roughly contemporary with the battle, is unusually valuable corroboration for
+this period and is a major reason CAH treats the engagement as more securely historical
+than most fourth-century Roman battle narratives — though even Duris's casualty figure
+(100,000 dead) is almost certainly inflated, and the ancient tradition's numbers range
+from Livy's plausible 8,700 Roman dead to a fantastical 650,000 total combatants.
 
 ## Related
 

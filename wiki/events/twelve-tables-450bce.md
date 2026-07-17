@@ -128,7 +128,7 @@ Roman legal development through the Principate. Roman legal sophistication of th
 classical period (second–third century CE) grew out of this commentary tradition.
 
 `produced: Roman private law as publicly accessible text`  
-`enabled: [[roman-law-development]]`  
+`enabled: roman law development`  
 `followed_by: [[canuleian-law-445bce]] (rescission of intermarriage ban)`
 
 ## Historiography

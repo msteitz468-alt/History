@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the Wang consort-clan of the Former Han court, the Xin (新) dynasty (founder)]
 opposed_by: [Han loyalists, the Red Eyebrows rebels, regional magnates, the restored Han]
 key_events: ["regency and the manipulation of the Han succession", "usurpation and founding of the Xin dynasty (9 CE)", "the 'reformist' land and currency measures", "the Yellow River disaster and the Red Eyebrows revolt", "his death and the Han restoration (23–25 CE)"]
-key_processes: [[[han-dynasty|the dynastic cycle]], Confucian reformist statecraft]
+key_processes: [ [[han-dynasty|the dynastic cycle]], Confucian reformist statecraft]
 sources_ingested: 2
 last_updated: 2026-06-14
 tags: [actor, person, classical-antiquity, china]

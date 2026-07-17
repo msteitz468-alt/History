@@ -7,8 +7,8 @@ period: [Long 19th Century, World Wars Era]
 region: [japan, east-asia]
 affiliated_with: [the imperial house of Japan, the Meiji government]
 opposed_by: [the Tokugawa bakufu (in the Restoration), the Satsuma rebels (1877)]
-key_events: [[[meiji-restoration-1868]], [[boshin-war-1868]], [[meiji-constitution-1889]], [[first-sino-japanese-war-1894-1895]], [[russo-japanese-war-1904]]]
-key_processes: [[[meiji-period]], [[meiji-reforms]]]
+key_events: [ [[meiji-restoration-1868]], [[boshin-war-1868]], [[meiji-constitution-1889]], [[first-sino-japanese-war-1894-1895]], [[russo-japanese-war-1904]]]
+key_processes: [ [[meiji-period]], [[meiji-reforms]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, long-19th-century, japan, east-asia]

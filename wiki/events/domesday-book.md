@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [british-isles, western-europe]
 location: [England]
-actors_primary: [[[william-the-conqueror|William the Conqueror]], "the royal commissioners", "the Anglo-Norman administration"]
+actors_primary: [ [[william-the-conqueror|William the Conqueror]], "the royal commissioners", "the Anglo-Norman administration"]
 actors_secondary: ["the tenants-in-chief", "the shire and hundred juries"]
 event_type: political
 scale_immediate: regional
@@ -56,6 +56,10 @@ fixing who held what of whom.
 `enabled:` later medieval and modern historical scholarship: Domesday remains the
 foundational source for the demography and economy of the
 [[medieval-agricultural-revolution|eleventh-century European countryside]].
+
+## Historiography
+
+Domesday Book is itself the primary source — an administrative record rather than a narrative chronicle — and is generally regarded as exceptionally reliable for its purpose, though it is uneven: London, Winchester, and the northernmost counties are omitted or only partially covered, and the "Little Domesday" survey of East Anglia survives in a fuller, unabridged form than the digested "Great Domesday" text covering most of the rest of England, suggesting the final synthesis was never fully completed. Historians have long debated its primary purpose — V. H. Galbraith argued for a geld (tax) reassessment as the chief aim, while others (including Sally Harvey) emphasize its role in settling tenurial disputes after two decades of Norman redistribution of land — and the survey's underlying administrative machinery (writs, circuits, sworn juries) is itself a major subject of study for what it reveals about the fusion of Anglo-Saxon and Norman governance. Because Domesday records tenure and value rather than daily life, its use as a demographic source (population estimates, manorial economy) requires substantial interpretive extrapolation, a methodological caution modern economic historians apply carefully.
 
 ## Related
 

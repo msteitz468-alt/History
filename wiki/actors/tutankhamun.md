@@ -5,10 +5,10 @@ date_start: ~1361 BCE (accession as Tutankhaten, aged ~9; volume chronology)
 date_end: ~1352 BCE (death in his ~19th year)
 period: [Late Bronze Age]
 region: [north-africa]
-affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the restored cult of [[amun-priesthood|Amun]]]
+affiliated_with: [ [[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the restored cult of [[amun-priesthood|Amun]]]
 opposed_by: []
 key_events: [the abandonment of [[amarna|Akhetaten]], the Restoration Stela, the return to Memphis and Thebes, the [[zannanza-affair-1322bce|Zannanza affair]] (at his death)]
-key_processes: [[[atenism]] (its reversal)]
+key_processes: [ [[atenism]] (its reversal)]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, late-bronze-age, north-africa]

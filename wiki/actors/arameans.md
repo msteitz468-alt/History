@@ -6,9 +6,9 @@ date_end: c. 720 BCE (absorption of the Aramaean states by Assyria; language sur
 period: [Early Iron Age]
 region: [levant, near-east, mesopotamia, syria]
 affiliated_with: []
-opposed_by: [[[assyria-middle|Assyria]], [[second-isin-dynasty|Babylon]], [[hebrew-kingdom|Israel]] (David)]
-key_events: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], David's defeat of Aram-Zobah]
-key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], the spread of Aramaic]
+opposed_by: [ [[assyria-middle|Assyria]], [[second-isin-dynasty|Babylon]], [[hebrew-kingdom|Israel]] (David)]
+key_events: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]], David's defeat of Aram-Zobah]
+key_processes: [ [[bronze-age-collapse-1200bce|Bronze Age Collapse]], the spread of Aramaic]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, movement, early-iron-age, levant, near-east, mesopotamia]

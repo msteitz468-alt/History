@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [anatolia]
 location: [Ipsus (Phrygia)]
-actors_primary: [[[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]], [[seleucus-i-nicator]], [[lysimachus]]]
-actors_secondary: [[[cassander]], [[ptolemy-i-soter]]]
+actors_primary: [ [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]], [[seleucus-i-nicator]], [[lysimachus]]]
+actors_secondary: [ [[cassander]], [[ptolemy-i-soter]]]
 event_type: battle
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[antigonus-i-monophthalmus|Antigonus' bid to reunite Alexander's empire]], the coalition of the other Successors, [[wars-of-the-diadochi-323]]]
+causes: [ [[antigonus-i-monophthalmus|Antigonus' bid to reunite Alexander's empire]], the coalition of the other Successors, [[wars-of-the-diadochi-323]]]
 consequences: [death of Antigonus I and end of the unitary idea, partition of Anatolia and Syria, consolidation of the Hellenistic kingdoms, origin of the [[syrian-wars]] over Coele-Syria]
 sources_ingested: 1
 last_updated: 2026-06-11

@@ -7,8 +7,8 @@ period: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, 
 region: [mediterranean, western-europe]
 affiliated_with: ["the Latin (Roman Catholic) Church", "the College of Cardinals", "the city of Rome and the Papal States"]
 opposed_by: ["the Holy Roman emperors (Investiture Contest; the Hohenstaufen struggle)", "antipopes", "the eastern (Orthodox) churches"]
-key_events: [[[investiture-contest]], "the Election Decree of 1059", "the East–West Schism (1054)", "the First Lateran Council (1123)"]
-key_processes: [[[gregorian-reform]], [[papal-monarchy]]]
+key_events: [ [[investiture-contest]], "the Election Decree of 1059", "the East–West Schism (1054)", "the First Lateran Council (1123)"]
+key_processes: [ [[gregorian-reform]], [[papal-monarchy]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, institution, mediterranean, western-europe]

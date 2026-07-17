@@ -6,8 +6,8 @@ date_precision: year
 period: [long-19th-century]
 region: [north-america]
 process_type: technological
-driven_by: [[[concepts/alternating-current|polyphase AC system]], commercial competition over electrical-power standards]
-produces: [[[concepts/alternating-current|AC as the global power standard]], modern electrical grids]
+driven_by: [ [[concepts/alternating-current|polyphase AC system]], commercial competition over electrical-power standards]
+produces: [ [[concepts/alternating-current|AC as the global power standard]], modern electrical grids]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [process, long-19th-century, north-america, technology, electricity]

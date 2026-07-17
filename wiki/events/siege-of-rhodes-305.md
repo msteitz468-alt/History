@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [mediterranean, anatolia]
 location: [Rhodes]
-actors_primary: [[[demetrius-i-poliorcetes]], [[rhodes]]]
-actors_secondary: [[[ptolemy-i-soter]], [[antigonus-i-monophthalmus]]]
+actors_primary: [ [[demetrius-i-poliorcetes]], [[rhodes]]]
+actors_secondary: [ [[ptolemy-i-soter]], [[antigonus-i-monophthalmus]]]
 event_type: battle
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[antigonus-i-monophthalmus|Antigonid drive for naval supremacy in the Aegean]], Rhodian alignment with [[ptolemy-i-soter|Ptolemy]] and refusal to join the attack on Egypt]
+causes: [ [[antigonus-i-monophthalmus|Antigonid drive for naval supremacy in the Aegean]], Rhodian alignment with [[ptolemy-i-soter|Ptolemy]] and refusal to join the attack on Egypt]
 consequences: [survival of Rhodian independence and a century of Rhodian prosperity, Demetrius' epithet "Poliorcetes", the Colossus of Rhodes]
 sources_ingested: 1
 last_updated: 2026-06-11

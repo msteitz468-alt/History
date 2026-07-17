@@ -5,10 +5,10 @@ date_start: 1496
 date_end: 1560
 period: [Early Modern]
 region: [scandinavia, sweden, northern-europe]
-affiliated_with: [[[swedish-empire]]]
-opposed_by: [[[denmark-norway]], [[christian-ii-of-denmark]]]
-key_events: [[[reformation-in-scandinavia]]]
-key_processes: [[[reformation-in-scandinavia]]]
+affiliated_with: [ [[swedish-empire]]]
+opposed_by: [ [[denmark-norway]], [[christian-ii-of-denmark]]]
+key_events: [ [[reformation-in-scandinavia]]]
+key_processes: [ [[reformation-in-scandinavia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-modern, scandinavia, sweden]

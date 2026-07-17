@@ -5,10 +5,10 @@ date_start: ~1894 BCE (Sumu-abum founds the dynasty)
 date_end: ~1595 BCE ([[fall-of-babylon-1595bce|Hittite sack]] under Samsuditana)
 period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
-affiliated_with: [[[amorites|the Amorites]]]
+affiliated_with: [ [[amorites|the Amorites]]]
 opposed_by: [Larsa, Eshnunna, [[elam|Elam]], the Sealand dynasty, the [[kassites|Kassites]], the [[hittites|Hittites]]]
 key_events: [Hammurabi's unification of Sumer and Akkad (~1763 BCE), Samsuiluna's southern revolt and loss of the Sealand, the [[fall-of-babylon-1595bce|Hittite sack of Babylon]] (~1595 BCE)]
-key_processes: [[[state-formation]], [[imperialism]]]
+key_processes: [ [[state-formation]], [[imperialism]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, dynasty, middle-bronze-age, mesopotamia]

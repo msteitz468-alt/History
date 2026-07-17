@@ -5,10 +5,10 @@ date_start: c. 1280 CE (birth)
 date_end: c. 1337 CE (death)
 period: [Late Middle Ages]
 region: [west-africa, sub-saharan-africa]
-affiliated_with: [[[mali-empire]], [[islam]], [[trans-saharan-trade]]]
+affiliated_with: [ [[mali-empire]], [[islam]], [[trans-saharan-trade]]]
 opposed_by: []
 key_events: ["accession to the Mali throne (c. 1312)", "the pilgrimage to Mecca (1324)"]
-key_processes: [[[trans-saharan-trade]], [[islam]], [[afro-eurasian-world-system]]]
+key_processes: [ [[trans-saharan-trade]], [[islam]], [[afro-eurasian-world-system]]]
 sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, person, late-middle-ages, west-africa]

@@ -5,10 +5,10 @@ date_start: c. 7th c. CE (kingdom of Gao); imperial expansion from the late 15th
 date_end: 1591 CE (Moroccan conquest at Tondibi)
 period: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 region: [west-africa, sub-saharan-africa]
-affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Songhay people", "the city of Gao"]
-opposed_by: [[[mali-empire|Mali]], "the Mossi", "the Tuareg", "Saadian Morocco"]
+affiliated_with: [ [[trans-saharan-trade]], [[islam]], "the Songhay people", "the city of Gao"]
+opposed_by: [ [[mali-empire|Mali]], "the Mossi", "the Tuareg", "Saadian Morocco"]
 key_events: ["the rise of the kingdom of Gao", "expansion into an empire from the late 15th century", "the Moroccan conquest (1591)"]
-key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islamization-of-africa]]]
+key_processes: [ [[trans-saharan-trade]], [[state-formation]], [[islamization-of-africa]]]
 sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, empire, late-middle-ages, west-africa]

@@ -7,7 +7,7 @@ period: [Early Middle Ages, High Middle Ages]
 region: [eastern-europe, balkans, steppe]
 affiliated_with: [the Árpád dynasty, the see of Esztergom/Gran, [[otto-iii|Otto III]] and the papacy (the royal crown of 1000/1001)]
 opposed_by: [the Ottonian Reich (to 955), Byzantium, the pagan Magyar reaction (Koppány, Ajtony)]
-key_events: [[[battle-of-lechfeld-955]], the coronation of Stephen I 1000/1001]
+key_events: [ [[battle-of-lechfeld-955]], the coronation of Stephen I 1000/1001]
 key_processes: [the Magyar raids, the settlement and Christianisation of Hungary]
 sources_ingested: 2
 last_updated: 2026-06-12

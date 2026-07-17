@@ -5,10 +5,10 @@ date_start: 980 CE (born)
 date_end: 1002 CE (died near Rome)
 period: [Early Middle Ages, High Middle Ages]
 region: [western-europe, mediterranean, eastern-europe]
-affiliated_with: [[[ottonian-dynasty]], [[gerbert-of-aurillac|Sylvester II]], Theophanu, [[papacy]]]
+affiliated_with: [ [[ottonian-dynasty]], [[gerbert-of-aurillac|Sylvester II]], Theophanu, [[papacy]]]
 opposed_by: [the Roman aristocracy (Crescentii), the antipope John Philagathos]
-key_events: [[[synod-of-gniezno-1000]]]
-key_processes: [[[ottonian-renaissance]], Renovatio Imperii Romanorum]
+key_events: [ [[synod-of-gniezno-1000]]]
+key_processes: [ [[ottonian-renaissance]], Renovatio Imperii Romanorum]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, early-middle-ages, high-middle-ages, western-europe]

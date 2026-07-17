@@ -6,9 +6,9 @@ date_end: 1170 (murdered, Canterbury Cathedral)
 period: [High Middle Ages]
 region: [british-isles, western-europe]
 affiliated_with: ["the see of Canterbury", "the reform papacy (Alexander III)"]
-opposed_by: [[[henry-ii-of-england|Henry II]]]
+opposed_by: [ [[henry-ii-of-england|Henry II]]]
 key_events: ["the Constitutions of Clarendon (1164)", "his exile (1164–1170)", "his murder (1170) and canonisation (1173)"]
-key_processes: [[[gregorian-reform]]]
+key_processes: [ [[gregorian-reform]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, british-isles]

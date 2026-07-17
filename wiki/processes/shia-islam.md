@@ -1,5 +1,6 @@
 ---
 title: Shi'a Islam — Formation and Early Development
+aliases: [shia, shiism]
 date_start: "656 CE"
 date_end: "c. 874 CE"
 date_precision: year

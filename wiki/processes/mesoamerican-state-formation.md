@@ -7,7 +7,7 @@ period: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Ea
 region: [mesoamerica]
 process_type: political
 driven_by: [maize agriculture, interregional trade networks, competition among ceremonial centers, religious/calendrical ideology]
-produces: [[[olmec|the Olmec]], [[zapotec|the Zapotec/Monte Albán]], [[teotihuacan|Teotihuacan]], [[maya-civilization|the Classic Maya]], the Toltec and [[aztec-empire|Aztec]] successors]
+produces: [ [[olmec|the Olmec]], [[zapotec|the Zapotec/Monte Albán]], [[teotihuacan|Teotihuacan]], [[maya-civilization|the Classic Maya]], the Toltec and [[aztec-empire|Aztec]] successors]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [process, mesoamerica, classical-antiquity, late-middle-ages]

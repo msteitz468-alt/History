@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Antiquity]
 region: [balkans, eastern-europe]
 location: [Dacia (modern Romania), beyond the lower Danube]
-actors_primary: [[[trajan|Trajan]], Decebalus of Dacia]
+actors_primary: [ [[trajan|Trajan]], Decebalus of Dacia]
 actors_secondary: [the Roman Danube legions, the kingdom of Dacia]
 event_type: war
 scale_immediate: regional

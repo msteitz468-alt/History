@@ -5,10 +5,10 @@ date_start: 1603 (Ieyasu appointed shōgun)
 date_end: 1868 (Meiji Restoration)
 period: [Early Modern, Age of Expansion, Long 19th Century]
 region: [japan, east-asia]
-affiliated_with: [[[tokugawa-ieyasu|the Tokugawa house]], the samurai class]
+affiliated_with: [ [[tokugawa-ieyasu|the Tokugawa house]], the samurai class]
 opposed_by: [the Toyotomi loyalists (to 1615), later the anti-bakufu domains (Satsuma, Chōshū)]
-key_events: [[[battle-of-sekigahara-1600]], the founding of the bakufu 1603, [[siege-of-osaka-1614|the Osaka campaigns]], the sakoku closure]
-key_processes: [[[bakuhan-system]], [[sankin-kotai]]]
+key_events: [ [[battle-of-sekigahara-1600]], the founding of the bakufu 1603, [[siege-of-osaka-1614|the Osaka campaigns]], the sakoku closure]
+key_processes: [ [[bakuhan-system]], [[sankin-kotai]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, state, early-modern, japan, east-asia]

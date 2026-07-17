@@ -6,13 +6,13 @@ date_precision: year
 period: [Late Antiquity]
 region: [mediterranean-world, near-east, egypt, balkans]
 location: [Roman Empire]
-actors_primary: [[[diocletian]], [[origins-of-christianity]]]
-actors_secondary: [[[roman-tetrarchy]]]
+actors_primary: [ [[diocletian]], [[origins-of-christianity]]]
+actors_secondary: [ [[roman-tetrarchy]]]
 event_type: religious
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[roman-tetrarchy]], [[third-century-crisis]]]
-consequences: [[[edict-of-milan-313]], [[christianization-of-the-roman-empire]]]
+causes: [ [[roman-tetrarchy]], [[third-century-crisis]]]
+consequences: [ [[edict-of-milan-313]], [[christianization-of-the-roman-empire]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [event, late-antiquity, mediterranean-world]

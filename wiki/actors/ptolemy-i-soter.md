@@ -5,10 +5,10 @@ date_start: 367 BCE
 date_end: 282 BCE
 period: [Classical Antiquity]
 region: [egypt, north-africa, levant, mediterranean-world]
-affiliated_with: [[[alexander-the-great]], [[seleucus-i-nicator]], [[rhodes]]]
-opposed_by: [[[perdiccas]], [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]]]
-key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[siege-of-rhodes-305]]]
-key_processes: [[[hellenistic-world]], [[ptolemaic-egypt]]]
+affiliated_with: [ [[alexander-the-great]], [[seleucus-i-nicator]], [[rhodes]]]
+opposed_by: [ [[perdiccas]], [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]]]
+key_events: [ [[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[siege-of-rhodes-305]]]
+key_processes: [ [[hellenistic-world]], [[ptolemaic-egypt]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, dynasty, classical-antiquity, egypt]

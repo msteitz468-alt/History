@@ -5,10 +5,10 @@ date_start: 1830
 date_end: 1913
 period: [long-19th-century]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[actors/rockefeller-john-d]], [[actors/standard-oil]]]
+affiliated_with: [ [[actors/rockefeller-john-d]], [[actors/standard-oil]]]
 opposed_by: []
-key_events: [[[events/cleveland-massacre-1872]]]
-key_processes: [[[processes/corporate-consolidation-gilded-age]]]
+key_events: [ [[events/cleveland-massacre-1872]]]
+key_processes: [ [[processes/corporate-consolidation-gilded-age]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [actor, person, long-19th-century, north-america, eastern-north-america, flagler-henry, standard-oil]

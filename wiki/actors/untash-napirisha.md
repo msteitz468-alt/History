@@ -5,10 +5,10 @@ date_start: fl. c. 1340 BCE
 date_end: c. 1300 BCE
 period: [Late Bronze Age]
 region: [iran-plateau, khuzistan]
-affiliated_with: [[[elam]], Igihalkid dynasty, [[kassites|Kassite Babylon]] (by marriage)]
+affiliated_with: [ [[elam]], Igihalkid dynasty, [[kassites|Kassite Babylon]] (by marriage)]
 opposed_by: []
 key_events: [foundation of [[chogha-zanbil|Dur-Untash (Chogha Zanbil)]]]
-key_processes: [[[state-formation]]]
+key_processes: [ [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, iran-plateau]

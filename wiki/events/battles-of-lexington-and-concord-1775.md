@@ -50,6 +50,10 @@ gathered around Boston.
 - `produced:` the impetus for Congress to create the **[[continental-army|Continental Army]]** (June
   1775) and appoint [[washington-george|Washington]].
 
+## Historiography
+
+The identity of whoever fired the "shot heard round the world" at Lexington is a classic unresolved question — contemporary depositions taken by both sides (the Massachusetts Provincial Congress and British officers) already disagreed, and no definitive attribution has ever been established. Paul Revere's own later account and the depositions collected within days by Patriot authorities are invaluable but not neutral, having been assembled explicitly to build a political case that the British fired first; British officers' reports offer a countervailing but similarly interested perspective. Historians continue to debate how spontaneous versus organized the militia response was, given the sophistication of the alarm system that assembled thousands of men within hours. The battle's place as the acknowledged "start" of the war is a matter of retrospective political framing as much as a clean military fact, since low-level friction had been building for months.
+
 ## Related
 
 - `preceded_by:` the Coercive Acts · `followed_by:` [[battle-of-bunker-hill-1775]]

@@ -6,7 +6,7 @@ coordinates: [14.12, 38.72]
 period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages]
 controlled_by: [D'MT kingdom (pre-Aksumite), Kingdom of Aksum, Zagwe dynasty (nominal)]
 events_here: []
-processes_here: [[[aksumite-state-formation]], [[aksumite-expansion]]]
+processes_here: [ [[aksumite-state-formation]], [[aksumite-expansion]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 notes: updated 2026-06-27 with Ch. 11–12 architectural and monumental detail from Phillipson 2012

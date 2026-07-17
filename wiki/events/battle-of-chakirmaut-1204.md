@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [steppe]
 location: [Sa'ari steppe / Naqu Cliffs, western Mongolia]
-actors_primary: [[[genghis-khan|Chinggis Khan]], the Naiman (Tayang Khan)]
+actors_primary: [ [[genghis-khan|Chinggis Khan]], the Naiman (Tayang Khan)]
 actors_secondary: [Jochi Qasar, Temüge Otchigin, Jamuqa, Jebe, Güchülüg]
 event_type: battle
 scale_immediate: regional
@@ -43,6 +43,10 @@ Jamuqa was betrayed by his men and executed at his own request (bloodless trampl
 
 - `produced:` the **[[mongol-empire|Mongol state]]** and the campaigns beyond Mongolia.
 - `analogous_to:` later Mongol encirclements (Mohi 1241, Kalka feigned retreat).
+
+## Historiography
+
+The main source is the *Secret History of the Mongols*, a court chronicle composed in the generation after Chinggis Khan's death that already reads as dynastic legitimation rather than neutral reportage — its numbers, speeches, and precise chronology should be treated with caution. The Persian historian Rashid al-Din, writing nearly a century later under Ilkhanid patronage, supplies a parallel account in the *Jami al-Tawarikh* that both corroborates and diverges from the Secret History on sequence and detail, reflecting the compilatory, retrospective nature of both traditions. Chinese sources (the *Yuan Shi*) are terse and add little independent detail on this specific engagement. As with most early Mongol battles, troop strengths and casualty figures cannot be verified against any independent contemporary record, and the tactical reconstruction (double envelopment, dörben noqas) rests on a later, formulaic narrative tradition rather than eyewitness testimony.
 
 ## Related
 

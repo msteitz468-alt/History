@@ -5,8 +5,8 @@ date_start: ~2500 BCE
 date_end: ~1500 BCE (conquered by the early 18th Dynasty)
 period: [Early Bronze Age, Middle Bronze Age, Late Bronze Age]
 region: [nubia]
-affiliated_with: [[[hyksos]] (anti-Egyptian alliance, SIP)]
-opposed_by: [[[middle-kingdom-egypt]], [[new-kingdom-egypt]], [[kamose]], [[ahmose-i]]]
+affiliated_with: [ [[hyksos]] (anti-Egyptian alliance, SIP)]
+opposed_by: [ [[middle-kingdom-egypt]], [[new-kingdom-egypt]], [[kamose]], [[ahmose-i]]]
 key_events: []
 key_processes: []
 sources_ingested: 1

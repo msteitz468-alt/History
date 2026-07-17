@@ -1,5 +1,6 @@
 ---
 title: "Omar N. Bradley"
+aliases: [bradley-omar]
 actor_type: person
 date_start: 1893
 date_end: 1981

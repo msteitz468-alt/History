@@ -29,4 +29,17 @@ On 1 April 1976, Steve Jobs, Steve Wozniak, and Ronald Wayne signed the partners
 
 **Consequence Analysis**: Directly led to the Apple II (1977), the first mass-market personal computer with color graphics. Established the template of garage-to-IPO entrepreneurship. Set the closed, integrated philosophy that would define Apple’s later dominance.
 
+## Historiography
+
+Isaacson's authorized biography draws on interviews with Jobs,
+Wozniak, and other early participants, and is the standard secondary account; Wozniak's
+own memoir (*iWoz*) offers a complementary, sometimes divergent, first-person perspective
+that emphasizes his own engineering contribution over Jobs's later mythologized role.
+Early Apple history is otherwise reconstructed largely from participant recollection
+decades after the fact, so some details (exact dates, dialogue, motivations) rest on
+retrospective memory rather than contemporary documentation, and popular narratives have
+tended toward "great man" framing of Jobs that historians of technology increasingly
+qualify with attention to the broader Homebrew Computer Club and Silicon Valley milieu
+that made the founding possible.
+
 **Related**: [[actors/jobs-steve]] · [[actors/wozniak-steve]] · [[actors/apple-inc]] · [[places/silicon-valley]] · [[sources/isaacson-steve-jobs-2011]]

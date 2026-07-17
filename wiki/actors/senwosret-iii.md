@@ -5,10 +5,10 @@ date_start: ~1878 BCE (accession; conventional chronology)
 date_end: ~1839 BCE
 period: [Middle Bronze Age]
 region: [north-africa, levant]
-affiliated_with: [[[middle-kingdom-egypt]] (Twelfth Dynasty)]
+affiliated_with: [ [[middle-kingdom-egypt]] (Twelfth Dynasty)]
 opposed_by: [Kush / the Iuntiu of Nubia, the provincial nomarchs, the Amu of Palestine]
 key_events: [the Nubian campaigns and the Semna frontier]
-key_processes: [[[state-formation]], [[trade-network-formation]]]
+key_processes: [ [[state-formation]], [[trade-network-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, north-africa]

@@ -1,17 +1,18 @@
 ---
 title: Battle of Bouvines
+aliases: [battle-of-bouvines-1214.md]
 date_start: 1214-07-27
 date_end: 1214-07-27
 date_precision: exact
 period: [High Middle Ages]
 region: [western-europe]
 location: [Bouvines, near Valenciennes, Flanders]
-actors_primary: [[[philip-ii-augustus|Philip II Augustus of France]], [[frederick-ii-hohenstaufen|the anti-Otto coalition]], Otto IV of Brunswick, [[john-of-england|King John of England]]]
+actors_primary: [ [[philip-ii-augustus|Philip II Augustus of France]], [[frederick-ii-hohenstaufen|the anti-Otto coalition]], Otto IV of Brunswick, [[john-of-england|King John of England]]]
 actors_secondary: [the count of Flanders (Ferrand), the count of Boulogne, the German princes]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[john-of-england|John's attempt to recover Normandy and Anjou]], the Welf–Hohenstaufen struggle for the Empire, Philip Augustus's defence of his conquests]
+causes: [ [[john-of-england|John's attempt to recover Normandy and Anjou]], the Welf–Hohenstaufen struggle for the Empire, Philip Augustus's defence of his conquests]
 consequences: [the confirmation of the Capetian conquest of Normandy, the collapse of Otto IV and the triumph of [[frederick-ii-hohenstaufen|Frederick II]], the road to [[magna-carta-1215|Magna Carta]]]
 sources_ingested: 4
 last_updated: 2026-06-23
@@ -87,6 +88,10 @@ These details illustrate Verbruggen's broader argument on the revival of effecti
 **See detailed staff-college analysis:** [[hubs/warfare/high-middle-ages/bouvines-campaign/battle-of-bouvines-1214|Battle of Bouvines — Tactical Analysis]] (in preparation from Verbruggen).
 
 **France (1999) structural evidence (Ch. 10–11, exclusive Range 03)**: "At Bouvines, there were less than 20,000 men in all." Armies ad hoc; "the persistent association of rank, political power and military authority meant that there could be no clear chain of command." At Bouvines "the effective military commander seems to have been a cleric, Guérin, the bishop-elect of Senlis, a Hospitaller knight who always wore his habit." Both Philip Augustus and Otto IV "were exposed to mortal danger." Philip "firmly in charge"; Otto "fought bravely, but he never seems to have been in control" (contextual from Ch. 13 cross-ref but size/command from Ch. 10–11). Contributes to understanding of retinue limits and command realities without primary tactical reconstruction (see Range 05 appendix work). Grounded only in assigned range.
+
+## Historiography
+
+Contemporary narrative sources are richly detailed but were mostly commissioned in celebration of Philip Augustus's victory: William the Breton's *Philippide*, an epic in Latin verse, and his prose *Gesta Philippi Augusti* are laudatory court productions, while the *Anonymous of Béthune* offers a more independent, Flemish-inflected perspective. Georges Duby's *Le dimanche de Bouvines* (1973) is the landmark modern treatment, using the battle as a case study in how medieval chroniclers constructed meaning around a single day of combat, and remains the methodological touchstone for the tactical reconstructions (Verbruggen, France) synthesized above. Numbers on both sides are uncertain and were exaggerated in the retelling, as was typical of victory narratives; the precise sequence of the cavalry engagements and the extent of the infantry's contribution remain matters of ongoing tactical reconstruction rather than settled fact.
 
 ## Related
 

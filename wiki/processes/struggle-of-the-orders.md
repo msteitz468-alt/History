@@ -41,7 +41,7 @@ structural conflict. The modern framing captures a real dynamic but risks
 overstating the coherence and continuity of plebeian organization.
 
 `part_of: [[roman-republic]]`  
-`concurrent_with: [[roman-expansion-to-287bce]]`  
+`concurrent_with: roman expansion to 287bce`  
 `contrasts_with: [[spartan-hegemony]]` (an aristocratic system that did not
 evolve toward wider citizen participation)
 

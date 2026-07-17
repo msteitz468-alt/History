@@ -5,10 +5,10 @@ date_start: c. 1235 CE (traditional: Sunjata's victory at Kirina)
 date_end: c. 1600 CE (reduced to a rump after the 15th c.; eclipsed by Songhay)
 period: [High Middle Ages, Late Middle Ages]
 region: [west-africa, sub-saharan-africa]
-affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Mande/Mandinka (Manding) peoples"]
-opposed_by: [[[ghana-empire|the declining Ghana/Wagadu]], "the Sosso kingdom", "the Mossi", "later Songhay and Tuareg"]
+affiliated_with: [ [[trans-saharan-trade]], [[islam]], "the Mande/Mandinka (Manding) peoples"]
+opposed_by: [ [[ghana-empire|the declining Ghana/Wagadu]], "the Sosso kingdom", "the Mossi", "later Songhay and Tuareg"]
 key_events: ["the battle of Kirina (c. 1235)", "Mansa Musa's pilgrimage to Mecca (1324)"]
-key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islam]], [[afro-eurasian-world-system]]]
+key_processes: [ [[trans-saharan-trade]], [[state-formation]], [[islam]], [[afro-eurasian-world-system]]]
 sources_ingested: 7
 last_updated: 2026-06-14
 tags: [actor, empire, high-middle-ages, late-middle-ages, west-africa]

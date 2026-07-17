@@ -6,7 +6,7 @@ date_precision: exact
 period: [Late Middle Ages]
 region: [balkans]
 location: [Kosovo Polje (the Field of Blackbirds), Serbia]
-actors_primary: [[[ottoman-empire|the Ottomans]] under Murad I, the Serbian coalition under Prince Lazar]
+actors_primary: [ [[ottoman-empire|the Ottomans]] under Murad I, the Serbian coalition under Prince Lazar]
 actors_secondary: [Bosnian and Balkan Christian contingents, Bayezid I]
 event_type: [battle]
 scale_immediate: regional
@@ -51,6 +51,10 @@ military result, the battle became the **central myth of Serbian national identi
 "Kosovo legend" of heroic sacrifice and martyrdom for the faith, transmitted in epic poetry and
 still potent into the modern era. It stands with **Nicopolis (1396)**, the crushed western crusade,
 as a marker of the Ottoman ascendancy that only Timur's blow at Ankara (1402) briefly interrupted.
+
+## Historiography
+
+Kosovo is one of the most heavily mythologized battles in European history, and the near-contemporary record is thin: brief Byzantine and Ragusan notices, a handful of Ottoman court chronicles written a century or more later (e.g. Aşıkpaşazade), and Serbian ecclesiastical sources that quickly folded the battle into a hagiographic narrative of Lazar's martyrdom. The richest material — the "Kosovo cycle" of Serbian epic poetry — is oral tradition first written down centuries afterward and reflects national memory more than eyewitness fact, complicating any tactical reconstruction. Even the battle's basic strategic outcome is disputed: whether it was a narrow Ottoman victory, a mutually costly draw, or a Serbian tactical success overturned by the loss of both commanders is argued differently across the Ottoman, Serbian, and modern academic traditions. The circumstances of Murad I's death (assassination by Miloš Obilić) rest on legend rather than corroborated report, and the myth's later political uses (especially in 19th–20th-century Serbian nationalism) are themselves a major subject of historiographical study, separate from the underlying medieval event.
 
 ## Related
 

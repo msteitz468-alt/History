@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Hannah's Cowpens, South Carolina]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[morgan-daniel]], Banastre Tarleton, [[greene-nathanael]], [[cornwallis-charles]]]
+actors_secondary: [ [[morgan-daniel]], Banastre Tarleton, [[greene-nathanael]], [[cornwallis-charles]]]
 event_type: [battle]
 scale_immediate: local
 scale_consequential: regional
@@ -48,6 +48,10 @@ with an independent command again."
   Dan."
 - `enabled:` the attritional path through **[[battle-of-guilford-courthouse-1781|Guilford Courthouse]]**
   that bled Cornwallis toward Virginia and **[[siege-of-yorktown-1781|Yorktown]]**.
+
+## Historiography
+
+Morgan's own after-action report and Continental Congress records document the victory closely; Tarleton's own (self-justifying) memoir gives the British side. Historians have long debated how much of the celebrated "three-line" defense was pre-planned genius versus adaptation to known militia limitations under fire, and how much credit belongs to Morgan alone versus subordinate commanders (Howard, William Washington's cavalry). The battle is a staple of American military history precisely because it functions as a clean textbook tactical case — the "double envelopment," compared here to Cannae — and some historians caution against reading too much doctrinal tidiness into what was also a product of Tarleton's impetuosity and poor scouting.
 
 ## Related
 

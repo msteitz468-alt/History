@@ -8,7 +8,7 @@ region: [north-africa, egypt]
 affiliated_with: [Fatimid Caliphate, al-Mu'izz li-Din Allah]
 opposed_by: [Umayyads of Córdoba, Ikhshidids of Egypt]
 key_events: [fatimid-conquest-of-egypt-969, founding of Cairo (969), reconquest of the western Maghrib (958–960)]
-key_processes: [[[empire]]]
+key_processes: [ [[empire]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, north-africa, egypt, islamic-world]

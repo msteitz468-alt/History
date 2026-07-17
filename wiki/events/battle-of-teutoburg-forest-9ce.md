@@ -6,12 +6,12 @@ date_precision: year
 period: [Late Antiquity]
 region: [western-europe, central-europe]
 location: [the Teutoburg Forest region, between the Weser and the Ems, Germania]
-actors_primary: [[[arminius]], Publius Quinctilius Varus, [[augustus|Augustus]]]
+actors_primary: [ [[arminius]], Publius Quinctilius Varus, [[augustus|Augustus]]]
 actors_secondary: [the Cherusci and allied German tribes, the legions XVII, XVIII and XIX, [[tiberius]]]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[augustan-imperial-expansion|the Roman penetration of Germany]], Varus' premature imposition of taxation and Roman jurisdiction, the revolt organised by [[arminius]]]
+causes: [ [[augustan-imperial-expansion|the Roman penetration of Germany]], Varus' premature imposition of taxation and Roman jurisdiction, the revolt organised by [[arminius]]]
 consequences: [the loss of three legions, the abandonment of permanent occupation between Rhine and Elbe, the long-run fixing of the Rhine as the imperial frontier, the disputed scale of its strategic effect]
 sources_ingested: 3
 last_updated: 2026-07-08

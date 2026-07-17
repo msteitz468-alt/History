@@ -85,6 +85,22 @@ survived its institutional home, carried into the medieval worlds of Byzantium a
 - The **survival of Neoplatonism** through Simplicius's commentaries and the Alexandrian school, refuting
   the simplest "end of philosophy" narrative.
 
+## Historiography
+
+The narrative source for the philosophers' departure is **Agathias** (*Histories* ii.30–31),
+writing decades later under Justin II — a Christian author generally well-informed but with
+no personal sympathy for pagan philosophy, whose brief and somewhat moralizing account is the
+only literary testimony to the migration to Persia. Justinian's actual legislation survives
+independently in the **Codex Justinianus**, giving unusually solid documentary grounding for
+the ban itself, even where its consequences are murkier. As the body of this page discusses,
+modern scholars (Alan Cameron against Michel Tardieu) disagree sharply over where the
+philosophers ended up and whether the "closing" is better read as a brief, largely symbolic
+disruption or a genuine institutional death — a debate that turns partly on archaeological
+evidence from the Areopagus houses and partly on how much weight to place on later, thin
+testimony like al-Masʿūdī's report of a Harranian Platonist school. The label "closing of the
+Academy" is itself now often treated as a later historiographical overstatement, since
+Neoplatonism demonstrably continued at Alexandria and through Simplicius's commentaries.
+
 ## Related
 
 - `caused_by:` [[justinian|Justinian's]] enforcement of orthodoxy; the philosophers fled to

@@ -13,9 +13,9 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes:
   - caused_by: "[[latin-war-340-338bce|Roman victory in the Latin War (340–338 BCE)]]"
-  - contributed_to: "[[roman-bellicosity|Roman need to manage the conquered communities without straining city-state institutions]]"
+  - contributed_to: "Roman need to manage the conquered communities without straining city-state institutions"
 consequences:
-  - produced: "[[nomen-romanum|The Roman commonwealth (nomen Romanum): the organized Italian alliance system]]"
+  - produced: "The Roman commonwealth (nomen Romanum): the organized Italian alliance system"
   - produced: "[[civitas-sine-suffragio|Civitas sine suffragio as a portable legal category applicable to non-Latin communities]]"
   - enabled: "[[roman-expansion-italy|Roman expansion into Samnium and beyond, using the commonwealth's manpower resources]]"
   - enabled: "[[roman-colonization|Latin colony program that extended the commonwealth's reach throughout Italy]]"

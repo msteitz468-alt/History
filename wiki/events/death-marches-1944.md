@@ -6,8 +6,8 @@ date_precision: year
 period: [World Wars Era]
 region: [eastern-europe, central-europe]
 location: [routes from Auschwitz, Stutthof, Gross-Rosen and other camps into the shrinking Reich]
-actors_primary: [[[schutzstaffel-ss]], concentration-camp prisoners]
-actors_secondary: [[[himmler-heinrich|Heinrich Himmler]], local Volkssturm and civilian participants]
+actors_primary: [ [[schutzstaffel-ss]], concentration-camp prisoners]
+actors_secondary: [ [[himmler-heinrich|Heinrich Himmler]], local Volkssturm and civilian participants]
 event_type: other
 scale_immediate: regional
 scale_consequential: civilizational

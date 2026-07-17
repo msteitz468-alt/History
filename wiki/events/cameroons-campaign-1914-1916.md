@@ -54,6 +54,10 @@ Ebermaier (civilian inspiration of defence); Zimmerman (frustrated central comma
 
 All grounded exclusively in Strachan Ch. 7 Cameroons sections. Links to established names and [[events/first-world-war-1914]], [[sources/strachan-first-world-war-to-arms-2001]].
 
+## Historiography
+
+Strachan's *The First World War: To Arms* (2001), on which this page draws, is itself explicit about the source problem: the African campaigns are reconstructed almost entirely from German, British, French, and Belgian military and colonial-administration records, with African participants — porters, askaris, and the Beti and other affected peoples — appearing only as objects of colonial reporting rather than as voices in their own right. Casualty and logistical figures (porter numbers, ammunition stocks) derive from official returns of uneven reliability across the four cooperating (and often uncoordinated) Allied commands. Historians debate how far to read the campaign through a purely military lens versus as continuous with pre-war colonial conquest warfare — Strachan explicitly argues the latter, noting the campaign's methods and stakes resembled nineteenth-century colonial wars more than the industrialized fighting in Europe.
+
 ## Related
 
 [[events/first-world-war-1914]] · [[hubs/warfare/world-wars-era/first-world-war/first-world-war]] · west-africa regions

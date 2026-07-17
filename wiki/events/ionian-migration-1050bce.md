@@ -12,7 +12,7 @@ actors_secondary: [the Carians, the Lydians, the Phrygians, the displaced Mycena
 event_type: [migration]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[dorian-invasion-1120bce|the Dorian invasion]], depopulation and overcrowding of refugee Attica, the search for new land]
+causes: [ [[dorian-invasion-1120bce|the Dorian invasion]], depopulation and overcrowding of refugee Attica, the search for new land]
 consequences: [the Greek cities of the Asia Minor coast, the Ionian dialect, the Panionic league, the birth of the polis, the matrix of Homer and Ionian science]
 sources_ingested: 1
 last_updated: 2026-06-11

@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: ["near modern Najaf, Iraq"]
 coordinates: []
 period_active: [late-antiquity]
-controlled_by: [[[lakhmids]], [[sasanian-empire]]]
-events_here: [[[najran-massacre-523]]]
-processes_here: [[[super-phylarchate]]]
+controlled_by: [ [[lakhmids]], [[sasanian-empire]]]
+events_here: [ [[najran-massacre-523]]]
+processes_here: [ [[super-phylarchate]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [place, mesopotamia, late-antiquity]

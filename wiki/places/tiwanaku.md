@@ -6,7 +6,7 @@ coordinates: ~16.55°S, 68.67°W
 period_active: [Late Antiquity, Early Middle Ages]
 controlled_by: [Tiwanaku state]
 events_here: []
-processes_here: [[[urbanization]], [[ruralization]]]
+processes_here: [ [[urbanization]], [[ruralization]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, andes, late-antiquity]

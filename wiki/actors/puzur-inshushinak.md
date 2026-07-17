@@ -5,10 +5,10 @@ date_start: fl. c. 2100 BCE
 date_end: c. 2090 BCE (defeated by Ur-Namma)
 period: [Early Bronze Age]
 region: [iran-plateau, khuzistan, mesopotamia]
-affiliated_with: [[[elam]], [[susa|Susa]], Awan]
-opposed_by: [[[third-dynasty-of-ur]], [[ur-nammu|Ur-Namma]], Gutians]
+affiliated_with: [ [[elam]], [[susa|Susa]], Awan]
+opposed_by: [ [[third-dynasty-of-ur]], [[ur-nammu|Ur-Namma]], Gutians]
 key_events: [his conquest of "eighty-one regions", defeat by Ur-Namma]
-key_processes: [[[state-formation]], [[writing-and-record-keeping]]]
+key_processes: [ [[state-formation]], [[writing-and-record-keeping]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, iran-plateau]

@@ -25,3 +25,17 @@ The Rivonia Trial was the 1963–64 prosecution by the South African apartheid g
 Nelson Mandela, already serving a five-year sentence for leaving the country illegally, was added as Accused No. 1. The defendants included Walter Sisulu, Govan Mbeki, Ahmed Kathrada, and others. The state sought the death penalty. Mandela’s statement from the dock (“I am prepared to die”) became one of the most famous political speeches of the twentieth century. On 12 June 1964 eight of the accused were sentenced to life imprisonment. The trial removed the internal leadership of MK and the ANC for a generation and turned the prisoners into global symbols of resistance.
 
 Meredith provides a detailed narrative of the raid, the trial proceedings, and the decision to use the dock as a political platform rather than mount a narrow legal defense.
+
+## Historiography
+
+Meredith's account draws on court transcripts (the trial record, including Mandela's
+"Statement from the Dock," is a primary source of enduring historical significance),
+Mandela's own memoir, and interviews with surviving participants and defense counsel.
+The trial record itself is well preserved and largely undisputed in its facts; historians
+have focused instead on interpretive questions — the extent to which the ANC/MK's turn
+to armed struggle was a considered strategic shift versus a reactive response to
+Sharpeville-era repression, and Bram Fischer's own remarkable position as a leading
+Afrikaner communist defending the accused (he was later imprisoned himself). South African
+state security records from the period have become progressively available since the
+1990s transition, refining understanding of how the security police obtained the Liliesleaf
+Farm intelligence, though some details of informant networks remain contested.

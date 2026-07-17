@@ -6,7 +6,7 @@ coordinates: [approx. 19.6°S, 65.75°W]
 period_active: [Early Modern, Age of Expansion]
 controlled_by: ["[[inca-empire|the Inca]] (region)", "the Spanish Crown (Viceroyalty of Peru)"]
 events_here: [the 1545 silver strike, the introduction of mercury amalgamation (1571), Toledo's reorganization of the mita (1572)]
-processes_here: [[[global-silver-trade]], [[mita-and-andean-reciprocity]], [[encomienda]]]
+processes_here: [ [[global-silver-trade]], [[mita-and-andean-reciprocity]], [[encomienda]]]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [place, andes, early-modern]

@@ -11,7 +11,7 @@ actors_secondary: [Cao Cao, Zhuge Liang, Sima Yi, Sima Zhao; the last Han empero
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[han-dynasty|the fall of the Eastern Han]], the eunuch massacre of 189 CE, warlord fragmentation, the Yellow Turban rebellion]
+causes: [ [[han-dynasty|the fall of the Eastern Han]], the eunuch massacre of 189 CE, warlord fragmentation, the Yellow Turban rebellion]
 consequences: [the Jin reunification (280 CE), four centuries of division, the spread of [[buddhism]] and organized [[daoism]]]
 sources_ingested: 1
 last_updated: 2026-06-26

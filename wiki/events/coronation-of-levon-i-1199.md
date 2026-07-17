@@ -6,13 +6,13 @@ date_precision: exact
 period: [High Middle Ages]
 region: [anatolia, levant]
 location: [the Church of Sourp Sophia (Holy Wisdom), Tarsus, Cilicia]
-actors_primary: [[[levon-i-of-cilician-armenia|Levon I]], "Grigor VI Pahlavuni (Armenian patriarch)", "Conrad of Wittelsbach, archbishop of Mainz"]
+actors_primary: [ [[levon-i-of-cilician-armenia|Levon I]], "Grigor VI Pahlavuni (Armenian patriarch)", "Conrad of Wittelsbach, archbishop of Mainz"]
 actors_secondary: ["Emperor Henry VI", "Pope Celestine III", "Pope Innocent III", "Nerses of Lampron"]
 event_type: political
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[armenian-latin-integration|Armenian–Latin integration]], "Levon's quest for a Western-recognized crown", "the Act of Union of 1198 with Rome", "Frederick Barbarossa's earlier promise of a crown, inherited by Henry VI"]
-consequences: [[[cilician-armenian-kingdom|the founding of the crowned Cilician Armenian Kingdom]], "the severing of the Byzantine connection", [[armenian-church-union-question|the union controversy with Rome]]]
+causes: [ [[armenian-latin-integration|Armenian–Latin integration]], "Levon's quest for a Western-recognized crown", "the Act of Union of 1198 with Rome", "Frederick Barbarossa's earlier promise of a crown, inherited by Henry VI"]
+consequences: [ [[cilician-armenian-kingdom|the founding of the crowned Cilician Armenian Kingdom]], "the severing of the Byzantine connection", [[armenian-church-union-question|the union controversy with Rome]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [event, high-middle-ages, anatolia, levant]

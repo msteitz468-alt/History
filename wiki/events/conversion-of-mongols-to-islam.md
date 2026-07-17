@@ -96,4 +96,8 @@ Several structural factors facilitated conversion:
 
 Formichi (2020) extends the picture eastward: beyond the Ilkhanid (Ghazan) and Golden Horde (Oz Beg) conversions, she treats **Tughluq Timur Khan's** conversion (r. 1347–1362) as the event that brought "most Turkic peoples of Central Asia" into Islam — the decisive step for the eastern [[chaghatay-khanate|Chaghatay]] steppe (see that page). She reads these Sufi-mediated conversion narratives cautiously as later hagiography. See [[formichi-islam-and-asia-2020|Formichi, *Islam and Asia* (2020)]].
 
+## Historiography
+
+Evidence for these conversions rests heavily on later Persian and Arabic chronicle and hagiographic traditions — including the Sufi-mediated conversion narratives for figures like Tughluq Timur that Formichi (2020) explicitly treats as retrospective hagiography composed generations after the fact to legitimate a ruling house's Islamic credentials, not contemporary record. Hodgson's synthesis, composed in the 1950s–60s and published posthumously in 1974, represents an earlier generation of Islamicate historiography; more recent scholarship, including Formichi's, has extended and complicated the picture, particularly for the Chaghatayid/eastern steppe conversions. Debate continues over how genuine and rapid elite conversion actually was versus a longer, more syncretic process, and over how much weight to give court religious performance as against continuing popular or steppe religious practice beneath it.
+
 Source: [[hodgson-venture-of-islam-v2-1974]], Book Four, Chapter I.

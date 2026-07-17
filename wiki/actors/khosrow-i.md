@@ -5,7 +5,7 @@ date_start: c. 512 CE (born)
 date_end: 579 CE (died)
 period: [Late Antiquity]
 region: [iran-plateau, mesopotamia, near-east]
-affiliated_with: [[[sasanian-empire|Sasanian Empire]], the house of Sasan, [[zoroastrianism|Zoroastrianism]]]
+affiliated_with: [ [[sasanian-empire|Sasanian Empire]], the house of Sasan, [[zoroastrianism|Zoroastrianism]]]
 opposed_by: [the [[byzantine-empire|Byzantine Empire]] (Justinian), the Mazdakites, the Hephthalites]
 key_events: [the suppression of the Mazdakite movement, the tax and army reforms, the 562 CE peace with Justinian, the conquest of Yemen]
 key_processes: [the centralization of the Sasanian state, the four-spahbed military reorganization, the rise of the dehqan service nobility]

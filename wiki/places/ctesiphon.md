@@ -6,7 +6,7 @@ coordinates: ~33.1°N, 44.6°E
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: ["[[parthian-empire|Parthians]]", "[[sasanian-empire|Sasanians]]", "Rashidun Caliphate"]
 events_here: []
-processes_here: [[[silk-roads]], [[trade-network-formation]]]
+processes_here: [ [[silk-roads]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, mesopotamia, iran-plateau, silk-road]

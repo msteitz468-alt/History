@@ -6,9 +6,9 @@ date_end: 63 BCE
 period: [Classical Antiquity]
 region: [near-east, levant, mesopotamia, iran-plateau, central-asia, anatolia, south-asia]
 affiliated_with: [the Graeco-Macedonian settler class, the Greek cities of Asia Minor]
-opposed_by: [[[ptolemaic-egypt]], [[parthian-empire]], [[greco-bactrian-kingdom]], [[pergamon]], [[rome|Rome]], the Maccabees]
-key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[syrian-wars]], [[battle-of-raphia-217]]]
-key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[seleucid-colonization]], [[seleucid-era]]]
+opposed_by: [ [[ptolemaic-egypt]], [[parthian-empire]], [[greco-bactrian-kingdom]], [[pergamon]], [[rome|Rome]], the Maccabees]
+key_events: [ [[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[syrian-wars]], [[battle-of-raphia-217]]]
+key_processes: [ [[hellenistic-monarchy]], [[hellenistic-world]], [[seleucid-colonization]], [[seleucid-era]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, empire, dynasty, classical-antiquity, near-east, mesopotamia]

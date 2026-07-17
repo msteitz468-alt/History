@@ -6,7 +6,7 @@ date_precision: year
 period: [Early Middle Ages]
 region: [mediterranean, western-europe]
 location: [Pavia and the Lombard kingdom of northern Italy]
-actors_primary: [[[charlemagne]], [[desiderius]] (last Lombard king), [[pope-hadrian-i]]]
+actors_primary: [ [[charlemagne]], [[desiderius]] (last Lombard king), [[pope-hadrian-i]]]
 actors_secondary: [the duchies of Spoleto and Benevento, the papacy]
 event_type: war
 scale_immediate: regional

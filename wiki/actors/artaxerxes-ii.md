@@ -5,8 +5,8 @@ date_start: c. 435 BCE (born)
 date_end: 358 BCE (died; succeeded by Artaxerxes III)
 period: [Classical Antiquity]
 region: [iran-plateau, mesopotamia, anatolia]
-affiliated_with: [[[achaemenid-empire|Achaemenid Persia]], the satraps Tiribazus, Tissaphernes, Pharnabazus]
-opposed_by: [[[cyrus-the-younger|Cyrus the Younger]] (his brother), the rebel satraps, Evagoras of Salamis, Egypt in revolt]
+affiliated_with: [ [[achaemenid-empire|Achaemenid Persia]], the satraps Tiribazus, Tissaphernes, Pharnabazus]
+opposed_by: [ [[cyrus-the-younger|Cyrus the Younger]] (his brother), the rebel satraps, Evagoras of Salamis, Egypt in revolt]
 key_events: [accession 404 BCE, the battle of [[march-of-the-ten-thousand-401bce|Cunaxa]] 401 BCE, the [[kings-peace-386bce|King's Peace]] 386 BCE, the Revolt of the Satraps c. 366–360 BCE]
 key_processes: [Persian arbitration of Greek affairs, the failure to reconquer Egypt]
 sources_ingested: 2

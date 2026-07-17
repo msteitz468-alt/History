@@ -1,5 +1,6 @@
 ---
 title: Partial Offensive
+aliases: [nibbling-wwi]
 concept_type: doctrinal / operational
 origin: Joseph Joffre / GQG, September 1914 onward (explicit orders during race to the sea and siege phase)
 applies_to_periods: [world-wars-era]

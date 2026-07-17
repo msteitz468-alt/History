@@ -48,6 +48,10 @@ naval withdrawal of Cornwallis's army."
   Yorktown without relief, resupply, or escape. Conway: "Perhaps this was the decisive moment of the
   whole campaign."
 
+## Historiography
+
+The battle is unusually well documented for a Revolutionary War naval action, through official log books and dispatches from de Grasse, Graves, and Hood, which has permitted historians (Conway notably) to reconstruct and adjudicate a long-running controversy over Samuel Hood's conduct — whether his rear division's failure to fully engage reflects a genuine tactical fault, a defensible reading of Graves's confusing signals, or later scapegoating by rivals. Naval historians differ on how "decisive" to call a tactically inconclusive action; the case is frequently used to argue that strategic consequence and tactical outcome can diverge sharply. The battle also sits within the broader historiographical argument, advanced by Conway and others, for treating the Revolution as fundamentally a naval and global war rather than a land campaign decided in North America alone.
+
 ## Related
 
 - `part_of:` the [[siege-of-yorktown-1781|Yorktown campaign]], [[american-revolution]]

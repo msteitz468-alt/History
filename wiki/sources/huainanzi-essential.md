@@ -1,5 +1,6 @@
 ---
 title: "The Essential Huainanzi (trans./ed. John S. Major, Sarah A. Queen, Andrew Seth Meyer, Harold D. Roth)"
+aliases: [huainanzi]
 author: compiled under Liu An, King of Huainan (presented 139 BCE)
 year: 139 BCE (presented to Emperor Wu); this translation Columbia University Press / Translations from the Asian Classics, 2012 (abridged from the 2010 complete edition)
 source_type: primary

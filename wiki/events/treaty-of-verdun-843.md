@@ -6,12 +6,12 @@ date_precision: year
 period: [Early Middle Ages]
 region: [western-europe]
 location: [Verdun, Middle Francia]
-actors_primary: [[[lothar-i]], [[louis-the-german]], [[charles-the-bald]]]
+actors_primary: [ [[lothar-i]], [[louis-the-german]], [[charles-the-bald]]]
 actors_secondary: [Pippin II of Aquitaine (excluded), the Frankish aristocracy, noble missi assessing royal resources]
 event_type: treaty
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[battle-of-fontenoy-841]], the failure of the unitary 817 imperial settlement, Frankish partible inheritance, aristocratic interests]
+causes: [ [[battle-of-fontenoy-841]], the failure of the unitary 817 imperial settlement, Frankish partible inheritance, aristocratic interests]
 consequences: [tripartite division of the Frankish empire, the long divergence of France and Germany, the contested Middle Kingdom/Lotharingia]
 sources_ingested: 1
 last_updated: 2026-06-12

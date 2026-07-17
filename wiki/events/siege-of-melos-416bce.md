@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [aegean]
 location: [Melos]
-actors_primary: [[[places/athens|Athens]], [[delian-league|the Athenian empire]], Melos]
-actors_secondary: [[[sparta]] (the mother-city of Melos)]
+actors_primary: [ [[places/athens|Athens]], [[delian-league|the Athenian empire]], Melos]
+actors_secondary: [ [[sparta]] (the mother-city of Melos)]
 event_type: war
 scale_immediate: local
 scale_consequential: regional
@@ -65,6 +65,23 @@ caused_by: Athenian insistence that no island remain neutral, and the empire's r
 assertiveness after the Peace of Nicias. produced: the **destruction of Melos** and a lasting
 symbol of imperial ruthlessness; and, through Thucydides, the West's classic text on **power
 versus justice** between states.
+
+## Historiography
+
+Melos is known essentially only through **Thucydides**, and the source itself is the
+central historiographical problem: the historian states elsewhere in his work (i.22)
+that speeches represent what he judged "called for" by the situation rather than a
+verbatim record, and the **Melian Dialogue**'s unique dramatic form (rather than the
+paired antithetical speeches used everywhere else in the work) marks it as an
+exceptionally deliberate literary and philosophical construction rather than a
+transcript of an actual negotiation. No Melian voice survives independently — the
+adult male population was killed and the rest enslaved — so the "Melian" side of the
+dialogue is entirely a Thucydidean invention, which sharpens rather than resolves the
+long-standing debate (noted above, following Andrewes) over whether Thucydides intends
+moral critique of Athens, dispassionate analysis of power politics, or something more
+ambiguous. Because the episode's fame rests so heavily on this one authored text, its
+historical significance and its literary/philosophical significance are difficult to
+disentangle.
 
 ## Related
 

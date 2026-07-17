@@ -8,7 +8,7 @@ region: [china, east-asia, steppe, central-asia]
 affiliated_with: [the house of Genghis (grandson), the [[mongol-empire|Mongol Empire]] (Great Khan), the [[yuan-dynasty|Yuan dynasty]] (founder)]
 opposed_by: [the [[song-dynasty|Southern Song]], his brother Ariq Böke and rival Mongol khans, Japan and Đại Việt (failed invasions)]
 key_events: ["election as Great Khan and civil war with Ariq Böke (1260–64)", "founding of the Yuan dynasty (1271)", "conquest of the Southern Song (completed 1279)", "the failed invasions of Japan (1274, 1281) and Southeast Asia"]
-key_processes: [[[mongol-conquests-13th-century]], the founding of the [[yuan-dynasty|Yuan]], pax mongolica]
+key_processes: [ [[mongol-conquests-13th-century]], the founding of the [[yuan-dynasty|Yuan]], pax mongolica]
 sources_ingested: 1
 last_updated: 2026-06-14
 tags: [actor, person, high-middle-ages, china, east-asia, steppe]

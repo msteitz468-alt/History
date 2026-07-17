@@ -6,7 +6,7 @@ date_end: 25 December 795 CE
 period: [Early Middle Ages]
 region: [mediterranean, central-europe]
 affiliated_with: [the Papacy, the city of Rome, [[charlemagne|the Frankish kingdom]]]
-opposed_by: [[[desiderius|the Lombard kingdom]]]
+opposed_by: [ [[desiderius|the Lombard kingdom]]]
 key_events: [Frankish conquest of Lombard Italy 774, Donation of Quierzy, Second Council of Nicaea 787]
 key_processes: []
 sources_ingested: 1

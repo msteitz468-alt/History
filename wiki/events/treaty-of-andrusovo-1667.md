@@ -39,3 +39,7 @@ The Treaty of Andrusovo produced:
 * **Partition of Ukraine:** The treaty permanently divided Ukraine, frustrating Cossack attempts to build a unified autonomous state and leading to decades of conflict ("the Ruin") (L2458).
 * **Rise of the Russian Empire:** The acquisition of Smolensk, Kiev, and Left-bank Ukraine laid the territorial foundation for Russia's emergence as the dominant power in Eastern Europe (L2458, L2908).
 * **Alliance against Turkey:** The treaty initiated a long-term geopolitical realignment, bringing Russia and Poland together as allies against the Ottoman Empire, which was confirmed by the 1686 peace treaty (L2802-2804).
+
+## Historiography
+
+The treaty narrative rests on Muscovite and Polish-Lithuanian chancery negotiation records, which document the formal terms with reasonable precision but say comparatively little about Cossack or Ukrainian perspectives on a partition imposed over their own aspirations for a unified Hetmanate — the two great-power signatories' archives dominate the record at the expense of the party whose territory was actually being divided. Historians debate how far Cossack factionalism during "the Ruin" made partition all but inevitable versus how far Russian and Polish war-weariness alone drove the settlement; the treaty's provisional two-year arrangement for Kiev, which Russia never relinquished, is often read as evidence of Muscovite bad faith exploiting an ambiguous clause, though the surviving sources do not settle the question of original intent on either side.

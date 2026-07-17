@@ -5,10 +5,10 @@ date_start: 240 CE
 date_end: 274 CE
 period: [Late Antiquity]
 region: [near-east, levant, mediterranean-world]
-affiliated_with: [[[palmyra]]]
-opposed_by: [[[aurelian]], [[sasanian-empire]]]
+affiliated_with: [ [[palmyra]]]
+opposed_by: [ [[aurelian]], [[sasanian-empire]]]
 key_events: []
-key_processes: [[[third-century-crisis]]]
+key_processes: [ [[third-century-crisis]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, near-east]

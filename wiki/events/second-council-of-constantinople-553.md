@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Antiquity]
 region: [anatolia, mediterranean, italy, levant, north-africa]
 location: [Constantinople]
-actors_primary: [[[justinian|Justinian I]], the Fifth Ecumenical Council, Pope Vigilius]
+actors_primary: [ [[justinian|Justinian I]], the Fifth Ecumenical Council, Pope Vigilius]
 actors_secondary: [the Miaphysite churches, the Church of Persia, the bishops of Africa and Aquileia/Istria]
 event_type: religious
 scale_immediate: civilizational

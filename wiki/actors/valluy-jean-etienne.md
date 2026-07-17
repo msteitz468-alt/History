@@ -1,5 +1,6 @@
 ---
 title: "Jean-Étienne Valluy"
+aliases: [jean-etienne-valluy]
 actor_type: "person"
 date_start: "1899"
 date_end: "1970"

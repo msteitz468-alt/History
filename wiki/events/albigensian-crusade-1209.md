@@ -6,12 +6,12 @@ date_precision: year
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
 location: [Languedoc, Toulouse, Béziers, Carcassonne, Muret, Montségur]
-actors_primary: [[[papacy]], [[innocent-iii]], Simon de Montfort, Raymond VI of Toulouse, Raymond VII of Toulouse, [[capetian-dynasty]], [[catharism]]]
+actors_primary: [ [[papacy]], [[innocent-iii]], Simon de Montfort, Raymond VI of Toulouse, Raymond VII of Toulouse, [[capetian-dynasty]], [[catharism]]]
 actors_secondary: [Peter II of Aragon, Louis VIII of France, [[dominican-order|Dominic of Guzmán]], Arnald-Amalric]
 event_type: [war, religious]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[catharism|the spread of Catharism in Languedoc]], the assassination of the legate Peter of Castelnau (1208), the refusal of the southern lords to suppress heresy, [[papal-monarchy|papal assertion of authority over heretical rulers]]]
+causes: [ [[catharism|the spread of Catharism in Languedoc]], the assassination of the legate Peter of Castelnau (1208), the refusal of the southern lords to suppress heresy, [[papal-monarchy|papal assertion of authority over heretical rulers]]]
 consequences: [the Capetian annexation of Languedoc, the founding of the [[medieval-inquisition|papal Inquisition]], the eventual extinction of Catharism, the integration of the Midi into the French crown, the precedent of the "political crusade"]
 sources_ingested: 2
 last_updated: 2026-07-08

@@ -53,6 +53,10 @@ dominant foot of the age — the threshold of the early-modern [[military-revolu
 commanders incl. Hans Waldmann, Wilhelm Herter, René of Lorraine) · [[valois-burgundian-state|Valois
 Burgundy]] under Charles the Bold.
 
+## Historiography
+
+The war is unusually well documented for the reign of an eyewitness-adjacent memoirist: Philippe de Commines, a former close counselor of Charles the Bold who defected to Louis XI, gives an intimate and largely credible (if self-justifying) account of Burgundian court decision-making and Charles's fatal misjudgments. Swiss urban chronicles, notably Diebold Schilling's illustrated chronicles of Bern and Lucerne, supply detailed (and civically celebratory) accounts of the three battles from the victors' side. Delbrück treats the campaign as the clearest demonstration available of disciplined pike infantry defeating a "modern" combined-arms army, and uses it to argue that the Burgundian defeats stemmed as much from Charles's repeated tactical and diplomatic misjudgments as from any inherent Swiss superiority — a reading that remains the dominant modern interpretation, though the precise troop numbers at each battle (especially Burgundian losses at Murten) vary considerably between contemporary estimates.
+
 ## Related
 
 - **Campaign analysis:** [[hubs/warfare/late-middle-ages/rise-of-the-swiss/burgundian-wars|The Burgundian Wars — Campaign Analysis]]

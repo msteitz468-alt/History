@@ -5,9 +5,9 @@ date_start: 1757
 date_end: 1834
 period: [Age of Expansion]
 region: [north-america, eastern-north-america, western-europe]
-affiliated_with: [[[continental-army]], [[washington-george]]]
-opposed_by: [[[cornwallis-charles]]]
-key_events: [[[battle-of-monmouth-1778]], [[siege-of-yorktown-1781]]]
+affiliated_with: [ [[continental-army]], [[washington-george]]]
+opposed_by: [ [[cornwallis-charles]]]
+key_events: [ [[battle-of-monmouth-1778]], [[siege-of-yorktown-1781]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

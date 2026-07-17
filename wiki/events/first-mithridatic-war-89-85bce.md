@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [anatolia, balkans, mediterranean-world]
 location: [Asia Minor, Greece — Athens, Chaeronea, Orchomenus]
-actors_primary: [[[mithridates-vi]], [[roman-republic]], Sulla]
+actors_primary: [ [[mithridates-vi]], [[roman-republic]], Sulla]
 actors_secondary: [Archelaus, Nicomedes of Bithynia, Aquillius, Fimbria, Lucullus]
 event_type: war
 scale_immediate: civilizational

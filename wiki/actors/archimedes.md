@@ -8,7 +8,7 @@ region: [sicily, mediterranean]
 affiliated_with: [Syracuse, the ruling house of Hiero II]
 opposed_by: []
 key_events: [the siege of Syracuse (213–211)]
-key_processes: [[[hellenistic-science]]]
+key_processes: [ [[hellenistic-science]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, sicily]

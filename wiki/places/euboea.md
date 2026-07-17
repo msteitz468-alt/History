@@ -6,7 +6,7 @@ coordinates: [approx. 38.4 N, 23.6 E]
 period_active: [Greek Dark Age, Early Iron Age, Archaic Period]
 controlled_by: [the Euboean towns (Chalcis, Eretria, Lefkandi)]
 events_here: [the Protogeometric recovery at Lefkandi, the founding of Al Mina (~end 9th c.), the founding of Pithecusae (~770), the Lelantine War, the Eretrian building programme (from ~700), the Athenian cleruchy on Chalcis (~506), the Persian sack of Eretria (490)]
-processes_here: [[[greek-dark-age|Dark Age recovery]], the orientalizing of Greek culture, Greek overseas trade and colonization]
+processes_here: [ [[greek-dark-age|Dark Age recovery]], the orientalizing of Greek culture, Greek overseas trade and colonization]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mediterranean, aegean, early-iron-age]

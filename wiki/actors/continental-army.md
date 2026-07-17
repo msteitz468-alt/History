@@ -5,10 +5,10 @@ date_start: 1775
 date_end: 1783
 period: [Age of Expansion]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[washington-george]], [[american-revolution]]]
-opposed_by: [[[howe-william]], [[clinton-henry]], [[cornwallis-charles]]]
-key_events: [[[siege-of-boston-1775]], [[valley-forge-1777]], [[battle-of-monmouth-1778]], [[siege-of-yorktown-1781]]]
-key_processes: [[[fiscal-military-state]], [[military-revolution]]]
+affiliated_with: [ [[washington-george]], [[american-revolution]]]
+opposed_by: [ [[howe-william]], [[clinton-henry]], [[cornwallis-charles]]]
+key_events: [ [[siege-of-boston-1775]], [[valley-forge-1777]], [[battle-of-monmouth-1778]], [[siege-of-yorktown-1781]]]
+key_processes: [ [[fiscal-military-state]], [[military-revolution]]]
 sources_ingested: 1
 last_updated: 2026-06-23
 tags: [actor, military-force, age-of-expansion, north-america]

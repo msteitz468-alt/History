@@ -1,5 +1,6 @@
 ---
 title: Thomas Jefferson
+aliases: [thomas-jefferson]
 actor_type: person
 date_start: 1743-04-13
 date_end: 1826-07-04

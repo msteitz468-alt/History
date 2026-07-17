@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Middle Bronze Age, Late Bronze Age]
 region: [north-africa, nubia, levant, near-east]
 process_type: political
-driven_by: [[[new-kingdom-egypt]], [[divine-kingship]], "demand for gold, timber, and trade control"]
+driven_by: [ [[new-kingdom-egypt]], [[divine-kingship]], "demand for gold, timber, and trade control"]
 produces: ["the Egyptian empire in Nubia and the Levant", "the 18th-Dynasty vassal system", "acculturation of subject elites"]
 sources_ingested: 1
 last_updated: 2026-06-27

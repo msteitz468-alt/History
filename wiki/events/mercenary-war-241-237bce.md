@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [north-africa]
 location: [North Africa (Tunisia), Sardinia]
-actors_primary: [[[carthage|Carthage]], Hamilcar Barca, Matho, Spendius]
+actors_primary: [ [[carthage|Carthage]], Hamilcar Barca, Matho, Spendius]
 actors_secondary: [Hanno the Great, Naravas (Numidian chief), [[roman-republic|Rome]] (passive role)]
 event_type: revolution
 scale_immediate: civilizational
@@ -131,6 +131,22 @@ alliances that became a signature Barcid instrument of rule. Hoyos also traces t
 Hanno–Hamilcar command breakdown (resolved by the unprecedented step of letting the troops
 vote which general to keep) and situates Rome's opportunistic seizure of Sardinia (237) as
 the humiliation that fed Hamilcar's Spanish project.
+
+## Historiography
+
+The war's only substantial ancient narrative is **Polybius** (*Histories* I.65–88),
+writing roughly seventy years after the events, drawing on now-lost sources (probably
+including the Sicilian-war participant Philinus and possibly early Roman annalists) and
+on his own inquiries during a period when eyewitnesses' descendants might still be
+consulted. No Carthaginian counter-narrative survives — Carthage's own historical
+tradition was largely destroyed with the city in 146 BCE — so the war is known almost
+entirely through a Greek historian sympathetic to Rome and inclined to read Carthage's
+near-defeat as proof of the structural weakness of mercenary armies compared to citizen
+soldiery, a moralizing frame modern historians treat cautiously. Since Diodorus'
+Sicilian-focused fragments add little independent detail, modern reassessments (Miles,
+Hoyos) lean heavily on **numismatic evidence** — the rebels' own overstruck coinage — to
+supplement and check Polybius's narrative, providing rare direct evidence of the
+insurgents' own self-presentation as a proto-state rather than a mere mutiny.
 
 ## Related
 

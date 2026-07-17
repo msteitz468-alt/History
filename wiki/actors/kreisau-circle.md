@@ -6,8 +6,8 @@ date_end: 1945
 period: [World Wars Era]
 region: [central-europe]
 affiliated_with: [Count Helmuth James von Moltke, Count Peter Yorck von Wartenburg, Adam von Trott zu Solz, theologians and former SPD politicians, [[german-resistance-to-nazism]]]
-opposed_by: [[[nazi-germany]], the Gestapo, the People's Court]
-key_events: [[[july-plot-1944]]]
+opposed_by: [ [[nazi-germany]], the Gestapo, the People's Court]
+key_events: [ [[july-plot-1944]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-07-02

@@ -12,7 +12,7 @@ actors_secondary: [the papacy (the crusading bulls), George of Poděbrady, the C
 event_type: [revolution, religious, war]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[hus-jan|the execution of Jan Hus (1415)]], clerical wealth and abuse, Czech–German ethnic rivalry, the refusal to accept the crusading Sigismund as king]
+causes: [ [[hus-jan|the execution of Jan Hus (1415)]], clerical wealth and abuse, Czech–German ethnic rivalry, the refusal to accept the crusading Sigismund as king]
 consequences: [the Compacts and communion in both kinds, the massive redistribution of Church land, the rise of the Bohemian nobility, a century of Utraquist Bohemia, a military revolution in infantry tactics]
 sources_ingested: 3
 last_updated: 2026-07-08

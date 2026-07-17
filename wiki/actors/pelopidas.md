@@ -6,9 +6,9 @@ date_end: 364 BCE (killed in victory at Cynoscephalae)
 period: [Classical Antiquity]
 region: [central-greece, north-greece]
 affiliated_with: [Thebes, the Boeotian Confederacy, [[epaminondas]], the Sacred Band]
-opposed_by: [[[sparta]], Alexander of Pherae, the pro-Spartan Theban junta]
+opposed_by: [ [[sparta]], Alexander of Pherae, the pro-Spartan Theban junta]
 key_events: [the [[liberation-of-thebes-379bce|liberation of Thebes]] 379 BCE, command of the Sacred Band at [[battle-of-leuctra-371bce|Leuctra]] 371 BCE, embassy to Persia 367 BCE, death at Cynoscephalae 364 BCE]
-key_processes: [[[thebes-hegemony-371bce]]]
+key_processes: [ [[thebes-hegemony-371bce]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, central-greece]

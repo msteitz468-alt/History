@@ -6,12 +6,12 @@ date_precision: exact
 period: [High Middle Ages]
 region: [levant]
 location: [Acre, kingdom of Jerusalem]
-actors_primary: [[[mamluk-sultanate|the Mamluk Sultanate]] (al-Ashraf Khalil), the crusader states, the military Orders]
+actors_primary: [ [[mamluk-sultanate|the Mamluk Sultanate]] (al-Ashraf Khalil), the crusader states, the military Orders]
 actors_secondary: [Qalawun (who prepared the siege), Tyre/Beirut/Sidon (occupied after)]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[mamluk-sultanate|Mamluk expansion under Qalawun and Khalil]], the long Mamluk reduction of the crusader states, the weakness of the Latin east]
+causes: [ [[mamluk-sultanate|Mamluk expansion under Qalawun and Khalil]], the long Mamluk reduction of the crusader states, the weakness of the Latin east]
 consequences: [the end of the Latin states on the Syrian mainland, the relocation of the military Orders, the transformation of crusading, "Cyprus as sole major Latin outpost under Henry II"]
 sources_ingested: 3
 last_updated: 2026-07-08

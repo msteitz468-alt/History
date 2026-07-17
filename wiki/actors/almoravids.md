@@ -6,9 +6,9 @@ date_end: "1147 (fall to the Almohads)"
 period: [High Middle Ages]
 region: [north-africa, iberia, west-africa]
 affiliated_with: ["the Sanhaja Berber confederation", "the Maliki ulama of Morocco and al-Andalus"]
-opposed_by: [[[christian-kingdoms-of-spain|León-Castile]], [[el-cid|El Cid]], [[almohads|the Almohads]]]
+opposed_by: [ [[christian-kingdoms-of-spain|León-Castile]], [[el-cid|El Cid]], [[almohads|the Almohads]]]
 key_events: ["Battle of Sagrajas/Zallaqa (1086)", "the annexation of the taifa kingdoms", "the founding of Marrakesh (c. 1070)"]
-key_processes: [[[reconquista]], [[islamization-of-africa]], [[trans-saharan-trade]]]
+key_processes: [ [[reconquista]], [[islamization-of-africa]], [[trans-saharan-trade]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, dynasty, high-middle-ages, north-africa, iberia]

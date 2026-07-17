@@ -5,10 +5,10 @@ date_start: fl. c. 1150 BCE
 date_end: c. 1120 BCE
 period: [Bronze Age Collapse, Early Iron Age]
 region: [iran-plateau, khuzistan, mesopotamia]
-affiliated_with: [[[elam]], Shutrukid dynasty]
-opposed_by: [[[assyria-middle|Assyria]], Babylonia]
+affiliated_with: [ [[elam]], Shutrukid dynasty]
+opposed_by: [ [[assyria-middle|Assyria]], Babylonia]
 key_events: [Zagros campaigns into the Assyrian–Babylonian sphere]
-key_processes: [[[state-formation]]]
+key_processes: [ [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, bronze-age-collapse, early-iron-age, iran-plateau]

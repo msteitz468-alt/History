@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Classical Antiquity]
 region: [near-east, mesopotamia, anatolia, mediterranean]
 process_type: economic
-driven_by: [[[alexander-the-great|Alexander's conquests and bullion seizure]], [[achaemenid-tribute-economy|Achaemenid institutional continuity]], [[seleucus-i-nicator|Seleucid state formation]]]
+driven_by: [ [[alexander-the-great|Alexander's conquests and bullion seizure]], [[achaemenid-tribute-economy|Achaemenid institutional continuity]], [[seleucus-i-nicator|Seleucid state formation]]]
 produces: [Seleucid urbanization, monetized transaction economy, intensified euergetism, merchant koina]
 sources_ingested: 2
 last_updated: 2026-07-08

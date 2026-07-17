@@ -5,10 +5,10 @@ date_start: ~1379 BCE (accession as Amenophis IV; volume chronology)
 date_end: ~1362 BCE (death, in his 17th/18th regnal year)
 period: [Late Bronze Age]
 region: [north-africa]
-affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the cult of the [[atenism|Aten]]]
+affiliated_with: [ [[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the cult of the [[atenism|Aten]]]
 opposed_by: [the [[amun-priesthood|priesthood of Amun]], the traditional cults]
 key_events: [the founding of [[amarna|Akhetaten]], the proscription of Amun, the foreign-policy collapse in Syria-Palestine]
-key_processes: [[[atenism]], [[interpolity-law]]]
+key_processes: [ [[atenism]], [[interpolity-law]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, late-bronze-age, north-africa]

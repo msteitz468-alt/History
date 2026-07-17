@@ -4,9 +4,9 @@ place_type: empire-territory
 modern_equivalent: [Syria, Lebanon, Israel/Palestine, Jordan — the Levant west of the Euphrates]
 coordinates: [33 N, 36 E (approx., Damascus)]
 period_active: [Archaic Period, Classical Antiquity]
-controlled_by: [[[achaemenid-empire|the Achaemenid Persian empire]] (539–332 BCE), earlier the [[neo-babylonian-empire|Chaldaeans]] and [[neo-assyrian-empire|Assyrians]]]
+controlled_by: [ [[achaemenid-empire|the Achaemenid Persian empire]] (539–332 BCE), earlier the [[neo-babylonian-empire|Chaldaeans]] and [[neo-assyrian-empire|Assyrians]]]
 events_here: [Cyrus' acquisition of the Levant after the fall of Babylon (539), the Tennes revolt of Sidon (c. 350s), Alexander's sieges of Tyre and Gaza (332)]
-processes_here: [[[empire]], Achaemenid provincial administration, the Restoration of Judah, the Arabian spice trade]
+processes_here: [ [[empire]], Achaemenid provincial administration, the Restoration of Judah, the Arabian spice trade]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, levant, near-east, archaic-period]

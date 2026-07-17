@@ -6,7 +6,7 @@ coordinates: [35.2 N, 24.9 E]
 period_active: [Early Iron Age, Archaic Period]
 controlled_by: [independent Dorian city-states (Cnossus, Gortyn, Lyttus, Drerus, Praesus…)]
 events_here: [the orientalizing flowering of the 8th–7th centuries, the codification of law (Drerus, Gortyn), the sixth-century artistic decline]
-processes_here: [[[orientalizing-revolution|orientalizing transmission]], early Greek legal codification, the persistence of serfdom]
+processes_here: [ [[orientalizing-revolution|orientalizing transmission]], early Greek legal codification, the persistence of serfdom]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, mediterranean, early-iron-age, archaic-period]

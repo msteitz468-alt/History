@@ -6,9 +6,9 @@ date_end: ~1346 BCE (death, of the Amqa plague)
 period: [Late Bronze Age]
 region: [anatolia, near-east, levant]
 affiliated_with: [the [[hittites|Hittite kingdom]], [[kassites|Kassite Babylonia]] (marriage alliance)]
-opposed_by: [[[mitanni|Mitanni]] (Tushratta), [[new-kingdom-egypt|Egypt]], the Hurrian/"Khurri" rival kings]
+opposed_by: [ [[mitanni|Mitanni]] (Tushratta), [[new-kingdom-egypt|Egypt]], the Hurrian/"Khurri" rival kings]
 key_events: [the two Syrian wars, the destruction of Mitanni, the Hurrian War, the reorganization of Syria into Hittite vassal states, the [[zannanza-affair-1322bce|Zannanza affair]]]
-key_processes: [[[imperialism]], [[interpolity-law]], [[state-formation]]]
+key_processes: [ [[imperialism]], [[interpolity-law]], [[state-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, anatolia, near-east]

@@ -20,4 +20,7 @@ tags: [event, world-wars-era, cold-war, southeast-asia, treaty, transition]
 
 International conference ending the First Indochina War. DRV sought full independence and unification; under allied (Chinese/Soviet) pressure accepted regroupment zones and delayed elections. Accords signed 21 July 1954. US and South did not endorse. Ho viewed as pragmatic breathing space; "victory would not come easily."
 
+## Historiography
+The conference proceedings are documented in the official Geneva record and the diplomatic archives of the participating powers, though Chinese and Soviet pressure on the Viet Minh delegation to accept a compromise short of full unification is reconstructed largely from later Vietnamese and Chinese archival releases and from Duiker's and Goscha's biographical and diplomatic histories. Historians debate whether Pham Van Dong and Ho Chi Minh accepted partition primarily from genuine military exhaustion, from great-power pressure exercised by their own patrons, or from a calculated wager that reunification elections (never held) would deliver victory politically. The failure to hold the 1956 elections and its role in causing the Second Indochina War remains a central point of interpretive dispute between accounts sympathetic to Hanoi and accounts emphasizing US/South Vietnamese security concerns.
+
 See also: [[actors/ho-chi-minh]], [[events/dien-bien-phu-1954]], [[places/vietnam]].

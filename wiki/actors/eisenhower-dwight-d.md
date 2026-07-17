@@ -1,5 +1,6 @@
 ---
 title: "Dwight D. Eisenhower"
+aliases: [eisenhower-dwight]
 actor_type: person
 date_start: 1890
 date_end: 1969

@@ -5,7 +5,7 @@ date_start: 974
 date_end: 1028
 period: [early-middle-ages]
 region: [southeast-asia]
-affiliated_with: [[[ly-dynasty-vietnam]], [[buddhism]], [[thang-long]]]
+affiliated_with: [ [[ly-dynasty-vietnam]], [[buddhism]], [[thang-long]]]
 opposed_by: []
 key_events: []
 key_processes: []

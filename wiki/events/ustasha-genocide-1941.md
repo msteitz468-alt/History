@@ -7,7 +7,7 @@ period: [World Wars Era]
 region: [balkans]
 location: [the Independent State of Croatia (including Bosnia-Herzegovina); camps at Jasenovac, Stara Gradiška, Loborgrad, Djakovo]
 actors_primary: [Ante Pavelić's Ustashe regime, Croatia's Serb, Jewish, and Roma populations]
-actors_secondary: [[[nazi-germany]] (sponsor), Fascist Italy, the Catholic hierarchy under Archbishop Stepinac]
+actors_secondary: [ [[nazi-germany]] (sponsor), Fascist Italy, the Catholic hierarchy under Archbishop Stepinac]
 event_type: other
 scale_immediate: regional
 scale_consequential: regional

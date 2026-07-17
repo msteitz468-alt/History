@@ -4,9 +4,9 @@ place_type: empire-territory
 modern_equivalent: [Denmark; medieval Denmark also included Skåne/Scania, Halland, Blekinge (now Sweden) and Schleswig]
 coordinates: ~55.7°N, 12.0°E (Zealand)
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
-controlled_by: [[[harald-bluetooth|Jelling dynasty]], [[valdemar-dynasty|Valdemar dynasty]], [[margaret-i-of-denmark|Margaret I]] and the Kalmar Union]
-events_here: [[[kalmar-union-1397|Kalmar Union]]]
-processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+controlled_by: [ [[harald-bluetooth|Jelling dynasty]], [[valdemar-dynasty|Valdemar dynasty]], [[margaret-i-of-denmark|Margaret I]] and the Kalmar Union]
+events_here: [ [[kalmar-union-1397|Kalmar Union]]]
+processes_here: [ [[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, scandinavia, denmark, early-middle-ages]

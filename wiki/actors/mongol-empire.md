@@ -5,10 +5,10 @@ date_start: 1206 CE (Temüjin proclaimed Chinggis Khan)
 date_end: 1368 CE (fall of Yuan; successor khanates to 1500 and beyond)
 period: [High Middle Ages, Late Middle Ages]
 region: [steppe, central-asia, china, east-asia, iran-plateau, mesopotamia, near-east, eastern-europe, silk-road]
-affiliated_with: [[[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkhanate, Chaghadaid Khanate, Golden Horde"]
-opposed_by: [[[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
+affiliated_with: [ [[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkhanate, Chaghadaid Khanate, Golden Horde"]
+opposed_by: [ [[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
-key_processes: [[[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
+key_processes: [ [[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
 sources_ingested: 12
 last_updated: 2026-07-08
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]

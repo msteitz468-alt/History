@@ -33,5 +33,8 @@ The Air Mail Crisis of 1934 arose when President Franklin D. Roosevelt cancelled
 - **Restoration of Contracts:** Public outrage forced the passage of the Air Mail Act of 1934, returning airmail carriage to private airlines under strict bidding rules, which led to the modernization of commercial aviation (the introduction of the Douglas DC-2 and Boeing 247).
 - **Political Clash:** The crisis marked the first major public clash between Charles Lindbergh and Franklin D. Roosevelt, prefiguring their later pre-war conflict.
 
+## Historiography
+The episode is documented through contemporary press coverage, congressional hearings, and Army Air Corps accident investigation records; Lindbergh's own public telegram to Roosevelt survives as a primary political document. Scholars have debated how much of Roosevelt's contract cancellation reflected genuine corruption findings versus a political opportunity to discredit Hoover-era aviation policy, and how much of the pilot death toll should be attributed to weather versus institutional unpreparedness (lack of instrument training, poor aircraft-to-mission fit). Later aviation historians have used the crisis as a case study in the unintended costs of rapid policy reversal, though the episode remains a minor footnote relative to the broader New Deal historiography.
+
 ## Related Pages
 - [[actors/lindbergh-charles|Charles A. Lindbergh]]

@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Istanbul, Türkiye]
 coordinates: [41.01 N, 28.98 E]
 period_active: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
-controlled_by: [[[roman-empire|Rome]], [[byzantine-empire|the Eastern Roman/Byzantine Empire]], the Ottoman Empire]
+controlled_by: [ [[roman-empire|Rome]], [[byzantine-empire|the Eastern Roman/Byzantine Empire]], the Ottoman Empire]
 events_here: [foundation by Constantine 330 CE, Justinianic Plague 542, Nika riots 532, Arab and Avar sieges, Fourth Crusade 1204, Ottoman conquest 1453]
-processes_here: [[[urbanization]]]
+processes_here: [ [[urbanization]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [place, anatolia, balkans, near-east, late-antiquity, early-middle-ages, high-middle-ages, late-middle-ages]

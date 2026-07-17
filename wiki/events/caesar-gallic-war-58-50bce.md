@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [western-europe, italy]
 location: [Gaul (modern France/Belgium), the Rhine, Britain]
-actors_primary: [[[julius-caesar]], the legions; Vercingetorix and the Gallic peoples; Ariovistus; the Helvetii, Belgae, Nervii]
+actors_primary: [ [[julius-caesar]], the legions; Vercingetorix and the Gallic peoples; Ariovistus; the Helvetii, Belgae, Nervii]
 actors_secondary: [Labienus, P. Crassus, the Aedui, the Arverni]
 event_type: war
 scale_immediate: regional

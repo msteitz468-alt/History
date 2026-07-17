@@ -5,8 +5,8 @@ date_start: 1130 (Roger II crowned king)
 date_end: "1194 (Hohenstaufen takeover); the kingdom itself endured to 1860"
 period: [High Middle Ages]
 region: [mediterranean]
-affiliated_with: [[[papacy|the papacy]] (overlord), "the Hauteville dynasty"]
-opposed_by: [[[byzantine-empire|Byzantium]], "the western emperors", "the rebellious south-Italian baronage", "the north-African Muslim powers"]
+affiliated_with: [ [[papacy|the papacy]] (overlord), "the Hauteville dynasty"]
+opposed_by: [ [[byzantine-empire|Byzantium]], "the western emperors", "the rebellious south-Italian baronage", "the north-African Muslim powers"]
 key_events: ["the coronation of Roger II (1130)", [[norman-conquest-of-southern-italy]], "the Constitutions of Melfi (1231)", "the conquest by Charles of Anjou (1266)", [[sicilian-vespers-1282|the Sicilian Vespers (1282)]]]
 key_processes: []
 sources_ingested: 4

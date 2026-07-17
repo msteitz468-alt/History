@@ -5,8 +5,8 @@ date_start: 1268 (born)
 date_end: 1314 (died, Fontainebleau)
 period: [High Middle Ages, Late Middle Ages]
 region: [western-europe]
-affiliated_with: [[[capetian-dynasty|the Capetian dynasty]], the legist ministers (Flotte, Plaisians, Nogaret, Marigny)]
-opposed_by: [[[boniface-viii|Pope Boniface VIII]], [[edward-i-plantagenet|Edward I of England]], the Flemish towns, the Templars]
+affiliated_with: [ [[capetian-dynasty|the Capetian dynasty]], the legist ministers (Flotte, Plaisians, Nogaret, Marigny)]
+opposed_by: [ [[boniface-viii|Pope Boniface VIII]], [[edward-i-plantagenet|Edward I of England]], the Flemish towns, the Templars]
 key_events: [the Gascon war (1294–1303), the clash with Boniface VIII (1301–1303), the expulsion of the Jews (1306), the arrest of the Templars (1307), the battle of [[battle-of-courtrai-1302|Courtrai]] (1302)]
 key_processes: [the growth of the French royal bureaucratic state, royal taxation of the Church, the sacralisation of French kingship]
 sources_ingested: 2

@@ -5,10 +5,10 @@ date_start: 145 CE
 date_end: 211 CE
 period: [Late Antiquity]
 region: [north-africa, italy, mediterranean-world]
-affiliated_with: [[[severan-dynasty]], [[roman-imperial-army]]]
-opposed_by: [[[pescennius-niger]], [[clodius-albinus]], [[parthian-empire]]]
-key_events: [[[year-of-the-five-emperors-193]], [[constitutio-antoniniana-212]]]
-key_processes: [[[militarization-of-the-roman-state]], [[romanization]]]
+affiliated_with: [ [[severan-dynasty]], [[roman-imperial-army]]]
+opposed_by: [ [[pescennius-niger]], [[clodius-albinus]], [[parthian-empire]]]
+key_events: [ [[year-of-the-five-emperors-193]], [[constitutio-antoniniana-212]]]
+key_processes: [ [[militarization-of-the-roman-state]], [[romanization]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, north-africa]

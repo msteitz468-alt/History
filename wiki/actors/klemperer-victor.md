@@ -6,9 +6,9 @@ date_end: 1960
 period: [World Wars Era, Cold War]
 region: [western-europe, eastern-europe]
 affiliated_with: [Dresden Technical University]
-opposed_by: [[[nazi-germany]]]
-key_events: [[[hyperinflation-1923]]]
-key_processes: [[[german-antisemitism]], [[persecution-of-german-jews-1933-1939]]]
+opposed_by: [ [[nazi-germany]]]
+key_events: [ [[hyperinflation-1923]]]
+key_processes: [ [[german-antisemitism]], [[persecution-of-german-jews-1933-1939]]]
 sources_ingested: [evans-coming-of-third-reich-2003]
 last_updated: 2026-07-02
 tags: [actor, person, world-wars-era, western-europe]

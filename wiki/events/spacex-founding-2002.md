@@ -25,4 +25,14 @@ Elon Musk founded Space Exploration Technologies (SpaceX) in June 2002 after sel
 
 **Full narrative** to be expanded from Isaacson Range 02–03 claims.
 
+## Historiography
+
+Isaacson's *Elon Musk* (2023), based on extended access-driven
+interviews with Musk and colleagues, is the primary secondary source; as an
+authorized/access biography it has drawn some criticism for relying heavily on Musk's own
+retrospective framing of his motives and early struggles. Independent journalistic
+accounts of SpaceX's founding (e.g., earlier reporting predating the Isaacson biography)
+generally corroborate the broad narrative. As a relatively recent corporate history, no
+substantial independent academic historiography yet exists.
+
 Related: [[actors/spacex]], [[actors/musk-elon]], [[actors/shotwell-gwynne]].

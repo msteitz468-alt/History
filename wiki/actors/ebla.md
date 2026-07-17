@@ -6,9 +6,9 @@ date_end: c. 2300 BCE (destruction of Palace G; later 2nd-millennium revivals)
 period: [early-bronze-age]
 region: [levant, near-east]
 affiliated_with: []
-opposed_by: [[[mari]], [[akkadian-empire]]]
+opposed_by: [ [[mari]], [[akkadian-empire]]]
 key_events: []
-key_processes: [[[trade-network-formation]], [[urbanization]]]
+key_processes: [ [[trade-network-formation]], [[urbanization]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, levant, near-east]

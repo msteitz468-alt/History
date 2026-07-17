@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Antiquity]
 region: [mesopotamia, near-east, anatolia]
 location: [Roman Mesopotamia, Amida, Theodosiopolis, Edessa, Dara]
-actors_primary: [[[eastern-roman-empire-425-518|the Eastern Roman Empire]] under Anastasius I, [[sasanian-empire|Sasanian Persia]] under Kavadh I]
+actors_primary: [ [[eastern-roman-empire-425-518|the Eastern Roman Empire]] under Anastasius I, [[sasanian-empire|Sasanian Persia]] under Kavadh I]
 actors_secondary: [the cities of Amida and Edessa, the Lakhmid and Hunnic auxiliaries]
 event_type: war
 scale_immediate: regional

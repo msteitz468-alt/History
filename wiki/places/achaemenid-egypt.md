@@ -4,7 +4,7 @@ place_type: empire-territory
 modern_equivalent: [Egypt]
 coordinates: [29.9 N, 31.2 E (Memphis)]
 period_active: [Archaic Period, Classical Antiquity]
-controlled_by: [[[achaemenid-empire|the Achaemenid Persian empire]] (525–404 BCE), governed by a satrap from Memphis]
+controlled_by: [ [[achaemenid-empire|the Achaemenid Persian empire]] (525–404 BCE), governed by a satrap from Memphis]
 events_here: [the Persian conquest under Cambyses (525), Darius' Nile–Red Sea canal and law-codification, the revolt of Inaros (460s), the destruction of the Elephantine Jewish temple (410), the secession under Amyrtaeus (404)]
 processes_here: [Achaemenid imperial administration, the cosmopolitan settlement of foreign communities, Egyptian cultural self-assertion under occupation]
 sources_ingested: 2

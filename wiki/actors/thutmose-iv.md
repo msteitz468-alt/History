@@ -5,7 +5,7 @@ date_start: ~1400 BCE (accession)
 date_end: ~1390 BCE
 period: [Late Bronze Age]
 region: [north-africa, levant]
-affiliated_with: [[[new-kingdom-egypt]]]
+affiliated_with: [ [[new-kingdom-egypt]]]
 opposed_by: [Levantine states, Nubian desert raiders]
 key_events: []
 key_processes: []

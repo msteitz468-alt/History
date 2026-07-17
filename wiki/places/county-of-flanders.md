@@ -6,7 +6,7 @@ coordinates: [51.0 N, 3.5 E]
 period_active: [High Middle Ages, Late Middle Ages]
 controlled_by: [the counts of Flanders (Dampierre), nominally the king of France, partly the Empire]
 events_here: [the battle of [[battle-of-courtrai-1302|Courtrai]] (1302), the Bruges Matins (1302)]
-processes_here: [[[urbanization|urbanisation]], the cloth industry and the [[commercial-revolution|commercial revolution]], the rise of urban communes]
+processes_here: [ [[urbanization|urbanisation]], the cloth industry and the [[commercial-revolution|commercial revolution]], the rise of urban communes]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, western-europe, mediterranean, high-middle-ages]

@@ -6,12 +6,12 @@ date_precision: year
 period: [Early Modern]
 region: [korea, japan, east-asia]
 location: [the Korean peninsula (Pusan, Seoul, P'yŏngyang, Hamgyŏng); the Yellow Sea]
-actors_primary: [[[toyotomi-hideyoshi|Toyotomi Hideyoshi]], Chosŏn Korea (King Sŏnjo; Admiral Yi Sun-sin), Ming China (Wanli emperor)]
+actors_primary: [ [[toyotomi-hideyoshi|Toyotomi Hideyoshi]], Chosŏn Korea (King Sŏnjo; Admiral Yi Sun-sin), Ming China (Wanli emperor)]
 actors_secondary: [Konishi Yukinaga, Katō Kiyomasa, the western daimyo, Korean "righteous armies" (uibyŏng)]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[toyotomi-hideyoshi|Hideyoshi's]] drive to conquer Ming China through Korea, [[azuchi-momoyama-period|the momentum of unification]] turned outward, Korea's refusal to break with its Ming suzerain]
+causes: [ [[toyotomi-hideyoshi|Hideyoshi's]] drive to conquer Ming China through Korea, [[azuchi-momoyama-period|the momentum of unification]] turned outward, Korea's refusal to break with its Ming suzerain]
 consequences: [the devastation of Korea, the fiscal weakening of [[ming-dynasty|Ming China]], the hastened decline of the Toyotomi regime, no territorial gain for Japan, lasting Korean–Japanese enmity]
 sources_ingested: 1
 last_updated: 2026-06-13

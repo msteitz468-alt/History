@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Myloi, near Argos, Argolid, Greece]
 coordinates: [37.55 N, 22.72 E]
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age]
-controlled_by: [[[early-bronze-age-aegean|Early Helladic communities]]]
-events_here: [[[coming-of-the-greeks-1900bce]]]
-processes_here: [[[early-bronze-age-aegean]], [[urbanization]], [[mycenaean-civilization]]]
+controlled_by: [ [[early-bronze-age-aegean|Early Helladic communities]]]
+events_here: [ [[coming-of-the-greeks-1900bce]]]
+processes_here: [ [[early-bronze-age-aegean]], [[urbanization]], [[mycenaean-civilization]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mediterranean, early-bronze-age]

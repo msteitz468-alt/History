@@ -8,7 +8,7 @@ region: [western-europe, mediterranean, atlantic-world]
 affiliated_with: [the French Republic and First Empire, the Revolution's heirs]
 opposed_by: [Great Britain, Austria, Prussia, Russia, the European coalitions]
 key_events: [the coup of 18 Brumaire (1799), the Concordat (1801), the Civil Code (1804), the proclamation of the Empire (1804), the Napoleonic Wars, the invasion of Russia (1812), Waterloo (1815)]
-key_processes: [[[french-revolution-1789]], [[napoleonic-wars]], [[nationalism]], [[balance-of-power]]]
+key_processes: [ [[french-revolution-1789]], [[napoleonic-wars]], [[nationalism]], [[balance-of-power]]]
 sources_ingested: 3
 last_updated: 2026-06-25
 tags: [actor, person, age-of-expansion, long-19th-century, western-europe]

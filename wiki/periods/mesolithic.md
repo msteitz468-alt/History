@@ -1,8 +1,8 @@
 ---
 title: Mesolithic
 period_number: 5
-preceded_by: [[[behavioral-modernity|Behavioral Modernity]]]
-followed_by: [[[neolithic|Neolithic]]]
+preceded_by: [ [[behavioral-modernity|Behavioral Modernity]]]
+followed_by: [ [[neolithic|Neolithic]]]
 date_range: "12,000–9,500 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia, southeast-asia, australia, north-america, andes, amazonia]
 major_themes: ["Holocene warming", "sea level rise", "mesolithic foragers", "early sedentism", "pre-agricultural intensification", "Younger Dryas", "megafaunal extinction aftermath", "Natufian culture", "Jomon culture"]

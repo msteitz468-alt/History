@@ -7,7 +7,7 @@ period: [Neolithic, Chalcolithic, Early Bronze Age]
 region: [china, east-asia]
 process_type: [political, demographic, economic, environmental]
 driven_by: [environmental circumscription, Yellow River flooding and course changes, factional competition and feasting, craft specialisation and prestige-goods exchange, regional interaction and warfare]
-produces: [[[longshan-culture|Longshan chiefdoms]], [[taosi|the Taosi polity]], [[erlitou-culture|the Erlitou state]], [[shang-dynasty|the Shang state]]]
+produces: [ [[longshan-culture|Longshan chiefdoms]], [[taosi|the Taosi polity]], [[erlitou-culture|the Erlitou state]], [[shang-dynasty|the Shang state]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [process, neolithic, chalcolithic, early-bronze-age, china, east-asia]

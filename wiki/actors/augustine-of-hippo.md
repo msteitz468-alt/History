@@ -1,5 +1,6 @@
 ---
 title: Augustine of Hippo
+aliases: [augustine]
 actor_type: person
 date_start: 354 CE (born Thagaste, Numidia)
 date_end: 430 CE (died Hippo Regius, during the Vandal siege)

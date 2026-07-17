@@ -6,9 +6,9 @@ date_end: 1977
 period: [World Wars Era, Cold War]
 region: [central-europe, north-america]
 affiliated_with: [the German Army rocket program (Peenemünde), the Nazi Party (1937) and [[schutzstaffel-ss]] (1940), [[speer-albert|Speer's]] Armaments Ministry, postwar NASA]
-opposed_by: [[[himmler-heinrich|Himmler]] (arrested him, March 1944)]
-key_events: [[[wonder-weapons-1943-1945]]]
-key_processes: [[[forced-labor-nazi-germany]]]
+opposed_by: [ [[himmler-heinrich|Himmler]] (arrested him, March 1944)]
+key_events: [ [[wonder-weapons-1943-1945]]]
+key_processes: [ [[forced-labor-nazi-germany]]]
 sources_ingested: 1
 last_updated: 2026-07-02
 tags: [actor, person, world-wars-era, cold-war, central-europe]

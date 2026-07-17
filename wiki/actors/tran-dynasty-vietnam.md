@@ -5,9 +5,9 @@ date_start: 1225
 date_end: 1400
 period: [high-middle-ages, late-middle-ages]
 region: [southeast-asia]
-affiliated_with: [[[thang-long]], [[dai-viet]], [[buddhism]]]
-opposed_by: [[[mongol-empire]], [[champa]]]
-key_events: [[[mongol-invasions-of-dai-viet-1258-1288]], [[battle-of-bach-dang-1288]]]
+affiliated_with: [ [[thang-long]], [[dai-viet]], [[buddhism]]]
+opposed_by: [ [[mongol-empire]], [[champa]]]
+key_events: [ [[mongol-invasions-of-dai-viet-1258-1288]], [[battle-of-bach-dang-1288]]]
 key_processes: []
 sources_ingested: 2
 last_updated: 2026-07-08

@@ -7,7 +7,7 @@ period: [Early Middle Ages, High Middle Ages]
 region: [mediterranean]
 affiliated_with: [Pavia (capital), the marches of Friuli, Ivrea, Tuscany, Spoleto; the [[papacy]]]
 opposed_by: [the Magyars, the Sicilian Arabs (Fraxinetum, Garigliano), the [[ottonian-dynasty|Ottonians]] (conquest 961)]
-key_events: [[[coronation-of-otto-i-962]], the battle of Fiorenzuola 923]
+key_events: [ [[coronation-of-otto-i-962]], the battle of Fiorenzuola 923]
 key_processes: [post-Carolingian political fragmentation, incastellamento]
 sources_ingested: 2
 last_updated: 2026-06-12

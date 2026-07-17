@@ -6,13 +6,13 @@ date_precision: approximate
 period: [Middle Bronze Age, Late Bronze Age]
 region: [north-africa]
 location: [Avaris (Tell el-Dabʿa), eastern Delta]
-actors_primary: [[[ahmose-i]], [[hyksos]]]
-actors_secondary: [[[kamose]], [[seqenenra-taa]]]
+actors_primary: [ [[ahmose-i]], [[hyksos]]]
+actors_secondary: [ [[kamose]], [[seqenenra-taa]]]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[second-intermediate-period|the Theban war of liberation]], "Hyksos rule over Lower Egypt"]
-consequences: [[[new-kingdom-egypt|the founding of the New Kingdom]], "the reunification of Egypt", "Egyptian expansion into the Levant"]
+causes: [ [[second-intermediate-period|the Theban war of liberation]], "Hyksos rule over Lower Egypt"]
+consequences: [ [[new-kingdom-egypt|the founding of the New Kingdom]], "the reunification of Egypt", "Egyptian expansion into the Levant"]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [event, late-bronze-age, north-africa, transition]

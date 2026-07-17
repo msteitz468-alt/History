@@ -8,7 +8,7 @@ region: [central-asia, south-asia]
 affiliated_with: [the Indo-Greek kingdom, the Euthydemid tradition]
 opposed_by: []
 key_events: []
-key_processes: [[[greco-bactrian-kingdom|the Greek kingdoms of Bactria and India]]]
+key_processes: [ [[greco-bactrian-kingdom|the Greek kingdoms of Bactria and India]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, south-asia, central-asia]

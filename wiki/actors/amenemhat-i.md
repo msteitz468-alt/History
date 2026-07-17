@@ -5,7 +5,7 @@ date_start: ~1985 BCE (accession)
 date_end: ~1956 BCE
 period: [Middle Bronze Age]
 region: [north-africa]
-affiliated_with: [[[middle-kingdom-egypt]]]
+affiliated_with: [ [[middle-kingdom-egypt]]]
 opposed_by: [Asiatics ("Walls-of-the-Ruler"), Lower Nubia]
 key_events: []
 key_processes: []

@@ -5,8 +5,8 @@ modern_equivalent: [the Çukurova / Adana–Mersin region of south-central Turke
 coordinates: [37 N, 35 E]
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Hittites, Assyria, Achaemenid Persia, the Seleucids, Rome, the Byzantine Empire, the Abbasid frontier, the Cilician Armenian Kingdom, the Mamluk Sultanate, the Ottomans]
-events_here: [[[coronation-of-levon-i-1199|the coronation of King Levon I (1199)]], [[fall-of-cilician-armenia-1375|the fall of Sis (1375)]]]
-processes_here: [[[armenian-latin-integration]], [[crusades]]]
+events_here: [ [[coronation-of-levon-i-1199|the coronation of King Levon I (1199)]], [[fall-of-cilician-armenia-1375|the fall of Sis (1375)]]]
+processes_here: [ [[armenian-latin-integration]], [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, anatolia, near-east, mediterranean]

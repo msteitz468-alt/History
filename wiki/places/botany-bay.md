@@ -4,9 +4,9 @@ place_type: other
 modern_equivalent: [Botany Bay, New South Wales, Australia]
 coordinates: [-34.0, 151.2]
 period_active: [Age of Expansion]
-controlled_by: [[[british-empire]], Gweagal and Kamaygal peoples (prior)]
+controlled_by: [ [[british-empire]], Gweagal and Kamaygal peoples (prior)]
 events_here: [First Fleet landing January 1788, Botany Bay Decision 1786]
-processes_here: [[[convict-transportation-australia]], [[settler-colonialism]]]
+processes_here: [ [[convict-transportation-australia]], [[settler-colonialism]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, australia, british-isles, age-of-expansion]

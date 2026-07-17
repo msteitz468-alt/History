@@ -6,7 +6,7 @@ coordinates: ~6°S, 39°E (Zanzibar/Kilwa belt)
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
-processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
+processes_here: [ [[indian-ocean-trade]], [[trans-saharan-trade]]]
 sources_ingested: 11
 last_updated: 2026-06-23
 tags: [place, east-africa, indian-ocean, high-middle-ages, early-modern, long-19th-century, contemporary]

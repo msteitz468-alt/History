@@ -6,7 +6,7 @@ coordinates: ~41.89°N, 12.49°E
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Roman city-state, Roman Republic, Roman Empire, Ostrogoths, Byzantine Empire, Papacy]
 events_here: []
-processes_here: [[[urbanization]], [[ruralization]], [[post-roman-transformation-of-the-west]]]
+processes_here: [ [[urbanization]], [[ruralization]], [[post-roman-transformation-of-the-west]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [place, mediterranean, classical-antiquity, late-antiquity, early-middle-ages, rome]

@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Brooklyn, Long Island, New York]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[washington-george]], [[howe-william]], Israel Putnam, William Alexander (Lord Stirling)]
+actors_secondary: [ [[washington-george]], [[howe-william]], Israel Putnam, William Alexander (Lord Stirling)]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
@@ -52,6 +52,10 @@ American losses ran to ~300 killed and over 1,000 captured.
   Kips Bay, Fort Washington — and the demoralizing **retreat across New Jersey**.
 - `enabled:` paradoxically, the army's survival, since Howe's restraint and the foggy evacuation
   preserved the force that would strike back at [[battle-of-trenton-1776|Trenton]].
+
+## Historiography
+
+Well documented through Howe's and Washington's own correspondence and the accounts of participants like Lord Stirling, the battle is a standard case study in the historiography of the Revolution's early "near-disasters," particularly Washington's contested decision (under congressional pressure) to divide his army to hold an indefensible city. Historians debate how much responsibility for the Jamaica Pass failure rests with Washington, subordinate generals, or simple bad luck, and there is a long-running discussion of Howe's "restraint" — whether his failure to press the advantage reflects genuine hope for reconciliation, caution born of Bunker Hill's casualties, or a missed opportunity to end the war outright. The successful night evacuation across the East River is celebrated in national memory in ways historians increasingly try to contextualize against the scale of the preceding defeat.
 
 ## Related
 

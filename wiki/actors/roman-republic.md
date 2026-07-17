@@ -6,9 +6,9 @@ date_end: 27 BCE (Augustus; transition to the Principate)
 period: [Classical Antiquity]
 region: [mediterranean, iberia, north-africa, anatolia, levant, western-europe]
 affiliated_with: [the Roman Senate and People (SPQR), Italian allies (socii)]
-opposed_by: [[[carthage|Carthage]], [[hellenistic-world|Hellenistic kingdoms]], Gauls, Mithridates of Pontus]
+opposed_by: [ [[carthage|Carthage]], [[hellenistic-world|Hellenistic kingdoms]], Gauls, Mithridates of Pontus]
 key_events: [Punic Wars 264-146 BCE, conquest of the Hellenistic East, civil wars 49-31 BCE]
-key_processes: [[[empire]], [[slavery]], [[trade-network-formation]], provincialization]
+key_processes: [ [[empire]], [[slavery]], [[trade-network-formation]], provincialization]
 sources_ingested: 13
 last_updated: 2026-07-08
 tags: [actor, state, classical-antiquity, archaic-period, mediterranean, western-europe, rome]

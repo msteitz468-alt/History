@@ -5,10 +5,10 @@ date_start: c. 319 BCE
 date_end: 279 BCE
 period: [Classical Antiquity]
 region: [balkans]
-affiliated_with: [[[lysimachus]], [[seleucus-i-nicator]] (briefly)]
-opposed_by: [[[antigonus-ii-gonatas]], the Gauls]
-key_events: [[[battle-of-corupedium-281]], [[celtic-invasion-of-greece-279]]]
-key_processes: [[[hellenistic-world]]]
+affiliated_with: [ [[lysimachus]], [[seleucus-i-nicator]] (briefly)]
+opposed_by: [ [[antigonus-ii-gonatas]], the Gauls]
+key_events: [ [[battle-of-corupedium-281]], [[celtic-invasion-of-greece-279]]]
+key_processes: [ [[hellenistic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, balkans]

@@ -5,10 +5,10 @@ date_start: c. 242 BCE
 date_end: 187 BCE
 period: [Classical Antiquity]
 region: [near-east, mesopotamia, iran-plateau, anatolia, levant, central-asia]
-affiliated_with: [[[seleucid-empire]]]
-opposed_by: [[[ptolemaic-egypt]], [[rome|Rome]], the usurpers Molon and Achaeus]
-key_events: [[[syrian-wars]], [[battle-of-raphia-217]]]
-key_processes: [[[seleucid-empire]], [[hellenistic-monarchy]]]
+affiliated_with: [ [[seleucid-empire]]]
+opposed_by: [ [[ptolemaic-egypt]], [[rome|Rome]], the usurpers Molon and Achaeus]
+key_events: [ [[syrian-wars]], [[battle-of-raphia-217]]]
+key_processes: [ [[seleucid-empire]], [[hellenistic-monarchy]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, dynasty, classical-antiquity, near-east]

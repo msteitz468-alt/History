@@ -59,6 +59,23 @@ on the seaboard; encouragement from Egypt and Greece. produced: a wave of rebell
 **failed for want of coordination**, demonstrating both the strains and the underlying
 **resilience** of the Achaemenid system on the eve of its fall to Macedon.
 
+## Historiography
+
+The episode is a case study in **thin and distorting sources**. **Diodorus Siculus**
+(via Ephorus) is the only continuous narrative, and — as noted above — compresses a
+rebellion that "surely lasted several years" into a few chapters under a single year,
+producing the jerky, episodic impression Hornblower warns against. No Achaemenid
+administrative record covering this western revolt survives (unlike, for instance, the
+Persepolis Fortification archive for an earlier period and different region), so the
+Persian court's own perspective is entirely absent, and the rebellion is known solely
+through hostile or indifferent Greek intermediaries with their own agendas — Greek
+states like Sparta and Athens intervened for pay and had every reason to exaggerate
+Persian weakness. Modern historians increasingly rely on **numismatic and epigraphic**
+evidence, particularly the coinage and building programs of Mausolus in Caria, to
+reconstruct the satraps' actual conduct and self-presentation independent of Diodorus's
+compressed narrative — evidence that generally supports Hornblower's caution against
+reading the revolt as systemic Persian "decadence."
+
 ## Related
 
 - Rebels: Datames · Ariobarzanes · Orontes · [[mausolus]] · overlord: [[artaxerxes-ii]] · [[achaemenid-empire]]

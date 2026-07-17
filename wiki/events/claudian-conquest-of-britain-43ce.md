@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Antiquity]
 region: [britain, western-europe]
 location: [south-eastern Britain; Camulodunum (Colchester)]
-actors_primary: [[[claudius|Claudius]], Aulus Plautius]
+actors_primary: [ [[claudius|Claudius]], Aulus Plautius]
 actors_secondary: [the British king Caratacus, the Catuvellauni, the future emperor Vespasian (legate of Legio II)]
 event_type: war
 scale_immediate: regional

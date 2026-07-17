@@ -8,7 +8,7 @@ region: [anatolia, near-east, levant, north-africa, arabian-peninsula]
 affiliated_with: [the Ottoman dynasty, Sunni Islam]
 opposed_by: [the Safavid Shah Ismail I, the Mamluk Sultanate, his own brothers (in the succession war)]
 key_events: ["the battle of Çaldıran (1514)", "the conquest of Syria (Marj Dabiq, 1516)", "the conquest of Egypt (Raydaniyya, 1517)"]
-key_processes: [[[ottoman-empire]], the Ottoman–Safavid wars]
+key_processes: [ [[ottoman-empire]], the Ottoman–Safavid wars]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, near-east, anatolia]

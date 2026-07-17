@@ -6,7 +6,7 @@ date_precision: year
 period: [Late Bronze Age]
 region: [levant]
 location: [Qadesh (Kinza/Tell Nebi Mend) on the Orontes, Syria]
-actors_primary: [[[ramesses-ii|Ramesses II]], [[muwatalli-ii|Muwatalli II]]]
+actors_primary: [ [[ramesses-ii|Ramesses II]], [[muwatalli-ii|Muwatalli II]]]
 actors_secondary: [the four Egyptian divisions (Amun, Pre, Ptah, Sutekh), the Hittite vassal contingents, Amurru, [[ugarit|Ugarit]]]
 event_type: battle
 scale_immediate: regional

@@ -1,8 +1,8 @@
 ---
 title: Edward Hagerman
 actor_type: person
-date_start: ""
-date_end: ""
+date_start: "20th century"
+date_end: "ongoing"
 period: [Long 19th Century]
 region: [north-america]
 affiliated_with: []

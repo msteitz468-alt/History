@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean]
 process_type: political
-driven_by: [[[epaminondas]], Pelopidas, the victory at [[battle-of-leuctra-371bce|Leuctra]], the Boeotian Confederacy]
+driven_by: [ [[epaminondas]], Pelopidas, the victory at [[battle-of-leuctra-371bce|Leuctra]], the Boeotian Confederacy]
 produces: [the liberation of Messenia, the founding of Megalopolis and the Arcadian League, the permanent crippling of Sparta, the multipolar exhaustion that opened the way for Macedon]
 sources_ingested: 1
 last_updated: 2026-06-11

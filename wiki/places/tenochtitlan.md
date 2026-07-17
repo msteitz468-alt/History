@@ -5,8 +5,8 @@ modern_equivalent: Mexico City (Lake Texcoco, Basin of Mexico)
 coordinates: ~19.43°N, 99.13°W
 period_active: [Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century]
 controlled_by: [Aztec (Mexica) Triple Alliance, New Spain / Mexico City]
-events_here: [[[triple-alliance-formation-1428]], [[spanish-conquest-of-mexico-1519]]]
-processes_here: [[[urbanization]], [[ruralization]], [[mesoamerican-state-formation]], [[central-mexico-indigenous-colonial]], [[central-mexico-indigenous-since-independence]]]
+events_here: [ [[triple-alliance-formation-1428]], [[spanish-conquest-of-mexico-1519]]]
+processes_here: [ [[urbanization]], [[ruralization]], [[mesoamerican-state-formation]], [[central-mexico-indigenous-colonial]], [[central-mexico-indigenous-since-independence]]]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [place, mesoamerica, late-middle-ages]

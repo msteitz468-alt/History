@@ -6,7 +6,7 @@ coordinates: [37.07 N, 15.29 E]
 period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [the Corinthian colonists and the Gamoroi oligarchy; later the Deinomenid tyrants]
 events_here: [the foundation from Corinth (733 BCE), the planting of Acrae (663) and Casmenae (643), the foundation of Camarina (598) and its revolt]
-processes_here: [[[greek-colonization|Greek colonization]], the subjugation of the Sicels, agrarian oligarchy]
+processes_here: [ [[greek-colonization|Greek colonization]], the subjugation of the Sicels, agrarian oligarchy]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, mediterranean, archaic-period, classical-antiquity]

@@ -5,7 +5,7 @@ date_start: fl. early 3rd c. BCE
 date_end: fl. early 3rd c. BCE
 period: [Classical Antiquity]
 region: [north-africa]
-affiliated_with: [[[ptolemaic-egypt]]]
+affiliated_with: [ [[ptolemaic-egypt]]]
 opposed_by: []
 key_events: []
 key_processes: []

@@ -5,10 +5,10 @@ date_start: c. 157 BCE
 date_end: 86 BCE
 period: [Classical Antiquity]
 region: [italy, north-africa, mediterranean-world]
-affiliated_with: [[[roman-republic]]; the equites/businessmen; the tribune Saturninus (briefly)]
+affiliated_with: [ [[roman-republic]]; the equites/businessmen; the tribune Saturninus (briefly)]
 opposed_by: [Metellus Numidicus and the nobility; later Sulla]
-key_events: [[[jugurthine-war-112-105bce]], [[cimbric-war-113-101bce|the defeat of the Cimbri and Teutones]] (102–101), seven consulships]
-key_processes: [[[marian-army-reforms]], [[optimates-populares]]]
+key_events: [ [[jugurthine-war-112-105bce]], [[cimbric-war-113-101bce|the defeat of the Cimbri and Teutones]] (102–101), seven consulships]
+key_processes: [ [[marian-army-reforms]], [[optimates-populares]]]
 sources_ingested: 6
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]

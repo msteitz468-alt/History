@@ -2,7 +2,7 @@
 title: Herman Hattaway and Archer Jones
 actor_type: person
 date_start: 1983 (publication of major work)
-date_end: 
+date_end: Hattaway 1938–2018; Jones 1926–2015
 period: [Long 19th Century]
 region: [north-america]
 affiliated_with: [University of Illinois Press, military historians, academic specialists in Civil War]

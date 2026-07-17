@@ -36,6 +36,10 @@ Superior Union numbers, logistics, and Sherman's operational skill vs. Confedera
 
 Major political victory for the Union; enabled the March to the Sea and further destruction of Confederate resources.
 
+## Historiography
+
+The campaign is documented through an exceptionally rich body of primary sources: the Official Records of the Union and Confederate Armies, Sherman's own memoirs (self-serving on several key decisions), and the memoirs and reports of Johnston, Hood, and their corps commanders, whose postwar accounts frequently blamed one another for the campaign's outcome — Hood in particular attacked Johnston's conduct to justify his own more aggressive tactics. Scholarly debate centers on Johnston's defensive strategy: was his repeated withdrawal a prudent trade of space for time given Confederate manpower shortages, or excessive caution that surrendered Atlanta unnecessarily? Military historians have increasingly emphasized the campaign's logistical dimension — Sherman's dependence on a single rail line and Confederate cavalry's failure to sever it — over the purely tactical narrative of earlier accounts. The campaign's political significance (its role in securing Lincoln's re-election) is well established and less contested than its purely operational lessons.
+
 ## Related
 
 - Analysis: [[hubs/warfare/long-19th-century/american-civil-war/atlanta-campaign-1864]]

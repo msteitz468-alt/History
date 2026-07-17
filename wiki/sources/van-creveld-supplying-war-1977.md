@@ -1,5 +1,6 @@
 ---
 title: "Supplying War: Logistics from Wallenstein to Patton"
+aliases: [van-creveld-supplying-war-1997]
 author: "Martin van Creveld"
 year: 1977
 source_type: secondary

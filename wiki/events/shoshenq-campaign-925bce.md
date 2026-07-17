@@ -6,7 +6,7 @@ date_precision: year
 period: [Early Iron Age]
 region: [levant, north-africa]
 location: [Judah, Israel, the Negev, and the Jezreel (Megiddo); routes recorded at Karnak]
-actors_primary: [[[libyan-dynasties-egypt|Shoshenq I of Egypt (22nd Dynasty)]], [[kingdom-of-judah|Rehoboam of Judah]], [[kingdom-of-israel|Jeroboam I of Israel]]]
+actors_primary: [ [[libyan-dynasties-egypt|Shoshenq I of Egypt (22nd Dynasty)]], [[kingdom-of-judah|Rehoboam of Judah]], [[kingdom-of-israel|Jeroboam I of Israel]]]
 actors_secondary: [the Twenty-second (Libyan) Dynasty of Egypt, the fortified towns of Palestine]
 event_type: war
 scale_immediate: regional

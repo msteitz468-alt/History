@@ -6,9 +6,9 @@ date_end: ongoing
 period: [Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [southeast-asia]
 affiliated_with: [the Thakin nationalist movement, [[aung-san]], the AFPFL, the military (Tatmadaw)]
-opposed_by: [[[british-burma|British colonial rule]], the Japanese occupation, ethnic-minority insurgencies]
+opposed_by: [ [[british-burma|British colonial rule]], the Japanese occupation, ethnic-minority insurgencies]
 key_events: [the three Anglo-Burmese Wars (1824-85), the [[japanese-occupation-southeast-asia|Japanese occupation]], independence 1948, the 1962 military coup]
-key_processes: [[[southeast-asian-nationalism]], [[decolonization-southeast-asia]], military authoritarianism]
+key_processes: [ [[southeast-asian-nationalism]], [[decolonization-southeast-asia]], military authoritarianism]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, state, long-19th-century, world-wars-era, cold-war, contemporary, southeast-asia]

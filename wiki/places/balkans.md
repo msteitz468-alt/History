@@ -6,7 +6,7 @@ coordinates: ~43° N, 22° E (central Balkans)
 period_active: [Late Prehistory, Mesolithic, Neolithic, Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period]
 controlled_by: [autochthonous prehistoric cultures, Palaeo-Balkan peoples (Thracians, Illyrians, Daco-Moesians)]
 events_here: []
-processes_here: [[[old-europe-copper-metallurgy]], [[indo-european-migrations]], [[agricultural-origins]]]
+processes_here: [ [[old-europe-copper-metallurgy]], [[indo-european-migrations]], [[agricultural-origins]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, balkans, eastern-europe, mediterranean]

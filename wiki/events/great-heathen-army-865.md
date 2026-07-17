@@ -11,7 +11,7 @@ actors_secondary: [the kingdoms of Northumbria, East Anglia, and [[mercia|Mercia
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[viking-age|the escalation of Viking raiding into territorial conquest]], the wealth and political fragmentation of the Anglo-Saxon kingdoms, the success of earlier loot-laden raids]
+causes: [ [[viking-age|the escalation of Viking raiding into territorial conquest]], the wealth and political fragmentation of the Anglo-Saxon kingdoms, the success of earlier loot-laden raids]
 consequences: [destruction of the kingdoms of Northumbria, East Anglia, and eastern Mercia, the creation of the Danelaw, the survival and rise of Wessex under Alfred, the burh fortress system]
 sources_ingested: 1
 last_updated: 2026-06-12

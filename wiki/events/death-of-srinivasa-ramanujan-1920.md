@@ -24,4 +24,7 @@ Ramanujan died at the age of 32 in the house “Gometra” in Chetput, Madras. H
 
 Hardy, who had already left Trinity for Oxford, learned of the death and devoted much of the rest of his life to securing Ramanujan’s reputation.
 
+## Historiography
+The medical record is fragmentary: contemporary diagnoses (variously tuberculosis, hepatic amoebiasis, or vitamin deficiency) rest on the limited clinical notes of the period and Hardy's and Janaki's recollections rather than modern pathology. A retrospective 1994 medical analysis by Young, drawing on surviving symptoms described in letters and biographies, proposed hepatic amoebiasis as the most likely cause rather than tuberculosis, illustrating how later scholarship has revised the traditional account. Robert Kanigel's biography *The Man Who Knew Infinity* (1991) and Hardy's own memorial writings remain the principal secondary sources; Hardy's guilt over Ramanujan's treatment in England and the "cultural dislocation" narrative are themselves subjects of historiographical reassessment regarding how much they reflect an accurate account versus a retrospectively constructed tragic narrative.
+
 **Related**: [[actors/ramanujan-srinivasa]], [[actors/hardy-g-h]], [[actors/ramanujan-janaki]]

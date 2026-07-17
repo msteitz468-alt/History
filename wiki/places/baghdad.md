@@ -6,7 +6,7 @@ coordinates: ~33.34°N, 44.40°E
 period_active: [Early Middle Ages, High Middle Ages]
 controlled_by: [Abbasid Caliphate]
 events_here: []
-processes_here: [[[urbanization]]]
+processes_here: [ [[urbanization]]]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [place, mesopotamia, near-east, early-middle-ages, islamic-world]
@@ -69,7 +69,7 @@ the center of the medieval Islamic world until 1258. See [[founded-cities]].
 
 **Grounded claims from Abu-Lughod Before European Hegemony range 8401-12400**:
 1. "although the Mongol conquest of Iraq and Persia altered many of the local patterns of port distribution in the Gulf—patterns that had persisted throughout the period of increasing anarchy during late Abbasid times—the Mongols cannot be blamed for destroying the middle trade route to the Far East. Not only did trade with India-China persist after Hulegu’s appearance but it took on a new life..." (ll. 8522-8531). taxonomy: contributed_to: [[afro-eurasian-world-system]] persistence; contrasts_with: total destruction of [[baghdad]] role. Updated [[baghdad]].
-2. "The two intermediaries that gained most from the new arrangement of power were Hormuz and Qais. By 1291... the main path used by Europeans went overland to the Il-Khanid capital of Tabriz and then down the Persian coast to the off-shore port of the empire, Hormuz." (ll. 8502-8506). taxonomy: produced: shift in [[mideast-heartland]] entrepots under [[mongol-empire]]. Updated [[baghdad]].
+2. "The two intermediaries that gained most from the new arrangement of power were Hormuz and Qais. By 1291... the main path used by Europeans went overland to the Il-Khanid capital of Tabriz and then down the Persian coast to the off-shore port of the empire, Hormuz." (ll. 8502-8506). taxonomy: produced: shift in mideast heartland entrepots under [[mongol-empire]]. Updated [[baghdad]].
 3. "In spite of Baghdad’s decreasing dominance from the eleventh century on... commerce between the Gulf and China continued to yield large fortunes to merchants." (ll. 8456-8459). taxonomy: concurrent_with: [[high-middle-ages]] Gulf trade continuation. Updated [[baghdad]].
 4. "When these two regions [Persia and Iraq] were joined and under common rule... all elements of civilization... as well as thriving commerce and trade—flourished. Conversely, the break up of that unity always inhibited trade and culture." (ll. 8261-8271). taxonomy: enabled: [[afro-eurasian-world-system]] Gulf route. Updated [[baghdad]].
 **Taxonomy Used**: contributed_to, produced, concurrent_with, enabled, contrasts_with (CLAUDE.md).

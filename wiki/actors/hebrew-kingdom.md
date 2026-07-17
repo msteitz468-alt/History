@@ -5,10 +5,10 @@ date_start: c. 1020 BCE (Saul; the united monarchy)
 date_end: c. 930 BCE (division into Israel and Judah)
 period: [Early Iron Age]
 region: [levant]
-affiliated_with: [[[phoenicians|Tyre]] (the Hiram alliance)]
-opposed_by: [[[philistines|Philistines]], [[arameans|Aramaeans]], Moab, Ammon, Edom, Amalek]
+affiliated_with: [ [[phoenicians|Tyre]] (the Hiram alliance)]
+opposed_by: [ [[philistines|Philistines]], [[arameans|Aramaeans]], Moab, Ammon, Edom, Amalek]
 key_events: [the choice of a king, David's conquests, Solomon's temple, the division of the kingdom]
-key_processes: [[[bronze-age-collapse-1200bce|the early Iron Age settlement of Canaan]]]
+key_processes: [ [[bronze-age-collapse-1200bce|the early Iron Age settlement of Canaan]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]

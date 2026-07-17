@@ -4,8 +4,8 @@ place_type: city
 modern_equivalent: [Stockholm, Sweden]
 coordinates: ~59.33°N, 18.07°E
 period_active: [High Middle Ages, Late Middle Ages]
-controlled_by: [[[sweden|Sweden]]]
-processes_here: [[[scandinavian-urbanisation|Scandinavian urbanisation]]]
+controlled_by: [ [[sweden|Sweden]]]
+processes_here: [ [[scandinavian-urbanisation|Scandinavian urbanisation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, scandinavia, sweden, high-middle-ages]

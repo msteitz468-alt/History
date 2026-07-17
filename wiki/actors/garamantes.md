@@ -8,7 +8,7 @@ region: [north-africa, sub-saharan-africa]
 affiliated_with: [Berber/Libyan desert peoples; commerce with Carthage and Roman North Africa]
 opposed_by: [Rome (raids and one triumph); the "Troglodyte Ethiopians" they raided for slaves]
 key_events: [emergence c. 1000 BCE, peak 1st–3rd c. CE (capital Garama), foggara irrigation florescence, decline after 300 CE, Arab conquest of the Fezzan (7th c.)]
-key_processes: [[[trans-saharan-trade]], [[empire]]]
+key_processes: [ [[trans-saharan-trade]], [[empire]]]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, classical-antiquity, north-africa]

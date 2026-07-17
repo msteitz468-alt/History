@@ -5,10 +5,10 @@ date_start: 909/910 CE (foundation)
 date_end: 1790 (suppressed in the French Revolution); abbey church demolished 1798–1823
 period: [Early Middle Ages, High Middle Ages]
 region: [western-europe]
-affiliated_with: [[[william-i-of-aquitaine|William the Pious of Aquitaine]], [[papacy]], Benedictine monasticism]
+affiliated_with: [ [[william-i-of-aquitaine|William the Pious of Aquitaine]], [[papacy]], Benedictine monasticism]
 opposed_by: [proprietary lordship over monasteries, simony]
-key_events: [[[foundation-of-cluny-909]]]
-key_processes: [[[carolingian-monasticism]], tenth-century monastic reform, [[medieval-monastic-revival]]]
+key_events: [ [[foundation-of-cluny-909]]]
+key_processes: [ [[carolingian-monasticism]], tenth-century monastic reform, [[medieval-monastic-revival]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, institution, early-middle-ages, high-middle-ages, western-europe]

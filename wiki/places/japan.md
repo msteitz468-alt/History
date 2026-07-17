@@ -5,8 +5,8 @@ modern_equivalent: [Japan]
 coordinates: ~36°N 138°E (Honshū)
 period_active: [Behavioral Modernity, Neolithic, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: ["the [[yamato-japan|Yamato]] court & imperial line", "the [[fujiwara-clan|Fujiwara]] regents", "the warrior shogunates (Kamakura, Ashikaga, Tokugawa)", "the modern Meiji state"]
-events_here: [[[taika-reform-645]], the building of Nara (710) & Heian/Kyoto (794)]
-processes_here: [[[state-formation]], [[shinto]], [[japanese-buddhism]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
+events_here: [ [[taika-reform-645]], the building of Nara (710) & Heian/Kyoto (794)]
+processes_here: [ [[state-formation]], [[shinto]], [[japanese-buddhism]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, japan, east-asia]

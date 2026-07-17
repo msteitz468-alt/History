@@ -5,8 +5,8 @@ date_start: unknown (fl. 430s–422 BCE)
 date_end: 422 BCE (killed at Amphipolis)
 period: [Classical Antiquity]
 region: [central-greece, aegean]
-affiliated_with: [[[athens]], [[athenian-democracy|the radical democracy]], the war party]
-opposed_by: [[[sparta]], [[brasidas]], Nicias, the conservative aristocracy]
+affiliated_with: [ [[athens]], [[athenian-democracy|the radical democracy]], the war party]
+opposed_by: [ [[sparta]], [[brasidas]], Nicias, the conservative aristocracy]
 key_events: [the Mytilenean Debate 427 BCE, the victory at Pylos/Sphacteria 425 BCE, the rejection of the Spartan peace offer, death at Amphipolis 422 BCE]
 key_processes: [the rise of the non-aristocratic demagogue in [[athenian-democracy]]]
 sources_ingested: 2

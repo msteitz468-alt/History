@@ -49,7 +49,7 @@ Rupprecht warning (Ch. 3): “There is no panacea. A formula is harmful. Everyth
 ## Related
 
 - Primary source for this ingest: [[sources/lupfer-dynamics-of-doctrine-1981]]
-- Enriches [[hubs/warfare/world-wars-era/first-world-war/]] and German tactical doctrine sections in the warfare hub.
+- Enriches hubs/warfare/world-wars-era/first-world-war/ and German tactical doctrine sections in the warfare hub.
 - Cross-references to works on WWI tactics, combined arms, and principles of war (e.g., mass, economy of force, surprise, maneuver, unity of command).
 - Complements other WWI sources on the Western Front stalemate and 1918 offensives.
 

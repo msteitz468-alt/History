@@ -7,7 +7,7 @@ period: [Late Antiquity]
 region: [western-europe, central-europe]
 affiliated_with: [the Cherusci; (earlier) Rome, as citizen and auxiliary officer]
 opposed_by: [Rome (Varus, Germanicus); the pro-Roman faction of his own family; Maroboduus of the Marcomanni]
-key_events: [[[battle-of-teutoburg-forest-9ce|the Varian disaster]] (9 CE), resistance to Germanicus' campaigns (14–16)]
+key_events: [ [[battle-of-teutoburg-forest-9ce|the Varian disaster]] (9 CE), resistance to Germanicus' campaigns (14–16)]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11

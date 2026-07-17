@@ -8,7 +8,7 @@ region: [south-america]
 affiliated_with: [the Tupi-Guarani peoples of coastal Brazil]
 opposed_by: [the Portuguese; rival Tupi and Gê groups]
 key_events: [European contact on the Brazilian coast (1500–), Tupinambá warfare and ritual cannibalism, the path of Portuguese conquest, the Jesuit aldeias]
-key_processes: [[[atlantic-slave-trade]]]
+key_processes: [ [[atlantic-slave-trade]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, movement, early-modern, south-america]

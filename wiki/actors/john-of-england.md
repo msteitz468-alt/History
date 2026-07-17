@@ -5,8 +5,8 @@ date_start: 1166 (born)
 date_end: 1216 (died, Newark)
 period: [High Middle Ages]
 region: [british-isles, western-europe]
-affiliated_with: [[[angevin-empire|the house of Anjou/Plantagenet]], the papacy (after 1213)]
-opposed_by: [[[philip-ii-augustus|Philip II Augustus of France]], the rebel barons of 1215, [[innocent-iii|Pope Innocent III]] (1208–1213)]
+affiliated_with: [ [[angevin-empire|the house of Anjou/Plantagenet]], the papacy (after 1213)]
+opposed_by: [ [[philip-ii-augustus|Philip II Augustus of France]], the rebel barons of 1215, [[innocent-iii|Pope Innocent III]] (1208–1213)]
 key_events: [the loss of Normandy 1204, the battle of [[battle-of-bouvines-1214|Bouvines]] 1214, [[magna-carta-1215|Magna Carta]] 1215]
 key_processes: [the territorial collapse of the [[angevin-empire|Angevin empire]], the intensification of English royal government]
 sources_ingested: 1

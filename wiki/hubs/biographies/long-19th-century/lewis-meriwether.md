@@ -4,6 +4,8 @@ analysis_type: biography
 actor_page: "actors/lewis-meriwether"
 date_birth: "1774-08-18"
 date_death: "1809-10-11"
+period: "long-19th-century"
+region: "north-america"
 key_sources: ["fehrman-this-vast-enterprise-2026"]
 scale: civilizational (for U.S. continental identity and expansion)
 last_updated: "2026-07-03"

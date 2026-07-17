@@ -5,9 +5,9 @@ date_start: c. 530 BCE (birth)
 date_end: c. 468 BCE (death)
 period: [Classical Antiquity]
 region: [central-greece, aegean]
-affiliated_with: [[[athens]], [[delian-league|the Delian League]]]
-opposed_by: [[[themistocles]] (rival)]
-key_events: [[[battle-of-marathon-490bce|Marathon]] (490), ostracism 482 BCE, [[battle-of-plataea-479bce|Plataea]] (479), the first tribute assessment of the Delian League 478/7 BCE]
+affiliated_with: [ [[athens]], [[delian-league|the Delian League]]]
+opposed_by: [ [[themistocles]] (rival)]
+key_events: [ [[battle-of-marathon-490bce|Marathon]] (490), ostracism 482 BCE, [[battle-of-plataea-479bce|Plataea]] (479), the first tribute assessment of the Delian League 478/7 BCE]
 key_processes: [the foundation of [[delian-league|the Delian League]]]
 sources_ingested: 1
 last_updated: 2026-06-11

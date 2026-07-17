@@ -6,7 +6,7 @@ coordinates: [37.9 N, 22.9 E]
 period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [independent polis; Macedon (the Acrocorinth garrison); the [[achaean-league|Achaean League]]; destroyed by [[roman-republic|Rome]] 146]
 events_here: [the Isthmian Games (the [[freedom-of-the-greeks|196 proclamation]]), the [[achaean-war-146bce|sack of 146]]]
-processes_here: [[[trade-network-formation]]]
+processes_here: [ [[trade-network-formation]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, balkans, mediterranean-world, classical-antiquity, greece]

@@ -6,7 +6,7 @@ date_precision: exact
 period: [Archaic Period]
 region: [mesopotamia, near-east]
 location: [Opis, Sippar, and Babylon on the Euphrates]
-actors_primary: [[[cyrus-the-great|Cyrus II of Persia]], [[nabonidus|Nabonidus]], Belshazzar]
+actors_primary: [ [[cyrus-the-great|Cyrus II of Persia]], [[nabonidus|Nabonidus]], Belshazzar]
 actors_secondary: [Ugbaru/Gobryas (governor of Gutium), Gubaru, the priesthood of Marduk, the Jewish exiles]
 event_type: [war, political, transition]
 scale_immediate: regional

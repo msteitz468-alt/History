@@ -1,5 +1,6 @@
 ---
 title: The Wars of the Diadochi (Successors)
+aliases: [wars-of-the-diadochi]
 date_start: 323 BCE
 date_end: 281 BCE
 date_end_note: "Principal phase 323–301 (to Ipsus); coda to Corupedium 281"
@@ -7,13 +8,13 @@ date_precision: year
 period: [Classical Antiquity]
 region: [mediterranean-world, anatolia, near-east, levant, mesopotamia, egypt, balkans]
 location: [Babylon, Triparadisus, Gaza, Ipsus, Corupedium]
-actors_primary: [[[perdiccas]], [[antipater]], [[antigonus-i-monophthalmus]], [[eumenes-of-cardia]], [[ptolemy-i-soter]], [[seleucus-i-nicator]], [[lysimachus]], [[cassander]], [[demetrius-i-poliorcetes]]]
-actors_secondary: [[[polyperchon]], [[craterus]], [[olympias]], [[alexander-iv]], [[philip-iii-arrhidaeus]]]
+actors_primary: [ [[perdiccas]], [[antipater]], [[antigonus-i-monophthalmus]], [[eumenes-of-cardia]], [[ptolemy-i-soter]], [[seleucus-i-nicator]], [[lysimachus]], [[cassander]], [[demetrius-i-poliorcetes]]]
+actors_secondary: [ [[polyperchon]], [[craterus]], [[olympias]], [[alexander-iv]], [[philip-iii-arrhidaeus]]]
 event_type: war
 scale_immediate: hemispheric
 scale_consequential: hemispheric
-causes: [[[alexander-the-great]], absence of a competent Argead heir, rival ambitions of Alexander's marshals, the personal (not institutional) basis of Alexander's empire]
-consequences: [[[hellenistic-world]], [[hellenistic-monarchy]], [[ptolemaic-egypt]], [[seleucid-empire]], [[antigonid-dynasty]], extinction of the Argead dynasty, [[seleucid-era]]]
+causes: [ [[alexander-the-great]], absence of a competent Argead heir, rival ambitions of Alexander's marshals, the personal (not institutional) basis of Alexander's empire]
+consequences: [ [[hellenistic-world]], [[hellenistic-monarchy]], [[ptolemaic-egypt]], [[seleucid-empire]], [[antigonid-dynasty]], extinction of the Argead dynasty, [[seleucid-era]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, mediterranean-world, greece]

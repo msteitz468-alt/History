@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Chadds Ford, Brandywine Creek, Pennsylvania]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[washington-george]], [[howe-william]], [[cornwallis-charles]], [[greene-nathanael]]]
+actors_secondary: [ [[washington-george]], [[howe-william]], [[cornwallis-charles]], [[greene-nathanael]]]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
@@ -48,6 +48,10 @@ total destruction." British losses were ~89 killed and 488 wounded; American los
 - `produced:` the **fall of Philadelphia** and the loss of the Trenton-Princeton "mystique."
 - `produced:` a **crisis of command** — Congress and army "openly discussed [Washington's] removal and
   replacement by [[gates-horatio|Gates]]."
+
+## Historiography
+
+The battle is documented through British and American after-action reports and officers' letters, supplemented by later reminiscences (e.g. Lafayette's, wounded here) written well after the fact. The West Point History of the American Revolution synthesizes this material into an operational narrative; Lengel's biography of Washington is a key secondary voice on the command failures. Historians debate how much to fault Washington personally for the reconnaissance failure at the upper fords versus structural causes — poor Continental Army staff work and Howe's superior use of local Loyalist intelligence. Casualty figures vary somewhat between British and American sources, as is typical for the period, and the battle is often used as a case study in the broader debate over Washington's early-war generalship versus his later maturation as a commander.
 
 ## Related
 

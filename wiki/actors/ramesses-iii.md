@@ -8,7 +8,7 @@ region: [north-africa, levant]
 affiliated_with: [the Twentieth Dynasty, the cult of [[amun-priesthood|Amun]]]
 opposed_by: [the [[sea-peoples|Sea Peoples]], the Libyans, a palace conspiracy]
 key_events: [the Libyan wars of Years 5 and 11, the great land-and-sea battle against the Sea Peoples in Year 8, the harem conspiracy]
-key_processes: [[[imperialism]], [[egyptian-imperialism]]]
+key_processes: [ [[imperialism]], [[egyptian-imperialism]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]

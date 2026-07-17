@@ -5,9 +5,9 @@ date_start: 1741
 date_end: 1801
 period: [Age of Expansion]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[continental-army]], [[washington-george]]]
-opposed_by: [[[burgoyne-john]]]
-key_events: [[[siege-of-boston-1775]], [[battles-of-saratoga-1777]]]
+affiliated_with: [ [[continental-army]], [[washington-george]]]
+opposed_by: [ [[burgoyne-john]]]
+key_events: [ [[siege-of-boston-1775]], [[battles-of-saratoga-1777]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

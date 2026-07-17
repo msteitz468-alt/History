@@ -6,7 +6,7 @@ date_end: c. 803 BCE (death; succeeded by Ben-Hadad III/Bar-hadad)
 period: [Early Iron Age]
 region: [levant, syria, near-east]
 affiliated_with: [Aram-Damascus, the [[arameans|Aramaean]] states]
-opposed_by: [[[neo-assyrian-empire|Assyria]] (Shalmaneser III, Adad-nirari III), [[kingdom-of-israel|Israel]], [[kingdom-of-judah|Judah]]]
+opposed_by: [ [[neo-assyrian-empire|Assyria]] (Shalmaneser III, Adad-nirari III), [[kingdom-of-israel|Israel]], [[kingdom-of-judah|Judah]]]
 key_events: [the usurpation of Damascus, Shalmaneser III's siege of 841, the conquest of Israelite Transjordan, the campaign against Gath]
 key_processes: [Aramaean state power, Assyrian–Syrian warfare]
 sources_ingested: 1

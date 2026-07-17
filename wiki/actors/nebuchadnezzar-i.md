@@ -5,8 +5,8 @@ date_start: r. 1124 BCE
 date_end: 1103 BCE
 period: [Early Iron Age]
 region: [mesopotamia, babylonia]
-affiliated_with: [[[second-isin-dynasty|Second Dynasty of Isin]]]
-opposed_by: [[[elam|Elam]], [[assyria-middle|Assyria]] ([[tiglath-pileser-i|Tiglath-pileser I]])]
+affiliated_with: [ [[second-isin-dynasty|Second Dynasty of Isin]]]
+opposed_by: [ [[elam|Elam]], [[assyria-middle|Assyria]] ([[tiglath-pileser-i|Tiglath-pileser I]])]
 key_events: [the defeat of Elam and recovery of the Marduk statue]
 key_processes: []
 sources_ingested: 1

@@ -5,10 +5,10 @@ date_start: 1583
 date_end: 1654
 period: [Early Modern]
 region: [scandinavia, sweden, northern-europe]
-affiliated_with: [[[swedish-empire]], [[gustavus-adolphus]]]
-opposed_by: [[[denmark-norway]]]
-key_events: [[[thirty-years-war-1618]]]
-key_processes: [[[fiscal-military-state-scandinavia]]]
+affiliated_with: [ [[swedish-empire]], [[gustavus-adolphus]]]
+opposed_by: [ [[denmark-norway]]]
+key_events: [ [[thirty-years-war-1618]]]
+key_processes: [ [[fiscal-military-state-scandinavia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-modern, scandinavia, sweden]

@@ -8,7 +8,7 @@ region: [italy, mediterranean-world]
 affiliated_with: [the Senate (optimate sympathies); the *novi homines*; the equestrian order; the "harmony of the orders"]
 opposed_by: [Catiline, Clodius, Mark Antony; the *populares* dynasts (ambivalently)]
 key_events: [the prosecution of Verres (70), the consulship of 63, the [[catilinarian-conspiracy-63bce]], exile and recall (58–57), the Philippics against Antony (44–43), proscription and death (43)]
-key_processes: [[[optimates-populares]], the collapse of the Republic]
+key_processes: [ [[optimates-populares]], the collapse of the Republic]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy]

@@ -5,10 +5,10 @@ date_start: ~1481 BCE (birth, uncertain)
 date_end: ~1425 BCE (reigned ~1479–1425; sole rule from ~1458, middle chronology)
 period: [Late Bronze Age]
 region: [north-africa, levant, near-east]
-affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]]]
-opposed_by: [[[hatshepsut|Hatshepsut]] (stepmother/co-regent), the Syrian coalition under Kadesh, [[mitanni|Mitanni]]]
+affiliated_with: [ [[new-kingdom-egypt|Eighteenth Dynasty]]]
+opposed_by: [ [[hatshepsut|Hatshepsut]] (stepmother/co-regent), the Syrian coalition under Kadesh, [[mitanni|Mitanni]]]
 key_events: [the Battle of Megiddo (~1457 BCE), ~17 Asian campaigns to the Euphrates, the frontier at Napata in Nubia]
-key_processes: [[[imperialism]], [[egyptian-imperialism]], [[interpolity-law]], [[state-formation]]]
+key_processes: [ [[imperialism]], [[egyptian-imperialism]], [[interpolity-law]], [[state-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa, near-east]

@@ -6,13 +6,13 @@ date_precision: exact
 period: [Late Antiquity]
 region: [anatolia, balkans, mediterranean-world]
 location: [Byzantium / Constantinople, Bosphorus]
-actors_primary: [[[constantine-the-great]]]
+actors_primary: [ [[constantine-the-great]]]
 actors_secondary: []
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[roman-tetrarchy]]]
-consequences: [[[byzantine-empire]]]
+causes: [ [[roman-tetrarchy]]]
+consequences: [ [[byzantine-empire]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [event, late-antiquity, anatolia]

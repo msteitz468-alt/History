@@ -6,7 +6,7 @@ coordinates: [3°S, 60°W]
 period_active: [Behavioral Modernity to present]
 controlled_by: [diverse indigenous peoples; later Portuguese and Spanish colonial frontiers]
 events_here: [early peopling of the lowlands, the development of Amazonian Dark Earths, the colonial slaving and mission frontier]
-processes_here: [[[andean-state-formation]]]
+processes_here: [ [[andean-state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, amazonia, south-america]

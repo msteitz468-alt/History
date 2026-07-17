@@ -6,7 +6,7 @@ coordinates: ~27.33°N, 68.14°E
 period_active: [Early Bronze Age, Middle Bronze Age]
 controlled_by: [Indus (Harappan) civilization]
 events_here: []
-processes_here: [[[urbanization]]]
+processes_here: [ [[urbanization]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, south-asia, early-bronze-age]

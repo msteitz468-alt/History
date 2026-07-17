@@ -11,7 +11,7 @@ actors_secondary: [the Aeginetan and Athenian squadrons, Aristides, the Ionian a
 event_type: battle
 scale_immediate: regional
 scale_consequential: global
-causes: [[[xerxes-i|Xerxes']] advance and the sack of Athens, Themistocles' determination to fight in narrow water, his deceptive message luring the Persian fleet into the strait]
+causes: [ [[xerxes-i|Xerxes']] advance and the sack of Athens, Themistocles' determination to fight in narrow water, his deceptive message luring the Persian fleet into the strait]
 consequences: [the destruction of much of the Persian fleet, Xerxes' withdrawal to Asia, the survival of the Greek cause, the prelude to Plataea and the rise of Athenian sea power]
 sources_ingested: 4
 last_updated: 2026-07-08

@@ -5,9 +5,9 @@ date_start: c. 245 BCE
 date_end: 207 BCE
 period: [Classical Antiquity]
 region: [iberia, italy, north-africa]
-affiliated_with: [[[carthage]], [[hannibal]], [[hamilcar-barca]]]
-opposed_by: [[[scipio-africanus]], [[roman-republic]]]
-key_events: [[[second-punic-war-218-201bce]], [[battle-of-the-metaurus-207bce]]]
+affiliated_with: [ [[carthage]], [[hannibal]], [[hamilcar-barca]]]
+opposed_by: [ [[scipio-africanus]], [[roman-republic]]]
+key_events: [ [[second-punic-war-218-201bce]], [[battle-of-the-metaurus-207bce]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

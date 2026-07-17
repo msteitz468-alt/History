@@ -5,10 +5,10 @@ date_start: ~1403 BCE (birth, uncertain)
 date_end: ~1379 BCE (reigned ~1390–1352; this volume to ~1379, middle chronology)
 period: [Late Bronze Age]
 region: [north-africa, near-east]
-affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]], Queen Tiy]
+affiliated_with: [ [[new-kingdom-egypt|Eighteenth Dynasty]], Queen Tiy]
 opposed_by: [the rising [[hittites|Hittites]] (a gathering threat, not yet open war)]
 key_events: [the golden-age building programme at Thebes, the three jubilees, diplomatic marriages with Asiatic royal houses]
-key_processes: [[[interpolity-law]], [[trade-network-formation]]]
+key_processes: [ [[interpolity-law]], [[trade-network-formation]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]

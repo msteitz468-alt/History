@@ -5,8 +5,8 @@ modern_equivalent: ["Cleveland, Ohio, USA"]
 coordinates: [41.50, -81.69]
 period_active: [long-19th-century, world-wars-era]
 controlled_by: ["United States"]
-events_here: [[[events/cleveland-massacre-1872]]]
-processes_here: [[[processes/corporate-consolidation-gilded-age]], [[processes/second-industrial-revolution]]]
+events_here: [ [[events/cleveland-massacre-1872]]]
+processes_here: [ [[processes/corporate-consolidation-gilded-age]], [[processes/second-industrial-revolution]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [place, north-america, eastern-north-america, long-19th-century, cleveland, ohio]

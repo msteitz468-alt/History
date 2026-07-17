@@ -6,9 +6,9 @@ date_end: 539 BCE (deposed; later died in exile in Carmania)
 period: [Archaic Period]
 region: [mesopotamia, near-east, arabian-peninsula]
 affiliated_with: [the [[neo-babylonian-empire|Neo-Babylonian Empire]], the cult of Sin (moon-god) of Harran, his mother Adad-guppi, his son and regent Belshazzar]
-opposed_by: [[[cyrus-the-great|Cyrus the Persian]], the priesthood of Marduk at Babylon]
+opposed_by: [ [[cyrus-the-great|Cyrus the Persian]], the priesthood of Marduk at Babylon]
 key_events: [the restoration of Ekhulkhul at Harran, the ten-year residence at Tema in Arabia, the regency of Belshazzar, the [[fall-of-babylon-539bce|fall of Babylon 539]]]
-key_processes: [[[empire]]]
+key_processes: [ [[empire]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, mesopotamia, near-east]

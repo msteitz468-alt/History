@@ -1,17 +1,18 @@
 ---
 title: The Peloponnesian War
+aliases: [peloponnesian-war-431-404bce]
 date_start: 431 BCE
 date_end: 404 BCE
 date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean, italy, anatolia]
 location: [Greece, the Aegean, Sicily, the Hellespont]
-actors_primary: [[[places/athens|Athens]], [[delian-league|the Athenian empire]], [[sparta]], [[peloponnesian-league|the Peloponnesian League]], [[corinth]]]
-actors_secondary: [[[pericles]], [[cleon]], [[brasidas]], [[syracuse]], [[achaemenid-empire|Persia]], Alcibiades, Lysander]
+actors_primary: [ [[places/athens|Athens]], [[delian-league|the Athenian empire]], [[sparta]], [[peloponnesian-league|the Peloponnesian League]], [[corinth]]]
+actors_secondary: [ [[pericles]], [[cleon]], [[brasidas]], [[syracuse]], [[achaemenid-empire|Persia]], Alcibiades, Lysander]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[delian-league|the growth of Athenian power]] and Spartan fear of it (Thucydides' "truest cause"), the disputes over Corcyra and Potidaea, the Megarian Decree, Corinthian hostility, the structural incompatibility of the two power-blocs]
+causes: [ [[delian-league|the growth of Athenian power]] and Spartan fear of it (Thucydides' "truest cause"), the disputes over Corcyra and Potidaea, the Megarian Decree, Corinthian hostility, the structural incompatibility of the two power-blocs]
 consequences: [the fall of the Athenian empire, the end of the radical democracy (temporarily), Spartan hegemony, the exhaustion of the Greek city-states, the opening for Macedon]
 sources_ingested: 7
 last_updated: 2026-07-08

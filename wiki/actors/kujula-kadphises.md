@@ -8,7 +8,7 @@ region: [central-asia, south-asia, bactria]
 affiliated_with: ["[[yuezhi|Yuezhi]] (Guishuang princedom)", "[[kushan-empire|Kushan Empire]]"]
 opposed_by: ["Gondophares (Indo-Parthians)"]
 key_events: [reunification of the five Yuezhi princedoms, conquest of the Kabul Valley, founding of the Kushan Empire]
-key_processes: [[[silk-roads]], [[trade-network-formation]]]
+key_processes: [ [[silk-roads]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, central-asia, south-asia]

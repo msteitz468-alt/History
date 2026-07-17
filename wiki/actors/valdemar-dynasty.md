@@ -5,10 +5,10 @@ date_start: 1157 CE
 date_end: 1375 CE
 period: [High Middle Ages, Late Middle Ages]
 region: [denmark, scandinavia]
-affiliated_with: [[[denmark|Denmark]]]
+affiliated_with: [ [[denmark|Denmark]]]
 opposed_by: [the Wends; rival magnates; the Hanseatic League]
 key_events: []
-key_processes: [[[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+key_processes: [ [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, dynasty, high-middle-ages, denmark]

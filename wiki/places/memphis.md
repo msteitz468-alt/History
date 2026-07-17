@@ -5,8 +5,8 @@ modern_equivalent: Mit Rahina, near Cairo, Egypt
 coordinates: ~29.85°N, 31.25°E
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Classical Antiquity, Late Antiquity]
 controlled_by: [Early Dynastic Egypt, Old Kingdom Egypt, New Kingdom Egypt]
-events_here: [[[unification-of-egypt-3100bce]], [[fall-of-old-kingdom-2160bce]]]
-processes_here: [[[urbanization]], [[agriculture-and-urbanism]]]
+events_here: [ [[unification-of-egypt-3100bce]], [[fall-of-old-kingdom-2160bce]]]
+processes_here: [ [[urbanization]], [[agriculture-and-urbanism]]]
 sources_ingested: 4
 last_updated: 2026-06-26
 tags: [place, north-africa, early-bronze-age]

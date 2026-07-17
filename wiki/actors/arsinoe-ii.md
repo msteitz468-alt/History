@@ -5,10 +5,10 @@ date_start: c. 316 BCE
 date_end: 270 BCE
 period: [Classical Antiquity]
 region: [egypt, balkans, anatolia]
-affiliated_with: [[[ptolemaic-egypt]], [[lysimachus]], [[ptolemy-ceraunus]]]
+affiliated_with: [ [[ptolemaic-egypt]], [[lysimachus]], [[ptolemy-ceraunus]]]
 opposed_by: []
-key_events: [[[battle-of-corupedium-281]]]
-key_processes: [[[hellenistic-monarchy]], [[ruler-cult]]]
+key_events: [ [[battle-of-corupedium-281]]]
+key_processes: [ [[hellenistic-monarchy]], [[ruler-cult]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, egypt]

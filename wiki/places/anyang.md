@@ -6,7 +6,7 @@ coordinates: ~36.13°N, 114.31°E
 period_active: [Late Bronze Age]
 controlled_by: [Shang dynasty]
 events_here: []
-processes_here: [[[urbanization]], [[writing-and-record-keeping]]]
+processes_here: [ [[urbanization]], [[writing-and-record-keeping]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [place, china, east-asia, late-bronze-age]

@@ -5,10 +5,10 @@ date_start: 1870
 date_end: 1911
 period: [long-19th-century]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[actors/rockefeller-john-d]], [[actors/flagler-henry]]]
-opposed_by: [[[actors/tarbell-ida]], "U.S. Department of Justice", "Pennsylvania oil producers"]
-key_events: [[[events/cleveland-massacre-1872]], [[events/standard-oil-dissolution-1911]]]
-key_processes: [[[processes/corporate-consolidation-gilded-age]], [[processes/second-industrial-revolution]]]
+affiliated_with: [ [[actors/rockefeller-john-d]], [[actors/flagler-henry]]]
+opposed_by: [ [[actors/tarbell-ida]], "U.S. Department of Justice", "Pennsylvania oil producers"]
+key_events: [ [[events/cleveland-massacre-1872]], [[events/standard-oil-dissolution-1911]]]
+key_processes: [ [[processes/corporate-consolidation-gilded-age]], [[processes/second-industrial-revolution]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [actor, organization, long-19th-century, north-america, eastern-north-america, standard-oil, petroleum, trust, monopoly, gilded-age]

@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Classical Antiquity]
 region: [egypt, north-africa, mediterranean-world]
 process_type: political
-driven_by: [[[ptolemy-i-soter]], [[ptolemy-ii-philadelphus]], the Macedonian conquest, the inherited Saïte–Persian institutional framework, fiscal-military competition among the [[hellenistic-world|Hellenistic kingdoms]]]
-produces: [[[ptolemaic-egypt]], [[ptolemaic-economy]], [[legal-pluralism]], the cleruchic settler army, the monetized fiscal state]
+driven_by: [ [[ptolemy-i-soter]], [[ptolemy-ii-philadelphus]], the Macedonian conquest, the inherited Saïte–Persian institutional framework, fiscal-military competition among the [[hellenistic-world|Hellenistic kingdoms]]]
+produces: [ [[ptolemaic-egypt]], [[ptolemaic-economy]], [[legal-pluralism]], the cleruchic settler army, the monetized fiscal state]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, classical-antiquity, egypt]

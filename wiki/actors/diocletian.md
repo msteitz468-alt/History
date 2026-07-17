@@ -5,10 +5,10 @@ date_start: 243 CE
 date_end: 311 CE
 period: [Late Antiquity]
 region: [balkans, near-east, egypt, mediterranean-world]
-affiliated_with: [[[roman-tetrarchy]], [[roman-empire]]]
-opposed_by: [[[sasanian-empire]], [[origins-of-christianity]]]
-key_events: [[[great-persecution-303]]]
-key_processes: [[[third-century-crisis]], [[militarization-of-the-roman-state]]]
+affiliated_with: [ [[roman-tetrarchy]], [[roman-empire]]]
+opposed_by: [ [[sasanian-empire]], [[origins-of-christianity]]]
+key_events: [ [[great-persecution-303]]]
+key_processes: [ [[third-century-crisis]], [[militarization-of-the-roman-state]]]
 sources_ingested: 6
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, balkans, rome]

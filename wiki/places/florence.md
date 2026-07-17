@@ -6,7 +6,7 @@ coordinates: [43.77 N, 11.25 E]
 period_active: [High Middle Ages, Late Middle Ages, Early Modern]
 controlled_by: [the Florentine commune (Guelf), nominally [[charles-of-anjou|Charles of Anjou]] (overlord 1267–c.1278)]
 events_here: [the murder of Buondelmonte (1216), the battle of Montaperti (1260), the Ordinances of Justice (1293)]
-processes_here: [[[commercial-revolution|commercial and banking revolution]], the [[guelphs-and-ghibellines|Guelf–Ghibelline]] feud, the rise of the guild republic]
+processes_here: [ [[commercial-revolution|commercial and banking revolution]], the [[guelphs-and-ghibellines|Guelf–Ghibelline]] feud, the rise of the guild republic]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, mediterranean, western-europe, high-middle-ages]

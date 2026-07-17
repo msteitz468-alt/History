@@ -1,5 +1,6 @@
 ---
 title: "Battle of Leipzig — Tactical Analysis"
+aliases: [battle-of-leipzig-1813]
 analysis_type: battle
 period: "Long 19th Century"
 war: napoleonic-wars

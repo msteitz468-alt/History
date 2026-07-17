@@ -5,10 +5,10 @@ date_start: 238 BCE
 date_end: 179 BCE
 period: [Classical Antiquity]
 region: [balkans, peloponnese, mediterranean]
-affiliated_with: [[[antigonid-dynasty]], the Hellenic Symmachy, [[aratus-of-sicyon]] (early)]
-opposed_by: [[[aetolian-league]], [[rome|Rome]] (later)]
-key_events: [[[social-war-220]], the Peace of Naupactus (217), [[first-macedonian-war-214-205bce]]]
-key_processes: [[[antigonid-dynasty]], [[hellenistic-monarchy]]]
+affiliated_with: [ [[antigonid-dynasty]], the Hellenic Symmachy, [[aratus-of-sicyon]] (early)]
+opposed_by: [ [[aetolian-league]], [[rome|Rome]] (later)]
+key_events: [ [[social-war-220]], the Peace of Naupactus (217), [[first-macedonian-war-214-205bce]]]
+key_processes: [ [[antigonid-dynasty]], [[hellenistic-monarchy]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, dynasty, classical-antiquity, balkans]

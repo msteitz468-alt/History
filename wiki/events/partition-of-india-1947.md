@@ -85,6 +85,10 @@ delegated it to the State of Pakistan"), which became Pakistan's constitutional 
 opening a decades-long contest over the new state's Islamic character that outlasted partition
 itself. See [[pakistan]] for the state's subsequent trajectory.
 
+## Historiography
+
+Percival Spear's *A History of India*, Vol. II (1965), the primary source for this page, represents an early scholarly synthesis written within a generation of independence; more recent historiography (from scholars such as Yasmin Khan and Ayesha Jalal) has used oral history, refugee testimony, and Pakistani as well as Indian archives to give far greater weight to the human experience and agency of ordinary participants in the violence, rather than treating Partition primarily as an elite political negotiation. Casualty estimates for the Partition violence and the scale of the population transfer remain genuinely disputed, with figures for deaths ranging widely across scholarly estimates. Debate also continues over Mountbatten's responsibility for the accelerated and poorly prepared timetable, over Jinnah's sincerity in the two-nation demand versus its use as a negotiating position, and over whether a less rushed transfer of power could have reduced the violence — questions Spear himself raises as live counterfactuals.
+
 ## Related pages
 
 [[muhammad-ali-jinnah]] · [[jawaharlal-nehru]] · [[mahatma-gandhi]] · [[indian-national-congress]] ·

@@ -6,7 +6,7 @@ date_precision: year
 period: [late-antiquity]
 region: [levant, arabian-peninsula]
 location: [Nabataea, Bostra]
-actors_primary: [[[nabataean-kingdom]], Cornelius Palma, [[augustus|Trajan]]]
+actors_primary: [ [[nabataean-kingdom]], Cornelius Palma, [[augustus|Trajan]]]
 actors_secondary: []
 event_type: [political]
 scale_immediate: regional

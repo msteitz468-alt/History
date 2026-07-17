@@ -5,10 +5,10 @@ date_start: c. 748 CE
 date_end: 814 CE (died at Aachen, 28 January)
 period: [Early Middle Ages]
 region: [western-europe, northern-europe, mediterranean]
-affiliated_with: [[[carolingian-empire]], the Frankish kingdom, the Papacy, the Latin Church]
+affiliated_with: [ [[carolingian-empire]], the Frankish kingdom, the Papacy, the Latin Church]
 opposed_by: [Lombards, Saxons, Avars, Umayyad Spain, Byzantium (over the imperial title)]
-key_events: [[[pippinid-coup-751]], conquest of the Lombard kingdom 774, Saxon wars 772–804, defeat of the Avars 791–796, [[coronation-of-charlemagne-800]]]
-key_processes: [[[carolingian-renaissance]], [[christianisation-of-anglo-saxon-england|forced Christianisation of Saxony]], [[carolingian-capitularies|written government by capitulary]]]
+key_events: [ [[pippinid-coup-751]], conquest of the Lombard kingdom 774, Saxon wars 772–804, defeat of the Avars 791–796, [[coronation-of-charlemagne-800]]]
+key_processes: [ [[carolingian-renaissance]], [[christianisation-of-anglo-saxon-england|forced Christianisation of Saxony]], [[carolingian-capitularies|written government by capitulary]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, western-europe]

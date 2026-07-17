@@ -7,12 +7,12 @@ dating_method: stratigraphy
 period: [Early Bronze Age, Middle Bronze Age]
 region: [mediterranean, balkans]
 location: [mainland Greece — Argolid, Boeotia, the Peloponnese]
-actors_primary: [[[indo-european-migrations|Greek-speaking immigrants]]]
-actors_secondary: [[[early-bronze-age-aegean|the Early Helladic population]]]
+actors_primary: [ [[indo-european-migrations|Greek-speaking immigrants]]]
+actors_secondary: [ [[early-bronze-age-aegean|the Early Helladic population]]]
 event_type: migration
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[indo-european-migrations]], unknown]
+causes: [ [[indo-european-migrations]], unknown]
 consequences: [the Greek language in Greece, the Middle Helladic culture, [[mycenaean-civilization|the Mycenaean civilization]]]
 sources_ingested: 2
 last_updated: 2026-06-11

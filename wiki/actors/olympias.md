@@ -1,7 +1,7 @@
 ---
 title: Olympias
 actor_type: person
-date_start: 
+date_start: c. 375 BCE
 date_end: 316 BCE
 period: [classical-antiquity]
 region: [aegean, greece, macedonia]

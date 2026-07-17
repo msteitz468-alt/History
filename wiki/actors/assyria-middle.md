@@ -6,9 +6,9 @@ date_end: ~1050 BCE (decline after Tiglath-pileser I; this volume to ~1000)
 period: [Late Bronze Age, Bronze Age Collapse, Early Iron Age]
 region: [mesopotamia, near-east]
 affiliated_with: [the city of Ashur]
-opposed_by: [[[mitanni|Mitanni/Khanigalbat]], [[kassites|Kassite Babylonia]], the Aramaeans, the Zagros hillmen]
+opposed_by: [ [[mitanni|Mitanni/Khanigalbat]], [[kassites|Kassite Babylonia]], the Aramaeans, the Zagros hillmen]
 key_events: [the liberation under Ashur-uballit I, the annexation of Khanigalbat, the sack of Babylon by Tukulti-Ninurta I, the campaigns of Tiglath-pileser I]
-key_processes: [[[state-formation]], [[imperialism]], [[interpolity-law]]]
+key_processes: [ [[state-formation]], [[imperialism]], [[interpolity-law]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, mesopotamia, near-east]

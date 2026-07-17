@@ -5,10 +5,10 @@ date_start: ~1810 BCE (first attested under Yarim-Lim I)
 date_end: ~1600 BCE (sacked by [[hittites|Mursili I]])
 period: [Middle Bronze Age]
 region: [levant, near-east]
-affiliated_with: [[[amorites|Amorite]] dynasty, [[mari|Mari]] (Zimri-Lim, son-in-law), Alalakh (vassal)]
+affiliated_with: [ [[amorites|Amorite]] dynasty, [[mari|Mari]] (Zimri-Lim, son-in-law), Alalakh (vassal)]
 opposed_by: [Qatna (rival), Eshnunna, the [[hittites|Hittites]] (Hattusili I, Mursili I)]
 key_events: [cession of Alalakh to Yarim-Lim II's branch, sack of Alalakh and Aleppo by the [[hittites|Hittites]] (~1620–1600 BCE)]
-key_processes: [[[trade-network-formation]], [[interpolity-law]]]
+key_processes: [ [[trade-network-formation]], [[interpolity-law]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, state, middle-bronze-age, levant, near-east]

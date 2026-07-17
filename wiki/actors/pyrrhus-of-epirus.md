@@ -6,12 +6,12 @@ date_end: 272 BCE
 period: [Classical Antiquity]
 region: [balkans, mediterranean, western-europe]
 affiliated_with: [Epirus (the Molossians), [[ptolemy-i-soter|Ptolemy I]], the [[aetolian-league]], Tarentum]
-opposed_by: [[[demetrius-i-poliorcetes]], [[lysimachus]], [[antigonus-ii-gonatas]], [[roman-republic|Rome]], [[carthage]]]
+opposed_by: [ [[demetrius-i-poliorcetes]], [[lysimachus]], [[antigonus-ii-gonatas]], [[roman-republic|Rome]], [[carthage]]]
 key_events:
   - wars-of-the-diadochi-323
   - battle-of-ipsus-301
   - pyrrhic-war-280-275bce
-key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]]]
+key_processes: [ [[hellenistic-monarchy]], [[hellenistic-world]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, balkans, mediterranean, western-europe]

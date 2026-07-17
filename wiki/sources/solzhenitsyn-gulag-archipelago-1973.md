@@ -1,5 +1,6 @@
 ---
 title: "The Gulag Archipelago (Abridged Edition)"
+aliases: [gulag-archipelago]
 author: "Aleksandr Solzhenitsyn (abridged by Edward E. Ericson, Jr.)"
 year: 1973 (original full; abridged 1985)
 source_type: primary

@@ -6,7 +6,7 @@ date_end: 440 BCE (death)
 period: [Classical Antiquity]
 region: [italy, mediterranean]
 affiliated_with: [the Sicels, the Sicel synteleia (League), at times [[syracuse]]]
-opposed_by: [[[syracuse]], Acragas]
+opposed_by: [ [[syracuse]], Acragas]
 key_events: [the founding of Menainon and conquest of Morgantina 459/8 BCE, the foundation of Palice 453/2 BCE, the victory at Motyon 451 BCE, the defeat at Nomae 450 BCE, exile to Corinth, return and death 440 BCE]
 key_processes: [indigenous resistance and the [[city-state|hellenization]] of the Sicel interior]
 sources_ingested: 1

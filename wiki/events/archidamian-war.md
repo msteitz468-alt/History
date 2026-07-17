@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean]
 location: [Attica, the Peloponnese, the Thraceward region, the Corinthian Gulf]
-actors_primary: [[[places/athens|Athens]], [[pericles]], [[sparta]], Archidamus II, [[cleon]], [[brasidas]]]
+actors_primary: [ [[places/athens|Athens]], [[pericles]], [[sparta]], Archidamus II, [[cleon]], [[brasidas]]]
 actors_secondary: [Plataea, Mytilene, [[corinth]], [[peloponnesian-league|the Peloponnesian League]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[peloponnesian-war|the outbreak of the Peloponnesian War]], the Theban attack on Plataea and the Spartan invasion of Attica]
+causes: [ [[peloponnesian-war|the outbreak of the Peloponnesian War]], the Theban attack on Plataea and the Spartan invasion of Attica]
 consequences: [the inconclusive Peace of Nicias (421), the plague's devastation of Athens, the demonstrated resilience of the Periclean strategy, the deaths of Cleon and Brasidas]
 sources_ingested: 1
 last_updated: 2026-06-11

@@ -6,8 +6,8 @@ date_end: 1795
 period: [Age of Expansion]
 region: [north-america, eastern-north-america, british-isles]
 affiliated_with: []
-opposed_by: [[[washington-george]]]
-key_events: [[[siege-of-charleston-1780]], [[siege-of-yorktown-1781]]]
+opposed_by: [ [[washington-george]]]
+key_events: [ [[siege-of-charleston-1780]], [[siege-of-yorktown-1781]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

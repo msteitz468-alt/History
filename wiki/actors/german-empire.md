@@ -5,10 +5,10 @@ date_start: 1871 (proclamation at Versailles)
 date_end: 1918 (November Revolution; abdication of Wilhelm II)
 period: [Long 19th Century, World Wars Era]
 region: [western-europe]
-affiliated_with: [[[prussia|Prussia]], the Hohenzollern dynasty, the Triple Alliance]
+affiliated_with: [ [[prussia|Prussia]], the Hohenzollern dynasty, the Triple Alliance]
 opposed_by: [the Social Democrats (SPD), the Catholic Centre, the Entente powers]
-key_events: [[[german-unification|proclamation of the Empire 1871]], the [[kulturkampf]], the anti-socialist laws 1878, Bismarck's dismissal 1890, [[first-world-war-1914|First World War]], [[november-revolution-1918]]]
-key_processes: [[[german-industrialization]], [[nationalism]], [[second-industrial-revolution]], colonialism]
+key_events: [ [[german-unification|proclamation of the Empire 1871]], the [[kulturkampf]], the anti-socialist laws 1878, Bismarck's dismissal 1890, [[first-world-war-1914|First World War]], [[november-revolution-1918]]]
+key_processes: [ [[german-industrialization]], [[nationalism]], [[second-industrial-revolution]], colonialism]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, state, long-19th-century, world-wars-era, western-europe]

@@ -6,9 +6,9 @@ date_end: 338 BCE (Macedonian hegemony after Chaeronea)
 period: [Archaic Period, Classical Antiquity]
 region: [mediterranean, balkans, anatolia]
 affiliated_with: [the Greek city-states (Athens, Sparta, Corinth, Thebes)]
-opposed_by: [[[achaemenid-empire|Achaemenid Persia]], internal rivals, [[macedon]]]
+opposed_by: [ [[achaemenid-empire|Achaemenid Persia]], internal rivals, [[macedon]]]
 key_events: [Greek colonization, Greco-Persian Wars 490/480-479 BCE, [[peloponnesian-war|Peloponnesian War]] 431-404 BCE]
-key_processes: [[[city-state]], colonization, [[axial-age]], [[ancient-science-and-technology|natural philosophy]]]
+key_processes: [ [[city-state]], colonization, [[axial-age]], [[ancient-science-and-technology|natural philosophy]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, state, archaic-period, classical-antiquity, mediterranean]

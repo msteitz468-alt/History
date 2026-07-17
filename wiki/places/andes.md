@@ -6,7 +6,7 @@ coordinates: [13°S, 72°W]
 period_active: [Behavioral Modernity to present]
 controlled_by: [successive Andean cultures and states from [[chavin|Chavín]] to the [[inca-empire|Inka]]; later Spanish]
 events_here: [the long sequence of Andean horizons and regional periods, the Inka unification, the Spanish conquest]
-processes_here: [[[andean-state-formation]], [[vertical-archipelago]]]
+processes_here: [ [[andean-state-formation]], [[vertical-archipelago]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, andes, south-america]

@@ -1,14 +1,15 @@
 ---
 title: Queen Mawiyya
+aliases: [mavia]
 actor_type: person
 date_start: c. 340
 date_end: 425
 period: [late-antiquity]
 region: [near-east, levant, arabian-peninsula]
-affiliated_with: [[[tanukhids]]]
-opposed_by: [[[roman-syria]]]
+affiliated_with: [ [[tanukhids]]]
+opposed_by: [ [[roman-syria]]]
 key_events: []
-key_processes: [[[orientalization-of-rome]]]
+key_processes: [ [[orientalization-of-rome]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, near-east, arabian-peninsula]

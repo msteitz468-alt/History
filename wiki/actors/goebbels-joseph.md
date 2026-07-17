@@ -1,5 +1,6 @@
 ---
 title: Joseph Goebbels
+aliases: [joseph-goebbels]
 actor_type: person
 date_start: 1897
 date_end: 1945

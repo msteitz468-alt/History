@@ -8,7 +8,7 @@ region: [british-isles]
 affiliated_with: [the United Kingdom, the Ulster Unionist Party, the Orange Order]
 opposed_by: [Irish nationalists/republicans, the [[republic-of-ireland]], the IRA]
 key_events: [partition 1921, [[the-troubles]], [[good-friday-agreement-1998]]]
-key_processes: [[[ulster-unionism]], sectarian division, [[irish-nationalism]]]
+key_processes: [ [[ulster-unionism]], sectarian division, [[irish-nationalism]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, state, world-wars-era, cold-war, contemporary, british-isles]

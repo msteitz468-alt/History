@@ -8,7 +8,7 @@ region: [north-africa, sub-saharan-africa]
 affiliated_with: [Coptic/Monophysite Christianity, Byzantine Egypt, Fatimid and Mamluk Egypt (treaty partners)]
 opposed_by: [the Blemmyes, Muslim Egypt (the Baqt treaty, later Mamluk pressure), the Funj]
 key_events: [conversion of the Nobades (543), the Arab invasions and the Baqt treaty (652), the fall of Dongola (14th c.), the fall of Soba (c. 1504)]
-key_processes: [[[christianization]], [[trade-network-formation]], Islamization]
+key_processes: [ [[christianization]], [[trade-network-formation]], Islamization]
 sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, early-middle-ages, north-africa, sub-saharan-africa]

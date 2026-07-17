@@ -6,7 +6,7 @@ date_precision: exact
 period: [Late Middle Ages]
 region: [british-isles]
 location: [Bannockburn, near Stirling, Scotland]
-actors_primary: [[[robert-the-bruce|Robert I (the Bruce)]] and the Scots, [[edward-ii-of-england|Edward II]] and the English host]
+actors_primary: [ [[robert-the-bruce|Robert I (the Bruce)]] and the Scots, [[edward-ii-of-england|Edward II]] and the English host]
 actors_secondary: [the garrison of Stirling Castle]
 event_type: [battle]
 scale_immediate: regional
@@ -54,6 +54,10 @@ which the English government confirmed Scotland's independence. Militarily, Bann
 Courtrai and Morgarten — was a landmark in the late-medieval **infantry revolution**, the humbling
 of mounted chivalry by disciplined footsoldiers (a lesson the English themselves applied at
 [[hundred-years-war-1337|Crécy and Poitiers]]).
+
+## Historiography
+
+The fullest account is John Barbour's *The Bruce* (c. 1375), an epic poem composed some sixty years after the battle to celebrate Robert I's dynasty — vivid and detailed but a partisan verse chronicle, not a contemporary record, and its tactical specifics (schiltron formations, the "pots" or pits dug to trap cavalry) must be weighed against that distance and purpose. English perspectives survive chiefly in the Lanercost Chronicle and the *Vita Edwardi Secundi*, both hostile to Edward II and inclined to blame the defeat on his personal failings rather than Scottish generalship. Troop numbers on both sides are heavily disputed — chronicle figures for the English host in particular are almost certainly inflated — and historians (Barrow, DeVries) continue to debate the precise site of the battle and the exact function of the prepared ground. The battle's place in the broader "infantry revolution" thesis linking Bannockburn, Courtrai, and Morgarten is a modern historiographical construction (DeVries, Verbruggen) rather than a framing used by contemporaries.
 
 ## Related
 

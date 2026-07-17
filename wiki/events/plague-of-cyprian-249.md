@@ -49,6 +49,24 @@ Unlike the Antonine Plague (which is widely identified as smallpox), the biologi
 
 ---
 
+## Historiography
+
+The pandemic's name derives from its principal source, **Bishop Cyprian of Carthage**'s
+sermon *De mortalitate* — a work of Christian pastoral rhetoric, not clinical
+observation, composed to console and exhort a terrified congregation, so its vivid
+symptom catalogue (dysentery, ocular hemorrhage, gangrene) must be weighed against its
+homiletic purpose and stock apocalyptic imagery. The other principal witness, Bishop
+**Dionysius of Alexandria**'s Easter letters (preserved only through quotation in
+Eusebius's later *Ecclesiastical History*), is similarly a Christian source concerned
+with martyrdom and charity rather than disease description. Pagan literary sources are
+comparatively silent, a gap historians attribute partly to genre (no pagan author
+produced an equivalent detailed account) and partly to the fragmentary survival of
+third-century historiography generally. Because no ancient DNA has been sequenced for
+this outbreak, its biological identity remains genuinely disputed — Kyle Harper's
+influenza/filovirus hypothesis (2017) is an influential but unconfirmed reconstruction —
+and quantitative claims such as Alexandria's 62% population contraction rest on papyrological
+grain-dole records whose completeness and representativeness are themselves debated.
+
 ## Related Pages
 
 *   **Actors:** [[actors/roman-empire]] · [[actors/cyprian]] · [[actors/germanic-peoples]]

@@ -65,6 +65,22 @@ controversy page]]**, framed by **[[joll-origins-first-world-war|Joll's *Origins
 War*]]** (the alliance system, militarism and mobilization timetables, the Fischer thesis on German
 responsibility, and the "mood of 1914").
 
+## Historiography
+
+The causes of 1914 remain one of history's most contested questions. Fritz Fischer's 1961 thesis
+assigning primary responsibility to German expansionist war aims provoked decades of controversy,
+countered by arguments emphasizing systemic factors — the alliance system, mobilization
+timetables, and a militarized culture shared by all great powers (echoed in Christopher Clark's
+*The Sleepwalkers*, which stresses contingency and shared culpability over German
+premeditation). Primary sources are abundant but compromised: the diplomatic "colour books" each
+power rushed into print in 1914–15 were selectively edited to assign blame elsewhere, and postwar
+memoirs by statesmen and generals are heavily self-justifying. National historiographies diverged
+sharply along the fault lines of interwar reparations politics and, later, Cold War alignments.
+Recent scholarship has shifted from a narrow search for the "guilty party" toward transnational
+and structural analysis — treating 1914 as the product of an unstable multipolar system rather
+than a single actor's decision. The collection's treatment (via CWH VII and Joll) reflects this
+structural turn while still surveying the older war-guilt debates.
+
 ## Related pages
 
 [[first-world-war-1914]] · [[causes-of-the-first-world-war]] · [[long-19th-century]] · [[world-wars-era]] ·

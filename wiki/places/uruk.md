@@ -6,7 +6,7 @@ coordinates: ~31.32°N, 45.64°E
 period_active: [Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze Age]
 controlled_by: [Sumerian city-state of Uruk, later Babylonia]
 events_here: []
-processes_here: [[[urbanization]], [[writing-and-record-keeping]], [[temple-economy]]]
+processes_here: [ [[urbanization]], [[writing-and-record-keeping]], [[temple-economy]]]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [place, mesopotamia, near-east, early-bronze-age]
@@ -26,7 +26,7 @@ inhabitants** — an order of magnitude larger than anything before it — and i
 
 ## Geographic description and form
 
-[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] corroborate this scale and
+Fagan & Durrani (2020) corroborate this scale and
 add detail on Uruk's administrative form: the city grew to roughly **250
 hectares** in the 4th millennium BC, with satellite villages extending 10 km out;
 its ziggurat-temple complex functioned as a **combined religious, storage, and

@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece]
 location: [Leuctra (in Boeotia, near Thespiae)]
-actors_primary: [[[epaminondas]], Thebes/Boeotia, [[sparta]], Cleombrotus]
+actors_primary: [ [[epaminondas]], Thebes/Boeotia, [[sparta]], Cleombrotus]
 actors_secondary: [Pelopidas and the Sacred Band, the Spartan allies, [[places/athens|Athens]], Jason of Pherae]
 event_type: battle
 scale_immediate: regional

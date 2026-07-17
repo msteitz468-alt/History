@@ -5,7 +5,7 @@ date_start: 438 BCE (Spartocus I founds the dynasty)
 date_end: 1st century BCE (absorbed by Pontus/Rome — beyond this volume)
 period: [Classical Antiquity]
 region: [steppe, eastern-europe]
-affiliated_with: [[[athens]] (grain trade), the Greek cities of the Cimmerian Bosporus, the Sindi and Maeotian tribes]
+affiliated_with: [ [[athens]] (grain trade), the Greek cities of the Cimmerian Bosporus, the Sindi and Maeotian tribes]
 opposed_by: [rival cities (Theodosia, Heraclea Pontica), the Scythians, Maeotian tribes]
 key_events: [the founding of the Spartocid dynasty 438 BCE, the annexation of the Sindi and Theodosia under Satyrus I and Leucon, the Athenian grain-trade honours]
 key_processes: [the Black Sea grain trade, Greek–barbarian dynastic fusion]

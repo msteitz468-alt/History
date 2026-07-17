@@ -40,7 +40,7 @@ economic history of the period and a contested prelude to industrialization.
 - **Urbanization and retailing**: the growth of [[urbanization|towns]], fixed shops, advertising,
   newspapers, and credit created the infrastructure of consumption.
 - **Emulation and fashion**: social competition (Veblen-style emulation, or McKendrick's "trickle-
-  down" of elite fashion) spread new tastes across the [[social order]], though historians dispute
+  down" of elite fashion) spread new tastes across the social order, though historians dispute
   how far imitation versus autonomous popular demand drove it.
 
 ## Major Phases

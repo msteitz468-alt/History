@@ -5,10 +5,10 @@ date_start: c. 858 (born, Ṭūr, Fārs)
 date_end: 922 (executed, Baghdad)
 period: [Early Middle Ages]
 region: [mesopotamia, iran-plateau]
-affiliated_with: [[[sufism|Sufism]], the school of [[junayd|Junayd]] (early)]
+affiliated_with: [ [[sufism|Sufism]], the school of [[junayd|Junayd]] (early)]
 opposed_by: [the Abbasid authorities, sober jurists, his own master Junayd (in part)]
 key_events: [his utterance "anā al-ḥaqq" (I am the Truth), his trial and execution in Baghdad 922]
-key_processes: [[[sufism]], [[fana-and-baqa]]]
+key_processes: [ [[sufism]], [[fana-and-baqa]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, near-east, islamic-world]

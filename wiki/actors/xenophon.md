@@ -5,10 +5,10 @@ date_start: c. 430 BCE (born at Athens)
 date_end: c. 354 BCE (died at Corinth or Athens)
 period: [Classical Antiquity]
 region: [aegean, peloponnese, anatolia]
-affiliated_with: [[[sparta]], [[agesilaus-ii|Agesilaus II]], [[cyrus-the-younger|Cyrus the Younger]], the Ten Thousand]
-opposed_by: [[[athens]] (which exiled him), Thebes, Persia]
+affiliated_with: [ [[sparta]], [[agesilaus-ii|Agesilaus II]], [[cyrus-the-younger|Cyrus the Younger]], the Ten Thousand]
+opposed_by: [ [[athens]] (which exiled him), Thebes, Persia]
 key_events: [the march of the [[march-of-the-ten-thousand-401bce|Ten Thousand]] 401–399 BCE, exile from Athens, settlement at Scillus]
-key_processes: [[[fourth-century-greek-historiography]], the writing of the first Greek biography and memoir]
+key_processes: [ [[fourth-century-greek-historiography]], the writing of the first Greek biography and memoir]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, aegean]
@@ -73,7 +73,7 @@ witness for social, military, religious and economic history:
 - **Technical and didactic:** the *Cyropaedia* ("Education of Cyrus," a precursor of
   later treatises "On Kingship"), the *Hipparchicus* on cavalry command, the *Poroi*
   (*Ways and Means*) on Athenian revenues and the **Laurium** mines, and the
-  *Oeconomicus* on estate management (see [[greek-agriculture]]).
+  *Oeconomicus* on estate management (see greek agriculture).
 
 ## The Primary Text (now ingested)
 

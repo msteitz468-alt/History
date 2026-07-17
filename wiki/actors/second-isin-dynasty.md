@@ -6,7 +6,7 @@ date_end: c. 1025 BCE
 period: [Early Iron Age]
 region: [mesopotamia, babylonia]
 affiliated_with: []
-opposed_by: [[[elam|Elam]], [[assyria-middle|Assyria]], [[arameans|Aramaeans]]]
+opposed_by: [ [[elam|Elam]], [[assyria-middle|Assyria]], [[arameans|Aramaeans]]]
 key_events: [the defeat of Elam under [[nebuchadnezzar-i|Nebuchadnezzar I]]]
 key_processes: []
 sources_ingested: 1

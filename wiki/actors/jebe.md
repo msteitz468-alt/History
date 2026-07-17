@@ -5,10 +5,10 @@ date_start: c. 1175 CE
 date_end: c. 1225 CE
 period: [High Middle Ages]
 region: [steppe, central-asia, eastern-europe, near-east]
-affiliated_with: [[[genghis-khan]], [[mongol-empire]], [[mongol-army]]]
+affiliated_with: [ [[genghis-khan]], [[mongol-empire]], [[mongol-army]]]
 opposed_by: [Khwarazmshah Muhammad II, the Rus' princes, the Georgians, the Kipchaks]
 key_events: [pursuit of Muhammad II 1220–23, Battle of the Kalka River 1223, Transcaucasian raid]
-key_processes: [[[mongol-conquests-13th-century]]]
+key_processes: [ [[mongol-conquests-13th-century]]]
 sources_ingested: 1
 last_updated: 2026-06-24
 tags: [actor, person, high-middle-ages, steppe]

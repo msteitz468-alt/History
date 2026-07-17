@@ -7,7 +7,7 @@ period: [Early Iron Age, Archaic Period]
 region: [north-africa, near-east]
 affiliated_with: [the Mashwesh (Ma) and Libu Libyan tribes, the cult of Amun at Thebes, the Delta cities of Bubastis and Tanis]
 opposed_by: [internal rival lines (the Twenty-third Dynasty), the Kushite kingdom of Napata, the Saite Twenty-fourth Dynasty's rivals]
-key_events: [[[shoshenq-campaign-925bce|Shoshenq I's Palestine campaign (925)]], the fragmentation of central authority, the Kushite conquest under Piankhy]
+key_events: [ [[shoshenq-campaign-925bce|Shoshenq I's Palestine campaign (925)]], the fragmentation of central authority, the Kushite conquest under Piankhy]
 key_processes: [Libyan settlement of the Delta, political decentralization, [[state-formation]], [[third-intermediate-period]]]
 sources_ingested: 2
 last_updated: 2026-06-27

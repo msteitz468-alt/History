@@ -1,8 +1,8 @@
 ---
 title: Gylippus
 actor_type: person
-date_start: 
-date_end: 
+date_start: 5th century BCE
+date_end: after 404 BCE
 period: [classical-antiquity]
 region: [aegean, sicily]
 affiliated_with: [Sparta]

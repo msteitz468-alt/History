@@ -5,8 +5,8 @@ date_start: c. 380 BCE (born)
 date_end: 330 BCE (murdered by Bessus during the retreat)
 period: [Classical Antiquity]
 region: [iran-plateau, mesopotamia, anatolia]
-affiliated_with: [[[achaemenid-empire|Achaemenid Persia]], the satraps Mazaeus and Bessus, the mercenary Memnon of Rhodes]
-opposed_by: [[[alexander-the-great|Alexander III of Macedon]], the conspirator Bessus (self-proclaimed Artaxerxes V)]
+affiliated_with: [ [[achaemenid-empire|Achaemenid Persia]], the satraps Mazaeus and Bessus, the mercenary Memnon of Rhodes]
+opposed_by: [ [[alexander-the-great|Alexander III of Macedon]], the conspirator Bessus (self-proclaimed Artaxerxes V)]
 key_events: [accession c. 336 BCE, the Battle of Issus 333 BCE, the [[battle-of-gaugamela-331bce|Battle of Gaugamela]] 331 BCE, his murder 330 BCE]
 key_processes: [the Macedonian conquest of the Achaemenid Empire by [[alexander-the-great|Alexander]]]
 sources_ingested: 1

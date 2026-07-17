@@ -5,10 +5,10 @@ date_start: c. 1240 (estimated)
 date_end: c. 1320 (estimated)
 period: [High Middle Ages, Late Middle Ages]
 region: [anatolia, levant, cyprus, western-europe]
-affiliated_with: [[[cilician-armenian-kingdom|Cilician Armenia]], "the Premonstratensian order", "the papal curia at Poitiers/Avignon", "the Lusignans of Cyprus"]
+affiliated_with: [ [[cilician-armenian-kingdom|Cilician Armenia]], "the Premonstratensian order", "the papal curia at Poitiers/Avignon", "the Lusignans of Cyprus"]
 opposed_by: []
 key_events: ["the dictation of La Fleur des Histoires de la Terre d'Orient (1307)"]
-key_processes: [[[armenian-latin-integration]], [[crusades]]]
+key_processes: [ [[armenian-latin-integration]], [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, high-middle-ages, late-middle-ages, anatolia]

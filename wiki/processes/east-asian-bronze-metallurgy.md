@@ -6,8 +6,8 @@ date_precision: century
 period: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age]
 region: [china, korea, japan, east-asia, steppe]
 process_type: technological
-driven_by: [[[early-china-state-formation]], [[yellow-sea-interaction-sphere]]]
-produces: [[[shang-dynasty]], [[bronze-age-social-differentiation]]]
+driven_by: [ [[early-china-state-formation]], [[yellow-sea-interaction-sphere]]]
+produces: [ [[shang-dynasty]], [[bronze-age-social-differentiation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, bronze-age, east-asia]

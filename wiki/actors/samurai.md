@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [the warrior houses (Minamoto, Taira, Hōjō, Ashikaga, Tokugawa), the shogunates]
 opposed_by: [the civil court aristocracy (displaced), rival warrior houses]
 key_events: ["the Gempei War", "the founding of the [[shogunate-bakufu|bakufu]]", "the Mongol invasions"]
-key_processes: [[[shogunate-bakufu]], [[feudalism]]]
+key_processes: [ [[shogunate-bakufu]], [[feudalism]]]
 sources_ingested: 4
 last_updated: 2026-06-13
 tags: [actor, movement, high-middle-ages, japan, east-asia]

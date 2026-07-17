@@ -5,10 +5,10 @@ date_start: ~1450 BCE
 date_end: ~300 BCE
 period: [Late Bronze Age, Early Iron Age]
 region: [korea, east-asia]
-affiliated_with: [[[chulmun-culture]], [[samhan]], [[korea-three-kingdoms]]]
+affiliated_with: [ [[chulmun-culture]], [[samhan]], [[korea-three-kingdoms]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[rice-agriculture-spread-east-asia]], [[pen-insular-state-formation]], [[east-asian-bronze-metallurgy]]]
+key_processes: [ [[rice-agriculture-spread-east-asia]], [[pen-insular-state-formation]], [[east-asian-bronze-metallurgy]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, movement, early-iron-age, korea, east-asia]

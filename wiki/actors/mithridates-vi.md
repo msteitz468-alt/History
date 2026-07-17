@@ -6,8 +6,8 @@ date_end: 63 BCE
 period: [Classical Antiquity]
 region: [anatolia, near-east, mediterranean-world]
 affiliated_with: [the kingdom of Pontus; his Black Sea empire; anti-Roman Greeks]
-opposed_by: [[[roman-republic]], Sulla, Lucullus, Pompey; Nicomedes of Bithynia, Ariobarzanes of Cappadocia]
-key_events: [[[first-mithridatic-war-89-85bce]], the Asiatic Vespers (88), the Treaty of Dardanus (85), the later Mithridatic Wars]
+opposed_by: [ [[roman-republic]], Sulla, Lucullus, Pompey; Nicomedes of Bithynia, Ariobarzanes of Cappadocia]
+key_events: [ [[first-mithridatic-war-89-85bce]], the Asiatic Vespers (88), the Treaty of Dardanus (85), the later Mithridatic Wars]
 key_processes: []
 sources_ingested: 4
 last_updated: 2026-07-08

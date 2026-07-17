@@ -1,5 +1,6 @@
 ---
 title: "The Lotus Sutra (trans. Burton Watson)"
+aliases: [lotus-sutra]
 author: anonymous (Mahayana scripture); from Kumarajiva's Chinese translation (406 CE)
 year: composed c. 1st–2nd c. CE (Sanskrit); this translation Columbia University Press / Translations from the Asian Classics, 1993
 source_type: primary

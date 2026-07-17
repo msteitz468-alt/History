@@ -6,9 +6,9 @@ date_end: ~1180 BCE (fall of the Empire in the Bronze Age Collapse; the Old & Mi
 period: [Middle Bronze Age, Late Bronze Age, Bronze Age Collapse]
 region: [anatolia, near-east, levant]
 affiliated_with: [the Hattian substrate population, Kizzuwadna (at times), Kassite Babylonia (~1595 alliance of convenience), Ugarit and Amurru (LBA vassals)]
-opposed_by: [[[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] & [[mitanni|Mitanni]], Arzawa, the Kaska tribes, [[babylon-first-dynasty|Babylon]], [[new-kingdom-egypt|Egypt]], [[assyria-middle|Assyria]]]
-key_events: [[[fall-of-babylon-1595bce|the sack of Babylon (~1595)]], the destruction of [[iamkhad|Aleppo]], the [[telipinu-edict-1500bce|Telipinu edict]], the destruction of [[mitanni|Mitanni]], the [[battle-of-qadesh-1274bce|battle of Qadesh]], the [[egyptian-hittite-treaty-1259bce|Silver Treaty]], the [[bronze-age-collapse-1200bce|fall of Hattusa]]]
-key_processes: [[[indo-european-migrations]], [[interpolity-law]], [[hittite-vassal-treaties|vassal-treaty system]]]
+opposed_by: [ [[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] & [[mitanni|Mitanni]], Arzawa, the Kaska tribes, [[babylon-first-dynasty|Babylon]], [[new-kingdom-egypt|Egypt]], [[assyria-middle|Assyria]]]
+key_events: [ [[fall-of-babylon-1595bce|the sack of Babylon (~1595)]], the destruction of [[iamkhad|Aleppo]], the [[telipinu-edict-1500bce|Telipinu edict]], the destruction of [[mitanni|Mitanni]], the [[battle-of-qadesh-1274bce|battle of Qadesh]], the [[egyptian-hittite-treaty-1259bce|Silver Treaty]], the [[bronze-age-collapse-1200bce|fall of Hattusa]]]
+key_processes: [ [[indo-european-migrations]], [[interpolity-law]], [[hittite-vassal-treaties|vassal-treaty system]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, middle-bronze-age, late-bronze-age, anatolia, near-east]

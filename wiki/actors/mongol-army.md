@@ -5,10 +5,10 @@ date_start: 1206 CE (the decimal army organized at the founding quriltai)
 date_end: c. 1400 CE (dissolution into the successor khanates' forces)
 period: [High Middle Ages, Late Middle Ages]
 region: [steppe, central-asia, china, east-asia, iran-plateau, near-east, eastern-europe]
-affiliated_with: [[[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
+affiliated_with: [ [[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
 opposed_by: ["the Jin and Song", "the Khwarazmian Empire", [[mamluk-sultanate|the Mamluks]], "the Rus' and the Latin West"]
 key_events: [the conquests of Khwarazm/Jin/Song, the western campaign, the defeat at Ain Jalut 1260]
-key_processes: [[[mongol-conquests-13th-century]], [[pastoral-nomadism]]]
+key_processes: [ [[mongol-conquests-13th-century]], [[pastoral-nomadism]]]
 sources_ingested: 6
 last_updated: 2026-06-24
 tags: [actor, military-force, high-middle-ages, late-middle-ages, steppe]

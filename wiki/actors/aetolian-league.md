@@ -6,9 +6,9 @@ date_end: 167 BCE
 period: [Classical Antiquity]
 region: [central-greece, mediterranean]
 affiliated_with: [Delphi and the Amphictyonic Council, [[ptolemaic-egypt]] (at times)]
-opposed_by: [[[antigonid-dynasty]], [[achaean-league]], [[rome|Rome]] (later)]
+opposed_by: [ [[antigonid-dynasty]], [[achaean-league]], [[rome|Rome]] (later)]
 key_events: [the defence of Delphi against the Gauls (279), the reorganization of the Soteria festival]
-key_processes: [[[greek-federalism]], [[hellenistic-world]], piracy in the Aegean]
+key_processes: [ [[greek-federalism]], [[hellenistic-world]], piracy in the Aegean]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, central-greece]

@@ -5,9 +5,9 @@ date_start: 1353 CE
 date_end: 1412 CE
 period: [Late Middle Ages]
 region: [denmark, norway, sweden, scandinavia]
-affiliated_with: [[[denmark|Denmark]], [[norway|Norway]], [[sweden|Sweden]], the [[kalmar-union-1397|Kalmar Union]]]
+affiliated_with: [ [[denmark|Denmark]], [[norway|Norway]], [[sweden|Sweden]], the [[kalmar-union-1397|Kalmar Union]]]
 opposed_by: [Albert of Mecklenburg (king of Sweden); the Hanseatic interest]
-key_events: [[[kalmar-union-1397|Kalmar Union (1397)]]]
+key_events: [ [[kalmar-union-1397|Kalmar Union (1397)]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-27

@@ -6,7 +6,7 @@ coordinates: "37.4 N, 4.8 W (Córdoba)"
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: ["the Umayyad Caliphate of Córdoba", "the taifa kings", "the Almoravids", "the Almohads", "the Nasrid emirate of Granada"]
 events_here: ["the collapse of the Caliphate (1009–1031)", "the fall of Toledo (1085)", "Sagrajas (1086)", "Las Navas de Tolosa (1212)"]
-processes_here: [[[reconquista]], [[commercial-revolution]]]
+processes_here: [ [[reconquista]], [[commercial-revolution]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [place, iberia, mediterranean, high-middle-ages, islamic-world]

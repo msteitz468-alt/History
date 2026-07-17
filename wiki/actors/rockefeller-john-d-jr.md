@@ -5,10 +5,10 @@ date_start: 1874
 date_end: 1960
 period: [long-19th-century, world-wars-era, cold-war]
 region: [north-america, eastern-north-america]
-affiliated_with: [[[actors/rockefeller-john-d]], [[actors/gates-frederick-t]], [[actors/rockefeller-nelson]]]
+affiliated_with: [ [[actors/rockefeller-john-d]], [[actors/gates-frederick-t]], [[actors/rockefeller-nelson]]]
 opposed_by: []
-key_events: [[[events/ludlow-massacre-1914]]]
-key_processes: [[[concepts/scientific-philanthropy]]]
+key_events: [ [[events/ludlow-massacre-1914]]]
+key_processes: [ [[concepts/scientific-philanthropy]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [actor, person, long-19th-century, world-wars-era, north-america, eastern-north-america, rockefeller-john-d-jr, philanthropy]

@@ -1,5 +1,6 @@
 ---
 title: Nguyen Van Thieu
+aliases: [thieu-nguyen-van]
 actor_type: person
 date_start: 1923
 date_end: 2001

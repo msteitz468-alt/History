@@ -9,7 +9,7 @@ region: [mesopotamia]
 affiliated_with: [the pious circles of early Islam, the ascetics of Basra]
 opposed_by: [the Umayyad dynasty (in spirit, if not openly)]
 key_events: [his preaching at Basra during the height of Umayyad power; founding of the Basran ascetic tradition]
-key_processes: [[[sufism]], [[early-sufism]]]
+key_processes: [ [[sufism]], [[early-sufism]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, mesopotamia, islamic-world]

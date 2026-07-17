@@ -7,13 +7,13 @@ dating_method: literary genealogy (Thucydides/Herodotus) cross-checked with Prot
 period: [Bronze Age Collapse, Early Iron Age]
 region: [aegean, mediterranean]
 location: [Peloponnese, Argolid, Laconia, Messenia, Crete, the Dodecanese]
-actors_primary: [[[dorians|the Dorians / Heracleidae]], [[mycenaean-civilization|the Mycenaean Achaeans]]]
+actors_primary: [ [[dorians|the Dorians / Heracleidae]], [[mycenaean-civilization|the Mycenaean Achaeans]]]
 actors_secondary: [Thessalians, Boeotians, the Eleans of Oxylus, Arcadia]
 event_type: [migration]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[dorians|Dorian pressure from the northwest]], the decline of [[mycenaean-civilization|Mycenaean]] power, overpopulation and pressure from Balkan (Briges/Lausitz) peoples]
-consequences: [[[ionian-migration-1050bce|the Ionian and Aeolian migrations]], the West-Greek dialect map of the Peloponnese, the rise of Dorian Sparta and Argos, [[greek-dark-age|the Dark Age]]]
+causes: [ [[dorians|Dorian pressure from the northwest]], the decline of [[mycenaean-civilization|Mycenaean]] power, overpopulation and pressure from Balkan (Briges/Lausitz) peoples]
+consequences: [ [[ionian-migration-1050bce|the Ionian and Aeolian migrations]], the West-Greek dialect map of the Peloponnese, the rise of Dorian Sparta and Argos, [[greek-dark-age|the Dark Age]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [event, migration, bronze-age-collapse, early-iron-age, aegean]

@@ -6,7 +6,7 @@ date_precision: year
 period: [Early Middle Ages]
 region: [iberia, mediterranean, north-africa]
 location: [the Iberian Peninsula, the Guadalete/Transductine battlefield, Toledo, Córdoba]
-actors_primary: [[[umayyad-caliphate|the Umayyad Caliphate]], Tariq ibn Ziyad, Musa ibn Nusayr, the Visigothic kingdom under Roderic]
+actors_primary: [ [[umayyad-caliphate|the Umayyad Caliphate]], Tariq ibn Ziyad, Musa ibn Nusayr, the Visigothic kingdom under Roderic]
 actors_secondary: [the Berbers of North Africa, the dispossessed Visigothic nobility, the kingdom of Asturias (later)]
 event_type: war
 scale_immediate: regional

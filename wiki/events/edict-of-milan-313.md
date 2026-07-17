@@ -6,13 +6,13 @@ date_precision: year
 period: [Late Antiquity]
 region: [italy, mediterranean-world]
 location: [Milan]
-actors_primary: [[[constantine-the-great]], [[licinius]]]
+actors_primary: [ [[constantine-the-great]], [[licinius]]]
 actors_secondary: []
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[battle-of-the-milvian-bridge-312]], [[great-persecution-303]]]
-consequences: [[[christianization-of-the-roman-empire]]]
+causes: [ [[battle-of-the-milvian-bridge-312]], [[great-persecution-303]]]
+consequences: [ [[christianization-of-the-roman-empire]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [event, late-antiquity, mediterranean-world]

@@ -6,13 +6,13 @@ date_precision: year
 period: [Late Antiquity]
 region: [anatolia, mediterranean-world]
 location: [Nicaea, Bithynia]
-actors_primary: [[[constantine-the-great]]]
-actors_secondary: [[[origins-of-christianity]]]
+actors_primary: [ [[constantine-the-great]]]
+actors_secondary: [ [[origins-of-christianity]]]
 event_type: religious
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[arian-controversy]]]
-consequences: [[[christianization-of-the-roman-empire]]]
+causes: [ [[arian-controversy]]]
+consequences: [ [[christianization-of-the-roman-empire]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [event, late-antiquity, anatolia]

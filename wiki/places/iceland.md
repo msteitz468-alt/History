@@ -4,9 +4,9 @@ place_type: region
 modern_equivalent: [Iceland]
 coordinates: ~64.1°N, 21.9°W (Þingvellir/Reykjavík)
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
-controlled_by: [[[icelandic-free-state|Icelandic Free State]] (c. 930–1262/64), then [[norway|Norway]]]
-events_here: [[[settlement-of-iceland-874|settlement of Iceland]]]
-processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]]]
+controlled_by: [ [[icelandic-free-state|Icelandic Free State]] (c. 930–1262/64), then [[norway|Norway]]]
+events_here: [ [[settlement-of-iceland-874|settlement of Iceland]]]
+processes_here: [ [[christianization-of-scandinavia|Christianization of Scandinavia]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, scandinavia, iceland, early-middle-ages]

@@ -6,7 +6,7 @@ coordinates: [37.67 N, 32.83 E]
 period_active: [Neolithic, Chalcolithic]
 controlled_by: [Neolithic Anatolian farming community]
 events_here: [unknown]
-processes_here: [[[early-agriculture-southwest-asia]], [[sedentism]], [[urbanization]]]
+processes_here: [ [[early-agriculture-southwest-asia]], [[sedentism]], [[urbanization]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, anatolia, near-east, neolithic]

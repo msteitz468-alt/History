@@ -8,7 +8,7 @@ region: [italy, mediterranean-world]
 affiliated_with: [the optimates; the Stoic tradition; the senatorial Republic]
 opposed_by: [Pompey, Caesar, Crassus (the dynasts); Clodius]
 key_events: [the Catilinarian debate (63), the grain dole expansion (62), the obstruction of Pompey and Caesar (61–60)]
-key_processes: [[[optimates-populares]]]
+key_processes: [ [[optimates-populares]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, italy]

@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [china, east-asia]
 location: [the Yellow and Yangzi river valleys; the six conquered states (Hann, Zhao, Wei, Chu, Yan, Qi)]
-actors_primary: [[[qin-shi-huang|Qin Shi Huang]], the state of [[qin-dynasty|Qin]], the chancellor Li Si]
+actors_primary: [ [[qin-shi-huang|Qin Shi Huang]], the state of [[qin-dynasty|Qin]], the chancellor Li Si]
 actors_secondary: [generals Bo Qi, Wang Jian, Meng Tian; the six rival states]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: global
-causes: [[[warring-states-period-475-bce|Warring States competition]], Qin's Legalist administrative and military reforms, the conquest of Shu (316 BCE)]
+causes: [ [[warring-states-period-475-bce|Warring States competition]], Qin's Legalist administrative and military reforms, the conquest of Shu (316 BCE)]
 consequences: [the founding of the Chinese empire, the imperial title huangdi, standardization of script/weights/measures, [[han-dynasty|the Han imperial order]]]
 sources_ingested: 1
 last_updated: 2026-06-26

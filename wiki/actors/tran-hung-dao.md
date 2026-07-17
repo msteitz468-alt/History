@@ -5,9 +5,9 @@ date_start: 1231
 date_end: 1300
 period: [high-middle-ages]
 region: [southeast-asia]
-affiliated_with: [[[tran-dynasty-vietnam]], [[thang-long]]]
-opposed_by: [[[mongol-empire]], [[kublai-khan]]]
-key_events: [[[mongol-invasions-of-dai-viet-1258-1288]], [[battle-of-bach-dang-1288]]]
+affiliated_with: [ [[tran-dynasty-vietnam]], [[thang-long]]]
+opposed_by: [ [[mongol-empire]], [[kublai-khan]]]
+key_events: [ [[mongol-invasions-of-dai-viet-1258-1288]], [[battle-of-bach-dang-1288]]]
 key_processes: []
 sources_ingested: 1
 last_updated: "2026-07-03"

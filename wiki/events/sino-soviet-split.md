@@ -7,7 +7,7 @@ period: [Cold War]
 region: [china, eastern-europe, east-asia]
 location: [the USSR and the People's Republic of China]
 actors_primary: [the People's Republic of China (Mao Zedong), the Soviet Union (Khrushchev)]
-actors_secondary: [[[mao-zedong]], [[china]], [[cold-war]]]
+actors_secondary: [ [[mao-zedong]], [[china]], [[cold-war]]]
 event_type: [political]
 scale_immediate: regional
 scale_consequential: global

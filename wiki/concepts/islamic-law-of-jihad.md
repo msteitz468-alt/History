@@ -1,5 +1,6 @@
 ---
 title: Islamic Law of Jihād (Juristic Theory of War)
+aliases: [jihad]
 concept_type: analytical
 origin: Developed by Muslim jurists (fuqahāʾ) from Quran, Sunna, and juristic reasoning in the 1st–3rd/7th–9th centuries; elaborated in chapters on jihād and siyar in comprehensive fiqh works and in dedicated treatises; declined as an independent genre after the 3rd/9th century
 applies_to_periods:

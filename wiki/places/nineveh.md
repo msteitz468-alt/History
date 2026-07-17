@@ -5,8 +5,8 @@ modern_equivalent: near Mosul, northern Iraq (Assyrian heartland)
 coordinates: ~36.36°N, 43.15°E (Nineveh)
 period_active: [Early Iron Age, Archaic Period]
 controlled_by: [Assyrian Empire]
-events_here: [[[fall-of-nineveh-612bce|fall of Nineveh 612 BCE]]]
-processes_here: [[[urbanization]], [[ruralization]]]
+events_here: [ [[fall-of-nineveh-612bce|fall of Nineveh 612 BCE]]]
+processes_here: [ [[urbanization]], [[ruralization]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mesopotamia, near-east, early-iron-age]

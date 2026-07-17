@@ -6,7 +6,7 @@ date_precision: year
 period: [World Wars Era]
 region: [central-europe]
 process_type: cultural
-driven_by: [[[goebbels-joseph|Joseph Goebbels]] (vs. rival press chief Otto Dietrich), [[adolf-hitler]], the Reich culture chambers]
+driven_by: [ [[goebbels-joseph|Joseph Goebbels]] (vs. rival press chief Otto Dietrich), [[adolf-hitler]], the Reich culture chambers]
 produces: [sustained home-front morale management, the antisemitic film canon, mass looting of European art, the destruction and exile of German high culture]
 sources_ingested: 1
 last_updated: 2026-07-02

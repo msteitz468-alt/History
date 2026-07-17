@@ -67,6 +67,26 @@ celebrated little, recognized its grimness; his successors maintained the exclus
 Jerusalem. The revolt also marks, with the destruction of the Temple, the deepening **separation
 of Christianity from Judaism** (Bar Kochba's messianic claim being unacceptable to the Christians).
 
+## Historiography
+
+The war is unusually poorly served by continuous narrative: **Cassius Dio**'s account
+survives only in the Byzantine epitome of Xiphilinus, brief and moralizing, and no
+Jewish literary source from the period records the revolt directly — rabbinic
+references (Mishnah, later Talmudic and midrashic material) are fragmentary, legendary,
+and centuries removed from the events, treating Bar Kochba (there called "Bar Koziba,"
+"son of the lie") through a lens shaped by the catastrophe's aftermath. The single most
+important body of **primary evidence is archaeological and epigraphic**: the Bar Kochba
+letters and administrative documents recovered from the Judaean desert caves (Wadi
+Murabba'at, Nahal Hever) in twentieth-century excavations (notably Yigael Yadin's), and
+the rebel's own coinage, both of which supply rare direct testimony from the insurgent
+administration itself rather than its Roman suppressors. Dio's casualty figures (985
+villages, 580,000 dead) are widely regarded by modern historians as inflated or
+symbolic rather than a reliable census. Scholars continue to debate the war's precise
+scale and geographic extent, the degree to which the ban on circumcision and the
+refounding of Jerusalem were causes versus post-hoc justifications, and how far the
+revolt's suppression should be read as a deliberate, systematic depopulation policy
+rather than the ordinary brutality of ancient siege warfare.
+
 ## Related
 
 - `caused_by:` [[hadrian|Hadrian's]] policies (Aelia Capitolina, the circumcision ban); led by

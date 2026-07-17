@@ -6,7 +6,7 @@ date_precision: disputed
 period: [Archaic Period]
 region: [levant]
 location: [Jerusalem, kingdom of Judah]
-actors_primary: [[[nebuchadnezzar-ii|Nebuchadnezzar II]], Zedekiah of [[kingdom-of-judah|Judah]]]
+actors_primary: [ [[nebuchadnezzar-ii|Nebuchadnezzar II]], Zedekiah of [[kingdom-of-judah|Judah]]]
 actors_secondary: [Jehoiachin, Gedaliah, the prophet Jeremiah, Apries (Pharaoh), Nabuzaradan]
 event_type: [war, religious, political]
 scale_immediate: regional

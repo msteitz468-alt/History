@@ -32,6 +32,9 @@ On the night of March 1, 1932, 20-month-old Charles Augustus Lindbergh Jr. was a
 - **Federal Legislation:** The tragedy led to the passage of the Federal Kidnapping Act of 1932 (the "Lindbergh Law"), which made kidnapping across state lines a federal offense and authorized the FBI to investigate.
 - **European Exile:** The sensational trial of Bruno Richard Hauptmann and relentless media harassment forced the Lindbergh family to flee the United States in December 1935, seeking safety and privacy in England and France.
 
+## Historiography
+The case is documented through New Jersey State Police investigation files, trial transcripts from Hauptmann's 1935 conviction, and extensive contemporary press coverage — itself part of the story, since the "trial of the century" media frenzy directly shaped the Lindberghs' subsequent decision to leave the US. The Hauptmann conviction and execution have remained contested: some later researchers and popular writers have questioned the adequacy of the evidence and police conduct, though this revisionism has not displaced the consensus verdict among most historians and legal scholars. The episode is more securely used by historians as a case study in the origins of federal kidnapping law and the emergence of modern celebrity-driven media coverage than as a site of major unresolved factual dispute.
+
 ## Related Pages
 - [[actors/lindbergh-charles|Charles A. Lindbergh]]
 - [[actors/hauptmann-bruno-richard|Bruno Richard Hauptmann]]

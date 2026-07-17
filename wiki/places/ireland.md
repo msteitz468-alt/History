@@ -5,8 +5,8 @@ modern_equivalent: [Republic of Ireland, Northern Ireland (UK)]
 coordinates: [53.4N, 8.0W]
 period_active: [all periods]
 controlled_by: [Gaelic lordships, the English/British crown, the [[irish-free-state]], the [[republic-of-ireland]], the United Kingdom (Northern Ireland)]
-events_here: [[[plantation-of-ireland-1556-1660]], [[cromwellian-conquest-of-ireland]], [[irish-rebellion-1798]], [[act-of-union-1801]], [[great-famine-ireland-1845]], [[easter-rising-1916]], [[the-troubles]]]
-processes_here: [[[home-rule-movement]], [[irish-diaspora]], [[irish-nationalism]], [[ulster-unionism]]]
+events_here: [ [[plantation-of-ireland-1556-1660]], [[cromwellian-conquest-of-ireland]], [[irish-rebellion-1798]], [[act-of-union-1801]], [[great-famine-ireland-1845]], [[easter-rising-1916]], [[the-troubles]]]
+processes_here: [ [[home-rule-movement]], [[irish-diaspora]], [[irish-nationalism]], [[ulster-unionism]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, british-isles, western-europe, early-middle-ages]

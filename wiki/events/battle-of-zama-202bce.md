@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [north-africa, mediterranean-world]
 location: [the plain inland from Carthage, Tunisia (site disputed)]
-actors_primary: [[[scipio-africanus]], [[hannibal]]]
-actors_secondary: [[[masinissa]], [[carthage]], [[roman-republic]]]
+actors_primary: [ [[scipio-africanus]], [[hannibal]]]
+actors_secondary: [ [[masinissa]], [[carthage]], [[roman-republic]]]
 event_type: battle
 scale_immediate: civilizational
 scale_consequential: hemispheric
-causes: [[[second-punic-war-218-201bce]], Scipio's invasion of Africa (204), the recall of Hannibal from Italy (203)]
+causes: [ [[second-punic-war-218-201bce]], Scipio's invasion of Africa (204), the recall of Hannibal from Italy (203)]
 consequences: [the surrender of [[carthage]], the peace of 201, Roman supremacy in the western Mediterranean, the rise of [[masinissa|Numidia]]]
 sources_ingested: 3
 last_updated: 2026-07-08

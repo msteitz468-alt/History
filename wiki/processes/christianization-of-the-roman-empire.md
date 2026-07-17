@@ -1,5 +1,6 @@
 ---
 title: The Christianization of the Roman Empire
+aliases: [rise-of-christianity]
 date_start: c. 312 CE (Constantine's conversion)
 date_end: ongoing (formally dominant by c. 425; completed over later centuries)
 date_precision: century

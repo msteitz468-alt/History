@@ -153,4 +153,4 @@ The primary account drawn on here is Schimmel, *Mystical Dimensions of Islam* (1
 
 Key debates not resolved by Schimmel: (1) the actual extent of Aḥmad Sirhindī's political influence on Mughal orthodoxy (Yohanan Friedmann argued the heroic image was partly post-1919 construction); (2) whether Shāh ʿInāyat's 1718 movement at Jhok constituted proto-agrarian reform or was simply pious charity; (3) the degree to which lower-caste conversion was driven by Sufi egalitarianism vs. other political-economic factors.
 
-**Collection coverage**: The Bibliotheca Alexandrina collection is moderate-to-strong on South Asian Sufism through Schimmel's synthesis and the Translations from the Asian Classics series, but lacks dedicated monographs on regional Sindhi/Punjabi poetry and on the post-1800 period. See [[Outstanding Sources]] for gaps.
+**Collection coverage**: The Bibliotheca Alexandrina collection is moderate-to-strong on South Asian Sufism through Schimmel's synthesis and the Translations from the Asian Classics series, but lacks dedicated monographs on regional Sindhi/Punjabi poetry and on the post-1800 period. See Outstanding Sources for gaps.

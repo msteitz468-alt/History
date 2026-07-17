@@ -5,10 +5,10 @@ date_start: ~2112 BCE (accession; middle chronology)
 date_end: ~2095 BCE (death, after an 18-year reign)
 period: [Middle Bronze Age]
 region: [mesopotamia]
-affiliated_with: [[[third-dynasty-of-ur]]]
+affiliated_with: [ [[third-dynasty-of-ur]]]
 opposed_by: [Lagash (Nammakhni), the remnant Gutians]
 key_events: []
-key_processes: [[[state-formation]], [[temple-economy]]]
+key_processes: [ [[state-formation]], [[temple-economy]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, mesopotamia]

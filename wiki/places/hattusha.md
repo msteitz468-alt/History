@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: Boğazkale (formerly Boğazköy), Çorum Province, Turkey
 coordinates: ~40.02°N, 34.62°E
 period_active: [Middle Bronze Age, Late Bronze Age]
-controlled_by: [[[hittites|the Hittite kingdom]]]
+controlled_by: [ [[hittites|the Hittite kingdom]]]
 events_here: [Anitta's destruction & cursing of the city (~1750 BCE), refoundation as capital by [[hattusili-i|Hattusili I]] (~1650 BCE)]
-processes_here: [[[indo-european-migrations]], [[trade-network-formation]]]
+processes_here: [ [[indo-european-migrations]], [[trade-network-formation]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [place, anatolia, near-east, middle-bronze-age, late-bronze-age]

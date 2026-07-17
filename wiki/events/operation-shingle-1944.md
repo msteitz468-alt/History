@@ -30,6 +30,10 @@ One of the most demanding sustainment challenges of the theater: maintaining a l
 
 "Peninsular Base Section: support of all US units in Italy, 126; support to the Fifth Army in the Italian campaign, 189–90, 193, 194–95"; "command and supply modifications in late 1944, 179, 180, 182, 188"; "consolidation of command-and-control in the Mediterranean theater in 1944, 143–44". Lingering challenges with WAC/Black units in support roles ("Women’s Army Corps (WAC), 195–97"; "Black units in, 199, 200"). Part of the "8. Unfinished Business" in Italy sustainment. (Verbatim from Range 04 endnotes/index.)
 
+## Historiography
+
+Documentation rests on Allied and German unit records and, for the logistics dimension emphasized on this page, Dworak's *War of Supply* (2022). The operation has long been a set-piece case study in command criticism: John Lucas's cautious buildup rather than immediate inland drive from the beachhead has been debated since the war itself, with critics (including Churchill) arguing a rapid advance could have unhinged the Gustav Line defense, and defenders citing the genuine risk of over-extension against strong German reserves under Kesselring. Casualty and reinforcement figures are well documented in official records; the central historiographical dispute remains counterfactual — how differently the Italian campaign might have unfolded under a bolder initial exploitation of surprise.
+
 ## Related
 
 - See [[dworak-war-of-supply-2022]] for detailed Anzio sustainment analysis.

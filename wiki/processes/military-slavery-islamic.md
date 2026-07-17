@@ -1,5 +1,6 @@
 ---
 title: Military Slavery (Ghulam/Mamluk System)
+aliases: [military-slavery]
 process_type: political / military
 date_start: 9th c. (Abbasid Turkish guards); systematized 10th-13th c. (Buwayhid/Ghaznavid/Saljuq/Ayyubid/Mamluk)
 date_end: 19th c. variants (Ottoman, etc.)

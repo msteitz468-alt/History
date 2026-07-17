@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece]
 location: [Athens]
-actors_primary: [[[ephialtes]], [[pericles]]]
-actors_secondary: [[[cimon]], the [[areopagus|Council of the Areopagus]], the Athenian dēmos]
+actors_primary: [ [[ephialtes]], [[pericles]]]
+actors_secondary: [ [[cimon]], the [[areopagus|Council of the Areopagus]], the Athenian dēmos]
 event_type: political
 scale_immediate: local
 scale_consequential: civilizational
-causes: [[[cleisthenic-reforms-508bce|the Cleisthenic apparatus and the growing political confidence of the dēmos]], the decline of the archonship to a sortitive office, resentment at the Areopagus' verdicts favouring [[cimon]], the discrediting of the pro-Spartan policy after the rebuff at Ithome]
+causes: [ [[cleisthenic-reforms-508bce|the Cleisthenic apparatus and the growing political confidence of the dēmos]], the decline of the archonship to a sortitive office, resentment at the Areopagus' verdicts favouring [[cimon]], the discrediting of the pro-Spartan policy after the rebuff at Ithome]
 consequences: [the radical [[athenian-democracy]], the ostracism of [[cimon]], the murder of [[ephialtes]], the break with [[sparta]] and the [[first-peloponnesian-war|First Peloponnesian War]]]
 sources_ingested: 1
 last_updated: 2026-06-11

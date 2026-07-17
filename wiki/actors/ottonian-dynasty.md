@@ -6,9 +6,9 @@ date_end: 1024 CE (death of Henry II; succeeded by the Salians)
 period: [Early Middle Ages, High Middle Ages]
 region: [western-europe, mediterranean, eastern-europe]
 affiliated_with: [the Reichskirche, the [[papacy]], [[cluny|monastic reform]], Saxony]
-opposed_by: [[[elbe-slavs|the Elbe Slavs (Liutizi, Abodrites)]], the Magyars, rival ducal houses, the Roman aristocracy (Crescentii)]
-key_events: [[[battle-of-lechfeld-955]], [[coronation-of-otto-i-962]], [[synod-of-gniezno-1000]]]
-key_processes: [[[reichskirche]], [[ottonian-renaissance]], German eastward expansion]
+opposed_by: [ [[elbe-slavs|the Elbe Slavs (Liutizi, Abodrites)]], the Magyars, rival ducal houses, the Roman aristocracy (Crescentii)]
+key_events: [ [[battle-of-lechfeld-955]], [[coronation-of-otto-i-962]], [[synod-of-gniezno-1000]]]
+key_processes: [ [[reichskirche]], [[ottonian-renaissance]], German eastward expansion]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, dynasty, early-middle-ages, high-middle-ages, western-europe]

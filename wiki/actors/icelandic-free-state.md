@@ -5,10 +5,10 @@ date_start: c. 930 CE
 date_end: 1262/1264 CE
 period: [Early Middle Ages, High Middle Ages]
 region: [iceland, scandinavia]
-affiliated_with: [[[iceland|Iceland]]]
-opposed_by: [[[norway|Norway]] (eventual overlord)]
-key_events: [[[settlement-of-iceland-874|settlement of Iceland]]]
-key_processes: [[[christianization-of-scandinavia|Christianization of Scandinavia]]]
+affiliated_with: [ [[iceland|Iceland]]]
+opposed_by: [ [[norway|Norway]] (eventual overlord)]
+key_events: [ [[settlement-of-iceland-874|settlement of Iceland]]]
+key_processes: [ [[christianization-of-scandinavia|Christianization of Scandinavia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, early-middle-ages, iceland]

@@ -7,7 +7,7 @@ dating_method: other
 period: [Late Middle Ages]
 region: [cyprus, mediterranean]
 location: [Famagusta, Nicosia, Kyrenia, Limassol, Paphos]
-actors_primary: [[[republic-of-genoa]], [[kingdom-of-cyprus]]]
+actors_primary: [ [[republic-of-genoa]], [[kingdom-of-cyprus]]]
 actors_secondary: ["Peter II of Cyprus", "Eleanor of Aragon", "John of Antioch (regent)", "James of Lusignan", [[republic-of-venice]]]
 event_type: war
 scale_immediate: regional

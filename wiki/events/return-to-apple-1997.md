@@ -29,4 +29,16 @@ In late 1996 Apple, then under CEO Gil Amelio and facing insolvency, purchased N
 
 **Consequence Analysis**: Within three years Apple was profitable again. The return set in motion the iPod, iPhone, and iPad eras and the modern Apple design identity.
 
+## Historiography
+
+Isaacson's biography is the primary secondary account, drawing on
+interviews with Jobs and Apple executives of the period; Gil Amelio also published his
+own memoir (*On the Firing Line*) giving a more sympathetic account of his tenure and
+disputing some of the harsher characterizations of his leadership that later became
+standard in Jobs-centered narratives. Because the dominant popular narrative was shaped
+heavily by Jobs's own later framing (and by Isaacson's access to Jobs rather than
+Amelio), some historians of the tech industry note the "turnaround genius" story may
+understate Amelio's contribution (the NeXT acquisition itself, initial cost-cutting) to
+the recovery that followed.
+
 **Related**: [[actors/jobs-steve]] · [[actors/apple-inc]] · [[events/founding-of-apple-1976]] · [[sources/isaacson-steve-jobs-2011]]

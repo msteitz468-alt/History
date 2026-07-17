@@ -24,4 +24,8 @@ In January 1913 Srinivasa Ramanujan, then a clerk at the Madras Port Trust, sent
 
 The letter contained results on infinite series, continued fractions, and the distribution of prime numbers, many of them stated without proof. Hardy later wrote that he had “never seen anything in the least like them before.”
 
+## Historiography
+
+The primary sources here are strong: Ramanujan's original 1913 letter and its accompanying theorems survive and have been extensively studied by mathematicians and historians of mathematics, and Hardy's own later reminiscences (including his famous remark on the letter's originality) are well documented. Some uncertainty remains around Ramanujan's earlier, unsuccessful approaches to Baker and Hobson, which are known mainly through later secondhand accounts rather than surviving correspondence. Historiographical interest has shifted in recent decades from a purely biographical "untutored genius discovered" narrative toward closer study of Ramanujan's actual mathematical training in Madras (the influence of Carr's synopsis of pure mathematics, and the South Indian mathematical culture that shaped his working methods) — qualifying the older romanticized account of an isolated autodidact.
+
 **Related**: [[actors/ramanujan-srinivasa]], [[actors/hardy-g-h]], [[actors/narayana-iyer]]

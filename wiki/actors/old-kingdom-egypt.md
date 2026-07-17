@@ -7,8 +7,8 @@ period: [Early Bronze Age]
 region: [north-africa]
 affiliated_with: []
 opposed_by: [Nubian tribes, Libyans, Sinai bedawin ("sand-dwellers")]
-key_events: [[[fall-of-old-kingdom-2160bce]]]
-key_processes: [[[state-formation]], [[divine-kingship]], [[provider-state]], [[egyptian-bureaucracy]]]
+key_events: [ [[fall-of-old-kingdom-2160bce]]]
+key_processes: [ [[state-formation]], [[divine-kingship]], [[provider-state]], [[egyptian-bureaucracy]]]
 sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, north-africa]

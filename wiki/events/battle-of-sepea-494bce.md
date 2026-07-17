@@ -6,8 +6,8 @@ date_precision: year
 period: [Archaic Period]
 region: [peloponnese]
 location: [Sepea, near Tiryns, the Argolid]
-actors_primary: [[[cleomenes-i|Cleomenes I of Sparta]], [[argos|Argos]]]
-actors_secondary: [[[sparta|Sparta]], [[aegina|Aegina]] (provided transport ships)]
+actors_primary: [ [[cleomenes-i|Cleomenes I of Sparta]], [[argos|Argos]]]
+actors_secondary: [ [[sparta|Sparta]], [[aegina|Aegina]] (provided transport ships)]
 event_type: battle
 scale_immediate: regional
 scale_consequential: regional

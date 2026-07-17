@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: Tell Atchana, the Amuq plain, Hatay (Turkey)
 coordinates: ~36.24°N, 36.38°E
 period_active: [Middle Bronze Age, Late Bronze Age]
-controlled_by: [[[iamkhad|Yamhad/Aleppo]] (vassal, level VII), [[mitanni|Mitanni]] (level IV), the [[hittites|Hittites]]]
+controlled_by: [ [[iamkhad|Yamhad/Aleppo]] (vassal, level VII), [[mitanni|Mitanni]] (level IV), the [[hittites|Hittites]]]
 events_here: [Hattusili I's destruction of level VII (~1620s BCE), Idrimi's reign under Mitannian overlordship]
-processes_here: [[[canaanite-civilization]], [[trade-network-formation]]]
+processes_here: [ [[canaanite-civilization]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, levant, near-east, middle-bronze-age, late-bronze-age]

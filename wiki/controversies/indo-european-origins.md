@@ -1,5 +1,6 @@
 ---
 title: Origins of the Indo-Europeans (Homeland and Dispersal)
+aliases: [origins-of-the-indo-europeans]
 dispute_type: interpretation
 period_involved: [Neolithic, Chalcolithic, Early Bronze Age, Middle Bronze Age]
 regions_involved: [eurasian-steppe, anatolia, near-east, central-asia, europe, south-asia, iran-plateau, balkans]

@@ -6,13 +6,13 @@ date_precision: exact
 period: [Early Middle Ages]
 region: [western-europe]
 location: [Fontenoy-en-Puisaye, Burgundy]
-actors_primary: [[[charles-the-bald]], [[louis-the-german]], [[lothar-i]], Pippin II of Aquitaine]
+actors_primary: [ [[charles-the-bald]], [[louis-the-german]], [[lothar-i]], Pippin II of Aquitaine]
 actors_secondary: [Nithard, the Frankish aristocracy]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [the death of [[louis-the-pious]] 840, [[lothar-i|Lothar's]] bid to enforce the unitary 817 imperial settlement, the rival inheritance claims of his brothers]
-consequences: [[[treaty-of-verdun-843]], the abandonment of imperial unity, the tripartite division of the Frankish realm]
+consequences: [ [[treaty-of-verdun-843]], the abandonment of imperial unity, the tripartite division of the Frankish realm]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [event, early-middle-ages, western-europe]

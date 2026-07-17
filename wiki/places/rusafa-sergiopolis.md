@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Al-Rusafa, Syria]
 coordinates: [35.68, 38.75]
 period_active: [late-antiquity]
-controlled_by: [[[sasanian-empire]], [[ghassanids]]]
+controlled_by: [ [[sasanian-empire]], [[ghassanids]]]
 events_here: []
-processes_here: [[[super-phylarchate]]]
+processes_here: [ [[super-phylarchate]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [place, near-east, levant, late-antiquity]

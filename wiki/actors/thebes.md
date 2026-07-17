@@ -6,9 +6,9 @@ date_end: 335 BCE (destroyed by Alexander the Great; refounded 316 by Cassander)
 period: [Classical Antiquity]
 region: [central-greece]
 affiliated_with: [the Boeotian Confederacy, [[epaminondas]], [[pelopidas]], the Sacred Band]
-opposed_by: [[[sparta]], [[agesilaus-ii|Agesilaus II]], [[alexander-the-great|Alexander]], intermittently [[places/athens|Athens]]]
+opposed_by: [ [[sparta]], [[agesilaus-ii|Agesilaus II]], [[alexander-the-great|Alexander]], intermittently [[places/athens|Athens]]]
 key_events: [Persian medizing 480 BCE, liberation from Spartan garrison ([[liberation-of-thebes-379bce]]) 379 BCE, victory at [[battle-of-leuctra-371bce|Leuctra]] 371 BCE, liberation of Messenia and founding of Megalopolis 370/69 BCE, [[battle-of-mantinea-362bce|Mantinea]] 362 BCE, [[battle-of-chaeronea-338bce|Chaeronea]] 338 BCE, destruction by Alexander 335 BCE]
-key_processes: [[[thebes-hegemony-371bce|the Theban hegemony]], the Boeotian Confederacy]
+key_processes: [ [[thebes-hegemony-371bce|the Theban hegemony]], the Boeotian Confederacy]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, state, classical-antiquity, central-greece, greece]

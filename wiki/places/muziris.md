@@ -6,7 +6,7 @@ coordinates: ~10.2°N, 76.2°E (approx., disputed)
 period_active: [Classical Antiquity, Late Antiquity]
 controlled_by: ["Chera dynasty (Tamil)"]
 events_here: []
-processes_here: [[[indian-ocean-trade]], [[silk-roads]], [[roman-imperial-trade]]]
+processes_here: [ [[indian-ocean-trade]], [[silk-roads]], [[roman-imperial-trade]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, south-asia, indian-ocean]

@@ -6,7 +6,7 @@ coordinates: ~35.0°N, 33.0°E
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity, High Middle Ages, Late Middle Ages, Early Modern]
 controlled_by: [tribal / town-based Cypriot communities (no attested unification), indigenous Iron Age city-kingdoms, Phoenician Tyre (at Kition), Assyria, Egypt (Amasis), Persia, "Byzantine Empire", [[kingdom-of-cyprus|Lusignan Cyprus]], [[republic-of-venice|Venice]], "Ottoman Empire"]
 events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement, the LBA destruction (~1075 BCE), the Phoenician colonization of Kition, Sargon II's conquest (~709), the ten Cypro-Archaic kingdoms, Amasis's annexation (~560), submission to Persia (~545), [[richard-conquest-of-cyprus-1191]], [[war-of-the-lombards-1228]], [[fall-of-acre-1291]], [[sack-of-alexandria-1365]], [[genoese-invasion-of-cyprus-1373]]]
-processes_here: [[[trade-network-formation]], Phoenician colonization, copper production, [[orientalizing-revolution|orientalizing transmission]], Hellenization, [[crusades]]]
+processes_here: [ [[trade-network-formation]], Phoenician colonization, copper production, [[orientalizing-revolution|orientalizing transmission]], Hellenization, [[crusades]]]
 sources_ingested: 6
 last_updated: 2026-07-08
 tags: [place, near-east, mediterranean, middle-bronze-age, early-iron-age, archaic-period, high-middle-ages, late-middle-ages]

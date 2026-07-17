@@ -4,9 +4,9 @@ place_type: region
 modern_equivalent: [Cádiz and the Guadalquivir/Huelva region, Andalusia, Spain]
 coordinates: [36.53 N, 6.29 W]
 period_active: [Early Iron Age, Archaic Period]
-controlled_by: [[[phoenicians|Phoenician]] colonists (Gades); the native kingdom of Tartessos]
+controlled_by: [ [[phoenicians|Phoenician]] colonists (Gades); the native kingdom of Tartessos]
 events_here: [the foundation of Gades, the silver trade, the voyage of Colaeus (c. 630), Himilco's Atlantic exploration]
-processes_here: [[[phoenician-colonization|Phoenician colonization]], silver and tin mining, the orientalizing of Iberia]
+processes_here: [ [[phoenician-colonization|Phoenician colonization]], silver and tin mining, the orientalizing of Iberia]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, iberia, mediterranean, archaic-period]

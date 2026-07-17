@@ -5,10 +5,10 @@ date_start: r. 668 BCE
 date_end: c. 631/627 BCE
 period: [Archaic Period]
 region: [mesopotamia, near-east, levant, north-africa]
-affiliated_with: [[[neo-assyrian-empire|Assyria]], the cult of Ashur and of Ishtar of Arbela]
+affiliated_with: [ [[neo-assyrian-empire|Assyria]], the cult of Ashur and of Ishtar of Arbela]
 opposed_by: [Tantamani of [[kush-meroe|Kush]], Elam (Teumman), his brother Shamash-shuma-ukin of Babylon, the Arabs, the Cimmerians]
 key_events: [the [[sack-of-thebes-663bce|sack of Thebes (663)]], the great civil war with Shamash-shuma-ukin (652–648), the destruction of Susa and Elam (647–646), the assembling of the Library of Nineveh]
-key_processes: [[[empire]], [[assyrian-mass-deportation|mass deportation]], scribal collection]
+key_processes: [ [[empire]], [[assyrian-mass-deportation|mass deportation]], scribal collection]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, mesopotamia, near-east]

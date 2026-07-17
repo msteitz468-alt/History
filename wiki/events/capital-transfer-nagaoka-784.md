@@ -106,6 +106,10 @@ at Nara; kinship and logistical attractions of the Nagaoka site; Tanetsugu's adv
 **produced**: Political crisis (Tanetsugu assassination, Sawara affair) that discredited
 the site and accelerated the shift to the final Heian-kyō location.
 
+## Historiography
+
+The principal source is the *Shoku Nihongi*, the official court-compiled chronicle covering this period, which records the move, the Tanetsugu assassination, and Prince Sawara's death within the conventions of court historiography — favorable to the ruling emperor and reticent about implicating Kammu directly in Sawara's fate, as the *Cambridge History of Japan* itself notes ("no evidence supports" the suspicion that Kammu orchestrated the affair, though the chronicle's silence on the point is itself suggestive). Later Heian-period sources and religious records preserve the *goryō* (vengeful spirit) tradition around Sawara, reflecting how contemporaries and near-contemporaries interpreted the disasters at Nagaoka religiously rather than merely politically. Archaeological excavation of the Nagaoka palace site since the late twentieth century has substantially expanded knowledge of the capital's actual physical scale and state of completion, supplementing and in places correcting the textual record's impression of a hastily abandoned, unfinished project. The balance between practical (logistical, factional) and religious (spirit-appeasement) motives for the eventual move to Heian-kyō remains a matter of interpretive emphasis among historians rather than a settled dispute over facts.
+
 ## Related
 
 - [[kanmu-emperor]] — the emperor who ordered the move

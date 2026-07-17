@@ -6,7 +6,7 @@ coordinates: ~30.79°N, 31.82°E
 period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [Egypt (13th Dynasty), the [[hyksos|Hyksos]] (15th Dynasty), [[new-kingdom-egypt|New Kingdom Egypt]]]
 events_here: [Hyksos occupation (~1720 BCE), capture by [[ahmose-i|Ahmose I]] (~1550 BCE)]
-processes_here: [[[second-intermediate-period]], [[trade-network-formation]]]
+processes_here: [ [[second-intermediate-period]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, north-africa, levant, middle-bronze-age]

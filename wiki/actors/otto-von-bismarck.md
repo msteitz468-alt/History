@@ -5,10 +5,10 @@ date_start: 1815 (born)
 date_end: 1898 (died)
 period: [Long 19th Century]
 region: [western-europe]
-affiliated_with: [[[prussia|Prussia]], the [[german-empire|German Empire]], the Hohenzollern monarchy]
+affiliated_with: [ [[prussia|Prussia]], the [[german-empire|German Empire]], the Hohenzollern monarchy]
 opposed_by: [the Catholic Centre Party, the Social Democrats, Austria and France]
 key_events: [Minister-President of Prussia 1862, [[austro-prussian-war-1866]], [[franco-prussian-war-1870]], [[german-unification|founding of the German Empire 1871]], the [[kulturkampf]], dismissal 1890]
-key_processes: [[[german-unification]], [[state-formation]], Realpolitik]
+key_processes: [ [[german-unification]], [[state-formation]], Realpolitik]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, long-19th-century, western-europe]

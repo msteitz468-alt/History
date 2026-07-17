@@ -6,9 +6,9 @@ date_end: 605 BCE
 period: [Archaic Period]
 region: [mesopotamia, near-east]
 affiliated_with: [the [[chaldeans|Chaldaeans]], [[medes|Cyaxares of Media]], the cult of Marduk]
-opposed_by: [[[neo-assyrian-empire|Assyria]] (Sin-sharra-ishkun, Ashur-uballit II), Egypt]
+opposed_by: [ [[neo-assyrian-empire|Assyria]] (Sin-sharra-ishkun, Ashur-uballit II), Egypt]
 key_events: [the revolt and accession in Babylon (626), the alliance with [[medes|Cyaxares]] (614), the [[fall-of-nineveh-612bce|fall of Nineveh (612)]], the fall of Harran (610)]
-key_processes: [[[state-formation]], [[empire]]]
+key_processes: [ [[state-formation]], [[empire]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, mesopotamia, near-east]

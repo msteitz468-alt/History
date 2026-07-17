@@ -4,9 +4,9 @@ place_type: region
 modern_equivalent: [Peshawar valley and Taxila (northern Pakistan); eastern Afghanistan; the Indus and West Punjab]
 coordinates: [34.0 N, 71.5 E (Peshawar/Puskalavati)]
 period_active: [Archaic Period, Classical Antiquity]
-controlled_by: [[[achaemenid-empire|the Achaemenid Persian empire]], local Indian rulers, later [[alexander-the-great|Alexander]], the [[mauryan-empire|Mauryas]], Indo-Greeks]
+controlled_by: [ [[achaemenid-empire|the Achaemenid Persian empire]], local Indian rulers, later [[alexander-the-great|Alexander]], the [[mauryan-empire|Mauryas]], Indo-Greeks]
 events_here: [the voyage of [[scylax-of-caryanda|Scylax]] down the Indus (c. 517 BCE), Darius I's organization of the Hindus satrapy (c. 515 BCE), the contribution of Gandaran and Indian contingents to Xerxes' invasion of Greece (480)]
-processes_here: [[[empire]], Achaemenid tribute extraction, early Indian coinage (bent-bar and punch-marked currencies), [[spread-of-buddhism|Greco-Buddhist art]]]
+processes_here: [ [[empire]], Achaemenid tribute extraction, early Indian coinage (bent-bar and punch-marked currencies), [[spread-of-buddhism|Greco-Buddhist art]]]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, south-asia, archaic-period, late-antiquity]

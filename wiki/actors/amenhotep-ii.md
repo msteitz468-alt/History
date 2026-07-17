@@ -5,10 +5,10 @@ date_start: ~1427 BCE (accession)
 date_end: ~1400 BCE
 period: [Late Bronze Age]
 region: [north-africa, levant, nubia]
-affiliated_with: [[[new-kingdom-egypt]]]
+affiliated_with: [ [[new-kingdom-egypt]]]
 opposed_by: [Levantine vassals, Mitanni (early)]
 key_events: []
-key_processes: [[[egyptian-imperialism]]]
+key_processes: [ [[egyptian-imperialism]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]

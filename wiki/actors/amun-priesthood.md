@@ -5,10 +5,10 @@ date_start: ~1990 BCE (rise of Amun under the Twelfth Dynasty)
 date_end: ~1069 BCE (the priest-kings of Thebes; this volume to ~1379 BCE)
 period: [Late Bronze Age]
 region: [north-africa]
-affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]], Thebes]
+affiliated_with: [ [[new-kingdom-egypt|Eighteenth Dynasty]], Thebes]
 opposed_by: [the religious revolution of Akhenaten (beyond this volume)]
 key_events: [the elevation of Amun-Re to "national god", the accumulation of the Karnak temple estates]
-key_processes: [[[state-formation]], [[temple-economy]]]
+key_processes: [ [[state-formation]], [[temple-economy]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, institution, late-bronze-age, north-africa]

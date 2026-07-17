@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the Chinese Communist Party, the People's Republic of China]
 opposed_by: [the Guomindang (Chiang Kai-shek), Imperial Japan, intra-party rivals, the USSR (after the Sino-Soviet split)]
 key_events: ["the founding of the CCP (1921)", "the rural soviets & the Long March (1934–35)", "the founding of the PRC (1949)", "the Great Leap Forward & the Cultural Revolution"]
-key_processes: [[[chinese-communist-revolution]], the building of the People's Republic]
+key_processes: [ [[chinese-communist-revolution]], the building of the People's Republic]
 sources_ingested: 2
 last_updated: 2026-06-14
 tags: [actor, person, world-wars-era, cold-war, china, east-asia]

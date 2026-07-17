@@ -6,7 +6,7 @@ date_precision: year
 period: [Cold War]
 region: [australia]
 process_type: demographic
-driven_by: [[[commonwealth-of-australia]], [[white-australia-policy]]]
+driven_by: [ [[commonwealth-of-australia]], [[white-australia-policy]]]
 produces: []
 sources_ingested: 1
 last_updated: 2026-06-27

@@ -6,10 +6,10 @@ date_end: c. ~1650 BCE (approximate)
 date_precision: approximate
 period: [Middle Bronze Age]
 region: [anatolia, near-east]
-affiliated_with: [[[hittites|the Hittite Old Kingdom]], [[hattusha|Hattusa]] (ancestral seat at Kussara)]
+affiliated_with: [ [[hittites|the Hittite Old Kingdom]], [[hattusha|Hattusa]] (ancestral seat at Kussara)]
 opposed_by: []
 key_events: []
-key_processes: [[[indo-european-migrations]]]
+key_processes: [ [[indo-european-migrations]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, anatolia, near-east]

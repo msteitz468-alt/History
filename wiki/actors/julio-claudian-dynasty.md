@@ -8,7 +8,7 @@ region: [italy, mediterranean-world]
 affiliated_with: [the Roman imperial household (domus Caesaris); the praetorian guard; the legions]
 opposed_by: [pretenders and conspirators within the elite; rival heirs; ultimately the provincial armies of 68]
 key_events: [the accession of [[tiberius]] (14), the assassination of [[caligula]] (41), the [[claudian-conquest-of-britain-43ce|conquest of Britain]] (43), the fall of [[nero]] and the [[year-of-the-four-emperors-69ce|civil war of 68–69]]]
-key_processes: [[[principate|the consolidation of the Principate]]]
+key_processes: [ [[principate|the consolidation of the Principate]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, dynasty, late-antiquity, italy]

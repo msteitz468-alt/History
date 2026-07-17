@@ -1,13 +1,14 @@
 ---
 title: Industrialization
+aliases: [industrialization-long-19th-century]
 date_start: c. 1750 (Britain); diffusing globally to the present
 date_end: ongoing
 date_precision: approximate
 period: [Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [global, western-europe, east-asia, north-america, south-asia]
 process_type: [economic, technological, environmental, demographic]
-driven_by: [[[fossil-fuel-energy-transition]], easing of local resource constraints, mechanization, [[industrious-revolution]], capital accumulation, state and military demand]
-produces: [[[great-acceleration]], [[anthropocene]], mass urbanization, [[great-divergence]] and its later partial reversal, the modern world economy]
+driven_by: [ [[fossil-fuel-energy-transition]], easing of local resource constraints, mechanization, [[industrious-revolution]], capital accumulation, state and military demand]
+produces: [ [[great-acceleration]], [[anthropocene]], mass urbanization, [[great-divergence]] and its later partial reversal, the modern world economy]
 sources_ingested: 6
 last_updated: 2026-06-13
 tags: [process, long-19th-century, cold-war, global]

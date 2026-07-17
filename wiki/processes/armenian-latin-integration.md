@@ -7,7 +7,7 @@ period: [High Middle Ages, Late Middle Ages]
 region: [anatolia, levant, mediterranean, cyprus]
 process_type: political
 driven_by: ["Armenian need for protection against Byzantium and the Seljuks", "the arrival of the Crusades", "shared Christianity against Muslim and Greek pressure", "dynastic marriage", "commercial interest", "papal demands for church union"]
-produces: [[[cilician-armenian-kingdom|the Cilician Armenian Kingdom]], "Armeno-Frankish dynasties in Antioch, Edessa, Jerusalem, Tripoli, and Cyprus", "the adoption of Frankish feudal law in Armenia", [[armenian-church-union-question|the church-union controversy]]]
+produces: [ [[cilician-armenian-kingdom|the Cilician Armenian Kingdom]], "Armeno-Frankish dynasties in Antioch, Edessa, Jerusalem, Tripoli, and Cyprus", "the adoption of Frankish feudal law in Armenia", [[armenian-church-union-question|the church-union controversy]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, high-middle-ages, late-middle-ages, anatolia, levant]

@@ -8,7 +8,7 @@ region: [china, east-asia, central-asia, korea]
 affiliated_with: [the Li imperial house (of mixed Chinese-Xianbei descent)]
 opposed_by: [the Eastern Türks, the Tibetan Empire, the [[caliphate|Abbasid Caliphate]], Koguryŏ]
 key_events: [defeat of the Eastern Türks 630 CE, conquest of Paekche 660 and Koguryŏ 668 CE, Battle of Talas 751 CE, An Lushan rebellion 755 CE]
-key_processes: [[[empire]], [[silk-roads]], civil service examinations, [[buddhism]], [[east-asian-cultural-sphere]]]
+key_processes: [ [[empire]], [[silk-roads]], civil service examinations, [[buddhism]], [[east-asian-cultural-sphere]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, dynasty, early-middle-ages, china, east-asia]

@@ -1,14 +1,15 @@
 ---
 title: Demosthenes (Orator and Statesman)
+aliases: [demosthenes]
 actor_type: person
 date_start: 384 BCE (born, Athens)
 date_end: 322 BCE (died at Calauria, by suicide, fleeing Antipater after the Lamian War)
 period: [Classical Antiquity]
 region: [central-greece, aegean]
-affiliated_with: [[[places/athens|Athens]], the anti-Macedonian faction]
-opposed_by: [[[philip-ii-of-macedon|Philip II]], Aeschines, the pro-Macedonian faction at Athens]
+affiliated_with: [ [[places/athens|Athens]], the anti-Macedonian faction]
+opposed_by: [ [[philip-ii-of-macedon|Philip II]], Aeschines, the pro-Macedonian faction at Athens]
 key_events: [the Philippics and Olynthiacs (351-341 BCE), the Peace of Philocrates 346 BCE, organizing the anti-Macedonian coalition, [[battle-of-chaeronea-338bce|Chaeronea]] 338 BCE, the Harpalus affair, exile and recall, death 322 BCE]
-key_processes: [[[league-of-corinth|Macedonian hegemony over Greece]], Athenian anti-Macedonian resistance]
+key_processes: [ [[league-of-corinth|Macedonian hegemony over Greece]], Athenian anti-Macedonian resistance]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, central-greece, greece]

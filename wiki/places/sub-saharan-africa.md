@@ -5,8 +5,8 @@ modern_equivalent: [Africa south of the Sahara — West, Central, East, Southern
 coordinates: [continental]
 period_active: [Deep Prehistory–Contemporary]
 controlled_by: [indigenous states and societies; from the 19th c. the European colonial empires; post-1960 independent African states]
-events_here: [[[bantu-expansion]], [[trans-saharan-trade]], [[atlantic-slave-trade]], [[scramble-for-africa]], [[decolonization]]]
-processes_here: [[[bantu-expansion]], [[early-african-food-production]], [[trans-saharan-trade]], [[atlantic-slave-trade]]]
+events_here: [ [[bantu-expansion]], [[trans-saharan-trade]], [[atlantic-slave-trade]], [[scramble-for-africa]], [[decolonization]]]
+processes_here: [ [[bantu-expansion]], [[early-african-food-production]], [[trans-saharan-trade]], [[atlantic-slave-trade]]]
 sources_ingested: 3
 last_updated: 2026-06-12
 tags: [place, sub-saharan-africa, africa]
@@ -41,7 +41,7 @@ wiki adopts as a working frame (and flags as an argument, not a neutral baseline
 ## Major Developments (continent-wide arc)
 
 - **Human origins** — Africa is where hominins evolved and where anatomically modern humans arose before
-  the [[out-of-africa-migration|Out-of-Africa]] dispersals (see [[human-origins]]).
+  the [[out-of-africa-migration|Out-of-Africa]] dispersals (see human origins).
 - **Food production and iron** — independent West African domestications (sorghum, millets, African rice,
   yams), early African food production, and the spread of ironworking, carried south and east by the
   **[[bantu-expansion|Bantu expansion]]** (c. 1000 BCE onward).

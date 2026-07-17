@@ -8,7 +8,7 @@ region: [anatolia, balkans, near-east, mediterranean, mesopotamia]
 affiliated_with: [the Ottoman dynasty, Sunni Islam, (briefly) Valois France]
 opposed_by: [the Habsburgs (Charles V & Ferdinand of Austria), Safavid Iran, Venice, the Knights of St John, Portugal]
 key_events: ["the capture of Belgrade (1521) & Rhodes (1522)", "the battle of Mohács (1526)", "the siege of Vienna (1529)", "the conquest of Baghdad (1534)"]
-key_processes: [[[ottoman-empire]], the Ottoman–Habsburg wars, the Ottoman–Safavid wars]
+key_processes: [ [[ottoman-empire]], the Ottoman–Habsburg wars, the Ottoman–Safavid wars]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, near-east, balkans, mediterranean]

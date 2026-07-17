@@ -6,7 +6,7 @@ coordinates: ~34.55°N, 40.89°E
 period_active: [Early Bronze Age, Middle Bronze Age]
 controlled_by: [Mari (independent kingdom), Akkadian Empire, Third Dynasty of Ur, Shamshi-Adad I (Yasmah-Adad), Amorite dynasty (Zimri-Lim), Babylon (Hammurabi), the land of Khana]
 events_here: [sack of Mari by [[hammurabi|Hammurabi]] (~1761/1759 BCE)]
-processes_here: [[[trade-network-formation]], [[temple-economy]]]
+processes_here: [ [[trade-network-formation]], [[temple-economy]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [place, mesopotamia, levant, near-east, early-bronze-age, middle-bronze-age]

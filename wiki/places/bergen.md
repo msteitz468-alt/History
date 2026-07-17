@@ -4,8 +4,8 @@ place_type: city
 modern_equivalent: [Bergen, Norway]
 coordinates: ~60.39°N, 5.32°E
 period_active: [High Middle Ages, Late Middle Ages]
-controlled_by: [[[norway|Norway]]; Hanseatic Kontor (Bryggen)]
-processes_here: [[[scandinavian-urbanisation|Scandinavian urbanisation]]]
+controlled_by: [ [[norway|Norway]]; Hanseatic Kontor (Bryggen)]
+processes_here: [ [[scandinavian-urbanisation|Scandinavian urbanisation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, scandinavia, norway, high-middle-ages]

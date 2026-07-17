@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [peloponnese]
 location: [Messenia, Mount Ithome, Messene, Megalopolis]
-actors_primary: [[[epaminondas]], Thebes/Boeotia, the liberated Messenian helots, the Arcadian League]
-actors_secondary: [[[sparta]], [[agesilaus-ii|Agesilaus II]], Argos, Elis]
+actors_primary: [ [[epaminondas]], Thebes/Boeotia, the liberated Messenian helots, the Arcadian League]
+actors_secondary: [ [[sparta]], [[agesilaus-ii|Agesilaus II]], Argos, Elis]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
@@ -61,6 +61,23 @@ Leuctra]] and the Theban invasion led by [[epaminondas]]. produced: the **perman
 decline of Sparta** (loss of the helot/Messenian base); the independent state of
 **Messene**; **Megalopolis** and the Arcadian League; and a ring of hostile neighbours
 that confined Sparta to Laconia for good.
+
+## Historiography
+
+The liberation is a striking case of **partisan silence**: **Xenophon**, otherwise the
+principal narrative source for this period and a committed admirer of Sparta and
+Agesilaus, omits the episode from his *Hellenica* entirely — arguably the clearest single
+instance of his willingness to suppress material damaging to Sparta. The event survives
+mainly through **Diodorus Siculus** (drawing on Ephorus) and later through **Pausanias**,
+who visited Messenia centuries afterward and recorded local foundation traditions and
+monuments associated with the new city — valuable but distant testimony, coloured by
+Messenian civic memory's own interest in asserting deep continuity with the pre-conquest
+population. Modern historians have debated how far the "liberated" Messenians of 369 were
+genuinely descended from the helot population enslaved centuries earlier during the
+Archaic Messenian Wars, as opposed to a population whose identity was substantially
+reconstructed or invented for the new polity's founding mythology — a question that
+cannot be settled from the fragmentary evidence but bears on how "restorative" the
+liberation actually was.
 
 ## Related
 

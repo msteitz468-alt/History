@@ -14,15 +14,15 @@ scale_immediate: local
 scale_consequential: regional
 causes:
   - caused_by: "[[struggle-of-the-orders|Plebeian agitation over debt, land distribution, and exclusion from the consulship]]"
-  - caused_by: "[[tribunician-rogations-375-367|The 'five-year anarchy' of tribunician rogations blocking elections (375–371 BCE)]]"
-  - contributed_to: "[[post-veii-land-pressure|Post-Veii ager publicus concentration in patrician hands]]"
-  - contributed_to: "[[debt-crisis-fourth-century|Fourth-century debt crisis driving smallholder desperation]]"
+  - caused_by: "The 'five-year anarchy' of tribunician rogations blocking elections (375–371 BCE)"
+  - contributed_to: "Post-Veii ager publicus concentration in patrician hands"
+  - contributed_to: "Fourth-century debt crisis driving smallholder desperation"
 consequences:
-  - produced: "[[plebeian-access-consulship|Plebeian access to one consulship annually — the end of the patrician monopoly on chief magistracies]]"
-  - produced: "[[praetorship-creation|Creation of the praetorship (third chief magistrate, initially patrician only)]]"
-  - produced: "[[curule-aedileship-creation|Creation of the curule aedileship (patrician-plebeian alternation)]]"
-  - produced: "[[end-of-consular-tribunate|Abolition of the consular tribunate and restoration of the dual consulship]]"
-  - enabled: "[[rise-of-the-nobilitas|Rise of the joint patrician-plebeian nobilitas as the ruling class of the middle Republic]]"
+  - produced: "Plebeian access to one consulship annually — the end of the patrician monopoly on chief magistracies"
+  - produced: "Creation of the praetorship (third chief magistrate, initially patrician only)"
+  - produced: "Creation of the curule aedileship (patrician-plebeian alternation)"
+  - produced: "Abolition of the consular tribunate and restoration of the dual consulship"
+  - enabled: "Rise of the joint patrician-plebeian nobilitas as the ruling class of the middle Republic"
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, mediterranean, western-europe]

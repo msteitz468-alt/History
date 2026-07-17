@@ -8,7 +8,7 @@ region: [west-africa]
 affiliated_with: [the Fon people, the Atlantic slave trade]
 opposed_by: [the Oyo empire (overlord for much of the 18th c.), ultimately France]
 key_events: [Agaja's conquest of the coast and Whydah (1724–27), tributary status under Oyo, the conquest by France (1892–94)]
-key_processes: [[[atlantic-slave-trade]], [[state-formation]], militarized absolutism]
+key_processes: [ [[atlantic-slave-trade]], [[state-formation]], militarized absolutism]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-modern, west-africa]

@@ -8,7 +8,7 @@ region: [andes]
 affiliated_with: [the central Peruvian highlands, the Early Horizon religious sphere, the temple of Chavín de Huántar]
 opposed_by: []
 key_events: [the spread of the Chavín "horizon style", the florescence of Chavín de Huántar]
-key_processes: [[[andean-state-formation]]]
+key_processes: [ [[andean-state-formation]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, movement, archaic-period, andes]

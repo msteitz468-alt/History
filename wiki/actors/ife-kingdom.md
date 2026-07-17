@@ -1,5 +1,6 @@
 ---
 title: Kingdom of Ife (Ile-Ife)
+aliases: [ife]
 actor_type: state
 date_start: "before c. 1200 CE (bronze sculptural tradition attested archaeologically)"
 date_end: "ongoing (modern city of Ile-Ife, Osun State, Nigeria)"

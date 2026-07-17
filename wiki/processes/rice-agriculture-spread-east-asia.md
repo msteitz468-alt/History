@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Neolithic, Early Bronze Age, Early Iron Age]
 region: [china, korea, japan, east-asia]
 process_type: economic
-driven_by: [[[early-agriculture-china]], [[yellow-sea-interaction-sphere]]]
-produces: [[[mumun-culture]], [[yayoi-culture]], [[pen-insular-state-formation]]]
+driven_by: [ [[early-agriculture-china]], [[yellow-sea-interaction-sphere]]]
+produces: [ [[mumun-culture]], [[yayoi-culture]], [[pen-insular-state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, neolithic, east-asia]

@@ -5,10 +5,10 @@ date_start: c. 540
 date_end: after 602
 period: [late-antiquity]
 region: [levant, near-east, arabian-peninsula]
-affiliated_with: [[[ghassanids]]]
-opposed_by: [[[lakhmids]], [[al-numan-iii]]]
-key_events: [[[treaty-of-561]]]
-key_processes: [[[super-phylarchate]]]
+affiliated_with: [ [[ghassanids]]]
+opposed_by: [ [[lakhmids]], [[al-numan-iii]]]
+key_events: [ [[treaty-of-561]]]
+key_processes: [ [[super-phylarchate]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, near-east, arabian-peninsula]

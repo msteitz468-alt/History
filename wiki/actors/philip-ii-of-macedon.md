@@ -6,7 +6,7 @@ date_end: 336 BCE (assassinated at Aegae)
 period: [Classical Antiquity]
 region: [north-greece, balkans, aegean]
 affiliated_with: [the kingdom of Macedon, Thessaly, the Amphictyonic League, the League of Corinth]
-opposed_by: [[[athens]] (Demosthenes), Thebes, Phocis, Olynthus, the Illyrians and Thracians]
+opposed_by: [ [[athens]] (Demosthenes), Thebes, Phocis, Olynthus, the Illyrians and Thracians]
 key_events: [accession 359 BCE, the reform of the Macedonian army, the Third Sacred War, the destruction of Olynthus 348 BCE, the Peace of Philocrates 346 BCE, the [[battle-of-chaeronea-338bce|battle of Chaeronea]] 338 BCE, the [[league-of-corinth|League of Corinth]] 337 BCE]
 key_processes: [the rise of Macedon, the eclipse of the city-state, the professionalization of war]
 sources_ingested: 7

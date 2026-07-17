@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Classical Antiquity]
 region: [near-east, levant, mesopotamia, anatolia, iran-plateau, central-asia]
 process_type: [political, demographic, cultural, economic]
-driven_by: [[[seleucus-i-nicator]], [[antiochus-i-soter]], [[seleucid-empire|Seleucid military and strategic need]]]
-produces: [[[antioch]], [[ai-khanoum]], Greek cities and military colonies across the Near East]
+driven_by: [ [[seleucus-i-nicator]], [[antiochus-i-soter]], [[seleucid-empire|Seleucid military and strategic need]]]
+produces: [ [[antioch]], [[ai-khanoum]], Greek cities and military colonies across the Near East]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [process, classical-antiquity, near-east]

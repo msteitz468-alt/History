@@ -6,12 +6,12 @@ date_precision: year
 period: [Archaic Period]
 region: [north-africa, near-east]
 location: [Pelusium, Memphis, the eastern Nile Delta]
-actors_primary: [[[cambyses|Cambyses II]], [[saite-egypt|Psammetichus III]]]
-actors_secondary: [[[udjahorresne]], Greek and Carian mercenaries, the nomadic Arabs of Sinai]
+actors_primary: [ [[cambyses|Cambyses II]], [[saite-egypt|Psammetichus III]]]
+actors_secondary: [ [[udjahorresne]], Greek and Carian mercenaries, the nomadic Arabs of Sinai]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[achaemenid-empire|Achaemenid]] expansion under Cambyses, the strategic need to deny Egypt as a base for subverting [[eber-nari|Syria-Palestine]], the wealth of Egypt, the death of Amasis and accession of the inexperienced Psammetichus III]
+causes: [ [[achaemenid-empire|Achaemenid]] expansion under Cambyses, the strategic need to deny Egypt as a base for subverting [[eber-nari|Syria-Palestine]], the wealth of Egypt, the death of Amasis and accession of the inexperienced Psammetichus III]
 consequences: [the end of [[saite-egypt|Saite]] independence, the founding of [[achaemenid-egypt|Achaemenid Egypt]] (27th Dynasty), Persian control of the eastern Mediterranean approaches, a century of Egyptian revolts and a chronic Persian strategic burden]
 sources_ingested: 1
 last_updated: 2026-06-11

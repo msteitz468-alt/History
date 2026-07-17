@@ -8,7 +8,7 @@ region: [central-asia, south-asia, bactria]
 affiliated_with: ["[[kushan-empire|Kushan Empire]]", "Buddhist sangha"]
 opposed_by: ["regional Indian polities (Pataliputra/Saketa)"]
 key_events: [Kushan conquest of the Ganges Basin, the Kanishkan Era (Year 1, c. 127 CE), the Kashmir Buddhist council]
-key_processes: [[[spread-of-buddhism]], [[silk-roads]]]
+key_processes: [ [[spread-of-buddhism]], [[silk-roads]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, central-asia, south-asia]

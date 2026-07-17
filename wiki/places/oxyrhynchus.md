@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [el-Bahnasa, Minya Governorate, Egypt]
 coordinates: [28.53 N, 30.66 E]
 period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
-controlled_by: [[[ptolemaic-egypt|the Ptolemies]], [[roman-egypt|Rome]], Byzantium, the early Caliphate]
+controlled_by: [ [[ptolemaic-egypt|the Ptolemies]], [[roman-egypt|Rome]], Byzantium, the early Caliphate]
 events_here: [Grenfell & Hunt excavations 1897–1907, the publication of The Oxyrhynchus Papyri (from 1898)]
-processes_here: [[[papyrology]], urbanization, [[christianization-of-the-roman-empire]]]
+processes_here: [ [[papyrology]], urbanization, [[christianization-of-the-roman-empire]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, egypt, north-africa, classical-antiquity, late-antiquity]

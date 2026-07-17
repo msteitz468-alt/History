@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the Daoist (daojia) tradition]
 opposed_by: [the Confucians and Mohists (whose moralism and logic he satirized)]
 key_events: [the composition of the Inner Chapters of the Zhuangzi]
-key_processes: [[[daoism]], the Hundred Schools of the Warring States]
+key_processes: [ [[daoism]], the Hundred Schools of the Warring States]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, china, east-asia]

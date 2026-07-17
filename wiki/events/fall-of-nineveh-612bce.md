@@ -6,7 +6,7 @@ date_precision: year
 period: [Archaic Period]
 region: [mesopotamia, near-east]
 location: Nineveh, Ashur, and Harran (Assyrian heartland)
-actors_primary: [[[nabopolassar|Nabopolassar of Babylon]], [[medes|Cyaxares the Mede]], [[neo-assyrian-empire|Assyria (Sin-sharra-ishkun, Ashur-uballit II)]]]
+actors_primary: [ [[nabopolassar|Nabopolassar of Babylon]], [[medes|Cyaxares the Mede]], [[neo-assyrian-empire|Assyria (Sin-sharra-ishkun, Ashur-uballit II)]]]
 actors_secondary: [the [[scythians|Scythians]]/Ummanmanda, Egypt (Necho II)]
 event_type: [collapse]
 scale_immediate: civilizational

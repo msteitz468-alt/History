@@ -1,8 +1,8 @@
 ---
 title: George Lindsay
 actor_type: person
-date_start: 
-date_end: 
+date_start: 20th century
+date_end: 20th century
 period: ["World Wars Era"]
 region: ["western-europe"]
 affiliated_with: ["Machine Gun Corps (BEF)", "Grantham machine gun school"]

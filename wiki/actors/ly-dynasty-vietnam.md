@@ -5,9 +5,9 @@ date_start: 1009
 date_end: 1225
 period: [early-middle-ages, high-middle-ages]
 region: [southeast-asia]
-affiliated_with: [[[buddhism]], [[thang-long]], [[dai-viet]]]
-opposed_by: [[[song-dynasty]], [[champa]]]
-key_events: [[[ly-song-war-1075-1077]]]
+affiliated_with: [ [[buddhism]], [[thang-long]], [[dai-viet]]]
+opposed_by: [ [[song-dynasty]], [[champa]]]
+key_events: [ [[ly-song-war-1075-1077]]]
 key_processes: []
 sources_ingested: 2
 last_updated: 2026-07-08

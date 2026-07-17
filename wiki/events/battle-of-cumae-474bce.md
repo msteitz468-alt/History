@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean]
 location: [the Bay of Naples, off Cumae]
-actors_primary: [[[syracuse]], [[hiero-i|Hiero I]], the Etruscans, Cumae]
+actors_primary: [ [[syracuse]], [[hiero-i|Hiero I]], the Etruscans, Cumae]
 actors_secondary: [Campanian Greeks]
 event_type: battle
 scale_immediate: regional
@@ -53,6 +53,22 @@ caused_by: Etruscan pressure on the Campanian Greeks and Hiero's Tyrrhenian ambi
 produced: the lasting weakening of Etruscan sea-power (a hemispheric-scale shift in the
 balance of the western Mediterranean) and Syracusan supremacy in the region; revived
 panhellenic ideology in the Deinomenid court.
+
+## Historiography
+
+No continuous ancient narrative of the battle survives; it is known chiefly through
+**scattered, non-narrative evidence** — the bronze Etruscan helmet Hiero dedicated at
+Olympia (inscribed with the victory, one of the rare surviving artifacts directly
+tied to the event), Pindar's *Pythian* 1 and poems by Simonides composed for the
+Deinomenid court, and brief later notices in authors such as Diodorus Siculus, writing
+centuries afterward and dependent on now-lost Sicilian historians (probably Timaeus).
+This thinness means modern reconstruction, including the CAH account (Asheri), relies
+heavily on combining epigraphic, numismatic, and literary fragments rather than a
+single authoritative account, and leaves the battle's tactical details (fleet sizes,
+casualties) essentially unrecoverable. What is not in serious dispute is the battle's
+propaganda value to Hiero, since the dedications themselves are primary artifacts of
+his self-presentation as a defender of Hellenism against "barbarians," a framing modern
+historians treat cautiously as court ideology rather than disinterested description.
 
 ## Related
 

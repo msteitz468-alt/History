@@ -5,10 +5,10 @@ date_start: ~12,500 BCE
 date_end: ~9,500 BCE
 period: [Mesolithic, Neolithic]
 region: [levant, near-east]
-affiliated_with: [[[early-agriculture-southwest-asia]], [[sedentism]]]
+affiliated_with: [ [[early-agriculture-southwest-asia]], [[sedentism]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[early-agriculture-southwest-asia]], [[sedentism]], [[domestication]]]
+key_processes: [ [[early-agriculture-southwest-asia]], [[sedentism]], [[domestication]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, movement, mesolithic, levant, near-east]

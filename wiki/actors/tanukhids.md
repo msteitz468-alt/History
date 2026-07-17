@@ -5,10 +5,10 @@ date_start: c. 220
 date_end: c. 400
 period: [late-antiquity]
 region: [near-east, levant, arabian-peninsula, mesopotamia]
-affiliated_with: [[[roman-syria]], [[sasanian-empire]]]
-opposed_by: [[[ghassanids]]]
+affiliated_with: [ [[roman-syria]], [[sasanian-empire]]]
+opposed_by: [ [[ghassanids]]]
 key_events: []
-key_processes: [[[orientalization-of-rome]]]
+key_processes: [ [[orientalization-of-rome]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, movement, late-antiquity, near-east, arabian-peninsula]

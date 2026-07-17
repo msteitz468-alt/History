@@ -6,7 +6,7 @@ date_end: after 337 BCE (died in exile at Corinth)
 period: [Classical Antiquity]
 region: [italy, mediterranean]
 affiliated_with: [Syracuse, Locri, the mercenary armies of his father]
-opposed_by: [[[dion-of-syracuse|Dion]], [[timoleon|Timoleon]], the Syracusan exiles, Carthage]
+opposed_by: [ [[dion-of-syracuse|Dion]], [[timoleon|Timoleon]], the Syracusan exiles, Carthage]
 key_events: [accession 367 BCE, the visits of Plato, the expulsion by Dion 357 BCE, the recovery and final overthrow by Timoleon 344 BCE]
 key_processes: [the decline of the Syracusan tyranny, the Sicilian crisis of the mid-fourth century]
 sources_ingested: 1

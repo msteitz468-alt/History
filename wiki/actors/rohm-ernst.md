@@ -1,5 +1,6 @@
 ---
 title: Ernst Röhm
+aliases: [ernst-rohm]
 actor_type: person
 date_start: 1887
 date_end: 1934

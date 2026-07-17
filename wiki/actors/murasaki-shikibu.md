@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [a minor branch of the Fujiwara clan, the court of Empress Akiko (Shōshi)]
 opposed_by: []
 key_events: ["service at the court of Empress Akiko (from c. 1005)", "the writing of the Tale of Genji (c. 1001–1020)"]
-key_processes: [[[heian-court-culture]]]
+key_processes: [ [[heian-court-culture]]]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [actor, person, early-middle-ages, japan, east-asia]

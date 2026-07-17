@@ -8,7 +8,7 @@ region: [mesoamerica]
 affiliated_with: [Gulf Coast Olmec heartland (southern Veracruz–western Tabasco), elite exchange with highland and Pacific-coast societies, later Epi-Olmec centers]
 opposed_by: [unknown]
 key_events: [Initial Olmec at San Lorenzo c. 1200–900 BCE, La Venta Intermediate/Terminal florescence, Tres Zapotes Epi-Olmec, highland elite symbol adoption at Chalcatzingo]
-key_processes: [[[mesoamerican-state-formation]], [[mesoamerican-preclassic]], [[trade-network-formation]]]
+key_processes: [ [[mesoamerican-state-formation]], [[mesoamerican-preclassic]], [[trade-network-formation]]]
 sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, archaic-period, classical-antiquity, mesoamerica, gulf-coast]

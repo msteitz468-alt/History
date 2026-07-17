@@ -5,10 +5,10 @@ date_start: c. 1150 (Poitou)
 date_end: 1194 (Cyprus)
 period: [High Middle Ages]
 region: [cyprus, levant, western-europe]
-affiliated_with: [[[lusignan-dynasty]], "the Kingdom of Jerusalem", [[kingdom-of-cyprus]]]
-opposed_by: [[[saladin]], "Conrad of Montferrat", "the Ibelin-supported party of Isabella"]
-key_events: [[[battle-of-hattin-1187]], [[richard-conquest-of-cyprus-1191]]]
-key_processes: [[[crusades]]]
+affiliated_with: [ [[lusignan-dynasty]], "the Kingdom of Jerusalem", [[kingdom-of-cyprus]]]
+opposed_by: [ [[saladin]], "Conrad of Montferrat", "the Ibelin-supported party of Isabella"]
+key_events: [ [[battle-of-hattin-1187]], [[richard-conquest-of-cyprus-1191]]]
+key_processes: [ [[crusades]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, cyprus, levant]

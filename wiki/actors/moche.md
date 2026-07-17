@@ -8,7 +8,7 @@ region: [andes]
 affiliated_with: [the north coast river valleys of Peru, the broader Andean cultural sphere]
 opposed_by: [neighboring coastal polities; captives shown in the Sacrifice Ceremony]
 key_events: [florescence of north-coast Moche polities, the Sacrifice Ceremony cult, the royal tombs of Sipán (discovered 1987)]
-key_processes: [[[andean-state-formation]]]
+key_processes: [ [[andean-state-formation]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, state, classical-antiquity, andes]

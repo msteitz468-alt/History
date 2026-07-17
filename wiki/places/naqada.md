@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Naqada ( Naqāda), Qena Governorate, Egypt]
 coordinates: ~25.90 N, 32.72 E
 period_active: [Neolithic, Chalcolithic, Early Bronze Age]
-controlled_by: [[[predynastic-egypt]], [[early-dynastic-egypt]]]
-events_here: [[[unification-of-egypt-3100bce]]]
-processes_here: [[[predynastic-egypt]], [[state-formation]]]
+controlled_by: [ [[predynastic-egypt]], [[early-dynastic-egypt]]]
+events_here: [ [[unification-of-egypt-3100bce]]]
+processes_here: [ [[predynastic-egypt]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, north-africa, chalcolithic, neolithic]

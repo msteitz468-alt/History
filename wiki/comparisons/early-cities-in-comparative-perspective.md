@@ -1,5 +1,6 @@
 ---
 title: Early Cities in Comparative Perspective
+aliases: [early-cities-in-comparative-perspective.md]
 comparison_type: cross-civilizational
 periods_covered: [Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages]
 regions_covered: [transregional]

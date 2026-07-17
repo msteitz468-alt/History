@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Archaic Period]
 region: [north-africa, near-east]
 location: Thebes (No-Amon, Waset), Upper Egypt
-actors_primary: [[[ashurbanipal|Ashurbanipal]], Tantamani of [[kush-meroe|Kush]]]
+actors_primary: [ [[ashurbanipal|Ashurbanipal]], Tantamani of [[kush-meroe|Kush]]]
 actors_secondary: [Necho I and [[saite-egypt|Psammetichus I of Sais]], Taharqa]
 event_type: [war]
 scale_immediate: regional

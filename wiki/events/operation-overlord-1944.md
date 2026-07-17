@@ -1,5 +1,6 @@
 ---
 title: Operation Overlord (Normandy Campaign)
+aliases: [normandy-campaign, normandy-campaign-1944]
 date_start: "1944-06-06"
 date_end: "1944-08-30"
 date_precision: exact

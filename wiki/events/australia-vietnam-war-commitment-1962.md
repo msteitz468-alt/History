@@ -6,12 +6,12 @@ date_precision: year
 period: [Cold War]
 region: [australia, southeast-asia]
 location: [South Vietnam, Australia]
-actors_primary: [[[menzies-robert]], [[holt-harold]], [[liberal-party-australia]]]
-actors_secondary: [[[whitlam-gough]]]
+actors_primary: [ [[menzies-robert]], [[holt-harold]], [[liberal-party-australia]]]
+actors_secondary: [ [[whitlam-gough]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[australian-cold-war-politics]], "forward-defence doctrine", "ANZUS alliance commitment"]
+causes: [ [[australian-cold-war-politics]], "forward-defence doctrine", "ANZUS alliance commitment"]
 consequences: ["anti-war Moratorium movement", "conscription controversy", "abolition of conscription under [[whitlam-gough]]"]
 sources_ingested: 1
 last_updated: 2026-06-27

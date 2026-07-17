@@ -6,12 +6,12 @@ date_precision: exact
 period: [World Wars Era]
 region: [balkans, mediterranean]
 location: [Greece, Albania, Yugoslavia, Crete; with Romanian and Bulgarian diplomatic theatre]
-actors_primary: [[[nazi-germany]], [[mussolini-benito|Fascist Italy]], Greece, Yugoslavia, the United Kingdom]
+actors_primary: [ [[nazi-germany]], [[mussolini-benito|Fascist Italy]], Greece, Yugoslavia, the United Kingdom]
 actors_secondary: [Ion Antonescu's Romania, Bulgaria, Ante Pavelić's Ustashe Croatia]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[mussolini-benito|Mussolini's]] unauthorized invasion of Greece (28 October 1940), the Belgrade coup of 27 March 1941 against the Axis pact, German need to secure Romanian oil and the southern flank before [[operation-barbarossa-1941|Barbarossa]]]
+causes: [ [[mussolini-benito|Mussolini's]] unauthorized invasion of Greece (28 October 1940), the Belgrade coup of 27 March 1941 against the Axis pact, German need to secure Romanian oil and the southern flank before [[operation-barbarossa-1941|Barbarossa]]]
 consequences: [Axis conquest and partition of Yugoslavia and Greece, the [[ustasha-genocide-1941|Ustashe genocide]] in Croatia, famine and brutal occupation in Greece, delay of Barbarossa past its intended May date, the end of large German airborne operations after Crete]
 sources_ingested: 1
 last_updated: 2026-07-02

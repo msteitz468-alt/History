@@ -11,7 +11,7 @@ actors_secondary: [Griqua, missionaries, the 1820 British settlers]
 event_type: [migration]
 scale_immediate: regional
 scale_consequential: regional
-causes: [[[impact-of-atlantic-slave-trade-on-africa|Delagoa Bay slave-raiding]], Cape-frontier labour-raiding, competition for resources and drought, Zulu state expansion (traditional view)]
+causes: [ [[impact-of-atlantic-slave-trade-on-africa|Delagoa Bay slave-raiding]], Cape-frontier labour-raiding, competition for resources and drought, Zulu state expansion (traditional view)]
 consequences: [the consolidation of the Zulu, Sotho, Swazi and Ndebele states, depopulation of parts of the Highveld, a contested "empty land" narrative later used by apartheid ideology]
 sources_ingested: 3
 last_updated: 2026-06-13

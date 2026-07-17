@@ -5,10 +5,10 @@ date_start: c. 215 BCE
 date_end: 164 BCE
 period: [Classical Antiquity]
 region: [near-east, levant, anatolia, iran-plateau]
-affiliated_with: [[[seleucid-empire]]]
-opposed_by: [[[ptolemaic-egypt]], [[roman-republic|Rome]], the Maccabean Jews]
-key_events: [[[day-of-eleusis-168bce]], the Sixth Syrian War, [[maccabean-revolt-167-160bce]]]
-key_processes: [[[seleucid-empire]], [[hellenistic-monarchy]]]
+affiliated_with: [ [[seleucid-empire]]]
+opposed_by: [ [[ptolemaic-egypt]], [[roman-republic|Rome]], the Maccabean Jews]
+key_events: [ [[day-of-eleusis-168bce]], the Sixth Syrian War, [[maccabean-revolt-167-160bce]]]
+key_processes: [ [[seleucid-empire]], [[hellenistic-monarchy]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, near-east]

@@ -6,7 +6,7 @@ date_precision: year
 period: [High Middle Ages]
 region: [eastern-europe, central-asia]
 location: [Poland, Hungary, the Balkans]
-actors_primary: [[[mongol-empire|the Mongol empire]] (Batu, Sübedei), Béla IV of Hungary, Henry II of Silesia]
+actors_primary: [ [[mongol-empire|the Mongol empire]] (Batu, Sübedei), Béla IV of Hungary, Henry II of Silesia]
 actors_secondary: [the [[central-european-kingdoms|Přemyslids, Piasts and Árpáds]], [[frederick-ii-hohenstaufen|Frederick II]], the papacy]
 event_type: [war, migration]
 scale_immediate: regional

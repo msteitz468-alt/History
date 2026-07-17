@@ -7,7 +7,7 @@ dating_method: documentary
 period: [Late Antiquity]
 region: [horn-of-africa, arabian-peninsula]
 location: [Himyar / South Arabia (modern Yemen)]
-actors_primary: [[[ezana-of-aksum|King Kaleb of Aksum]]]
+actors_primary: [ [[ezana-of-aksum|King Kaleb of Aksum]]]
 actors_secondary: [Dhu Nuwas (Yusuf As'ar Yath'ar), Sumyafa Ashwa, Abraha, Justin I (Byzantine emperor), Justinian I]
 event_type: war
 scale_immediate: regional

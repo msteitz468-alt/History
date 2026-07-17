@@ -6,8 +6,8 @@ date_precision: century
 period: [Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages]
 region: [mesopotamia, near-east, north-africa, mesoamerica, andes, china, south-asia, southeast-asia, west-africa, mediterranean]
 process_type: demographic
-driven_by: [[[agriculture-and-urbanism]], [[domestication]], surplus and storage, defense and warfare, ritual and pilgrimage, trade and exchange, state formation]
-produces: [[[city-state]], [[ruralization]], social stratification, [[writing-and-record-keeping]], the state, [[heterarchy|new forms of power]]]
+driven_by: [ [[agriculture-and-urbanism]], [[domestication]], surplus and storage, defense and warfare, ritual and pilgrimage, trade and exchange, state formation]
+produces: [ [[city-state]], [[ruralization]], social stratification, [[writing-and-record-keeping]], the state, [[heterarchy|new forms of power]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [process, chalcolithic, early-bronze-age, mesopotamia]
@@ -30,7 +30,7 @@ This process succeeds and depends on [[agriculture-and-urbanism|the agricultural
 foundation]] established in [[barker-cwh-v2-2015|CWH Vol. II]]: cities require a
 farmed surplus and the storage and redistribution institutions to mobilize it.
 
-[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] give a citable working
+Fagan & Durrani (2020) give a citable working
 definition of "city": a population-threshold rule of thumb of **≥5,000**
 inhabitants (though small ancient cities held only 2,000–3,000, and the largest,
 e.g. Rome or Chang'an, exceeded a million), combined with economic and
@@ -56,8 +56,8 @@ Wright) with recurring contributors:
 
 1. **First cities (~3500–3000 BCE)** — southern Mesopotamia; [[places/uruk|Uruk]]
    reaches tens of thousands by ~3200 BCE in an "explosive" trajectory. Northern
-   Mesopotamian cities are equally early. [[fagan-world-prehistory-2020|Fagan &
-   Durrani (2020)]] describe Uruk, "the world's first city," growing to roughly
+   Mesopotamian cities are equally early. Fagan &
+   Durrani (2020) describe Uruk, "the world's first city," growing to roughly
    **250 hectares** in the 4th millennium BC with satellite villages extending
    10 km out, its ziggurat-temple complex serving as a combined
    religious/storage/administrative/governmental center, and an elaborate

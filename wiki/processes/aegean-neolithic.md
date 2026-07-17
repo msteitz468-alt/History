@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Mesolithic, Neolithic, Chalcolithic]
 region: [mediterranean, balkans]
 process_type: demographic
-driven_by: [[[early-agriculture-southwest-asia|Near Eastern farming]], [[migration-in-human-history|maritime colonization]]]
+driven_by: [ [[early-agriculture-southwest-asia|Near Eastern farming]], [[migration-in-human-history|maritime colonization]]]
 produces: [Helladic and Minoan Bronze Age civilizations, [[urbanization]]]
 sources_ingested: 1
 last_updated: 2026-06-11

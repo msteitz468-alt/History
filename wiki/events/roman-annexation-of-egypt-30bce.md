@@ -6,13 +6,13 @@ date_precision: year
 period: [Late Antiquity]
 region: [north-africa, mediterranean]
 location: [Alexandria, Egypt]
-actors_primary: [[[augustus]], [[cleopatra-vii]]]
-actors_secondary: [[[ptolemaic-egypt]], "Mark Antony"]
+actors_primary: [ [[augustus]], [[cleopatra-vii]]]
+actors_secondary: [ [[ptolemaic-egypt]], "Mark Antony"]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[battle-of-actium-31bce|the defeat at Actium]], "the fall of the Ptolemaic dynasty"]
-consequences: [[[roman-egypt|Egypt as a Roman province]], "Rome's grain supply secured", "the end of pharaonic political independence"]
+causes: [ [[battle-of-actium-31bce|the defeat at Actium]], "the fall of the Ptolemaic dynasty"]
+consequences: [ [[roman-egypt|Egypt as a Roman province]], "Rome's grain supply secured", "the end of pharaonic political independence"]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [event, late-antiquity, north-africa, transition]

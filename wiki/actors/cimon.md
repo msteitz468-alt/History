@@ -5,8 +5,8 @@ date_start: c. 510 BCE (birth)
 date_end: 450 BCE (death at the siege of Citium, Cyprus)
 period: [Classical Antiquity]
 region: [aegean, central-greece]
-affiliated_with: [[[athens]], [[delian-league|the Delian League]], the pro-Spartan aristocracy, the [[alcmaeonids|Alcmaeonid]] connection by marriage]
-opposed_by: [[[themistocles]], [[ephialtes]], [[pericles]]]
+affiliated_with: [ [[athens]], [[delian-league|the Delian League]], the pro-Spartan aristocracy, the [[alcmaeonids|Alcmaeonid]] connection by marriage]
+opposed_by: [ [[themistocles]], [[ephialtes]], [[pericles]]]
 key_events: [the capture of Eion and Scyros, the battle of the Eurymedon, the Thasian war 465–463 BCE, the rebuff at Ithome and his ostracism 461 BCE, recall and death at Citium 450 BCE]
 key_processes: [the expansion of [[delian-league|the Delian League]], Athenian–Spartan cooperation]
 sources_ingested: 2

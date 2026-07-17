@@ -2,7 +2,7 @@
 title: Deep Prehistory
 period_number: 1
 preceded_by: []
-followed_by: [[[early-prehistory|Early Prehistory]]]
+followed_by: [ [[early-prehistory|Early Prehistory]]]
 date_range: "before 3.3 million BP"
 regions_covered: [africa, global]
 major_themes: ["hominin evolution", "bipedalism", "australopithecines", "pre-stone-tool hominins"]

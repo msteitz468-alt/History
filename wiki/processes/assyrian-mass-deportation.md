@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Archaic Period]
 region: [mesopotamia, near-east, levant]
 process_type: [political, demographic]
-driven_by: [[[neo-assyrian-empire|Assyrian imperial control]], the need for labour and for breaking rebellious populations]
+driven_by: [ [[neo-assyrian-empire|Assyrian imperial control]], the need for labour and for breaking rebellious populations]
 produces: [the demographic remaking of the Near East, the "ten lost tribes," the model for the [[neo-babylonian-empire|Babylonian Exile]]]
 sources_ingested: 1
 last_updated: 2026-06-11

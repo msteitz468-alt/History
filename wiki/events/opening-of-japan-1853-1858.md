@@ -8,7 +8,7 @@ period: [Long 19th Century]
 region: [japan, east-asia]
 location: [Uraga & Edo Bay, Shimoda, Kanagawa/Yokohama, Nagasaki, Hakodate]
 actors_primary: [Commodore Matthew Perry & the United States, Townsend Harris (US consul), the Tokugawa bakufu (Abe Masahiro, Hotta Masayoshi, Ii Naosuke), the Western powers (Britain, Russia, France, the Netherlands)]
-actors_secondary: [[[tokugawa-ieyasu|the Tokugawa shogunate]], Tokugawa Nariaki of Mito, the sonnō jōi loyalists, the western tozama domains]
+actors_secondary: [ [[tokugawa-ieyasu|the Tokugawa shogunate]], Tokugawa Nariaki of Mito, the sonnō jōi loyalists, the western tozama domains]
 event_type: [treaty, political, economic]
 scale_immediate: regional
 scale_consequential: global

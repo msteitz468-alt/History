@@ -5,7 +5,7 @@ date_start: c. 390 BCE (born)
 date_end: 338 BCE (died; poisoned by the eunuch Bagoas, per the hostile tradition)
 period: [Classical Antiquity]
 region: [iran-plateau, mesopotamia, anatolia, levant, north-africa]
-affiliated_with: [[[achaemenid-empire|Achaemenid Persia]], the eunuch Bagoas, the mercenary commander Mentor of Rhodes]
+affiliated_with: [ [[achaemenid-empire|Achaemenid Persia]], the eunuch Bagoas, the mercenary commander Mentor of Rhodes]
 opposed_by: [the pharaoh Nectanebo II, the rebel satrap Artabazus, the revolt of Sidon, the kings of Cyprus]
 key_events: [accession 359/358 BCE, the failed Egyptian campaign 351 BCE, the suppression of the Phoenician revolt c. 346 BCE, the reconquest of Egypt 343–342 BCE]
 key_processes: [the re-consolidation of the empire on the eve of the [[alexander-the-great|Macedonian conquest]]]

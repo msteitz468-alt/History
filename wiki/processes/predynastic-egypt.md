@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Neolithic, Chalcolithic, Early Bronze Age]
 region: [north-africa]
 process_type: cultural
-driven_by: [[[postglacial-environment-near-east|Nile environment]], [[early-agriculture-southwest-asia|farming]]]
-produces: [[[early-dynastic-egypt]], [[memphis|Memphis]], [[urbanization]], [[state-formation]]]
+driven_by: [ [[postglacial-environment-near-east|Nile environment]], [[early-agriculture-southwest-asia|farming]]]
+produces: [ [[early-dynastic-egypt]], [[memphis|Memphis]], [[urbanization]], [[state-formation]]]
 sources_ingested: 5
 last_updated: 2026-06-27
 tags: [process, neolithic, chalcolithic, north-africa]

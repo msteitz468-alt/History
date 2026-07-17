@@ -48,6 +48,10 @@ d'Estaing sailed for the Caribbean.
 - `enabled:` the lesson, finally applied at **[[siege-of-yorktown-1781|Yorktown]]**, of what coordinated
   land–sea operations required; and it deepened [[clinton-henry|Clinton]]'s fear of exactly such a trap.
 
+## Historiography
+
+Documented through French and American official reports and British garrison accounts, the siege is a central case study in the historiography of Franco-American military cooperation's early failures, contrasted explicitly (as in this entry) with the coordination eventually achieved at Yorktown. Historians debate how much responsibility for the failed frontal assault belongs to d'Estaing's own impatience (driven by real hurricane-season and supply pressures on his fleet) versus Lincoln's deference to French command prerogatives in a coalition where the junior partner had to defer to naval and troop-numbers realities. The battle also receives attention in the historiography of Black military participation, since a Haitian volunteer contingent (the Chasseurs-Volontaires) fought here, a detail sometimes underexplored relative to the battle's broader place in Revolutionary War narratives.
+
 ## Related
 
 - `part_of:` [[american-revolution]], the British southern strategy · `followed_by:` [[siege-of-charleston-1780]]

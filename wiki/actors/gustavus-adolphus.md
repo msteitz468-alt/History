@@ -7,8 +7,8 @@ period: [Early Modern]
 region: [scandinavia, northern-europe, western-europe]
 affiliated_with: []
 opposed_by: []
-key_events: [[[thirty-years-war-1618]]]
-key_processes: [[[military-revolution]]]
+key_events: [ [[thirty-years-war-1618]]]
+key_processes: [ [[military-revolution]]]
 sources_ingested: 1
 last_updated: 2026-06-23
 tags: [actor, person, early-modern, scandinavia]

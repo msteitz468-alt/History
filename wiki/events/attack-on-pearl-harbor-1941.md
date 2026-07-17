@@ -1,5 +1,6 @@
 ---
 title: Attack on Pearl Harbor
+aliases: [pearl-harbor-1941]
 date_start: "1941-12-07"
 date_end: "1941-12-07"
 date_precision: exact

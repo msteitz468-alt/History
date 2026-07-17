@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [Legalist statecraft]
 opposed_by: [the six rival Warring States (conquered), the [[xiongnu]], rebel armies]
 key_events: [unification of China 221 BCE, building of the Great Wall, conquest of the south 214 BCE]
-key_processes: [[[state-formation]], [[empire]], Legalism, [[silk-roads]]]
+key_processes: [ [[state-formation]], [[empire]], Legalism, [[silk-roads]]]
 sources_ingested: 4
 last_updated: 2026-06-10
 tags: [actor, dynasty, classical-antiquity, china, east-asia]

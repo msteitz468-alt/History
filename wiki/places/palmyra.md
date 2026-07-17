@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Tadmur, Syria]
 coordinates: [34.55 N, 38.27 E]
 period_active: [Late Antiquity, Classical Antiquity]
-controlled_by: [[[roman-empire]], [[zenobia]]]
+controlled_by: [ [[roman-empire]], [[zenobia]]]
 events_here: []
-processes_here: [[[roman-imperial-trade]], [[crisis-of-the-third-century]], [[silk-roads]]]
+processes_here: [ [[roman-imperial-trade]], [[crisis-of-the-third-century]], [[silk-roads]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, near-east, levant, late-antiquity]

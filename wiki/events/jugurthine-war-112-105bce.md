@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [north-africa, mediterranean-world]
 location: [Numidia and the province of Africa]
-actors_primary: [[[roman-republic]], [[jugurtha]], [[marius]], Metellus Numidicus]
+actors_primary: [ [[roman-republic]], [[jugurtha]], [[marius]], Metellus Numidicus]
 actors_secondary: [Bocchus of Mauretania, [[sulla|Sulla]], the Roman businessmen of Cirta]
 event_type: war
 scale_immediate: regional

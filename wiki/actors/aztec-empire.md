@@ -5,10 +5,10 @@ date_start: 1428 CE (formation of the Triple Alliance)
 date_end: 1521 CE (Spanish conquest)
 period: [Late Middle Ages]
 region: [mesoamerica]
-affiliated_with: [[[tenochtitlan|Tenochtitlan]], "the Mexica", "the Triple Alliance (Tenochtitlan, Texcoco, Tlacopan)"]
+affiliated_with: [ [[tenochtitlan|Tenochtitlan]], "the Mexica", "the Triple Alliance (Tenochtitlan, Texcoco, Tlacopan)"]
 opposed_by: ["the Tarascan/Purépecha Empire", "Tlaxcala", "conquered Mesoamerican city-states", "the Spanish"]
 key_events: ["[[triple-alliance-formation-1428|formation of the Triple Alliance (1428)]]", "imperial expansion under Moctezuma I and Ahuitzotl", "the Spanish conquest (1519–1521)"]
-key_processes: [[[mesoamerican-state-formation]], [[state-formation]], [[empire]]]
+key_processes: [ [[mesoamerican-state-formation]], [[state-formation]], [[empire]]]
 sources_ingested: 8
 last_updated: 2026-07-08
 tags: [actor, empire, late-middle-ages, mesoamerica]

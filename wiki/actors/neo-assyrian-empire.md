@@ -5,10 +5,10 @@ date_start: 934 BCE (Ashur-dan II; Grayson's "birth of the Neo-Assyrian Empire")
 date_end: 609 BCE (fall of Harran; Nineveh sacked 612 BCE)
 period: [Early Iron Age, Archaic Period]
 region: [mesopotamia, near-east, levant, anatolia, north-africa]
-affiliated_with: [[[ashur|Ashur]], the cult of Ashur]
-opposed_by: [[[neo-babylonian-empire|Babylonia/Chaldeans]], the Medes, [[urartu|Urartu]], Elam, Egypt, Cimmerians, the [[arameans|Aramaeans]], [[hazael|Damascus]]]
-key_events: [[[bronze-age-collapse-1200bce|recovery from the Bronze Age collapse]], [[battle-of-qarqar-853bce|Qarqar 853]], [[fall-of-samaria-722bce|fall of Samaria 722]], conquest of Egypt, [[sack-of-thebes-663bce|sack of Thebes 663]], sack of Susa, [[fall-of-nineveh-612bce|fall of Nineveh 612]]]
-key_processes: [[[empire]], [[state-formation]], [[assyrian-mass-deportation|mass deportation]]]
+affiliated_with: [ [[ashur|Ashur]], the cult of Ashur]
+opposed_by: [ [[neo-babylonian-empire|Babylonia/Chaldeans]], the Medes, [[urartu|Urartu]], Elam, Egypt, Cimmerians, the [[arameans|Aramaeans]], [[hazael|Damascus]]]
+key_events: [ [[bronze-age-collapse-1200bce|recovery from the Bronze Age collapse]], [[battle-of-qarqar-853bce|Qarqar 853]], [[fall-of-samaria-722bce|fall of Samaria 722]], conquest of Egypt, [[sack-of-thebes-663bce|sack of Thebes 663]], sack of Susa, [[fall-of-nineveh-612bce|fall of Nineveh 612]]]
+key_processes: [ [[empire]], [[state-formation]], [[assyrian-mass-deportation|mass deportation]]]
 sources_ingested: 6
 last_updated: 2026-07-08
 tags: [actor, empire, early-iron-age, archaic-period, mesopotamia]

@@ -6,7 +6,7 @@ date_end: c. 2110 BCE (defeated by Utu-hegal of Uruk)
 period: [early-bronze-age]
 region: [mesopotamia, iran-plateau]
 affiliated_with: []
-opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]]]
+opposed_by: [ [[akkadian-empire]], [[third-dynasty-of-ur]]]
 key_events: []
 key_processes: []
 sources_ingested: 1

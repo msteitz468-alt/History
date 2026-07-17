@@ -1,8 +1,8 @@
 ---
 title: Late Antiquity
 period_number: 15
-preceded_by: [[[classical-antiquity|Classical Antiquity]]]
-followed_by: [[[early-middle-ages|Early Middle Ages]]]
+preceded_by: [ [[classical-antiquity|Classical Antiquity]]]
+followed_by: [ [[early-middle-ages|Early Middle Ages]]]
 date_range: "31 BCE–600 CE"
 regions_covered: [mediterranean, western-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, north-africa, east-africa, central-asia, south-asia, china, steppe, indian-ocean]
 major_themes: ["the Roman Empire at its height and its transformation", "the Parthian and Sasanian empires", "the spread of universalizing religions (Christianity, Buddhism, Manichaeism)", "the Kushan Empire and the Silk Roads", "the Gupta 'golden age'", "the Han collapse and China's Age of Disunity", "steppe migrations and the 'fall' of the Western Empire", "the rise of Byzantium"]
@@ -44,7 +44,7 @@ Byzantine economy]].
 
 **The spread of universalizing religions.** The period's signature process: Christianization of the Roman West, the spread of Buddhism to East Asia, and the expansion of Zoroastrianism and Manichaeism. The Plague of Cyprian (c. 249 CE) and the collapse of traditional civic cults acted as a catalyst for the rapid spread of Christianity, as the church organized public charity to care for the sick and bury the dead (Harper 2017, line 1928). **[[roman-egypt|Egypt]]** was a key engine of this transformation: it gave Christianity the institution of [[egyptian-monasticism|monasticism]] (under [[antony-of-egypt|Antony]] and [[pachomius|Pachomios]]), the doctrinal leadership of [[athanasius-of-alexandria|Athanasius]], and — after the [[council-of-chalcedon-451|Council of Chalcedon]] — the non-Chalcedonian [[coptic-church|Coptic Church]]; its conversion is etched in the [[destruction-of-the-serapeum-391|destruction of the Serapeum (391)]] and the documentary record of the [[papyrology|papyri]].
 
-**The Han collapse and China's Age of Disunity.** The [[han-dynasty|Later Han]] disintegrated (220 CE) into the Three Kingdoms and nearly four centuries of division, repeated nomadic conquest of the north, and the deep penetration of [[buddhism|Buddhism]] into Chinese society — until the [[sui-dynasty|Sui]] (581) reunified the realm. See [[east-asia-classical]].
+**The Han collapse and China's Age of Disunity.** The [[han-dynasty|Later Han]] disintegrated (220 CE) into the Three Kingdoms and nearly four centuries of division, repeated nomadic conquest of the north, and the deep penetration of [[buddhism|Buddhism]] into Chinese society — until the [[sui-dynasty|Sui]] (581) reunified the realm. See east asia classical.
 
 **The Gupta "golden age."** The [[gupta-empire|Gupta Empire]] (c. 320–550 CE) reunified northern India from [[pataliputra|Pataliputra]], presiding over a classical efflorescence in mathematics (decimal place-value, zero), astronomy, literature (Kalidasa), and Hindu temple religion — before fragmenting under Hephthalite ([[white-huns]]) pressure.
 

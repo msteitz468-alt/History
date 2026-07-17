@@ -8,7 +8,7 @@ region: [china, east-asia, korea]
 affiliated_with: [the Sui imperial house (of mixed Chinese-Xianbei descent)]
 opposed_by: [Koguryŏ, internal rebels]
 key_events: [reunification of China 589 CE, invasions of Koguryŏ from 612 CE, building of the Grand Canal]
-key_processes: [[[state-formation]], [[empire]], reunification]
+key_processes: [ [[state-formation]], [[empire]], reunification]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [actor, dynasty, early-middle-ages, china, east-asia]

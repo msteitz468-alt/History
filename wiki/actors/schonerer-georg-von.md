@@ -6,9 +6,9 @@ date_end: 1921
 period: [Long 19th Century]
 region: [western-europe]
 affiliated_with: [Pan-German Association (Austria)]
-opposed_by: [[[habsburg-empire]]]
+opposed_by: [ [[habsburg-empire]]]
 key_events: []
-key_processes: [[[german-antisemitism]], [[german-nationalism-formation]]]
+key_processes: [ [[german-antisemitism]], [[german-nationalism-formation]]]
 sources_ingested: [evans-coming-of-third-reich-2003]
 last_updated: 2026-07-02
 tags: [actor, person, long-19th-century, western-europe]

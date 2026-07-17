@@ -24,4 +24,7 @@ The 240-mile walk from Sabarmati Ashram to the Gujarat coast at Dandi, culminati
 
 Guha's *Gandhi: The Years That Changed the World* reconstructs the planning, the composition of the 78 companions, the daily discipline, the international media coverage, and the subsequent wave of salt-making, forest-law violations, and no-tax campaigns across India. The March established Gandhi as a global figure and the British as an increasingly embarrassed empire.
 
+## Historiography
+Guha's *Gandhi: The Years That Changed the World* (2018), the source for this page, draws on Gandhi's own writings, Congress records, and extensive contemporary international press coverage — the march was deliberately staged for a global media audience, making journalistic accounts as historiographically significant as official records. Historians generally agree on the march's tactical brilliance as a symbol but debate its concrete political effectiveness relative to its propaganda value: the salt tax itself was a minor fiscal matter, and some scholars argue the campaign's main achievement was reputational and international rather than a direct blow to British administrative capacity in India.
+
 **Related**: [[mahatma-gandhi]] · [[indian-national-congress]] · [[processes/indian-independence-movement]] · [[sources/guha-gandhi-the-years-that-changed-the-world-2018]] · [[places/sabarmati-ashram]]

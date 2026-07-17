@@ -6,8 +6,8 @@ date_precision: century
 period: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 region: [silk-road, indian-ocean, mediterranean, central-asia, china, near-east, west-africa, western-europe, east-africa]
 process_type: economic
-driven_by: [[[silk-roads]], "the Indian Ocean trade boom", "the commercial revolution in Europe", "the Pax Mongolica", "the spread of Islam as a commercial ecumene", "monetization and credit innovation"]
-produces: [[[afro-eurasian-world-system]], "a first globalization of trade", "the conditions for the Black Death's spread", "proto-globalization (Olstein)"]
+driven_by: [ [[silk-roads]], "the Indian Ocean trade boom", "the commercial revolution in Europe", "the Pax Mongolica", "the spread of Islam as a commercial ecumene", "monetization and credit innovation"]
+produces: [ [[afro-eurasian-world-system]], "a first globalization of trade", "the conditions for the Black Death's spread", "proto-globalization (Olstein)"]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [process, high-middle-ages, late-middle-ages, silk-road, indian-ocean]

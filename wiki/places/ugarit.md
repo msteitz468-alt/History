@@ -6,7 +6,7 @@ coordinates: ~35.60°N, 35.78°E
 period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [independent kingdom (Amorite/Canaanite), in the orbit of [[mitanni|Mitanni]] then a vassal of the [[hittites|Hittites]]]
 events_here: [the 14th–13th c. archive-city zenith; the submission of Niqmaddu II to Šuppiluliuma I; destruction in the ~1200 BCE Sea Peoples horizon]
-processes_here: [[[trade-network-formation]], [[canaanite-civilization]], [[ugaritic-religion]]]
+processes_here: [ [[trade-network-formation]], [[canaanite-civilization]], [[ugaritic-religion]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [place, levant, near-east, late-bronze-age]

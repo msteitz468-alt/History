@@ -5,10 +5,10 @@ date_start: 280 BCE
 date_end: 146 BCE
 period: [Classical Antiquity]
 region: [peloponnese, mediterranean]
-affiliated_with: [[[aratus-of-sicyon]], [[ptolemaic-egypt]] (early), [[antigonid-dynasty]] (after 224)]
-opposed_by: [[[antigonid-dynasty]] (to 224), [[aetolian-league]], [[sparta]], [[rome|Rome]] (146)]
-key_events: [[[chremonidean-war-267]], the liberation of Sicyon (251), the seizure of the Acrocorinth (243), [[cleomenean-war-229]]]
-key_processes: [[[greek-federalism]], [[hellenistic-world]]]
+affiliated_with: [ [[aratus-of-sicyon]], [[ptolemaic-egypt]] (early), [[antigonid-dynasty]] (after 224)]
+opposed_by: [ [[antigonid-dynasty]] (to 224), [[aetolian-league]], [[sparta]], [[rome|Rome]] (146)]
+key_events: [ [[chremonidean-war-267]], the liberation of Sicyon (251), the seizure of the Acrocorinth (243), [[cleomenean-war-229]]]
+key_processes: [ [[greek-federalism]], [[hellenistic-world]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, peloponnese]

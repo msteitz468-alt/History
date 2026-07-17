@@ -5,10 +5,10 @@ date_start: c. 910 CE
 date_end: c. 985/986 CE
 period: [Early Middle Ages]
 region: [denmark, scandinavia]
-affiliated_with: [[[denmark|Denmark]], the Jelling dynasty]
+affiliated_with: [ [[denmark|Denmark]], the Jelling dynasty]
 opposed_by: [the German Empire; his son [[sweyn-forkbeard|Sweyn Forkbeard]] in revolt]
 key_events: []
-key_processes: [[[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+key_processes: [ [[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, denmark]

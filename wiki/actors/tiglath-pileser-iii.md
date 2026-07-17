@@ -5,10 +5,10 @@ date_start: r. 744 BCE
 date_end: 727 BCE
 period: [Archaic Period]
 region: [mesopotamia, near-east, levant, anatolia]
-affiliated_with: [[[neo-assyrian-empire|Assyria]], the cult of Ashur]
-opposed_by: [[[urartu|Urartu]], Aram-Damascus, [[kingdom-of-israel|Israel]], the Chaldaeans, the Medes]
+affiliated_with: [ [[neo-assyrian-empire|Assyria]], the cult of Ashur]
+opposed_by: [ [[urartu|Urartu]], Aram-Damascus, [[kingdom-of-israel|Israel]], the Chaldaeans, the Medes]
 key_events: [the seizure of the throne (745), the war with [[urartu|Urartu]], the conquest of Damascus (732), the assumption of the Babylonian crown (729)]
-key_processes: [[[empire]], [[assyrian-mass-deportation|mass deportation]], provincial administration]
+key_processes: [ [[empire]], [[assyrian-mass-deportation|mass deportation]], provincial administration]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, mesopotamia, near-east]

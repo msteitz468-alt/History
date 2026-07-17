@@ -23,3 +23,7 @@ tags: [event, late-middle-ages, western-europe]
 The Coronation of Charles VII took place at Reims Cathedral on 17 July 1429. It was the political and ideological culmination of Joan of Arc's mission, establishing Charles VII as the legitimate, anointed king of France in direct opposition to the English claims.
 
 *(To be filled by subagents)*
+
+## Historiography
+
+Contemporary narrative sources include the *Journal du siège d'Orléans*, chronicles by Jean Chartier (official chronicler of the Valois court) and Perceval de Cagny (favorable to the house of Alençon), and — retrospectively — the extensive witness testimony compiled for Joan of Arc's 1455–56 nullification trial, which recounts her insistence on Reims as the only legitimate coronation site. Because most surviving detailed narrative comes from sources with a stake in vindicating either Charles VII's legitimacy or Joan's mission, the coronation's political stage-management (the deliberate symbolic choice of Reims over a more militarily convenient site) is well attested, but the internal motivations of the royal council are harder to recover independently. The event's significance as a direct rebuttal to the Anglo-Burgundian claim under the Treaty of Troyes is not seriously disputed, though historians differ on how much practical (versus purely symbolic) advantage it delivered to the Valois cause in 1429 itself.

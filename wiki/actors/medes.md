@@ -6,9 +6,9 @@ date_end: 550 BCE (Astyages overthrown by Cyrus the Persian)
 period: [Archaic Period]
 region: [iran-plateau, near-east, eurasian-steppe]
 affiliated_with: [Iranian-speaking peoples of the Zagros, at times the Scythians, [[nabopolassar|Nabopolassar of Babylon]]]
-opposed_by: [[[neo-assyrian-empire|Assyria]], [[urartu|Urartu]], later [[achaemenid-empire|Persia]]]
+opposed_by: [ [[neo-assyrian-empire|Assyria]], [[urartu|Urartu]], later [[achaemenid-empire|Persia]]]
 key_events: [the sack of Ashur (614), the [[fall-of-nineveh-612bce|fall of Nineveh (612)]], the destruction of [[urartu|Urartu]], the overthrow of Astyages by Cyrus (550)]
-key_processes: [[[state-formation]], steppe-and-mountain confederation, [[empire]]]
+key_processes: [ [[state-formation]], steppe-and-mountain confederation, [[empire]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, state, archaic-period, iran-plateau, near-east]

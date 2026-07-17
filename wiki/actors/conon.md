@@ -5,8 +5,8 @@ date_start: c. 444 BCE (born at Athens)
 date_end: c. 389 BCE (died in Cyprus)
 period: [Classical Antiquity]
 region: [aegean, anatolia]
-affiliated_with: [[[athens]], [[achaemenid-empire|Persia]], Pharnabazus, Evagoras of Salamis]
-opposed_by: [[[sparta]], [[lysander]], Antalcidas]
+affiliated_with: [ [[athens]], [[achaemenid-empire|Persia]], Pharnabazus, Evagoras of Salamis]
+opposed_by: [ [[sparta]], [[lysander]], Antalcidas]
 key_events: [escape from Aegospotami 405 BCE, the naval victory at Cnidus 394 BCE, the rebuilding of the Athenian Long Walls 393 BCE]
 key_processes: [the revival of Athenian naval power, Persian–Athenian collaboration]
 sources_ingested: 1

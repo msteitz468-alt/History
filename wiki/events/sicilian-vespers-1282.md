@@ -11,7 +11,7 @@ actors_secondary: [Pope Martin IV, Giovanni da Procida, Constance of Hohenstaufe
 event_type: [revolution, war]
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[charles-of-anjou|Angevin overgovernment and heavy taxation]], reliance on non-Sicilian officials, the Angevin–Aragonese rivalry, Hohenstaufen loyalism]
+causes: [ [[charles-of-anjou|Angevin overgovernment and heavy taxation]], reliance on non-Sicilian officials, the Angevin–Aragonese rivalry, Hohenstaufen loyalism]
 consequences: [the splitting of the kingdom into Angevin Naples and Aragonese Sicily, the wrecking of Charles of Anjou's Mediterranean empire, the long Angevin–Aragonese war, the Peace of Caltabellotta (1302)]
 sources_ingested: 1
 last_updated: 2026-06-12

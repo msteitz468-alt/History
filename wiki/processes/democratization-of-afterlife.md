@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Early Bronze Age, Middle Bronze Age]
 region: [north-africa]
 process_type: religious
-driven_by: [[[first-intermediate-period]], [[divine-kingship]]]
-produces: [[[pyramid-texts]], "Coffin Texts", "Book of the Dead"]
+driven_by: [ [[first-intermediate-period]], [[divine-kingship]]]
+produces: [ [[pyramid-texts]], "Coffin Texts", "Book of the Dead"]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, early-bronze-age, middle-bronze-age, north-africa]

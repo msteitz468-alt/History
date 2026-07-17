@@ -23,4 +23,15 @@ tags: [event, cold-war, north-america, jobs-steve, technology]
 
 In May–September 1985, Steve Jobs was stripped of operating control and resigned from Apple after a boardroom power struggle with CEO John Sculley. The board sided with Sculley; Jobs felt betrayed especially by Arthur Rock. The event marked the end of Jobs’s first Apple chapter and the beginning of his “wilderness” years.
 
+## Historiography
+
+Isaacson's authorized biography, drawing on interviews with Jobs,
+Sculley, and board members decades after the fact, is the main secondary account and
+notes that Jobs's own retrospective bitterness colors his version of events. Sculley has
+given his own public accounts (including a memoir) that differ somewhat in emphasis,
+generally portraying the board's decision as a reluctant response to Jobs's management
+problems rather than a personal betrayal. Because most participant testimony was given
+long after 1985, some sequencing and motive details rest on retrospective memory rather
+than contemporary documentation.
+
 **Related**: [[actors/jobs-steve]] · [[actors/sculley-john]] · [[actors/apple-inc]] · [[sources/isaacson-steve-jobs-2011]]

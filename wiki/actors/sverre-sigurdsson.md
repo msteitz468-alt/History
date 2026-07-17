@@ -5,10 +5,10 @@ date_start: c. 1145/51 CE
 date_end: 1202 CE
 period: [High Middle Ages]
 region: [norway, scandinavia]
-affiliated_with: [[[norway|Norway]]; the Birkibeinar]
+affiliated_with: [ [[norway|Norway]]; the Birkibeinar]
 opposed_by: [the Magnus Erlingsson faction; the Church (excommunication); the Baglar]
 key_events: []
-key_processes: [[[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+key_processes: [ [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, high-middle-ages, norway]

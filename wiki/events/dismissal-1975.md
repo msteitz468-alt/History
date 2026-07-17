@@ -6,12 +6,12 @@ date_precision: exact
 period: [Cold War]
 region: [australia]
 location: [Canberra, Australia]
-actors_primary: [[[whitlam-gough]], [[liberal-party-australia]]]
+actors_primary: [ [[whitlam-gough]], [[liberal-party-australia]]]
 actors_secondary: []
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[whitlam-reforms]], "loans affair", "Senate deferral of supply bills"]
+causes: [ [[whitlam-reforms]], "loans affair", "Senate deferral of supply bills"]
 consequences: ["Fraser caretaker government and landslide election win", "lasting controversy over the Crown's reserve powers", [[australian-republic-referendum-1999]]]
 sources_ingested: 1
 last_updated: 2026-06-27

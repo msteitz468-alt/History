@@ -6,7 +6,7 @@ date_precision: exact
 period: [Early Middle Ages]
 region: [western-europe]
 location: [the Lechfeld, near Augsburg, Bavaria]
-actors_primary: [[[otto-i|Otto I]], the Magyars (Hungarians)]
+actors_primary: [ [[otto-i|Otto I]], the Magyars (Hungarians)]
 actors_secondary: [Conrad the Red, Bishop Ulrich of Augsburg, Duke Burchard of Swabia, Bohemian contingents]
 event_type: battle
 scale_immediate: regional

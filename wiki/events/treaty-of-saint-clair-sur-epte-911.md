@@ -6,7 +6,7 @@ date_precision: year
 period: [Early Middle Ages]
 region: [western-europe]
 location: [Saint-Clair-sur-Epte, on the Epte, west Francia]
-actors_primary: [[[capetian-dynasty|Charles the Simple]], Rollo (Hrólfr)]
+actors_primary: [ [[capetian-dynasty|Charles the Simple]], Rollo (Hrólfr)]
 actors_secondary: [the Robertines, the Viking settlers of the lower Seine]
 event_type: treaty
 scale_immediate: regional

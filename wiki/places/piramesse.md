@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Qantir / Tell el-Dabʿa, Egypt]
 coordinates: ~30.80 N, 31.83 E
 period_active: [Late Bronze Age]
-controlled_by: [[[new-kingdom-egypt]]]
+controlled_by: [ [[new-kingdom-egypt]]]
 events_here: []
-processes_here: [[[egyptian-imperialism]]]
+processes_here: [ [[egyptian-imperialism]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, north-africa, late-bronze-age]

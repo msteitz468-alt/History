@@ -43,6 +43,10 @@ of Mongol generalship.
 - `produced:` destruction of the **Jin** — clearing northern China for Mongol–Song confrontation.
 - `analogous_to:` other nerge-isolation sieges in May's account.
 
+## Historiography
+
+The main sources are the *Jin Shi* (History of Jin) and *Yuan Shi* (History of Yuan), both official dynastic histories compiled by later Yuan-era historians long after the events they describe, with the Jin dynasty's own perspective necessarily filtered through its conquerors' historiography since no independent Jin court record of the final siege survives. Song dynastic records add a further, self-interested perspective given Song forces' direct participation in the final assault and their subsequent, short-lived alliance with the Mongols. Numbers and precise sequence of the siege (timing of the flooding, exact circumstances of Ai-Tsung's abdication and death) vary between the compiled accounts, and modern reconstruction relies heavily on synthesizing these dynastic histories against the broader pattern of Mongol siege practice documented in more detail elsewhere (May's synthesis).
+
 ## Related
 
 - **Siege analysis:** [[hubs/warfare/high-middle-ages/mongol-conquests/siege-of-caizhou-1234]]

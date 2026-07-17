@@ -8,7 +8,7 @@ region: [north-africa, egypt]
 affiliated_with: [Fatimid Caliphate, Ismaili da'wa]
 opposed_by: []
 key_events: [founding of Mansuriyya, fatimid-conquest-of-egypt-969]
-key_processes: [[[ismaili-movement]], [[dawa]]]
+key_processes: [ [[ismaili-movement]], [[dawa]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, north-africa, islamic-world]

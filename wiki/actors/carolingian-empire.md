@@ -7,8 +7,8 @@ period: [Early Middle Ages]
 region: [western-europe, northern-europe, balkans]
 affiliated_with: [the Frankish kingdom, the Papacy, the Latin Church]
 opposed_by: [Saxons, Lombards, Avars, Umayyad Spain, later Vikings and Magyars]
-key_events: [[[pippinid-coup-751]], [[coronation-of-charlemagne-800]], [[battle-of-fontenoy-841]], [[treaty-of-verdun-843]], the Carolingian Renaissance]
-key_processes: [[[empire]], [[christianity|Latin Christianization]], manorialism, the Carolingian Renaissance]
+key_events: [ [[pippinid-coup-751]], [[coronation-of-charlemagne-800]], [[battle-of-fontenoy-841]], [[treaty-of-verdun-843]], the Carolingian Renaissance]
+key_processes: [ [[empire]], [[christianity|Latin Christianization]], manorialism, the Carolingian Renaissance]
 sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, empire, early-middle-ages, western-europe]

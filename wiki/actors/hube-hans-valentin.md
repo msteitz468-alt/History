@@ -1,5 +1,6 @@
 ---
 title: "Hans-Valentin Hube"
+aliases: [hube-hans]
 actor_type: person
 date_start: 1890
 date_end: 1944

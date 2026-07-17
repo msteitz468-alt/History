@@ -8,7 +8,7 @@ region: [north-africa, levant]
 affiliated_with: [the [[new-kingdom-egypt|Nineteenth Dynasty]]]
 opposed_by: [the Libyans and their "Peoples of the Sea" allies, rebel Palestinian states]
 key_events: [the repulse of the Libyan/Sea-Peoples invasion of Year 5, the Palestinian campaign of the Israel Stela]
-key_processes: [[[imperialism]]]
+key_processes: [ [[imperialism]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, late-bronze-age, north-africa]

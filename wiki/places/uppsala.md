@@ -4,8 +4,8 @@ place_type: city
 modern_equivalent: [Uppsala / Gamla Uppsala, Sweden]
 coordinates: ~59.86°N, 17.64°E
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
-controlled_by: [[[sweden|Sweden]]]
-processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]]]
+controlled_by: [ [[sweden|Sweden]]]
+processes_here: [ [[christianization-of-scandinavia|Christianization of Scandinavia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, scandinavia, sweden, early-middle-ages]

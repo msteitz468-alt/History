@@ -1,5 +1,6 @@
 ---
 title: "Vo Nguyen Giap"
+aliases: [vo-nguyen-giap]
 actor_type: "person"
 date_start: "1911"
 date_end: "2013"

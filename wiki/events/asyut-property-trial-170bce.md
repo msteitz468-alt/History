@@ -12,7 +12,7 @@ event_type: other
 scale_immediate: local
 scale_consequential: regional
 causes: [a contested inheritance and endowment deed within one Egyptian family, [[legal-pluralism|the Ptolemaic dual legal system]], the survival of written Egyptian (demotic) law]
-consequences: [[[legal-pluralism]], a uniquely detailed record of the laokritai courts in action]
+consequences: [ [[legal-pluralism]], a uniquely detailed record of the laokritai courts in action]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [event, classical-antiquity, egypt]

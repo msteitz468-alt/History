@@ -1,5 +1,6 @@
 ---
 title: Athanasius of Alexandria
+aliases: [athanasius]
 actor_type: person
 date_start: c. 296 CE
 date_end: 373 CE
@@ -7,8 +8,8 @@ period: [Late Antiquity]
 region: [egypt, north-africa, mediterranean-world]
 affiliated_with: [alexandria, coptic-church, christianity, antony-of-egypt]
 opposed_by: [Arianism, the Meletian schism, imperial pressure]
-key_events: [[[council-of-nicaea-325]]]
-key_processes: [[[christianization-of-the-roman-empire]], [[egyptian-monasticism]]]
+key_events: [ [[council-of-nicaea-325]]]
+key_processes: [ [[christianization-of-the-roman-empire]], [[egyptian-monasticism]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, egypt, north-africa, mediterranean-world]

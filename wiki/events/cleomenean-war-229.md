@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [peloponnese, balkans]
 location: [Arcadia, the Argolid, Corinth, Sellasia]
-actors_primary: [[[cleomenes-iii]], [[achaean-league]], [[aratus-of-sicyon]], [[antigonus-iii-doson]]]
-actors_secondary: [[[sparta]], [[ptolemaic-egypt|Ptolemy III]], [[aetolian-league]]]
+actors_primary: [ [[cleomenes-iii]], [[achaean-league]], [[aratus-of-sicyon]], [[antigonus-iii-doson]]]
+actors_secondary: [ [[sparta]], [[ptolemaic-egypt|Ptolemy III]], [[aetolian-league]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional

@@ -5,10 +5,10 @@ date_start: 1738
 date_end: 1814
 period: [Age of Expansion]
 region: [australia, british-isles]
-affiliated_with: [[[british-empire]], [[new-south-wales-colony]]]
+affiliated_with: [ [[british-empire]], [[new-south-wales-colony]]]
 opposed_by: []
-key_events: [[[first-fleet-1788]], founding of Sydney, departure from NSW 1792]
-key_processes: [[[convict-transportation-australia]], [[settler-colonialism]]]
+key_events: [ [[first-fleet-1788]], founding of Sydney, departure from NSW 1792]
+key_processes: [ [[convict-transportation-australia]], [[settler-colonialism]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, australia, british-isles, age-of-expansion]

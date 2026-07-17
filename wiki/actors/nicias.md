@@ -69,7 +69,7 @@ Thucydides focuses on Nicias' private motives. The peace restored some security 
 - Rivals/collaborators: [[alcibiades]], [[cleon]], [[brasidas]], [[pericles]]
 - Places: [[athens]], [[sparta]], [[places/plataea|Plataea]]
 - Events/Processes: Peace of Nicias, false peace period, alliance with Argos
-- Hubs: [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/strategy]]
+- Hubs: hubs/warfare/classical-antiquity/, [[hubs/warfare/strategy]]
 - Source grounding: [[actors/kagan-donald|Kagan, *The Peloponnesian War* (range 13001-17000; 17001-21000)]] · [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower Ch.6; Murray Ch.9)
 
 ## Sicilian Expedition Command (Kagan range 17001-21000)

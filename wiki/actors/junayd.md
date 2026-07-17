@@ -5,10 +5,10 @@ date_start: c. 830 (born, Baghdad)
 date_end: 910 (died, Baghdad)
 period: [Early Middle Ages]
 region: [mesopotamia]
-affiliated_with: [[[sufism|Sufism]], the "sober" (ṣaḥw) school]
+affiliated_with: [ [[sufism|Sufism]], the "sober" (ṣaḥw) school]
 opposed_by: [the "intoxicated" (sukr) tendency of al-Bisṭāmī and al-Ḥallāj]
 key_events: [the formulation of "sober" Sufism; the doctrine of mīthāq (the primordial covenant)]
-key_processes: [[[sufism]], [[early-sufism]], [[fana-and-baqa]]]
+key_processes: [ [[sufism]], [[early-sufism]], [[fana-and-baqa]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, near-east, islamic-world]

@@ -6,7 +6,7 @@ coordinates: [56.8N, 4.2W]
 period_active: [all periods]
 controlled_by: [the Picts, Dál Riata, the kingdom of Alba / the Scots, the kingdom of Scotland, the United Kingdom]
 events_here: [[battle-of-brunanburh-937]], [[battle-of-clontarf-1014]] (Scottish participants)]
-processes_here: [[[scandinavian-settlement-of-britain]], the making of Alba]
+processes_here: [ [[scandinavian-settlement-of-britain]], the making of Alba]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, british-isles, northern-europe]

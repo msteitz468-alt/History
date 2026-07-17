@@ -5,10 +5,10 @@ date_start: ~3300 BCE
 date_end: ~2300 BCE
 period: [Neolithic, Chalcolithic]
 region: [china, east-asia]
-affiliated_with: [[[longshan-culture]], [[dawenkou-culture]]]
+affiliated_with: [ [[longshan-culture]], [[dawenkou-culture]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[early-china-state-formation]], [[settlement-archaeology]]]
+key_processes: [ [[early-china-state-formation]], [[settlement-archaeology]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, movement, neolithic, chalcolithic, china, east-asia]

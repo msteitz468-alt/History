@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [mediterranean, north-africa]
 location: [Sicily, Sardinia, North Africa (Tunisia)]
-actors_primary: [[[roman-republic|The Roman Republic]], [[carthage|Carthage]]]
-actors_secondary: [[[hiero-ii-of-syracuse|Hiero II of Syracuse]], Hamilcar Barca, C. Duillius, M. Atilius Regulus, C. Lutatius Catulus, Xanthippus of Sparta]
+actors_primary: [ [[roman-republic|The Roman Republic]], [[carthage|Carthage]]]
+actors_secondary: [ [[hiero-ii-of-syracuse|Hiero II of Syracuse]], Hamilcar Barca, C. Duillius, M. Atilius Regulus, C. Lutatius Catulus, Xanthippus of Sparta]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: hemispheric

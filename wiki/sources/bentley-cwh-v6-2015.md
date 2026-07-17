@@ -1,5 +1,6 @@
 ---
 title: "The Cambridge World History, Volume VI: The Construction of a Global World, 1400–1800 CE (Book 2: Patterns of Change)"
+aliases: [bentley-cwh-v6]
 author: Jerry H. Bentley, Sanjay Subrahmanyam & Merry E. Wiesner-Hanks (eds.)
 year: 2015
 source_type: reference

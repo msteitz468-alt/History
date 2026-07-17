@@ -6,7 +6,7 @@ date_precision: exact
 period: [Early Middle Ages]
 region: [mediterranean, western-europe]
 location: [St Peter's Basilica, Rome]
-actors_primary: [[[otto-i|Otto I]], Pope John XII]
+actors_primary: [ [[otto-i|Otto I]], Pope John XII]
 actors_secondary: [Adelaide of Burgundy, Berengar II of Italy]
 event_type: political
 scale_immediate: regional

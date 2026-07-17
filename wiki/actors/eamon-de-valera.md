@@ -7,8 +7,8 @@ period: [World Wars Era, Cold War]
 region: [british-isles]
 affiliated_with: [Sinn Féin, Fianna Fáil, the [[irish-free-state]], the [[republic-of-ireland]]]
 opposed_by: [pro-Treaty forces, [[michael-collins]], the British government, [[ulster-unionism|Ulster unionists]]]
-key_events: [[[easter-rising-1916]], the Anglo-Irish Treaty split, [[irish-civil-war-1922]], founding of Fianna Fáil 1926, the 1937 Constitution, Irish neutrality in [[second-world-war-1939|WWII]]]
-key_processes: [[[irish-nationalism]], Irish state-building]
+key_events: [ [[easter-rising-1916]], the Anglo-Irish Treaty split, [[irish-civil-war-1922]], founding of Fianna Fáil 1926, the 1937 Constitution, Irish neutrality in [[second-world-war-1939|WWII]]]
+key_processes: [ [[irish-nationalism]], Irish state-building]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, world-wars-era, cold-war, british-isles]

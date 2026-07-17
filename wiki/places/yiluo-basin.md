@@ -4,9 +4,9 @@ place_type: region
 modern_equivalent: [Luoyang region, western Henan (China) — Gongyi, Yanshi, Luoyang, Mengjin, Xin'an]
 coordinates: ~34.7°N 112.7°E
 period_active: [Neolithic, Chalcolithic, Early Bronze Age, and later]
-controlled_by: [[[longshan-culture]], [[erlitou-culture]]]
+controlled_by: [ [[longshan-culture]], [[erlitou-culture]]]
 events_here: [unknown]
-processes_here: [[[early-china-state-formation]]]
+processes_here: [ [[early-china-state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [place, china, east-asia, neolithic, chalcolithic, early-bronze-age]

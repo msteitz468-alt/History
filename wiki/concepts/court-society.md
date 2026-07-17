@@ -44,7 +44,7 @@ Burgundy and Renaissance Italy to Versailles, the Habsburg courts, and beyond.
 - **Patronage and faction**: the court was the marketplace of offices, pensions, and marriages, run
   through patron–client networks and factional struggle.
 - **Display and legitimation**: art, architecture, music, ballet, and ceremonial (the
-  [[baroque|Baroque]] aesthetic of magnificence) projected the ruler's glory and sacrality.
+  Baroque aesthetic of magnificence) projected the ruler's glory and sacrality.
 - **Culture**: courts were the great engines of artistic and intellectual **patronage** (from
   Renaissance Italy to the *Kapellmeister* and court academies).
 

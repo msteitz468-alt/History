@@ -23,4 +23,15 @@ tags: [event, cold-war, north-america, jobs-steve, technology]
 
 On 24 January 1984, Steve Jobs unveiled the Macintosh at Apple’s shareholders meeting in the Flint Auditorium at De Anza College. The launch featured the iconic “1984” commercial (directed by Ridley Scott) and a dramatic self-introducing demo. The Mac brought the graphical user interface, mouse, and desktop metaphor to a mass audience.
 
+## Historiography
+
+Isaacson's biography and numerous participant memoirs (including
+those of original Mac team members published in subsequent decades) document the launch;
+accounts are generally consistent on the sequence of events, though Jobs's degree of
+personal design credit versus that of the wider engineering team (Raskin, Hertzfeld,
+Atkinson, and others) has been a recurring point of dispute in participant recollections,
+with some team members pushing back on Jobs-centered narratives popularized after his
+death. The influence of Xerox PARC is well documented but its precise transmission
+(the 1979 Apple visit) has been retold with varying emphasis across sources.
+
 **Related**: [[actors/jobs-steve]] · [[actors/apple-inc]] · [[actors/sculley-john]] · [[sources/isaacson-steve-jobs-2011]]

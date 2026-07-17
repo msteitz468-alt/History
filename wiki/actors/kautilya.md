@@ -5,10 +5,10 @@ date_start: c. 350 BCE (birth, traditional and approximate)
 date_end: c. 283 BCE (death, traditional and approximate)
 period: [Classical Antiquity]
 region: [south-asia]
-affiliated_with: [[[chandragupta-maurya]], [[mauryan-empire]], Magadha, the brahmin order]
+affiliated_with: [ [[chandragupta-maurya]], [[mauryan-empire]], Magadha, the brahmin order]
 opposed_by: [the Nanda dynasty]
 key_events: [overthrow of the Nandas c. 321 BCE, the founding of the Mauryan Empire, the composition of the Arthashastra]
-key_processes: [[[state-formation]], [[empire]]]
+key_processes: [ [[state-formation]], [[empire]]]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [actor, person, classical-antiquity, south-asia]

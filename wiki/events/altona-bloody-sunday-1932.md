@@ -6,12 +6,12 @@ date_precision: exact
 period: [World Wars Era]
 region: [western-europe]
 location: [Altona, Prussia (adjacent to Hamburg)]
-actors_primary: [[[sturmabteilung-sa]], KPD/Red Front-Fighters' League, Prussian police]
-actors_secondary: [[[papen-franz-von]]]
+actors_primary: [ [[sturmabteilung-sa]], KPD/Red Front-Fighters' League, Prussian police]
+actors_secondary: [ [[papen-franz-von]]]
 event_type: political
 scale_immediate: local
 scale_consequential: civilizational
-causes: [[[reichstag-election-july-1932]] campaign violence, lifting of the SA ban June 1932]
+causes: [ [[reichstag-election-july-1932]] campaign violence, lifting of the SA ban June 1932]
 consequences: [Preussenschlag — [[papen-franz-von]] deposition of the SPD Prussian government 20 July 1932, [[weimar-democracy-and-its-collapse]]]
 sources_ingested: [evans-coming-of-third-reich-2003]
 last_updated: 2026-07-02

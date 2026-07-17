@@ -5,10 +5,10 @@ date_start: "c. 1035 (born, Châtillon-sur-Marne)"
 date_end: 1099 (died, Rome)
 period: [High Middle Ages]
 region: [mediterranean, western-europe]
-affiliated_with: [[[papacy]], [[gregorian-reform]], [[cluny]]]
-opposed_by: [[[henry-iv-holy-roman-emperor|Henry IV]], "the antipope Clement III (Wibert of Ravenna)"]
-key_events: [[[first-crusade-1095|the First Crusade]], "the Council of Clermont (1095)", "the Council of Piacenza (1095)"]
-key_processes: [[[gregorian-reform]], [[crusades]], [[papal-monarchy]]]
+affiliated_with: [ [[papacy]], [[gregorian-reform]], [[cluny]]]
+opposed_by: [ [[henry-iv-holy-roman-emperor|Henry IV]], "the antipope Clement III (Wibert of Ravenna)"]
+key_events: [ [[first-crusade-1095|the First Crusade]], "the Council of Clermont (1095)", "the Council of Piacenza (1095)"]
+key_processes: [ [[gregorian-reform]], [[crusades]], [[papal-monarchy]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, mediterranean, western-europe]

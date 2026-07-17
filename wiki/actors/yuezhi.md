@@ -8,7 +8,7 @@ region: [china, central-asia, eurasian-steppe, bactria]
 affiliated_with: ["[[zhou-dynasty]] (trade)", "Kangju", "Greco-[[bactria|Bactrians]] (subjects)"]
 opposed_by: ["[[xiongnu]]", "[[modu-chanyu|Modu]]", "the Wusun", "the Saka"]
 key_events: [Xiongnu defeat of the Yuezhi c. 166 BCE, the thirty-year migration, conquest of Bactria c. 130 BCE, rejection of Zhang Qian's alliance c. 128 BCE]
-key_processes: [[[pastoral-nomadism]], [[silk-roads]], [[trade-network-formation]]]
+key_processes: [ [[pastoral-nomadism]], [[silk-roads]], [[trade-network-formation]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, movement, classical-antiquity, central-asia, eurasian-steppe]

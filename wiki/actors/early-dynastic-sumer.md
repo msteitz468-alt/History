@@ -7,8 +7,8 @@ period: [Early Bronze Age]
 region: [mesopotamia]
 affiliated_with: []
 opposed_by: [Elam, [[akkadian-empire|Akkad (later conqueror)]]]
-key_events: [[[lagash-umma-border-war]], Lugalzaggisi's conquest]
-key_processes: [[[urbanization]], [[state-formation]], [[writing-and-record-keeping]], [[temple-economy]]]
+key_events: [ [[lagash-umma-border-war]], Lugalzaggisi's conquest]
+key_processes: [ [[urbanization]], [[state-formation]], [[writing-and-record-keeping]], [[temple-economy]]]
 sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, state, early-bronze-age, mesopotamia]
@@ -77,8 +77,8 @@ the king-list omits entirely). Landmarks:
   [[hierarchy-vs-heterarchy-early-cities|"primitive democracy" debate]]). In the Standard Version (ll. 771–4000) Gilgamesh as "shepherd of Uruk-the-Sheepfold" (ll. 784, 1091) tyrannizes the people, prompting divine creation of Enkidu (ll. 1141–1161); he addresses the assembly of elders ("Hear me, O elders of Uruk-the-City!", ll. 2052–2066) and young men to announce the Cedar Forest expedition despite warnings, then instructs regents during his absence (ll. 2447–2453). These episodes from the Standard Version **concurrent_with** the legendary traditions of Early Dynastic Uruk. The Sumerian poem "Gilgamesh and Akka" details assemblies debating submission to Kish; Gilgamesh follows the young men. This **preceded_by** (in Sumerian tradition) the Huwawa/Cedar Forest expedition. These poems **part_of** the legendary corpus for Early Dynastic Uruk. Additional from range apparatus (ll. 10001–12899): the five Sumerian poems listed with editions (Akka, Huwawa A/B, Bull of Heaven, Netherworld, Death of Gilgamesh; ll. 12732–80); "HUWAWA An old form of the name Humbaba" (glossary, ll. 12545). OB fragments detail Uruk's sevenfold gates, elders' counsel against Huwawa ("You are young, Gilgamesh, borne along by emotion...", ll. 10518–36), and the assembly setting.
 - **The First Dynasty of Ur** (Mesannepada) — where the king-list's reign-lengths
   first shrink to human scale and agree with contemporary inscriptions; the era of
-  the [[ur|Royal Tombs of Ur]]. [[fagan-world-prehistory-2020|Fagan & Durrani
-  (2020)]] flag a **[CONTRADICTION]/historiographical revision** to Leonard
+  the [[ur|Royal Tombs of Ur]]. Fagan & Durrani
+  (2020) flag a **[CONTRADICTION]/historiographical revision** to Leonard
   Woolley's original excavation account of the royal cemetery's mass retainer
   burials (one tomb held 59 attendants): Woolley assumed the retainers took
   poison voluntarily, but "more recent research suggests they were killed with
@@ -87,8 +87,8 @@ the king-list omits entirely). Landmarks:
   the long [[lagash-umma-border-war|border war with Umma]].
 - **Lugalzaggisi of Umma/Uruk** — briefly unified "the land" from the Lower to the
   Upper Sea, then fell to [[sargon-of-akkad|Sargon]] — the
-  [[akkadian-empire|transition to empire]]. [[fagan-world-prehistory-2020|Fagan &
-  Durrani (2020)]] note that Lugalzagesi's claim (ca. 2400 BC) to rule from the
+  [[akkadian-empire|transition to empire]]. Fagan &
+  Durrani (2020) note that Lugalzagesi's claim (ca. 2400 BC) to rule from the
   Persian Gulf to the Mediterranean was "probably false" — an overstatement of
   what was likely only intermittent Sumerian control of trade routes rather than
   territorial rule across that span.

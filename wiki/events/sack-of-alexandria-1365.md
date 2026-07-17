@@ -7,7 +7,7 @@ dating_method: other
 period: [Late Middle Ages]
 region: [near-east, mediterranean, cyprus]
 location: [Alexandria, Egypt]
-actors_primary: [[[peter-i-of-cyprus]], [[kingdom-of-cyprus]]]
+actors_primary: [ [[peter-i-of-cyprus]], [[kingdom-of-cyprus]]]
 actors_secondary: ["the Hospitallers of Rhodes", "western crusade volunteers", [[mamluk-sultanate]], "Philip of Mézières", "Peter Thomas"]
 event_type: battle
 scale_immediate: regional

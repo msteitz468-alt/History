@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean-world, balkans, north-africa, iberia, egypt]
 location: [Italy, Spain, Greece (Pharsalus), Egypt, Africa (Thapsus), Spain (Munda)]
-actors_primary: [[[julius-caesar]], [[pompey]], the Pompeian/Republican coalition; the Senate]
+actors_primary: [ [[julius-caesar]], [[pompey]], the Pompeian/Republican coalition; the Senate]
 actors_secondary: [Cato, Metellus Scipio, Labienus, Antony, Cleopatra; Juba of Numidia]
 event_type: war
 scale_immediate: civilizational

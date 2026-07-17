@@ -6,8 +6,8 @@ date_end: 1852
 period: [Long 19th Century]
 region: [western-europe, iberia, british-isles]
 affiliated_with: []
-opposed_by: [[[napoleon]]]
-key_events: [[[napoleonic-wars]]]
+opposed_by: [ [[napoleon]]]
+key_events: [ [[napoleonic-wars]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

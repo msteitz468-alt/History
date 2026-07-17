@@ -6,7 +6,7 @@ date_precision: exact
 period: [High Middle Ages]
 region: [mediterranean]
 location: [the shoals of Meloria, off Porto Pisano (Pisa)]
-actors_primary: [[[republic-of-genoa|Genoa]], Pisa]
+actors_primary: [ [[republic-of-genoa|Genoa]], Pisa]
 actors_secondary: [the admirals Oberto Doria and Benedetto Zaccaria (Genoa)]
 event_type: [battle]
 scale_immediate: regional
@@ -50,6 +50,10 @@ general was killed and one *podestà* captured.
 The internal fallout was severe: a brief Guelf *signoria* under **Ugolino della Gherardesca**
 gave way to a coup, and Ugolino was starved to death in a tower — an episode immortalised in
 Dante's *Commedia*.
+
+## Historiography
+
+The battle is recorded chiefly through Genoese continuations of Caffaro's *Annales Ianuenses*, an official civic chronicle tradition that naturally frames the outcome as vindication of Genoese naval supremacy; independent Pisan narrative sources are comparatively scarce, partly because Pisa's political and demographic collapse after the battle disrupted its own chronicle-writing tradition. Casualty and prisoner numbers — including the famous claim that thousands of Pisan captives died in Genoese captivity over years — vary between sources and are difficult to verify independently. The link to Marco Polo's *Travels*, dictated to the Pisan prisoner Rustichello during a later, separate captivity (from Curzola, 1298), is well attested but is sometimes conflated in popular accounts with the Meloria captivity itself. Modern treatments (NCMH V, Pryor) generally accept the broad outline of Genoese victory and Pisan strategic ruin while treating specific tactical and numerical claims from the medieval chronicles with caution.
 
 ## Related
 

@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Tell el-Amarna, Minya Governorate, Middle Egypt]
 coordinates: ~27.6° N, 30.9° E
 period_active: [Late Bronze Age]
-controlled_by: [[[new-kingdom-egypt|Eighteenth Dynasty Egypt]] under [[akhenaten|Akhenaten]]]
+controlled_by: [ [[new-kingdom-egypt|Eighteenth Dynasty Egypt]] under [[akhenaten|Akhenaten]]]
 events_here: [the founding and demarcation of the city (~1348 BCE), the deposit of the [[amarna-letters|Amarna letters]], the abandonment under [[tutankhamun|Tutankhamun]]]
-processes_here: [[[atenism]]]
+processes_here: [ [[atenism]]]
 sources_ingested: 2
 last_updated: 2026-06-26
 tags: [place, north-africa, late-bronze-age]

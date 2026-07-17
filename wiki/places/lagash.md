@@ -5,8 +5,8 @@ modern_equivalent: Tello (Girsu) and al-Hiba, southern Iraq
 coordinates: ~31.4°N, 46.4°E
 period_active: [Early Bronze Age]
 controlled_by: [Lagash dynasty (Ur-Nanshe line), Akkadian Empire, Lagash II (Gudea), Third Dynasty of Ur]
-events_here: [[[lagash-umma-border-war]]]
-processes_here: [[[temple-economy]], [[state-formation]]]
+events_here: [ [[lagash-umma-border-war]]]
+processes_here: [ [[temple-economy]], [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, mesopotamia, near-east, early-bronze-age]

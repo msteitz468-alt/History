@@ -5,7 +5,7 @@ date_start: ~1831 BCE (accession)
 date_end: ~1786 BCE
 period: [Middle Bronze Age]
 region: [north-africa]
-affiliated_with: [[[middle-kingdom-egypt]]]
+affiliated_with: [ [[middle-kingdom-egypt]]]
 opposed_by: []
 key_events: []
 key_processes: []

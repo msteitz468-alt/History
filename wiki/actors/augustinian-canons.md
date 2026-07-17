@@ -8,7 +8,7 @@ region: [western-europe, mediterranean]
 affiliated_with: ["Rule of St Augustine", [[medieval-monastic-revival]], "cathedral and parish ministry"]
 opposed_by: []
 key_events: ["diffusion of the shortened Rule of St Augustine (c. 1118 text)", "English expansion (300+ priories; e.g. St Bartholomew’s Smithfield)", "Merton Priory (1114) — educational setting of the young Thomas Becket"]
-key_processes: [[[medieval-monastic-revival]]]
+key_processes: [ [[medieval-monastic-revival]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, organization, high-middle-ages, western-europe, canons-regular]

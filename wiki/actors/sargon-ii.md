@@ -5,10 +5,10 @@ date_start: r. 721 BCE
 date_end: 705 BCE (killed in battle)
 period: [Archaic Period]
 region: [mesopotamia, near-east, levant, anatolia]
-affiliated_with: [[[neo-assyrian-empire|Assyria]], the cult of Ashur]
-opposed_by: [[[urartu|Urartu]], [[phrygians|Phrygia (Midas)]], [[neo-babylonian-empire|Merodach-baladan]], Hamath, Ashdod, Elam]
+affiliated_with: [ [[neo-assyrian-empire|Assyria]], the cult of Ashur]
+opposed_by: [ [[urartu|Urartu]], [[phrygians|Phrygia (Midas)]], [[neo-babylonian-empire|Merodach-baladan]], Hamath, Ashdod, Elam]
 key_events: [the usurpation (721), the [[fall-of-samaria-722bce|deportation of Samaria]], the battle of Qarqar (720), the annexation of Carchemish (717), the eighth campaign against [[urartu|Urartu]] (714), the founding of Dur-Sharrukin, death in battle (705)]
-key_processes: [[[empire]], [[assyrian-mass-deportation|mass deportation]]]
+key_processes: [ [[empire]], [[assyrian-mass-deportation|mass deportation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, mesopotamia, near-east]

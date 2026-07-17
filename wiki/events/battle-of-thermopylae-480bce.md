@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece]
 location: [the pass of Thermopylae (Malis) and the straits off Cape Artemisium (north Euboea)]
-actors_primary: [[[xerxes-i|Xerxes I]] and the Persian host, the Greek League under Leonidas (land) and Eurybiades (sea)]
+actors_primary: [ [[xerxes-i|Xerxes I]] and the Persian host, the Greek League under Leonidas (land) and Eurybiades (sea)]
 actors_secondary: [the 300 Spartiates, Thespians and Thebans, Themistocles, the traitor Ephialtes, the Phocian guards]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[xerxes-i|Xerxes']] invasion of Greece, the Greek League's decision to hold the Thermopylae–Artemisium line, the strategic interdependence of the land and sea positions]
+causes: [ [[xerxes-i|Xerxes']] invasion of Greece, the Greek League's decision to hold the Thermopylae–Artemisium line, the strategic interdependence of the land and sea positions]
 consequences: [the death of Leonidas and the forcing of the pass, the Persian advance into central Greece and the sack of Athens, the naval experience that prepared the Greeks for Salamis, the iconic example of disciplined sacrifice]
 sources_ingested: 3
 last_updated: 2026-07-08

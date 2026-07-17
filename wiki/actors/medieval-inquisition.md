@@ -5,10 +5,10 @@ date_start: "c. 1233 (Gregory IX delegates inquisition to the friars)"
 date_end: "persists into the early modern era; thirteenth-century phase to c. 1325"
 period: [High Middle Ages, Late Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[papacy]], [[dominican-order]], [[mendicant-orders]]]
-opposed_by: [[[catharism|Cathars]], consular town governments, Raymond VII of Toulouse, [[frederick-ii-hohenstaufen]]]
-key_events: [[[albigensian-crusade-1209]], Fourth Lateran Council 1215, the bull Ad extirpanda 1252, the fall of Montségur 1244]
-key_processes: [[[medieval-anti-judaism]], the suppression of [[catharism]]]
+affiliated_with: [ [[papacy]], [[dominican-order]], [[mendicant-orders]]]
+opposed_by: [ [[catharism|Cathars]], consular town governments, Raymond VII of Toulouse, [[frederick-ii-hohenstaufen]]]
+key_events: [ [[albigensian-crusade-1209]], Fourth Lateran Council 1215, the bull Ad extirpanda 1252, the fall of Montségur 1244]
+key_processes: [ [[medieval-anti-judaism]], the suppression of [[catharism]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, institution, high-middle-ages, western-europe]

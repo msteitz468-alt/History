@@ -11,7 +11,7 @@ actors_secondary: [Office of Alien Property, Federal Bureau of Investigation]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[processes/development-of-radio|competing radio patents]], decades of priority litigation, Tesla's death]
+causes: [ [[processes/development-of-radio|competing radio patents]], decades of priority litigation, Tesla's death]
 consequences: [posthumous vindication of Tesla's radio priority, federal seizure of Tesla's papers, Cold-War interest in the death ray]
 sources_ingested: 1
 last_updated: 2026-06-25

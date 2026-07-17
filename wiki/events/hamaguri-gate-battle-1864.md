@@ -56,4 +56,8 @@ The loyalists executed more than thirty imprisoned sonnō jōi faction men the d
 
 The First Chōshū Expedition (1864–1865), authorized by the court and executed by a combined shogunate-domain force, followed. Chōshū submitted, court martial proceedings ended with token punishments, and the radical leaders were executed by the domain itself to demonstrate submission. The experience forced Chōshū's pragmatic reformers — including Itō Hirobumi and Yamagata Aritomo — to recognize that frontal military confrontation with the shogunate was unwinnable without better weapons and allies. This led directly to the Satsuma-Chōshū alliance of 1866 and the eventual [[meiji-restoration-1868]].
 
+## Historiography
+
+Keene's narrative draws on Japanese court diaries, domain records, and firsthand accounts of the fighting and the palace evacuation, giving an unusually vivid ground-level record for a single day's fighting. He explicitly corrects an error repeated in earlier biographical accounts (that Prince Mutsuhito fainted from cannon fire), illustrating how secondary retellings of this episode had accumulated inaccuracies before being checked against the primary record. The battle's significance is debated less in its immediate tactical facts than in its longer-run interpretation: whether Chōshū's defeat should be read as the sonnō jōi movement's decisive setback, or as the necessary catalyst that redirected the domain toward the more pragmatic Satsuma-Chōshū alliance that ultimately overthrew the shogunate — Keene favors the latter reading.
+
 **See also:** [[bakumatsu]] | [[sonno-joi]] | [[emperor-komei]] | [[emperor-meiji]] | [[tokugawa-shogunate]] | [[meiji-restoration-1868]] | [[boshin-war-1868]] | [[keene-emperor-of-japan-meiji-2002]]

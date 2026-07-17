@@ -51,7 +51,7 @@ Modern views (CAH, Egyptology): Thoth evolves from local moon/ibis god to nation
 - [[anubis|Anubis]]: weigher; Thoth recorder
 - [[maat|Maat]]: truth; Thoth upholds/writes
 - [[thebes|Thebes]], Hermopolis (cults)
-- Processes: [[egyptian-afterlife-beliefs]], [[scribal-culture-and-writing]]
+- Processes: [[egyptian-afterlife-beliefs]], scribal culture and writing
 - Concepts: heka (magic), negative confessions (recorded by Thoth), "true of voice" (ma'a kheru)
 
 Primary source: [[romer-egyptian-book-of-the-dead-2008|The Egyptian Book of the Dead (Budge/Romer)]] — spells and vignettes with Thoth in judgment, wisdom, protection.

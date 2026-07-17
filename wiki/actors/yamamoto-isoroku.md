@@ -12,7 +12,7 @@ key_processes: [carrier-aviation, preemptive-strike-doctrine, pacific-naval-war]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [actor, person, world-wars-era, japan]
-aliases: [Isoroku Yamamoto, Yamamoto Isoroku, Admiral Yamamoto]
+aliases: [Isoroku Yamamoto, Yamamoto Isoroku, Admiral Yamamoto, is-oroku-yamamoto]
 ---
 
 # Isoroku Yamamoto

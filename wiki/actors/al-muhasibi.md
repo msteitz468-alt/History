@@ -6,10 +6,10 @@ date_end: 857 (died, Baghdad)
 date_precision: year
 period: [Early Middle Ages]
 region: [mesopotamia]
-affiliated_with: [[[sufism|Sufism]], Shāfiʿī school of law, the Baghdad Sufi circle]
+affiliated_with: [ [[sufism|Sufism]], Shāfiʿī school of law, the Baghdad Sufi circle]
 opposed_by: [the Ḥanbalite school (for his use of Muʿtazilite theological methods)]
 key_events: [composition of his foundational books on mystical psychology and self-examination]
-key_processes: [[[sufism]], [[early-sufism]], [[kalam-sufi-rapprochement]]]
+key_processes: [ [[sufism]], [[early-sufism]], [[kalam-sufi-rapprochement]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, early-middle-ages, mesopotamia, islamic-world]

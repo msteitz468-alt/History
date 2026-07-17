@@ -5,10 +5,10 @@ date_start: ~5000 BCE
 date_end: ~3000 BCE
 period: [Neolithic]
 region: [china, east-asia]
-affiliated_with: [[[yellow-river-valley]], [[central-plains-china]], [[longshan-culture]]]
+affiliated_with: [ [[yellow-river-valley]], [[central-plains-china]], [[longshan-culture]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[early-agriculture-china]], [[early-china-state-formation]], [[settlement-archaeology]]]
+key_processes: [ [[early-agriculture-china]], [[early-china-state-formation]], [[settlement-archaeology]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [actor, movement, neolithic, china, east-asia]

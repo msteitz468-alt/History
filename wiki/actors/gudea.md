@@ -5,10 +5,10 @@ date_start: ~2144 BCE (accession; middle chronology, approximate)
 date_end: ~2124 BCE
 period: [Early Bronze Age]
 region: [mesopotamia]
-affiliated_with: [[[lagash|Lagash (Second Dynasty)]]]
+affiliated_with: [ [[lagash|Lagash (Second Dynasty)]]]
 opposed_by: [Anshan, Elam]
-key_events: [[[gutian-invasion|the late-Gutian / post-Gutian Lagash revival]]]
-key_processes: [[[temple-economy]], [[trade-network-formation]]]
+key_events: [ [[gutian-invasion|the late-Gutian / post-Gutian Lagash revival]]]
+key_processes: [ [[temple-economy]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, early-bronze-age, mesopotamia]

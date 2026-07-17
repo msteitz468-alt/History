@@ -5,10 +5,10 @@ date_start: 336 BCE
 date_end: 283 BCE
 period: [Classical Antiquity]
 region: [mediterranean-world, anatolia, balkans]
-affiliated_with: [[[antigonus-i-monophthalmus]], [[athens]]]
-opposed_by: [[[ptolemy-i-soter]], [[cassander]], [[lysimachus]], [[seleucus-i-nicator]]]
-key_events: [[[wars-of-the-diadochi-323]], [[siege-of-rhodes-305]], [[battle-of-ipsus-301]]]
-key_processes: [[[hellenistic-world]], [[hellenistic-monarchy]], [[antigonid-dynasty]]]
+affiliated_with: [ [[antigonus-i-monophthalmus]], [[athens]]]
+opposed_by: [ [[ptolemy-i-soter]], [[cassander]], [[lysimachus]], [[seleucus-i-nicator]]]
+key_events: [ [[wars-of-the-diadochi-323]], [[siege-of-rhodes-305]], [[battle-of-ipsus-301]]]
+key_processes: [ [[hellenistic-world]], [[hellenistic-monarchy]], [[antigonid-dynasty]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, dynasty, classical-antiquity]

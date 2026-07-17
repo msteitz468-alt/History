@@ -6,8 +6,8 @@ date_precision: century
 period: [Archaic Period]
 region: [mediterranean, north-africa, iberia, mediterranean-world]
 process_type: [economic, demographic, religious, cultural]
-driven_by: [[[phoenicians|Tyre]], the quest for metals (Spanish silver), Assyrian pressure, population and trade]
-produces: [[[carthage|Carthage]] and the Punic world, the Phoenician network from Cyprus to the Atlantic, the spread of the alphabet and eastern art west]
+driven_by: [ [[phoenicians|Tyre]], the quest for metals (Spanish silver), Assyrian pressure, population and trade]
+produces: [ [[carthage|Carthage]] and the Punic world, the Phoenician network from Cyprus to the Atlantic, the spread of the alphabet and eastern art west]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, archaic-period, mediterranean, north-africa, iberia]

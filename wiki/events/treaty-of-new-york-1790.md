@@ -32,6 +32,10 @@ Produced by the new federal policy articulated by Knox (tribes as foreign nation
 
 Revealed the limits of federal power against demography, state interests, and land hunger. Served as test case for the "tragic" failure to achieve just accommodation with Native Americans. Parallel to slavery compromises as a foundational moral/political failure.
 
+## Historiography
+
+The treaty's text and Henry Knox's correspondence with Washington are well-documented in the Papers of the Founders and American State Papers; McGillivray's own letters (he was literate and politically sophisticated, corresponding in English and Spanish) provide a rare Native leader's-eye view, though most Creek perspectives on the negotiations survive only through McGillivray's mediation rather than in the deputation's own voice. Historians disagree over how sincere Knox and Washington's "civilization" and treaty-as-foreign-nation policy was versus how much it was a stopgap both men knew could not survive settler demography — recent scholarship, following the "new Indian history," tends to stress the structural inevitability of dispossession over individual failures of will. McGillivray's own position — simultaneously a Creek leader, Spanish pensioner, and US brigadier general — has drawn a range of interpretations from opportunist to skilled multi-power broker. The treaty is a useful test case for debates over whether the early federal government's Native policy differed meaningfully in practice from the state and settler expansionism it claimed to restrain.
+
 ## Related
 
 - [[actors/washington-george]]

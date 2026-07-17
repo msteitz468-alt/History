@@ -5,10 +5,10 @@ date_start: ~14000 BCE
 date_end: ~1000 BCE
 period: [Behavioral Modernity, Mesolithic, Neolithic]
 region: [japan, east-asia]
-affiliated_with: [[[japan]], [[peopling-of-east-asia]]]
+affiliated_with: [ [[japan]], [[peopling-of-east-asia]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[early-agriculture-japan]], [[peopling-of-east-asia]]]
+key_processes: [ [[early-agriculture-japan]], [[peopling-of-east-asia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, movement, neolithic, japan, east-asia]

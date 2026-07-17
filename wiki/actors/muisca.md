@@ -8,7 +8,7 @@ region: [andes]
 affiliated_with: [the high plateau (altiplano cundiboyacense) of the Colombian Eastern Cordillera]
 opposed_by: [the Spanish under Gonzalo Jiménez de Quesada]
 key_events: [the development of the Zipa and Zaque confederations, the Spanish conquest of 1537]
-key_processes: [[[senorios-naturales]]]
+key_processes: [ [[senorios-naturales]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, state, late-middle-ages, andes]

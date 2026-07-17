@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the Confucian (ru) tradition, the courts of Liang (Wei) and Qi]
 opposed_by: [Gaozi (on human nature), the followers of Mozi and Yang Zhu, the Legalists]
 key_events: [his travels among the Warring States courts, the transmission of his teachings in the Mencius]
-key_processes: [[[confucianism]], the human-nature debate, the theory of benevolent government]
+key_processes: [ [[confucianism]], the human-nature debate, the theory of benevolent government]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, china, east-asia]

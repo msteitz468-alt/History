@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [mediterranean, western-europe]
 location: [southern Italy, Epirus, Sicily]
-actors_primary: [[[pyrrhus-of-epirus|Pyrrhus of Epirus]], [[roman-republic|The Roman Republic]]]
-actors_secondary: [[[tarentum|Tarentum]], [[carthage|Carthage]], [[samnites|the Samnites]], [[appius-claudius-caecus|Appius Claudius Caecus]], M. Curius Dentatus]
+actors_primary: [ [[pyrrhus-of-epirus|Pyrrhus of Epirus]], [[roman-republic|The Roman Republic]]]
+actors_secondary: [ [[tarentum|Tarentum]], [[carthage|Carthage]], [[samnites|the Samnites]], [[appius-claudius-caecus|Appius Claudius Caecus]], M. Curius Dentatus]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational

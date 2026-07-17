@@ -36,6 +36,10 @@ US codebreaking (Magic), dive bomber tactics, Japanese overconfidence and divide
 
 Shifted balance of power; US took initiative in Pacific; major morale and strategic victory.
 
+## Historiography
+
+The battle is unusually well documented through decrypted Japanese naval communications (Magic/JN-25), after-action reports from both fleets, and postwar interrogations of Japanese officers, though Japanese losses and decision-making were initially reconstructed largely from American and captured sources before Japanese archives and veteran accounts became available. Gordon Prange's *Miracle at Midway* and later work by Jonathan Parshall and Anthony Tully (*Shattered Sword*, 2005) substantially revised the traditional "five fateful minutes" account of the Japanese carrier decks being caught mid-rearming, using Japanese-language primary sources to correct earlier US-centric narratives. Debate continues over how much of the American victory should be credited to codebreaking and intelligence versus tactical execution and luck.
+
 ## Related
 
 - Analysis: [[hubs/warfare/world-wars-era/second-world-war/battle-of-midway-1942]]

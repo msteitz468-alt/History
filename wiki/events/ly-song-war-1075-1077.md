@@ -5,8 +5,8 @@ date_end: 1077
 date_precision: year
 period: [early-middle-ages, high-middle-ages]
 region: [southeast-asia, china]
-location: [[[thang-long]]]
-actors_primary: [[[ly-dynasty-vietnam]], [[song-dynasty]]]
+location: [ [[thang-long]]]
+actors_primary: [ [[ly-dynasty-vietnam]], [[song-dynasty]]]
 actors_secondary: []
 event_type: war
 scale_immediate: regional

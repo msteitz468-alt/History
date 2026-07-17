@@ -5,10 +5,10 @@ date_start: ~2334 BCE (accession; middle chronology)
 date_end: ~2279 BCE (death, after a ~55-year reign by tradition)
 period: [Early Bronze Age]
 region: [mesopotamia, near-east]
-affiliated_with: [[[akkadian-empire]]]
-opposed_by: [[[early-dynastic-sumer|Lugalzaggisi and the Sumerian cities]], Elam, Subartu]
+affiliated_with: [ [[akkadian-empire]]]
+opposed_by: [ [[early-dynastic-sumer|Lugalzaggisi and the Sumerian cities]], Elam, Subartu]
 key_events: [defeat of Lugalzaggisi]
-key_processes: [[[state-formation]], [[imperialism]], [[trade-network-formation]]]
+key_processes: [ [[state-formation]], [[imperialism]], [[trade-network-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, mesopotamia]

@@ -6,7 +6,7 @@ date_end: 12th century CE (Wendish Crusade and German conquest)
 period: [Early Middle Ages, High Middle Ages]
 region: [eastern-europe, western-europe]
 affiliated_with: [the Liutizi confederation, the Abodrites, occasionally the Přemyslids of Bohemia]
-opposed_by: [[[ottonian-dynasty|the Ottonian Reich]], the Saxon margraves (Billungs, Gero), the archbishopric of Magdeburg]
+opposed_by: [ [[ottonian-dynasty|the Ottonian Reich]], the Saxon margraves (Billungs, Gero), the archbishopric of Magdeburg]
 key_events: [the Great Slav Revolt of 983]
 key_processes: [German eastward expansion, forced Christianisation]
 sources_ingested: 1

@@ -1,5 +1,6 @@
 ---
 title: Soldiers and Ghosts (Lendon)
+aliases: [nursery-of-ghosts]
 concept_type: historiographical / cultural / analytical
 origin: J. E. Lendon, *Soldiers and Ghosts: A History of Battle in Classical Antiquity* (2005); title and central thesis
 applies_to_periods: [classical-antiquity, late-antiquity]

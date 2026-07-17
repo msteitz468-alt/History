@@ -1,5 +1,6 @@
 ---
 title: Leopold Berchtold
+aliases: [berchtold-leopold]
 actor_type: person
 date_start: 1863
 date_end: 1942

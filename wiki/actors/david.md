@@ -5,8 +5,8 @@ date_start: r. c. 1000 BCE
 date_end: c. 960 BCE
 period: [Early Iron Age]
 region: [levant]
-affiliated_with: [[[hebrew-kingdom|united monarchy of Israel]], [[phoenicians|Tyre]]]
-opposed_by: [[[philistines|Philistines]], [[arameans|Aram-Zobah and Aram-Damascus]], Moab, Ammon, Edom]
+affiliated_with: [ [[hebrew-kingdom|united monarchy of Israel]], [[phoenicians|Tyre]]]
+opposed_by: [ [[philistines|Philistines]], [[arameans|Aram-Zobah and Aram-Damascus]], Moab, Ammon, Edom]
 key_events: [the capture of Jerusalem, the defeat of the Philistines, the conquest of the Aramaean states]
 key_processes: []
 sources_ingested: 2

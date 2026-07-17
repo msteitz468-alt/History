@@ -8,7 +8,7 @@ region: [japan, east-asia]
 affiliated_with: [the Oda clan, Tokugawa Ieyasu (ally), the emperor (instrumentally)]
 opposed_by: [rival daimyo (Imagawa, Takeda, Mōri), the militant Buddhist sects (Tendai, Ishiyama Honganji)]
 key_events: ["the battle of Okehazama (1560)", "entry into Kyoto (1568)", "the destruction of Hieizan (1571)", "the battle of Nagashino (1575)"]
-key_processes: [[[azuchi-momoyama-period|the reunification of Japan]]]
+key_processes: [ [[azuchi-momoyama-period|the reunification of Japan]]]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, japan, east-asia]

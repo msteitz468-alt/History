@@ -8,7 +8,7 @@ region: [western-europe]
 affiliated_with: [Christian Social Party (Austria)]
 opposed_by: [Austrian liberals, Social Democrats]
 key_events: []
-key_processes: [[[german-antisemitism]]]
+key_processes: [ [[german-antisemitism]]]
 sources_ingested: [evans-coming-of-third-reich-2003]
 last_updated: 2026-07-02
 tags: [actor, person, long-19th-century, western-europe]

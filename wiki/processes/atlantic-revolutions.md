@@ -1,5 +1,6 @@
 ---
 title: The Atlantic Revolutions
+aliases: [1789-atlantic-revolutions]
 date_start: 1775
 date_end: 1825
 date_precision: quarter-century

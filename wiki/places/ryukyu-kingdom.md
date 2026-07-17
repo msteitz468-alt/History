@@ -6,7 +6,7 @@ coordinates: [26.2 N, 127.7 E (Shuri/Naha, Okinawa)]
 period_active: [Late Middle Ages, Early Modern, Long 19th Century]
 controlled_by: [the Chūzan kingdom (from 1429); tributary of Ming/Qing China; indirectly the Satsuma domain (from 1609); annexed by Japan as Okinawa Prefecture (1879)]
 events_here: [the Satsuma invasion of 1609, the abolition of the kingdom (1879)]
-processes_here: [[[japanese-colonial-empire]], the East Asian tributary trade]
+processes_here: [ [[japanese-colonial-empire]], the East Asian tributary trade]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [place, east-asia, japan, early-modern]

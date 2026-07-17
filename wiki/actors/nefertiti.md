@@ -5,10 +5,10 @@ date_start: ~1370 BCE (first appearance as queen; volume chronology)
 date_end: ~1360 BCE (disappears from record after Akhenaten's year 14)
 period: [Late Bronze Age]
 region: [north-africa]
-affiliated_with: [[[akhenaten|Akhenaten]], the cult of the [[atenism|Aten]]]
+affiliated_with: [ [[akhenaten|Akhenaten]], the cult of the [[atenism|Aten]]]
 opposed_by: []
 key_events: [the demarcation of [[amarna|Akhetaten]], her unprecedented public role in Aten worship]
-key_processes: [[[atenism]]]
+key_processes: [ [[atenism]]]
 sources_ingested: 2
 last_updated: 2026-06-26
 tags: [actor, person, late-bronze-age, north-africa]

@@ -5,10 +5,10 @@ date_start: ~2060 BCE (accession; conventional chronology)
 date_end: ~2009 BCE (death, after a 51-year reign)
 period: [Middle Bronze Age]
 region: [north-africa]
-affiliated_with: [[[middle-kingdom-egypt]], Thebes (Eleventh Dynasty)]
+affiliated_with: [ [[middle-kingdom-egypt]], Thebes (Eleventh Dynasty)]
 opposed_by: [the Heracleopolitan kingdom, the nomarchs of Asyut]
-key_events: [[[reunification-of-egypt-2040bce]]]
-key_processes: [[[first-intermediate-period]], [[state-formation]], [[democratization-of-afterlife]]]
+key_events: [ [[reunification-of-egypt-2040bce]]]
+key_processes: [ [[first-intermediate-period]], [[state-formation]], [[democratization-of-afterlife]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, north-africa]

@@ -47,7 +47,7 @@ Koch Vol V (T–Z) supplies entry on this key northern British polity. Strong fo
 - [[concepts/mabinogion]]
 - [[concepts/triads]]
 - [[concepts/cumbric|Cumbric]]
-- [[concepts/celtic-wild-man-legend|Wild man in Celtic legend]]
+- Wild man in Celtic legend
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
 
 *Grounded in Vol V ranges (Y–Z entries, Wallace + wild man references).*

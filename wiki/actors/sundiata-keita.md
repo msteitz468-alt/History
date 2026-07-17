@@ -8,7 +8,7 @@ region: [west-africa, sub-saharan-africa]
 affiliated_with: [the Keita lineage, the Mande/Mandinka clans, [[mali-empire|Mali]]]
 opposed_by: [Soumaoro Kanté (Sumanguru), king of Sosso]
 key_events: [the Battle of Krina/Kirina (c. 1235), the assembly of Kurukan Fuga]
-key_processes: [[[state-formation]], [[trans-saharan-trade]]]
+key_processes: [ [[state-formation]], [[trans-saharan-trade]]]
 sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, high-middle-ages, west-africa]

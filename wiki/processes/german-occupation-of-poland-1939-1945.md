@@ -6,8 +6,8 @@ date_precision: year
 period: [World Wars Era]
 region: [eastern-europe]
 process_type: political
-driven_by: [[[adolf-hitler]], [[himmler-heinrich|Heinrich Himmler]], [[heydrich-reinhard|Reinhard Heydrich]], [[frank-hans|Hans Frank]], [[schutzstaffel-ss]]]
-produces: [[[the-holocaust]] in Poland, [[germanization-of-occupied-poland-1939-1944]], mass forced labor, the destruction of the Polish elite, the Polish underground state]
+driven_by: [ [[adolf-hitler]], [[himmler-heinrich|Heinrich Himmler]], [[heydrich-reinhard|Reinhard Heydrich]], [[frank-hans|Hans Frank]], [[schutzstaffel-ss]]]
+produces: [ [[the-holocaust]] in Poland, [[germanization-of-occupied-poland-1939-1944]], mass forced labor, the destruction of the Polish elite, the Polish underground state]
 sources_ingested: 1
 last_updated: 2026-07-02
 tags: [process, world-wars-era, eastern-europe]

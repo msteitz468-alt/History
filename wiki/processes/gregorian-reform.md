@@ -7,7 +7,7 @@ period: [High Middle Ages]
 region: [western-europe, mediterranean]
 process_type: religious
 driven_by: ["monastic reform ideals (Cluny, Hirsau, Lorraine)", "revulsion at simony and clerical marriage", "the doctrine of the libertas ecclesiae (freedom of the church)", "the recovery and study of canon law", "the imperial reform of the papacy under Henry III"]
-produces: [[[investiture-contest]], "the papal monarchy", "the separation of sacerdotium and regnum", "a celibate, hierarchically ordered clergy", "the Concordat of Worms (1122)"]
+produces: [ [[investiture-contest]], "the papal monarchy", "the separation of sacerdotium and regnum", "a celibate, hierarchically ordered clergy", "the Concordat of Worms (1122)"]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [process, high-middle-ages, western-europe, mediterranean]

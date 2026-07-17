@@ -41,4 +41,19 @@ The Fair left a significant (if incomplete) park legacy at Flushing Meadows but 
 
 See [[sources/caro-the-power-broker-1974]] for full treatment.
 
+## Historiography
+
+The dominant account is Robert Caro's *The Power Broker* (1974), a Pulitzer-winning
+biography built on extensive interviews (with Moses aides, critics, and Moses himself
+late in life), contemporary press coverage, and Fair Corporation financial records; Caro
+is explicitly hostile to Moses' late-career methods, and his framing of the Fair as a
+vanity/parks project rather than a civic celebration has become the standard
+interpretation but has drawn some pushback from Moses defenders (notably in the 2007
+Columbia exhibition and related reassessments) who stress the era's genuine achievements
+and note Caro's narrative selects for damning anecdotes. Financial reconstruction relies
+on Fair Corporation accounting, which was itself contested at the time (accusations of
+manipulated figures), so precise loss figures vary slightly across sources. No serious
+scholarly dispute exists over the broad outcome (financial failure, low attendance,
+scandal) even where interpretations of Moses' motives differ.
+
 Co-Authored-By: Grok 4.3 (xAI) from Caro claims (primarily Range 08)

@@ -5,10 +5,10 @@ date_start: ~3100 BCE (reign)
 date_end: ~3100 BCE
 period: [Early Bronze Age]
 region: [north-africa]
-affiliated_with: [[[early-dynastic-egypt]]]
+affiliated_with: [ [[early-dynastic-egypt]]]
 opposed_by: [Lower Egyptian kingdom]
-key_events: [[[unification-of-egypt-3100bce]]]
-key_processes: [[[state-formation]]]
+key_events: [ [[unification-of-egypt-3100bce]]]
+key_processes: [ [[state-formation]]]
 sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, north-africa]

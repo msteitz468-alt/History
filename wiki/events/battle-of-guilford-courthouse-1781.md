@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 location: [Guilford Courthouse, North Carolina]
 actors_primary: [the [[continental-army|Continental Army]], the British Army]
-actors_secondary: [[[greene-nathanael]], [[cornwallis-charles]]]
+actors_secondary: [ [[greene-nathanael]], [[cornwallis-charles]]]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
@@ -48,6 +48,10 @@ own officer Dundas called it "a victory … without any very brilliant advantage
   marched into **Virginia** — the road to [[siege-of-yorktown-1781|Yorktown]].
 - `produced:` the collapse of the Loyalist project: after the battle "they were no more inclined to come
   forward," and Greene returned to clear South Carolina.
+
+## Historiography
+
+Greene's and Cornwallis's own reports, plus British officer Dundas's often-quoted assessment, anchor the account; the episode of Cornwallis firing artillery into a mixed mass of his own and enemy troops is a famous and disputed moment used to debate the desperation of eighteenth-century linear tactics. Historians treat this battle as a paradigm case of "Pyrrhic victory" attritional warfare, central to the broader debate over whether the southern campaign was decided more by set-piece battles or by the cumulative wearing-down of British strength and Loyalist confidence. Greene's adoption of Morgan's Cowpens template raises questions, debated among military historians, about how deliberately American commanders were developing a repeatable tactical doctrine versus improvising case by case.
 
 ## Related
 

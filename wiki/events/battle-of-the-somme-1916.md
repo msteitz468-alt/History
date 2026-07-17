@@ -57,6 +57,10 @@ barrage, infiltration tactics, tanks and aircraft) that would restore movement b
 Douglas Haig (BEF) · Henry Rawlinson (Fourth Army) · Fritz von Below (German Second
 Army) · the Kitchener "New Armies" and the Pals battalions.
 
+## Historiography
+
+The battle's historiography has shifted markedly away from the interwar "lions led by donkeys" narrative that blamed Haig's generalship almost exclusively. Primary sources include British and German unit war diaries, artillery logs, and veteran memoirs and literature (Sassoon, Graves, Blunden) that shaped the popular memory of futility; John Keegan's *The Face of Battle* (1976) reconstructed the mechanics of the first-day failure from the infantry's perspective and remains a standard methodological model for combat history. Since the 1970s, historians including Robin Prior, Trevor Wilson, and Gary Sheffield have argued for a more "learning curve" interpretation, in which the Somme's costly failures fed directly into the tactical innovations (creeping barrage, all-arms cooperation) that produced the more successful British operations of 1917–18. Casualty figures for the first day are well established; the deeper debate concerns whether the offensive was strategically necessary to relieve Verdun or reflected a failure of Allied coordination and imagination.
+
 ## Related
 
 - **Tactical analysis (West Point–style):** [[hubs/warfare/world-wars-era/first-world-war/battle-of-the-somme-1916|The Somme, First Day — Tactical Analysis]]

@@ -38,6 +38,21 @@ Gorbachev accepted German unity and the right to choose alliances (February 1990
 
 Western leaders (especially Bush support for rapid unity in NATO; Mitterrand linking to deeper EC integration; Thatcher caution) shaped the outcome. The peaceful character was made possible by Soviet tolerance and prior East-West agreements on reducing nuclear risk and respecting human rights.
 
+## Historiography
+
+The primary account here (Haftendorn's chapter in *The Cambridge History of the Cold War*
+Vol. III) draws on declassified diplomatic records from the 2+4 negotiations, memoirs of
+key participants (Kohl, Genscher, Gorbachev, Bush administration officials), and Soviet
+archival material that became available after 1991. Scholarly debate centers on how much
+credit belongs to Gorbachev's genuine acceptance of German self-determination versus
+Western pressure and Soviet economic weakness leaving him little choice, and on whether
+Kohl's rapid push for unification (rather than a longer confederation) was diplomatically
+necessary or opportunistic. Post-Soviet archival openings in the 1990s substantially
+enriched understanding of Soviet internal deliberations, though some records (particularly
+KGB material) remain restricted. There is broad consensus on the sequence of events; the
+live debates concern motive and counterfactual alternatives (e.g., whether a slower,
+confederal path was ever realistic).
+
 ## Related
 
 - Primary: [[leffler-westad-cold-war-v3]] (Haftendorn)

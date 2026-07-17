@@ -6,7 +6,7 @@ coordinates: ~19.4°N, 99.1°W
 period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: [Cuicuilco polity (c. 400–100 BCE), Teotihuacan state (c. 1–550 CE), Toltec state (c. 900–1150 CE), Aztec Empire (c. 1428–1521 CE), New Spain / Mexico City (1521–)]
 events_here: [eruption of Popocatepetl (~200-1 BCE), eruption of Xitle (~200-400 CE), Spanish Conquest (1521 CE)]
-processes_here: [[[mesoamerican-state-formation]], [[urbanism]], [[teotihuacan-formation]], [[central-mexico-indigenous-colonial]], [[central-mexico-indigenous-since-independence]]]
+processes_here: [ [[mesoamerican-state-formation]], [[urbanism]], [[teotihuacan-formation]], [[central-mexico-indigenous-colonial]], [[central-mexico-indigenous-since-independence]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, mesoamerica, americas, archaic-period, classical-antiquity, late-antiquity]

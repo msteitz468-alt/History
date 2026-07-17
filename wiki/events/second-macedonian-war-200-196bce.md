@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [balkans, mediterranean, anatolia, mediterranean-world]
 location: [Macedonia, Thessaly, central Greece]
-actors_primary: [[[roman-republic]], [[philip-v]], [[flamininus]]]
-actors_secondary: [[[pergamon|Attalus I / Eumenes II]], [[rhodes]], [[aetolian-league]], [[achaean-league]], Athens, [[antiochus-iii-the-great]]]
+actors_primary: [ [[roman-republic]], [[philip-v]], [[flamininus]]]
+actors_secondary: [ [[pergamon|Attalus I / Eumenes II]], [[rhodes]], [[aetolian-league]], [[achaean-league]], Athens, [[antiochus-iii-the-great]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[nature-of-roman-imperialism]], the appeals of Rhodes, Pergamon and Athens against Philip's Aegean aggression, the unavenged Hannibal–Philip treaty of 215, the senatorial "eastern lobby"]
+causes: [ [[nature-of-roman-imperialism]], the appeals of Rhodes, Pergamon and Athens against Philip's Aegean aggression, the unavenged Hannibal–Philip treaty of 215, the senatorial "eastern lobby"]
 consequences: [the defeat of Macedon at Cynoscephalae, the [[freedom-of-the-greeks|"freedom of the Greeks"]] proclaimed at the Isthmus 196, the extension of Roman interest into Asia Minor, the collision course with Antiochus III]
 sources_ingested: 1
 last_updated: 2026-06-11

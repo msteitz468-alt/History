@@ -8,7 +8,7 @@ region: [north-africa, levant]
 affiliated_with: [the [[new-kingdom-egypt|Nineteenth Dynasty]], the cult of [[amun-priesthood|Amun]] and of Seth/Sutekh of Avaris]
 opposed_by: [the [[hittites|Hittites]] ([[muwatalli-ii|Muwatalli II]]), the Libyans, the Sherden sea-raiders]
 key_events: [the [[battle-of-qadesh-1274bce|battle of Qadesh]], the [[egyptian-hittite-treaty-1259bce|Egyptian–Hittite treaty]], the building of Abu Simbel and Pi-Ramesse]
-key_processes: [[[imperialism]], [[egyptian-imperialism]], [[interpolity-law]]]
+key_processes: [ [[imperialism]], [[egyptian-imperialism]], [[interpolity-law]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]

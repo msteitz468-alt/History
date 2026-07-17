@@ -7,7 +7,7 @@ period: [Late Middle Ages]
 region: [sweden, scandinavia]
 location: [Dalarna and southern Sweden]
 actors_primary: [Engelbrekt Engelbrektsson, the Dalecarlian miners and free peasants, the Swedish council of the realm]
-actors_secondary: [[[erik-of-pomerania|Erik of Pomerania]]]
+actors_secondary: [ [[erik-of-pomerania|Erik of Pomerania]]]
 event_type: revolution
 scale_immediate: regional
 scale_consequential: civilizational

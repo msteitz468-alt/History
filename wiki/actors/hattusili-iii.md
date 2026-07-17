@@ -8,7 +8,7 @@ region: [anatolia, levant, near-east]
 affiliated_with: [the [[hittites|Hittite kingdom]], Queen [[puduhepa|Puduḫepa]]]
 opposed_by: [his nephew [[urhi-teshub|Urḫi-Teshub (Muršili III)]], Assyria (Adad-nirari I, Shalmaneser I)]
 key_events: [the usurpation of the throne from [[urhi-teshub|Urḫi-Teshub]], the [[egyptian-hittite-treaty-1259bce|Egyptian–Hittite treaty]], the alliance with Kassite Babylonia]
-key_processes: [[[interpolity-law]], [[imperialism]], [[hittite-vassal-treaties|vassal-treaty system]]]
+key_processes: [ [[interpolity-law]], [[imperialism]], [[hittite-vassal-treaties|vassal-treaty system]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, anatolia, near-east]

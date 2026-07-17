@@ -5,9 +5,9 @@ date_start: c. 229 BCE
 date_end: 174 BCE
 period: [Classical Antiquity]
 region: [italy, balkans, mediterranean-world]
-affiliated_with: [[[roman-republic]]]
-opposed_by: [[[philip-v]], [[antiochus-iii-the-great]] (diplomatically), the [[aetolian-league]]]
-key_events: [[[second-macedonian-war-200-196bce]], the [[freedom-of-the-greeks|"freedom of the Greeks"]] proclamation (196)]
+affiliated_with: [ [[roman-republic]]]
+opposed_by: [ [[philip-v]], [[antiochus-iii-the-great]] (diplomatically), the [[aetolian-league]]]
+key_events: [ [[second-macedonian-war-200-196bce]], the [[freedom-of-the-greeks|"freedom of the Greeks"]] proclamation (196)]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11

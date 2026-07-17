@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america]
 affiliated_with: [[washington-george]], [[mount-vernon]]
 opposed_by: []
-key_events: [[american-revolution]], [[presidency]]
+key_events: [[american-revolution]], presidency
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-25

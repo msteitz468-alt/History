@@ -7,7 +7,7 @@ period: [Classical Antiquity]
 region: [north-africa, mediterranean-world]
 affiliated_with: [the Massyli; from 206 [[roman-republic|Rome]]; earlier [[carthage]]]
 opposed_by: [Syphax (the Masaesyli), [[carthage]]]
-key_events: [[[second-punic-war-218-201bce]], [[battle-of-zama-202bce]], the encroachments on Carthage leading to the Third Punic War]
+key_events: [ [[second-punic-war-218-201bce]], [[battle-of-zama-202bce]], the encroachments on Carthage leading to the Third Punic War]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11

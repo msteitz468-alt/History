@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Bruges (Brugge), West Flanders, Belgium]
 coordinates: [51.21N, 3.22E]
 period_active: [High Middle Ages, Late Middle Ages, Early Modern]
-controlled_by: [[[county-of-flanders|County of Flanders]], [[valois-burgundian-state|Valois Burgundian State]], [[habsburg-empire|Habsburg Empire]]]
+controlled_by: [ [[county-of-flanders|County of Flanders]], [[valois-burgundian-state|Valois Burgundian State]], [[habsburg-empire|Habsburg Empire]]]
 events_here: []
-processes_here: [[[urban-competition-commercial-institutions]], [[commercial-revolution]]]
+processes_here: [ [[urban-competition-commercial-institutions]], [[commercial-revolution]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, western-europe, northern-europe, high-middle-ages, late-middle-ages]

@@ -6,12 +6,12 @@ date_end: 215 BCE
 period: [Classical Antiquity]
 region: [mediterranean]
 affiliated_with: [Syracuse, [[roman-republic|Rome]] (from 263 BCE), [[ptolemaic-egypt|Ptolemaic Egypt]]]
-opposed_by: [[[carthage|Carthage]], the Mamertines, the Sicilian Greeks at various points]
+opposed_by: [ [[carthage|Carthage]], the Mamertines, the Sicilian Greeks at various points]
 key_events:
   - Battle of the Longanus (c. 265 BCE)
   - first-punic-war-264-241bce
   - Alliance with Rome 263 BCE
-key_processes: [[[roman-expansion-italy|Roman expansion]], [[roman-provincial-system]]]
+key_processes: [ [[roman-expansion-italy|Roman expansion]], [[roman-provincial-system]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, mediterranean]

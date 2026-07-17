@@ -8,7 +8,7 @@ region: [south-asia]
 affiliated_with: [Magadha and the Ganga valley, brahmanical (Vaishnava) religion, the Vakatakas]
 opposed_by: [the [[hunnic-migrations|Hunas (Hephthalites)]], regional satraps]
 key_events: [founding 319/320 CE, Samudragupta's conquests, Chandragupta II's western conquests, Huna invasions]
-key_processes: [[[empire]], [[ancient-science-and-technology|mathematics and astronomy]], [[hinduism|Hindu temple religion]], [[buddhism|Buddhist learning (Nalanda)]]]
+key_processes: [ [[empire]], [[ancient-science-and-technology|mathematics and astronomy]], [[hinduism|Hindu temple religion]], [[buddhism|Buddhist learning (Nalanda)]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, empire, late-antiquity, south-asia]

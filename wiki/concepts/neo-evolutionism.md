@@ -44,7 +44,7 @@ The “embeddedness” of politics and major aspects of the economy in ritual ca
 
 Although I have traced broad evolutionary schemes in this book, produced social-science-like generalizations and even one 'law,' ... I have tried to resist the reductionist and dehumanizing tendencies inherent in much social evolutionary research. There are many speculations in this book and considerable uncertainty about how societies and their developmental histories can be compared and contrasted, and my 'new rules of social evolutionary theory' are not meant as substitutes for creative thinking about how people understood their lives. I do not apologize for all this distressing openendedness.
 
-**Links**: [[archaic-state]], [[city-state]], [[state-formation]], [[heterarchy]], [[collapse]], [[yoffee-myths-of-the-archaic-state-2005]], [[yoffee-cwh-v3-2015]], [[mesopotamia]], [[uruk]], [[chaco-canyon]].
+**Links**: [[archaic-state]], [[city-state]], [[state-formation]], [[heterarchy]], collapse, [[yoffee-myths-of-the-archaic-state-2005]], [[yoffee-cwh-v3-2015]], [[mesopotamia]], [[uruk]], [[chaco-canyon]].
 
 ## Relation to Other Concepts
 

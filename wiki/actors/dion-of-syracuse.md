@@ -6,7 +6,7 @@ date_end: 354 BCE (assassinated at Syracuse)
 period: [Classical Antiquity]
 region: [italy, mediterranean]
 affiliated_with: [Syracuse, [[plato]] and the Academy, the Deinomenid-Dionysian house]
-opposed_by: [[[dionysius-ii|Dionysius II]], Callippus, the Syracusan demos]
+opposed_by: [ [[dionysius-ii|Dionysius II]], Callippus, the Syracusan demos]
 key_events: [the visits of Plato, exile by Dionysius II 366 BCE, the liberation of Syracuse 357 BCE, assassination 354 BCE]
 key_processes: [the Platonic experiment in politics, the Sicilian crisis of the mid-fourth century]
 sources_ingested: 1

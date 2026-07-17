@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Long 19th Century]
 region: [scandinavia, denmark, sweden, norway, finland, iceland]
 process_type: [political, ideological, cultural]
-driven_by: [[[nationalism]], [[scandinavianism]]]
+driven_by: [ [[nationalism]], [[scandinavianism]]]
 produces: []
 sources_ingested: 1
 last_updated: 2026-06-27

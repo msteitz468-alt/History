@@ -1,12 +1,13 @@
 ---
 title: The Sicilian Expedition
+aliases: [sicilian-expedition-415-413bce]
 date_start: 415 BCE
 date_end: 413 BCE
 date_precision: year
 period: [Classical Antiquity]
 region: [sicily, mediterranean-world, aegean]
 location: [[places/syracuse]], Sicily]
-actors_primary: [[[places/athens|Athens]], [[actors/nicias]], [[actors/alcibiades]], [[actors/demosthenes-athenian-general]], [[places/syracuse]]]
+actors_primary: [ [[places/athens|Athens]], [[actors/nicias]], [[actors/alcibiades]], [[actors/demosthenes-athenian-general]], [[places/syracuse]]]
 actors_secondary: [Segesta, Selinus, [[places/sparta|Sparta]]]
 event_type: war
 scale_immediate: regional

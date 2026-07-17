@@ -8,7 +8,7 @@ region: [central-africa, sub-saharan-africa]
 affiliated_with: [Leopold II of Belgium, Force Publique, International Association of the Congo]
 opposed_by: [Congo Reform Association, E. D. Morel, Roger Casement]
 key_events: [Berlin Conference 1884–85, Belgian annexation 1908]
-key_processes: [[[imperialism]], [[atlantic-slave-trade|forced labour]], rubber extraction]
+key_processes: [ [[imperialism]], [[atlantic-slave-trade|forced labour]], rubber extraction]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, state, long-19th-century, central-africa]

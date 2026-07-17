@@ -6,8 +6,8 @@ date_precision: century
 period: [Classical Antiquity, Late Antiquity]
 region: [korea, japan, east-asia]
 process_type: political
-driven_by: [[[yellow-sea-interaction-sphere]], [[lelang-commandery]], [[rice-agriculture-spread-east-asia]]]
-produces: [[[silla]], [[paekche]], [[koguryo]], [[yamato-japan]]]
+driven_by: [ [[yellow-sea-interaction-sphere]], [[lelang-commandery]], [[rice-agriculture-spread-east-asia]]]
+produces: [ [[silla]], [[paekche]], [[koguryo]], [[yamato-japan]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [process, late-antiquity, korea, japan]

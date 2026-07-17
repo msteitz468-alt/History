@@ -6,7 +6,7 @@ date_end: 1018 CE (Byzantine reconquest)
 period: [Early Middle Ages]
 region: [balkans, eastern-europe]
 affiliated_with: [the Bulgar khans, later the Bulgarian Orthodox Church]
-opposed_by: [[[byzantine-empire|Byzantium]], the Avars, the Franks (over Pannonia)]
+opposed_by: [ [[byzantine-empire|Byzantium]], the Avars, the Franks (over Pannonia)]
 key_events: [Krum's wars with Byzantium (811–814), [[conversion-of-boris-i-864|the conversion of Khan Boris (864)]], rivalry of Rome and Constantinople over the Bulgarian church]
 key_processes: [the Christianisation of the Slavs and Bulgars, the contest between Latin and Greek Christendom]
 sources_ingested: 2

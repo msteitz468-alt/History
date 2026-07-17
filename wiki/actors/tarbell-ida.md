@@ -6,9 +6,9 @@ date_end: 1944
 period: [long-19th-century, world-wars-era]
 region: [north-america, eastern-north-america]
 affiliated_with: ["McClure's Magazine", "muckraking journalism"]
-opposed_by: [[[actors/rockefeller-john-d]], [[actors/standard-oil]]]
-key_events: [[[events/standard-oil-dissolution-1911]]]
-key_processes: [[[processes/corporate-consolidation-gilded-age]]]
+opposed_by: [ [[actors/rockefeller-john-d]], [[actors/standard-oil]]]
+key_events: [ [[events/standard-oil-dissolution-1911]]]
+key_processes: [ [[processes/corporate-consolidation-gilded-age]]]
 sources_ingested: 1
 last_updated: 2026-06-25
 tags: [actor, person, long-19th-century, world-wars-era, north-america, eastern-north-america, tarbell-ida, muckraking, journalism]

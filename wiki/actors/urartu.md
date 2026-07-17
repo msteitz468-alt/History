@@ -6,9 +6,9 @@ date_end: ~640–590 BCE (destroyed by Cimmerians, Scythians, and Medes)
 period: [Early Iron Age, Archaic Period]
 region: [anatolia, near-east, eurasian-steppe]
 affiliated_with: [Hurrian-speaking peoples of the Armenian highlands, the god Haldi]
-opposed_by: [[[neo-assyrian-empire|Assyria]], Cimmerians, Scythians, the Medes]
+opposed_by: [ [[neo-assyrian-empire|Assyria]], Cimmerians, Scythians, the Medes]
 key_events: [the struggle with Assyria, Sargon II's eighth campaign (714 BCE)]
-key_processes: [[[state-formation]], fortress-building, hydraulic engineering]
+key_processes: [ [[state-formation]], fortress-building, hydraulic engineering]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, anatolia]

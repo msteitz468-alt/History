@@ -1,5 +1,6 @@
 ---
 title: "Urien of Rheged"
+aliases: [urien-rheged]
 actor_type: person
 date_start: "6th century"
 date_end: "c. 590"

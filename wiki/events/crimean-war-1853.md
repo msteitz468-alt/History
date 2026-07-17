@@ -1,5 +1,6 @@
 ---
 title: Crimean War
+aliases: [crimean-war]
 date_start: 1853 CE
 date_end: 1856 CE
 date_precision: year

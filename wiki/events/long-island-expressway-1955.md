@@ -45,4 +45,18 @@ The LIE locked Long Island into automobile dependence for decades. Development r
 
 Reciprocal links to [[sources/caro-the-power-broker-1974]], [[actors/moses-robert]], [[places/new-york-city]], related processes.
 
+## Historiography
+
+Caro's *The Power Broker* (1974) is the foundational account, based on planning-agency
+records (including the Day & Zimmerman transit studies Caro cites), contemporary press
+coverage, and extensive interviews with Moses-era planners and officials; Caro's framing
+of Moses as deliberately foreclosing transit alternatives has become the standard
+narrative, though later urban-planning scholarship (particularly work on "induced
+demand") has offered independent theoretical support for Caro's traffic-generation
+argument beyond his own reporting. Some Moses defenders and later reassessments (echoing
+those around the LIE's sister projects) argue that mid-century engineering orthodoxy
+generally favored highway-only solutions across the US, not uniquely at Moses' discretion,
+tempering the personalized-blame framing without disputing the basic facts of what was
+built and its congestion outcomes.
+
 Co-Authored-By: Grok 4.3 (xAI) from Caro claims (Ranges 06-07 primarily)

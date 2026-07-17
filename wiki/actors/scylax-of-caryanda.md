@@ -5,7 +5,7 @@ date_start: fl. c. 519–515 BCE
 date_end: unknown (early 5th c. BCE)
 period: [Archaic Period]
 region: [anatolia, south-asia, indian-ocean]
-affiliated_with: [[[achaemenid-empire|Darius I of Persia]], the Carian Greeks]
+affiliated_with: [ [[achaemenid-empire|Darius I of Persia]], the Carian Greeks]
 opposed_by: []
 key_events: [the voyage down the Indus and round to the Red Sea (c. 517 BCE)]
 key_processes: [Achaemenid imperial expansion, early Greek geography and exploration]

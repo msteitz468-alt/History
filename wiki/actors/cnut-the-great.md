@@ -5,10 +5,10 @@ date_start: c. 995 CE
 date_end: 1035 CE
 period: [Early Middle Ages]
 region: [denmark, scandinavia, british-isles, northern-europe]
-affiliated_with: [[[denmark|Denmark]], [[norway|Norway]], England, the Jelling dynasty]
+affiliated_with: [ [[denmark|Denmark]], [[norway|Norway]], England, the Jelling dynasty]
 opposed_by: [Edmund Ironside; [[olaf-haraldsson|St Olaf]] of Norway]
 key_events: []
-key_processes: [[[viking-age|Viking Age]], [[north-sea-empire|North Sea empire]]]
+key_processes: [ [[viking-age|Viking Age]], [[north-sea-empire|North Sea empire]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, denmark]

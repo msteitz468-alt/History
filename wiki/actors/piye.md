@@ -5,10 +5,10 @@ date_start: ~747 BCE (accession)
 date_end: ~716 BCE
 period: [Archaic Period]
 region: [nubia, north-africa]
-affiliated_with: [[[kush-meroe]], the 25th (Kushite) Dynasty]
+affiliated_with: [ [[kush-meroe]], the 25th (Kushite) Dynasty]
 opposed_by: [Tefnakht of Sais, the Libyan dynasts of the Delta]
 key_events: []
-key_processes: [[[third-intermediate-period]]]
+key_processes: [ [[third-intermediate-period]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, archaic-period, nubia]

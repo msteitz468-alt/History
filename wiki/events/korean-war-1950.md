@@ -1,5 +1,6 @@
 ---
 title: The Korean War (1950–1953)
+aliases: [korean-war-1950-1953]
 date_start: 1950-06-25
 date_end: 1953-07-27
 date_precision: exact

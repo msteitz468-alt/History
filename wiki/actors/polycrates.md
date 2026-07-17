@@ -8,7 +8,7 @@ region: [anatolia, mediterranean]
 affiliated_with: [Samos, at times Amasis of Egypt, then Cambyses of Persia, the poets Anacreon and Ibycus]
 opposed_by: [Miletus, Mytilene, Sparta, finally the Persian satrap Oroetes]
 key_events: [his seizure of Samos by coup, the building of the Samos engineering works, the alliance with and break from Amasis, his death by treachery (522)]
-key_processes: [[[ionia|the East Greek acme]], the development of trireme sea power, tyranny]
+key_processes: [ [[ionia|the East Greek acme]], the development of trireme sea power, tyranny]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, archaic-period, anatolia]

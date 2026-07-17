@@ -1,5 +1,6 @@
 ---
 title: Louisiana Purchase (1803)
+aliases: [louisiana-purchase]
 date_start: 1803-04-30
 date_end: 1803-12-20
 date_precision: year

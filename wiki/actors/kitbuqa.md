@@ -5,10 +5,10 @@ date_start: unknown
 date_end: 1260 CE
 period: [High Middle Ages]
 region: [near-east, levant, steppe]
-affiliated_with: [[[hulegu]], [[ilkhanate]], [[mongol-empire]], [[mongol-army]]]
-opposed_by: [[[mamluk-sultanate|the Mamluks]] (Qutuz, Baybars)]
+affiliated_with: [ [[hulegu]], [[ilkhanate]], [[mongol-empire]], [[mongol-army]]]
+opposed_by: [ [[mamluk-sultanate|the Mamluks]] (Qutuz, Baybars)]
 key_events: [Mongol raids into Quhistan, Syrian campaign 1260, Battle of Ain Jalut 1260]
-key_processes: [[[mongol-conquests-13th-century]], [[post-mongol-islamic-world]]]
+key_processes: [ [[mongol-conquests-13th-century]], [[post-mongol-islamic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-24
 tags: [actor, person, high-middle-ages, levant]

@@ -12,7 +12,7 @@ event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
 causes:
-  - caused_by: "[[latin-resentment-subordination|Latin resentment at being treated as subjects rather than equal allies of Rome]]"
+  - caused_by: "Latin resentment at being treated as subjects rather than equal allies of Rome"
   - contributed_to: "[[first-samnite-war|First Samnite War diplomatic reversals: Rome allied Samnites against Campanians/Sidicini, then reversed — triggering Latin-Campanian coalition]]"
   - preceded_by: "[[foedus-cassianum-493bce|foedus Cassianum (493 BCE): the bilateral framework that the Latins felt Rome had violated in spirit]]"
 consequences:

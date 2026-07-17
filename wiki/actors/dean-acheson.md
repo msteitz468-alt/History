@@ -1,5 +1,6 @@
 ---
 title: "Dean Acheson"
+aliases: [acheson-dean]
 actor_type: "person"
 date_start: "1893"
 date_end: "1971"

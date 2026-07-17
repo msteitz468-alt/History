@@ -25,5 +25,22 @@ Break-in at DNC headquarters and subsequent cover-up leading to President Nixon'
 ## Narrative
 (Expanded during ingest.)
 
+## Historiography
+
+The record is unusually rich for a political scandal: the Senate Watergate Committee
+hearings (televised, 1973), the White House tape recordings (partially released after
+Supreme Court-ordered subpoena in *United States v. Nixon*, 1974, with full release only
+completed decades later), the Watergate Special Prosecutor's investigative files, and
+extensive contemporary journalism (notably Woodward and Bernstein's reporting for the
+Washington Post, later expanded in *All the President's Men*). Some tape material and
+the identity of "Deep Throat" (revealed only in 2005 to be FBI official Mark Felt)
+remained genuinely uncertain for decades, illustrating how declassification can
+substantially revise even well-documented recent history. Scholarly debate centers less
+on the basic facts (which are unusually well-established) than on Watergate's causal
+weight in longer-run American political trends — Kruse and Zelizer's *Fault Lines* (2025)
+treats it as a foundational rupture in institutional trust rather than an isolated event,
+a framing debated against accounts that see the scandal as one contributor among several
+(Vietnam, economic stagflation) to the era's decline in confidence in government.
+
 ## Related
 - [[sources/kruse-zelizer-fault-lines-2025]]

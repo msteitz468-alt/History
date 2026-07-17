@@ -8,7 +8,7 @@ region: [west-africa, central-africa, sahara]
 affiliated_with: [the Zaghawa/Kanembu, the Sefuwa (Sayfawa) dynasty, Islam, the trans-Saharan trade]
 opposed_by: [the Sao peoples, the Bulala, later Bornu's rivals]
 key_events: [the founding of the Sefuwa dynasty, the conversion of Mai Umme (late 11th c.), the shift of the capital from Kanem to Bornu (14th–15th c.), the apogee under Mai Idris Alooma (late 16th c.)]
-key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], [[empire]]]
+key_processes: [ [[trans-saharan-trade]], [[islamization-of-africa]], [[empire]]]
 sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, empire, early-middle-ages, west-africa]

@@ -5,7 +5,7 @@ date_start: 309 CE (acceded as an infant)
 date_end: 379 CE (died)
 period: [Late Antiquity]
 region: [iran-plateau, mesopotamia, near-east]
-affiliated_with: [[[sasanian-empire|Sasanian Empire]], the house of Sasan, [[zoroastrianism|Zoroastrianism]]]
+affiliated_with: [ [[sasanian-empire|Sasanian Empire]], the house of Sasan, [[zoroastrianism|Zoroastrianism]]]
 opposed_by: [the [[roman-empire|Roman Empire]] (Constantius II, [[julian|Julian]]), the Arabs, Sasanian Christians]
 key_events: [the wars with Rome, the persecution of Christians from 344/345 CE, the punitive expedition into Arabia, the peace of 363 CE]
 key_processes: [the long Sasanian-Roman frontier wars, the politicization of religious minorities]

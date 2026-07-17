@@ -11,7 +11,7 @@ actors_secondary: [Great Britain, Spain, the Dutch Republic]
 event_type: [treaty, political]
 scale_immediate: regional
 scale_consequential: global
-causes: [[[battles-of-saratoga-1777]], French desire to reverse the [[seven-years-war-1756|Seven Years' War]], Franklin's diplomacy]
+causes: [ [[battles-of-saratoga-1777]], French desire to reverse the [[seven-years-war-1756|Seven Years' War]], Franklin's diplomacy]
 consequences: [British declaration of war on France, the globalization of the war, French naval and military intervention, the victory at [[siege-of-yorktown-1781]]]
 sources_ingested: 1
 last_updated: 2026-06-23
@@ -49,6 +49,10 @@ prompting Britain's declaration of war on France on 17 March 1778.
 
 The **United States** (Franklin) and **France** (Louis XVI, later Rochambeau and de Grasse in the
 field) against **Great Britain**. [[lafayette|Lafayette]] became the alliance's human symbol.
+
+## Historiography
+
+The treaty text and the diplomatic correspondence of Franklin, Vergennes, and the Continental Congress are extensively documented and studied; Conway and other historians of the Revolution's global dimension treat French naval intervention as the war's decisive external factor, a view that has grown more prominent as historiography has shifted away from older Americentric narratives toward treating the conflict as a global Anglo-Bourbon war. Historians debate how much Saratoga alone triggered French intervention versus longer-running Vergennes strategy to avenge the Seven Years' War, with some scholarship suggesting France was moving toward intervention regardless of the immediate battlefield trigger. The alliance's role in French fiscal collapse and its contribution to the French Revolution is a genuinely contested causal claim, more asserted than rigorously quantified in general narrative accounts.
 
 ## Related
 

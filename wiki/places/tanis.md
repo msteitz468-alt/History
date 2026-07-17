@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [San el-Hagar, Egypt]
 coordinates: ~30.98 N, 31.88 E
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
-controlled_by: [[[libyan-dynasties-egypt]]]
+controlled_by: [ [[libyan-dynasties-egypt]]]
 events_here: []
-processes_here: [[[third-intermediate-period]]]
+processes_here: [ [[third-intermediate-period]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, north-africa, early-iron-age]

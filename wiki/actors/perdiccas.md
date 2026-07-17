@@ -5,10 +5,10 @@ date_start: c. 360 BCE
 date_end: 321 BCE
 period: [Classical Antiquity]
 region: [mediterranean-world, near-east, egypt]
-affiliated_with: [[[alexander-the-great]], [[eumenes-of-cardia]]]
-opposed_by: [[[ptolemy-i-soter]], [[antipater]], [[antigonus-i-monophthalmus]]]
-key_events: [[[wars-of-the-diadochi-323]]]
-key_processes: [[[hellenistic-world]]]
+affiliated_with: [ [[alexander-the-great]], [[eumenes-of-cardia]]]
+opposed_by: [ [[ptolemy-i-soter]], [[antipater]], [[antigonus-i-monophthalmus]]]
+key_events: [ [[wars-of-the-diadochi-323]]]
+key_processes: [ [[hellenistic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity]

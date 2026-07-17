@@ -6,8 +6,8 @@ date_end: 1792
 period: [Age of Expansion]
 region: [north-america, eastern-north-america, british-isles]
 affiliated_with: []
-opposed_by: [[[gates-horatio]], [[arnold-benedict]], [[morgan-daniel]]]
-key_events: [[[battles-of-saratoga-1777]]]
+opposed_by: [ [[gates-horatio]], [[arnold-benedict]], [[morgan-daniel]]]
+key_events: [ [[battles-of-saratoga-1777]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-23

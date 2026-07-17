@@ -1,5 +1,6 @@
 ---
 title: Treaty of Versailles (1919)
+aliases: [treaty-of-versailles]
 date_start: "1919-06-28"
 date_end: "1919-06-28"
 date_precision: exact

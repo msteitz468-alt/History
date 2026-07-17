@@ -6,9 +6,9 @@ date_end: 1125 (death of Henry V)
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
 affiliated_with: ["the German kingdom and the Holy Roman Empire", "the imperial church (Reichskirche)"]
-opposed_by: [[[gregory-vii|the reform papacy]], "the Saxon nobility", "the German princes"]
-key_events: [[[investiture-contest]], "the Synod of Sutri (1046)", "Canossa (1077)", "the Saxon wars", "the Concordat of Worms (1122)"]
-key_processes: [[[gregorian-reform]]]
+opposed_by: [ [[gregory-vii|the reform papacy]], "the Saxon nobility", "the German princes"]
+key_events: [ [[investiture-contest]], "the Synod of Sutri (1046)", "Canossa (1077)", "the Saxon wars", "the Concordat of Worms (1122)"]
+key_processes: [ [[gregorian-reform]]]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [actor, dynasty, high-middle-ages, western-europe]
@@ -17,7 +17,7 @@ tags: [actor, dynasty, high-middle-ages, western-europe]
 # The Salian Dynasty (Holy Roman Emperors, 1024–1125)
 
 The **Salians** (Salier) were the German royal and imperial dynasty that succeeded the
-[[ottonian-dynasty|Ottonians]] and ruled the [[holy-roman-empire|Holy Roman Empire]]
+[[ottonian-dynasty|Ottonians]] and ruled the Holy Roman Empire
 for a century, from the election of Conrad II in 1024 to the death of Henry V in 1125.
 [[luscombe-ncmh-v4-2004|NCMH IV]] (Hanna Vollrath, Ch. 3, "The western empire under
 the Salians") presents their century as falling into **two contrasting halves**: a

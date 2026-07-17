@@ -5,8 +5,8 @@ date_start: r. c. 960 BCE
 date_end: c. 930 BCE
 period: [Early Iron Age]
 region: [levant]
-affiliated_with: [[[hebrew-kingdom|united monarchy of Israel]], [[phoenicians|Tyre]] (Hiram), Egypt (marriage)]
-opposed_by: [[[arameans|Aram-Damascus]] (Rezon), Edom (Hadad), internal dissent (Jeroboam)]
+affiliated_with: [ [[hebrew-kingdom|united monarchy of Israel]], [[phoenicians|Tyre]] (Hiram), Egypt (marriage)]
+opposed_by: [ [[arameans|Aram-Damascus]] (Rezon), Edom (Hadad), internal dissent (Jeroboam)]
 key_events: [the building of the Temple, the twelve-district reorganization, the Ophir trade]
 key_processes: []
 sources_ingested: 2

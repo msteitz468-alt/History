@@ -5,10 +5,10 @@ date_start: c. 960 CE
 date_end: 1014 CE
 period: [Early Middle Ages]
 region: [denmark, scandinavia, british-isles]
-affiliated_with: [[[denmark|Denmark]], the Jelling dynasty]
+affiliated_with: [ [[denmark|Denmark]], the Jelling dynasty]
 opposed_by: [Æthelred II of England; his father [[harald-bluetooth|Harald Bluetooth]]]
 key_events: []
-key_processes: [[[viking-age|Viking Age]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
+key_processes: [ [[viking-age|Viking Age]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, denmark]

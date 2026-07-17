@@ -6,7 +6,7 @@ date_end: 30 BCE (death of Cleopatra VII; Ptolemaic Egypt annexed by Rome)
 period: [Classical Antiquity]
 region: [mediterranean, anatolia, levant, mesopotamia, iran-plateau, central-asia, north-africa]
 affiliated_with: [the Ptolemies (Egypt), the Seleucids (Asia), the Antigonids (Macedon), Greco-Bactrians]
-opposed_by: [[[roman-republic|Rome]], [[parthian-empire|Parthia]], rival successor kingdoms]
+opposed_by: [ [[roman-republic|Rome]], [[parthian-empire|Parthia]], rival successor kingdoms]
 key_events: [Wars of the Diadochi, founding of the Library of Alexandria, Roman conquest of the East]
 key_processes: [Hellenization, [[trade-network-formation]], [[silk-roads]], [[ancient-science-and-technology]], [[coinage]]]
 sources_ingested: 5

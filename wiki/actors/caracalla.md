@@ -5,10 +5,10 @@ date_start: 188 CE
 date_end: 217 CE
 period: [Late Antiquity]
 region: [italy, mediterranean-world, near-east]
-affiliated_with: [[[severan-dynasty]], [[roman-imperial-army]]]
-opposed_by: [[[geta]], [[parthian-empire]]]
-key_events: [[[constitutio-antoniniana-212]]]
-key_processes: [[[militarization-of-the-roman-state]], [[roman-citizenship-and-belonging]]]
+affiliated_with: [ [[severan-dynasty]], [[roman-imperial-army]]]
+opposed_by: [ [[geta]], [[parthian-empire]]]
+key_events: [ [[constitutio-antoniniana-212]]]
+key_processes: [ [[militarization-of-the-roman-state]], [[roman-citizenship-and-belonging]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]

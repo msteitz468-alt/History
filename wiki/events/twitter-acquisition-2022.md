@@ -23,6 +23,19 @@ tags: [event, contemporary, north-america, social-media, platform]
 
 Hostile acquisition of Twitter by Elon Musk for $44 billion (announced April 2022, closed October 27 2022). Musk had accumulated shares secretly, rejected board seat, and decided full ownership was required to “fix” what he saw as a dying, censored platform heading off a cliff. Post-close: “hardcore” email, ~75% staff reduction, reversal of prior moderation policies, rebrand to X, emphasis on Community Notes, relocation of HQ, advertiser flight, and positioning as free-speech town square and future everything-app/financial platform.
 
-**Narrative, Causal Analysis, Consequence Analysis, Actors, and Historiography** to be expanded from Isaacson Range 06–08 claims with verbatim quotes.
+**Narrative, Causal Analysis, Consequence Analysis, and Actors** to be expanded from Isaacson Range 06–08 claims with verbatim quotes.
+
+## Historiography
+
+Isaacson's biography, based on close access to Musk during the acquisition and its
+aftermath, is the primary secondary source and has been criticized by some reviewers for
+adopting Musk's own stated rationale (concerns over censorship and platform decline)
+somewhat uncritically rather than weighing competing accounts from former Twitter
+executives and employees, some of whom have given public and legal testimony (including
+whistleblower complaints and wrongful-termination suits) disputing Musk's characterization
+of the platform's prior state and his post-acquisition conduct. As an ongoing, very recent
+corporate and political controversy, historiography is unsettled: contemporary
+interpretation divides sharply along the same "free speech vs. platform harm" lines that
+animate the underlying dispute, and no independent scholarly consensus has yet formed.
 
 Related: [[actors/musk-elon]], [[actors/x-corp]], [[hubs/biographies/contemporary/musk-elon]].

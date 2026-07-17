@@ -41,7 +41,7 @@ Yoffee / revised view:
 
 ## Relation to Other Concepts
 
-- Closely linked to [[city-state]], [[neo-evolutionism]], [[state-formation]], [[urbanism]], and [[collapse]].
+- Closely linked to [[city-state]], [[neo-evolutionism]], [[state-formation]], [[urbanism]], and collapse.
 - Challenges older "urban revolution" (Childe) and hydraulic hypotheses (Wittfogel via Steward).
 
 ## Historiography

@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the Jade Age cultures of the Near Northeast (Liao River basin)]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[jade-age]]]
+key_processes: [ [[jade-age]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [actor, movement, neolithic, chalcolithic, china, east-asia]

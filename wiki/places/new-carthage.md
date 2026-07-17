@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [Cartagena, Spain]
 coordinates: [37.6 N, 0.99 W]
 period_active: [Classical Antiquity]
-controlled_by: [[[carthage]] (Barcids, 220s–209), [[roman-republic|Rome]] (from 209)]
+controlled_by: [ [[carthage]] (Barcids, 220s–209), [[roman-republic|Rome]] (from 209)]
 events_here: [foundation by Hasdrubal (c. 228), capture by [[scipio-africanus|Scipio]] (209)]
-processes_here: [[[seleucid-colonization|—]], silver mining, the Barcid war economy]
+processes_here: [ [[seleucid-colonization|—]], silver mining, the Barcid war economy]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [place, iberia, mediterranean-world, classical-antiquity]

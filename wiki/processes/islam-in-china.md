@@ -6,7 +6,7 @@ date_precision: century
 period: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [china, east-asia, central-asia]
 process_type: religious
-driven_by: [[[silk-roads]], [[mongol-empire]]]
+driven_by: [ [[silk-roads]], [[mongol-empire]]]
 produces: []
 sources_ingested: 1
 last_updated: 2026-07-08

@@ -6,7 +6,7 @@ coordinates: ~39.7°N, 115.9°E
 period_active: [Early Prehistory, Late Prehistory, Behavioral Modernity]
 controlled_by: []
 events_here: []
-processes_here: [[[peopling-of-east-asia]]]
+processes_here: [ [[peopling-of-east-asia]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, china, east-asia, early-prehistory]

@@ -5,8 +5,8 @@ modern_equivalent: [Famagusta / Gazimağusa, Cyprus]
 coordinates: ~35.12°N, 33.94°E
 period_active: [High Middle Ages, Late Middle Ages, Early Modern]
 controlled_by: ["Byzantine Cyprus", [[kingdom-of-cyprus|Lusignan Cyprus]], [[republic-of-genoa|Genoa (from 1373/74)]], [[republic-of-venice|Venice]], "Ottoman Empire (from 1571)"]
-events_here: [[[richard-conquest-of-cyprus-1191]], "Jerusalem coronations of Cypriot kings", [[genoese-invasion-of-cyprus-1373]], "Ottoman capture (1571)"]
-processes_here: [[[crusades]], "eastern Mediterranean commerce"]
+events_here: [ [[richard-conquest-of-cyprus-1191]], "Jerusalem coronations of Cypriot kings", [[genoese-invasion-of-cyprus-1373]], "Ottoman capture (1571)"]
+processes_here: [ [[crusades]], "eastern Mediterranean commerce"]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [place, cyprus, mediterranean, high-middle-ages, late-middle-ages]

@@ -7,7 +7,7 @@ period: [Late Middle Ages]
 region: [sweden, scandinavia]
 location: [Brunkeberg ridge, outside Stockholm]
 actors_primary: [Sten Sture the Elder, Dalecarlian miners, Stockholm burghers, the Axelssons (Thott)]
-actors_secondary: [[[denmark|King Christian I of Denmark]], the Oxenstierna and Vasa families]
+actors_secondary: [ [[denmark|King Christian I of Denmark]], the Oxenstierna and Vasa families]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational

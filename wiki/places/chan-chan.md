@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: [near Trujillo, La Libertad Region, Peru]
 coordinates: [8.1°S, 79.1°W]
 period_active: [c. 900–1470 CE]
-controlled_by: [[[chimor|Chimor (Chimú)]], later the [[inca-empire|Inka]]]
+controlled_by: [ [[chimor|Chimor (Chimú)]], later the [[inca-empire|Inka]]]
 events_here: [the building of the Chimú royal compounds, the Inka conquest of the north coast]
-processes_here: [[[andean-state-formation]]]
+processes_here: [ [[andean-state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, andes, late-middle-ages]

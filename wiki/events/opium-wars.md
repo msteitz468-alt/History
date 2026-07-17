@@ -86,6 +86,10 @@ the [[taiping-rebellion|Taiping]], [[self-strengthening|self-strengthening]], an
 [[fall-of-the-qing-1911|1911 Revolution]] — that Spence frames as China's "search for modern
 China."
 
+## Historiography
+
+Spence's account draws on both Chinese official correspondence (Lin Zexu's memorials and reports to the Daoguang emperor) and British parliamentary and mercantile records, giving a genuinely two-sided source base for the First Opium War, though Chinese-language material is comparatively thinner for the more diplomatically complex Second Opium War. Scholarly assessment of the wars has shifted substantially: an older Western historiography treated them within a "trade friction" frame that downplayed the opium trade's centrality, while post-1949 Chinese historiography and most current Western scholarship treat the wars unambiguously as fought to protect a narcotics trade — foundational to the modern Chinese "century of humiliation" narrative, itself now studied as a political-ideological construct in its own right. Debate continues over how much weight to give the Qing's own institutional failures (military technology, administrative rigidity) versus the sheer disproportion of industrial-era British naval power in explaining the swift Qing defeats.
+
 ## Related
 
 - [[qing-dynasty]] — the dynasty they humbled; [[self-strengthening]] — the Qing reform response.

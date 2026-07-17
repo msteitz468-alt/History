@@ -5,10 +5,10 @@ date_start: 550 BCE (Cyrus II defeats the Medes)
 date_end: 330 BCE (Darius III killed; conquest by Alexander)
 period: [Archaic Period, Classical Antiquity]
 region: [iran-plateau, mesopotamia, near-east, anatolia, central-asia, levant, north-africa, south-asia]
-affiliated_with: [[[zoroastrianism]], the Persians and Medes]
+affiliated_with: [ [[zoroastrianism]], the Persians and Medes]
 opposed_by: [Greek city-states, Scythians, [[alexander-the-great|Macedon]], Egypt (in revolt)]
 key_events: [conquest of Babylon 539 BCE, Greco-Persian Wars 490/480-479 BCE, Battle of Gaugamela 331 BCE]
-key_processes: [[[empire]], [[state-formation]], [[trade-network-formation]]]
+key_processes: [ [[empire]], [[state-formation]], [[trade-network-formation]]]
 sources_ingested: 8
 last_updated: 2026-07-08
 tags: [actor, empire, archaic-period, classical-antiquity, iran-plateau]

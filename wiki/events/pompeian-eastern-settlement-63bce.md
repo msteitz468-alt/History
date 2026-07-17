@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [anatolia, near-east, levant, mediterranean-world]
 location: [Pontus, Syria, Judaea, Cappadocia, Cilicia, the eastern frontier]
-actors_primary: [[[pompey]], the client kings (Ariobarzanes, Deiotarus, Tigranes II, Antiochus of Commagene, Hyrcanus II)]
+actors_primary: [ [[pompey]], the client kings (Ariobarzanes, Deiotarus, Tigranes II, Antiochus of Commagene, Hyrcanus II)]
 actors_secondary: [Aristobulus II, Phraates III of Parthia, Pharnaces, Aemilius Scaurus]
 event_type: political
 scale_immediate: civilizational

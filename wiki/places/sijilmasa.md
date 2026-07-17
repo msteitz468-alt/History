@@ -6,7 +6,7 @@ coordinates: [31.28 N, 4.27 W]
 period_active: [Early Middle Ages, High Middle Ages]
 controlled_by: [Midrarid dynasty, Fatimid Caliphate, Almoravids, Almohads]
 events_here: [rescue of al-Mahdi (909)]
-processes_here: [[[trans-saharan-trade]]]
+processes_here: [ [[trans-saharan-trade]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [place, north-africa, west-africa, early-middle-ages]

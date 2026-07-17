@@ -6,7 +6,7 @@ date_end: 328
 period: [late-antiquity]
 region: [levant, near-east, arabian-peninsula]
 affiliated_with: []
-opposed_by: [[[himyar]]]
+opposed_by: [ [[himyar]]]
 key_events: []
 key_processes: []
 sources_ingested: 1

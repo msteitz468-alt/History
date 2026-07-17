@@ -25,4 +25,15 @@ Tesla Motors founded July 2003 by Martin Eberhard and Marc Tarpenning to build h
 
 **Full narrative and analysis** to be expanded from Isaacson claims.
 
+## Historiography
+
+Isaacson's biography is the main secondary source, but the founding
+narrative is genuinely contested: Eberhard and Tarpenning have publicly disputed being
+characterized as merely early employees rather than co-founders, and litigation between
+Musk and Eberhard in the late 2000s produced a settlement that allowed all five
+(Eberhard, Tarpenning, Musk, Straubel, and Ian Wright) to be legally recognized as
+co-founders. This makes Tesla's founding a live example of contested credit/authorship
+in recent corporate history rather than a settled factual record; Isaacson's account
+reflects Musk's perspective more heavily given his role as primary interview subject.
+
 Related: [[actors/tesla-inc]], [[actors/musk-elon]], [[actors/eberhard-martin]].

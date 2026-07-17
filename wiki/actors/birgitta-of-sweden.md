@@ -5,7 +5,7 @@ date_start: c. 1303 CE
 date_end: 1373 CE
 period: [Late Middle Ages]
 region: [sweden, scandinavia, mediterranean]
-affiliated_with: [[[sweden|Sweden]]; the Order of Our Saviour (Bridgettines); Vadstena]
+affiliated_with: [ [[sweden|Sweden]]; the Order of Our Saviour (Bridgettines); Vadstena]
 opposed_by: []
 key_events: []
 key_processes: []

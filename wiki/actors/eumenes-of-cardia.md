@@ -5,10 +5,10 @@ date_start: c. 362 BCE
 date_end: 316 BCE
 period: [Classical Antiquity]
 region: [anatolia, near-east, iran-plateau]
-affiliated_with: [[[perdiccas]], [[polyperchon]], [[alexander-the-great]]]
-opposed_by: [[[antigonus-i-monophthalmus]], [[antipater]], [[craterus]]]
-key_events: [[[wars-of-the-diadochi-323]]]
-key_processes: [[[hellenistic-world]]]
+affiliated_with: [ [[perdiccas]], [[polyperchon]], [[alexander-the-great]]]
+opposed_by: [ [[antigonus-i-monophthalmus]], [[antipater]], [[craterus]]]
+key_events: [ [[wars-of-the-diadochi-323]]]
+key_processes: [ [[hellenistic-world]]]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, anatolia]

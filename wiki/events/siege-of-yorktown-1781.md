@@ -7,7 +7,7 @@ period: [Age of Expansion]
 region: [north-america, eastern-north-america, atlantic-world]
 location: [Yorktown, Virginia]
 actors_primary: [Franco-American forces, the British Army]
-actors_secondary: [[[washington-george]], [[cornwallis-charles]], comte de Rochambeau, comte de Grasse]
+actors_secondary: [ [[washington-george]], [[cornwallis-charles]], comte de Rochambeau, comte de Grasse]
 event_type: [battle]
 scale_immediate: regional
 scale_consequential: global

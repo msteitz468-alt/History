@@ -6,12 +6,12 @@ date_precision: year
 period: [Classical Antiquity]
 region: [north-africa, mediterranean-world]
 location: [Carthage and its African hinterland]
-actors_primary: [[[roman-republic]], [[carthage]], [[scipio-aemilianus]]]
-actors_secondary: [[[masinissa]], Hasdrubal, Cato the Elder, Scipio Nasica]
+actors_primary: [ [[roman-republic]], [[carthage]], [[scipio-aemilianus]]]
+actors_secondary: [ [[masinissa]], Hasdrubal, Cato the Elder, Scipio Nasica]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[nature-of-roman-imperialism]], Masinissa's encroachments and Carthage's armed resistance (the technical treaty breach), the Roman appetite for a profitable and glorious war, Cato's agitation]
+causes: [ [[nature-of-roman-imperialism]], Masinissa's encroachments and Carthage's armed resistance (the technical treaty breach), the Roman appetite for a profitable and glorious war, Cato's agitation]
 consequences: [the annihilation of Carthage, the province of Africa, the end of Punic high culture, the demonstration of Roman ruthlessness]
 sources_ingested: 6
 last_updated: 2026-07-08

@@ -5,10 +5,10 @@ date_start: ~250 CE
 date_end: ~710 CE
 period: [Late Antiquity]
 region: [japan, east-asia]
-affiliated_with: [[[yayoi-culture]], [[yamato-japan]], [[kaya]], [[paekche]]]
+affiliated_with: [ [[yayoi-culture]], [[yamato-japan]], [[kaya]], [[paekche]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
+key_processes: [ [[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, movement, late-antiquity, japan, east-asia]

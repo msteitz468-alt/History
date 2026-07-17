@@ -6,7 +6,7 @@ coordinates: [~33.9° S, 18.4° E (Cape Town)]
 period_active: [Early Modern, Age of Expansion, Long 19th Century]
 controlled_by: [Dutch East India Company (1652–1795), Britain (1795–1803, 1806–1910)]
 events_here: [Dutch settlement (1652), Khoisan war (1659), frontier wars with the Xhosa (from 1779), British conquest (1806), the mineral revolution (from 1867)]
-processes_here: [[[atlantic-slave-trade|slavery]], settler colonialism, the Cape frontier, [[southern-african-mineral-revolution|mineral revolution]]]
+processes_here: [ [[atlantic-slave-trade|slavery]], settler colonialism, the Cape frontier, [[southern-african-mineral-revolution|mineral revolution]]]
 sources_ingested: 3
 last_updated: 2026-06-12
 tags: [place, southern-africa, sub-saharan-africa, early-modern]

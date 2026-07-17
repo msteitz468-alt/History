@@ -8,7 +8,7 @@ region: [china, east-asia]
 affiliated_with: [the Zhou royal house (Ji clan), the regency of King Cheng, the state of Lu]
 opposed_by: [the rebellious "Three Guards" and Shang remnants under Wu Geng]
 key_events: ["regency for the young King Cheng", "suppression of the eastern rebellion", "the founding of the eastern capital at Luo", "voluntary surrender of power"]
-key_processes: [[[mandate-of-heaven]], the consolidation of the Western Zhou]
+key_processes: [ [[mandate-of-heaven]], the consolidation of the Western Zhou]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [actor, person, late-bronze-age, early-iron-age, china, east-asia]

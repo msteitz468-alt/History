@@ -6,7 +6,7 @@ coordinates: ~2°S 20°E (approximate sub-Saharan center)
 period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: [African kingdoms and networks, then European colonial empires (the partition), then independent nation states]
 events_here: [the peak and abolition of the [[atlantic-slave-trade|Atlantic slave trade]], the rise of the Zulu kingdom, the Sahelian jihads, the partition of Africa, decolonization]
-processes_here: [[[atlantic-slave-trade]], [[imperialism]], [[decolonization]], [[nationalism]]]
+processes_here: [ [[atlantic-slave-trade]], [[imperialism]], [[decolonization]], [[nationalism]]]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [place, sub-saharan-africa, long-19th-century]

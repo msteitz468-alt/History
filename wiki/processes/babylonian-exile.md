@@ -6,7 +6,7 @@ date_precision: year
 period: [Archaic Period]
 region: [levant, mesopotamia]
 process_type: [religious, demographic, political]
-driven_by: [[[neo-babylonian-empire|Neo-Babylonian]] deportation policy, [[nebuchadnezzar-ii|Nebuchadnezzar II]], the destruction of [[fall-of-jerusalem-587bce|Jerusalem]]]
+driven_by: [ [[neo-babylonian-empire|Neo-Babylonian]] deportation policy, [[nebuchadnezzar-ii|Nebuchadnezzar II]], the destruction of [[fall-of-jerusalem-587bce|Jerusalem]]]
 produces: [the Jewish diaspora, the reshaping of Israelite religion, the Hebrew scriptures, the Second Temple community]
 sources_ingested: 1
 last_updated: 2026-06-11

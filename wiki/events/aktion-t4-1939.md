@@ -6,12 +6,12 @@ date_precision: year
 period: [World Wars Era]
 region: [central-europe]
 location: [Germany, annexed Poland, killing centers at Grafeneck, Brandenburg, Hartheim, Sonnenstein, Bernburg, Hadamar]
-actors_primary: [[[adolf-hitler]], [[nazi-germany]], the Chancellery of the Führer (Philipp Bouhler, Karl Brandt)]
-actors_secondary: [[[schutzstaffel-ss]], German psychiatric institutions, protesting clergy (Bishop Galen)]
+actors_primary: [ [[adolf-hitler]], [[nazi-germany]], the Chancellery of the Führer (Philipp Bouhler, Karl Brandt)]
+actors_secondary: [ [[schutzstaffel-ss]], German psychiatric institutions, protesting clergy (Bishop Galen)]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[nazi-racial-hygiene-program-1933-1939|the prewar racial-hygiene program]], Nazi eugenic ideology of "life unworthy of life", the cover of war beginning September 1939]
+causes: [ [[nazi-racial-hygiene-program-1933-1939|the prewar racial-hygiene program]], Nazi eugenic ideology of "life unworthy of life", the cover of war beginning September 1939]
 consequences: [murder of some 200,000 institutionalized patients by 1945, development of gassing techniques and personnel later transferred to [[operation-reinhard-1942|Operation Reinhard]], the August 1941 "halt" after public protest followed by decentralized continuation]
 sources_ingested: 1
 last_updated: 2026-07-02

@@ -5,10 +5,10 @@ date_start: fl. c. 1190 BCE
 date_end: c. 1155 BCE
 period: [Late Bronze Age, Bronze Age Collapse]
 region: [iran-plateau, khuzistan, mesopotamia]
-affiliated_with: [[[elam]], Shutrukid dynasty]
-opposed_by: [[[kassites|Kassite Babylon]]]
+affiliated_with: [ [[elam]], Shutrukid dynasty]
+opposed_by: [ [[kassites|Kassite Babylon]]]
 key_events: [the Elamite sack of Babylon (~1158 BCE)]
-key_processes: [[[state-formation]]]
+key_processes: [ [[state-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, bronze-age-collapse, iran-plateau]

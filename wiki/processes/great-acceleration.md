@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Cold War, Contemporary]
 region: [global]
 process_type: [environmental, demographic, economic, technological]
-driven_by: [[[fossil-fuel-energy-transition]], [[industrialization]], [[demographic-transition]], mass consumption, post-war economic boom]
-produces: [[[anthropocene]], climate change, mass species extinction, planetary-scale pollution, [[environmentalism]]]
+driven_by: [ [[fossil-fuel-energy-transition]], [[industrialization]], [[demographic-transition]], mass consumption, post-war economic boom]
+produces: [ [[anthropocene]], climate change, mass species extinction, planetary-scale pollution, [[environmentalism]]]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [process, cold-war, contemporary, global]

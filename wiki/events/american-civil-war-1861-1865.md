@@ -1,5 +1,6 @@
 ---
 title: American Civil War
+aliases: [american-civil-war-1861]
 date_start: "1861-04-12"
 date_end: "1865-05"
 date_precision: year

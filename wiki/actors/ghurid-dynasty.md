@@ -6,7 +6,7 @@ date_end: "1215"
 period: [High Middle Ages]
 region: [central-asia, south-asia]
 affiliated_with: []
-opposed_by: [[[ghaznavid-dynasty]]]
+opposed_by: [ [[ghaznavid-dynasty]]]
 key_events: []
 key_processes: []
 sources_ingested: 1

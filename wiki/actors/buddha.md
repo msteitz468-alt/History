@@ -8,7 +8,7 @@ region: [south-asia]
 affiliated_with: [the sangha (monastic order), the mahajanapadas of the Ganga valley]
 opposed_by: [Vedic ritual orthodoxy and brahmanical authority]
 key_events: [founding of Buddhism, formation of the sangha, the First Buddhist Council]
-key_processes: [[[buddhism]], [[axial-age]], [[vedic-age|the Second Urbanization]]]
+key_processes: [ [[buddhism]], [[axial-age]], [[vedic-age|the Second Urbanization]]]
 sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, south-asia]

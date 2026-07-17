@@ -20,4 +20,7 @@ tags: [event, world-wars-era, cold-war, southeast-asia, battle]
 
 Decisive siege battle (Nov 1953 – 7 May 1954) in which Viet Minh forces under Giap defeated the French garrison at the valley base of Dien Bien Phu. French airhead isolated by artillery, trenches, and massive porter logistics ("long-haired army"). Victory provided leverage at Geneva but Ho accepted partition compromise.
 
+## Historiography
+French accounts (official after-action reports, de Castries's own testimony, and later French military historiography) initially emphasized logistical impossibility and Viet Minh numerical superiority; Vietnamese and later Western scholarship, including Duiker's biography of Ho Chi Minh, has drawn on Vietnamese Communist Party records and Giap's own writings to reconstruct the "long-haired army" porter logistics and the deliberate, artillery-heavy siege doctrine that outmatched French expectations. Casualty figures on both sides vary across sources and remain imprecisely reconciled. The battle's political meaning — a French military defeat versus a demonstration of successful anti-colonial conventional warfare — remains debated in relation to how directly it should be read as forcing the Geneva settlement versus one factor among French domestic and international pressures.
+
 See also: [[actors/ho-chi-minh]], [[hubs/warfare/cold-war/vietnam-war]], [[events/geneva-accords-1954]], [[sources/duiker-ho-chi-minh-a-life-2000]].

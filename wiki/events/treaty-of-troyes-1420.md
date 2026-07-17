@@ -23,3 +23,7 @@ tags: [event, late-middle-ages, western-europe]
 The Treaty of Troyes (21 May 1420) was the landmark diplomatic agreement of the **[[hundred-years-war-1337|Hundred Years War]]** that sought to unite the crowns of France and England under a single dual monarchy.
 
 *(To be filled by subagents)*
+
+## Historiography
+
+The treaty's text survives as an official diplomatic instrument, but its political context is narrated through partisan chronicles: Monstrelet and other Burgundian-aligned writers frame it as a legitimate settlement securing peace, while later French royal historiography (aligned with the eventually victorious Valois cause) treats it as a shameful disinheritance imposed under duress on an incapacitated king. Queen Isabeau of Bavaria's role in accepting the treaty — traditionally condemned in French national memory as a betrayal of her son the Dauphin — has been substantially reassessed by modern historians (notably Rachel Gibbons), who argue her actions are better explained by the political constraints of Charles VI's recurring incapacity than by personal malice or disloyalty. The treaty's legal validity was always contested by the disinherited Dauphin's party, and its practical unraveling over the following decades (culminating in the Treaty of Arras, 1435) is itself central to how historians assess whether Troyes represented a genuine settlement or an unsustainable diplomatic fiction.

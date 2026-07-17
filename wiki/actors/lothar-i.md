@@ -5,7 +5,7 @@ date_start: 795 CE
 date_end: 855 CE
 period: [Early Middle Ages]
 region: [western-europe, mediterranean]
-affiliated_with: [[[carolingian-empire]], the imperial title, Middle Francia, the kingdom of Italy]
+affiliated_with: [ [[carolingian-empire]], the imperial title, Middle Francia, the kingdom of Italy]
 opposed_by: [his brothers Louis the German and Charles the Bald; rebel against his father Louis the Pious]
 key_events: [made co-emperor 817, defeat at [[battle-of-fontenoy-841]], [[treaty-of-verdun-843]], abdication 855]
 key_processes: [the fragmentation of the Carolingian empire]

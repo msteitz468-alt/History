@@ -6,7 +6,7 @@ coordinates: [27.1 S, 109.4 W]
 period_active: [High Middle Ages, Late Middle Ages, Early Modern]
 controlled_by: [Rapa Nui chiefly districts (kainga)]
 events_here: [Polynesian settlement c. 800–700 BP, the moai-carving era c. 800–500 BP, deforestation, European contact (1722)]
-processes_here: [[[pacific-voyaging-and-settlement]]]
+processes_here: [ [[pacific-voyaging-and-settlement]]]
 sources_ingested: 1
 last_updated: 2026-06-10
 tags: [place, polynesia, late-middle-ages]

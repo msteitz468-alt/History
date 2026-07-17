@@ -29,4 +29,16 @@ Steve Jobs died at his home in Palo Alto, California, on 5 October 2011 at the a
 
 **Consequence Analysis**: Tim Cook had been prepared as successor; Apple continued executing on the pipeline Jobs had set (iPhone 4S launch days later). The event crystallized public perception of Jobs as a historic figure of technology and design. Long-term: Apple’s market value and cultural influence continued to grow, while debates over post-Jobs innovation and the sustainability of his methods intensified.
 
+## Historiography
+
+Walter Isaacson's authorized biography (2011), based on over 40
+interviews with Jobs conducted in his final years plus interviews with family, colleagues,
+and rivals, is the primary source and was written with Jobs's knowledge he would not
+control its content. It is generally considered candid (including unflattering material)
+but reflects the perspective of Jobs's inner circle and Jobs's own late-life narration of
+his life; some associates have since disputed specific characterizations. Medical details
+draw on public statements and Isaacson's access rather than clinical records. As a very
+recent event, independent scholarly historiography is still thin; most secondary treatment
+to date is journalistic and biographical rather than academic.
+
 **Related**: [[actors/jobs-steve]] · [[actors/powell-laurene]] · [[actors/apple-inc]] · [[sources/isaacson-steve-jobs-2011]]

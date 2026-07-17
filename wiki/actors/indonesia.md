@@ -8,7 +8,7 @@ region: [southeast-asia]
 affiliated_with: [the nationalist movement (PNI), [[sukarno]], the Republic, ASEAN]
 opposed_by: [the [[dutch-east-indies|Dutch colonial state]], the Japanese occupation, regional separatisms]
 key_events: [the [[japanese-occupation-southeast-asia|Japanese occupation 1942-45]], the independence declaration 1945, the national revolution 1945-49, the 1965 mass killings, the fall of Suharto 1998]
-key_processes: [[[southeast-asian-nationalism]], [[decolonization-southeast-asia]], [[islamization-of-southeast-asia]]]
+key_processes: [ [[southeast-asian-nationalism]], [[decolonization-southeast-asia]], [[islamization-of-southeast-asia]]]
 sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, state, world-wars-era, cold-war, contemporary, southeast-asia]

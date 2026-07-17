@@ -6,9 +6,9 @@ date_end: 289 BCE
 period: [Classical Antiquity]
 region: [sicily, mediterranean, north-africa]
 affiliated_with: [Syracuse, [[ptolemy-i-soter|Ptolemy I]] (marriage), [[pyrrhus-of-epirus|Pyrrhus]], [[demetrius-i-poliorcetes|Demetrius]]]
-opposed_by: [[[carthage]], the Syracusan oligarchs, the Sicilian-Greek exiles]
+opposed_by: [ [[carthage]], the Syracusan oligarchs, the Sicilian-Greek exiles]
 key_events: [the coup of 316/15, the African campaign (310–307)]
-key_processes: [[[hellenistic-monarchy]], [[western-greek-tyranny]]]
+key_processes: [ [[hellenistic-monarchy]], [[western-greek-tyranny]]]
 sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, sicily]

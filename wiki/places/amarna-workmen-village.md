@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: Tell el-Amarna, Minya Governorate, Egypt
 coordinates: ~27.63 N, 30.92 E
 period_active: [Late Bronze Age]
-controlled_by: [[[actors/new-kingdom-egypt]] under [[actors/akhenaten]]]
+controlled_by: [ [[actors/new-kingdom-egypt]] under [[actors/akhenaten]]]
 events_here: []
-processes_here: [[[concepts/atenism]]]
+processes_here: [ [[concepts/atenism]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [place, north-africa, late-bronze-age]

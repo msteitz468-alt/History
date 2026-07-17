@@ -6,13 +6,13 @@ date_precision: year
 period: [Early Iron Age, Archaic Period]
 region: [china, east-asia]
 location: [the Yellow and Huai river basins; the Central Plains and surrounding states]
-actors_primary: [[[zhou-dynasty|the Eastern Zhou kings]], the states of Qi, Jin, Chu, Qin, Wu, Yue, Lu]
-actors_secondary: [[[confucius]], Guan Zhong, Lord Huan of Qi, Lord Wen of Jin (Chong'er)]
+actors_primary: [ [[zhou-dynasty|the Eastern Zhou kings]], the states of Qi, Jin, Chu, Qin, Wu, Yue, Lu]
+actors_secondary: [ [[confucius]], Guan Zhong, Lord Huan of Qi, Lord Wen of Jin (Chong'er)]
 event_type: transition
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [the sack of the Western Zhou capital in 771 BCE, the decay of Zhou royal power, the rise of peripheral regional states]
-consequences: [[[warring-states-period-475-bce]], the rise of the shi service class, [[confucianism]], the ba hegemon system]
+consequences: [ [[warring-states-period-475-bce]], the rise of the shi service class, [[confucianism]], the ba hegemon system]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [event, transition, early-iron-age, archaic-period, china, east-asia]

@@ -8,7 +8,7 @@ region: [andes, iberia]
 affiliated_with: [the Castilian Crown, Diego de Almagro (then rival), his Pizarro kinsmen]
 opposed_by: ["[[inca-empire|the Inca Empire]]", Atawallpa, Manco Inca, the Almagro faction]
 key_events: ["[[spanish-conquest-of-peru-1532|the conquest of Peru (1532–33)]]", "Cajamarca (1532)", "the founding of Lima (1535)", "the Peruvian civil wars"]
-key_processes: [[[colonial-latin-america]]]
+key_processes: [ [[colonial-latin-america]]]
 sources_ingested: 1
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, andes]

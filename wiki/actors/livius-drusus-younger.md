@@ -8,7 +8,7 @@ region: [italy, mediterranean-world]
 affiliated_with: [the Roman Senate; the optimates (initially); the Italian allies]
 opposed_by: [the consul Lucius Marcius Philippus, the equestrian publicani]
 key_events: [the tribunate of 91 BCE, [[social-war-91-88bce|the Social War]]]
-key_processes: [[[optimates-populares]], [[roman-italian-alliance]]]
+key_processes: [ [[optimates-populares]], [[roman-italian-alliance]]]
 sources_ingested: 1
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]

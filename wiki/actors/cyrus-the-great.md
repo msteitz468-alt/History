@@ -5,10 +5,10 @@ date_start: c. 600 BCE (birth, approximate)
 date_end: 530 BCE (killed campaigning against the Massagetae)
 period: [Archaic Period]
 region: [iran-plateau, mesopotamia, near-east, anatolia]
-affiliated_with: [[[achaemenid-empire]], the Persians, Anšan]
+affiliated_with: [ [[achaemenid-empire]], the Persians, Anšan]
 opposed_by: [the Medes, Lydia (Croesus), [[neo-babylonian-empire|Babylon]] (Nabonidus), the Massagetae]
 key_events: [defeat of the Medes 550 BCE, conquest of Lydia, conquest of Babylon 539 BCE]
-key_processes: [[[empire]], [[state-formation]]]
+key_processes: [ [[empire]], [[state-formation]]]
 sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, archaic-period, iran-plateau]

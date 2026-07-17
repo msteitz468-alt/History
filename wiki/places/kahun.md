@@ -4,9 +4,9 @@ place_type: city
 modern_equivalent: el-Lahun, Faiyum, Egypt
 coordinates: ~29.23 N, 30.97 E
 period_active: [Middle Kingdom]
-controlled_by: [[[actors/middle-kingdom-egypt]]]
+controlled_by: [ [[actors/middle-kingdom-egypt]]]
 events_here: []
-processes_here: [[[concepts/provider-state]]]
+processes_here: [ [[concepts/provider-state]]]
 sources_ingested: 1
 last_updated: 2026-06-26
 tags: [place, north-africa, middle-kingdom-egypt]

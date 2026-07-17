@@ -4,7 +4,7 @@ place_type: city
 modern_equivalent: [Hisartepe near Ergili, on Lake Manyas, north-west Turkey]
 coordinates: [40.18 N, 28.10 E]
 period_active: [Archaic Period, Classical Antiquity]
-controlled_by: [[[achaemenid-empire|the Achaemenid Persian empire]] — satrapal seat of the Hellespontine satrapy (Daskylitis)]
+controlled_by: [ [[achaemenid-empire|the Achaemenid Persian empire]] — satrapal seat of the Hellespontine satrapy (Daskylitis)]
 events_here: [the establishment of the satrapal residence; the assassination of the satrap Mitrobates by Oroetes (522); the hereditary satrapy of the Pharnacid house from 479]
 processes_here: [Achaemenid provincial administration, the Greco-Persian artistic synthesis]
 sources_ingested: 1

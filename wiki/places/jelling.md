@@ -36,7 +36,7 @@ Jelling marks the transition from achieved to ascribed kingship and the use of m
 
 **produced:** first written reference to "Denmark"; model of royal monumental propaganda.
 
-**See also:** [[early-middle-ages]], [[pre-viking-and-viking-age-denmark]] (if created), [[harald-bluetooth]].
+**See also:** [[early-middle-ages]], pre viking and viking age denmark (if created), [[harald-bluetooth]].
 
 Grounded exclusively in Bogucki & Crabtree (eds.) 2004 range 07 cache. Links to pre-established or exclusively owned titles only.
 

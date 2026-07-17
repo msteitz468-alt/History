@@ -5,10 +5,10 @@ date_start: ~1720 BCE (occupation of Avaris)
 date_end: ~1550 BCE (expulsion by [[ahmose-i|Ahmose I]])
 period: [Middle Bronze Age]
 region: [north-africa, levant]
-affiliated_with: [[[amorites|West-Semitic Asiatics]], the princedom of Kush (ally)]
+affiliated_with: [ [[amorites|West-Semitic Asiatics]], the princedom of Kush (ally)]
 opposed_by: [the Theban [[new-kingdom-egypt|17th/18th Dynasty]], [[ahmose-i|Ahmose I]], Kamose, Seqenenre Tao II]
 key_events: [occupation of [[avaris|Avaris]] (~1720 BCE), occupation of Memphis (~1674 BCE), expulsion by [[ahmose-i|Ahmose I]] (~1550 BCE)]
-key_processes: [[[second-intermediate-period]], [[migration-in-human-history]]]
+key_processes: [ [[second-intermediate-period]], [[migration-in-human-history]]]
 sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, dynasty, middle-bronze-age, north-africa, levant]

@@ -5,7 +5,7 @@ modern_equivalent: [Gotland, Sweden]
 coordinates: ~57.5°N, 18.5°E (Visby)
 period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [autonomous Gotlandic farmer-traders; nominally under [[sweden|Sweden]]; Visby a Hanseatic town]
-processes_here: [[[viking-age|Viking Age]], [[scandinavian-urbanisation|Scandinavian urbanisation]]]
+processes_here: [ [[viking-age|Viking Age]], [[scandinavian-urbanisation|Scandinavian urbanisation]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [place, scandinavia, sweden, high-middle-ages]

@@ -6,7 +6,7 @@ date_precision: disputed
 period: [Early Middle Ages]
 region: [balkans, eastern-europe]
 location: [Bulgaria (Pliska)]
-actors_primary: [[[first-bulgarian-empire|Khan Boris I (Michael)]], [[byzantine-empire|Byzantium]], Pope Nicholas I]
+actors_primary: [ [[first-bulgarian-empire|Khan Boris I (Michael)]], [[byzantine-empire|Byzantium]], Pope Nicholas I]
 actors_secondary: [Louis the German, the Frankish church, the patriarch Photius]
 event_type: religious
 scale_immediate: regional

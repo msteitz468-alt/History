@@ -6,9 +6,9 @@ date_end: 476 CE (deposition of Romulus Augustulus in the West; East continues a
 period: [Late Antiquity, Early Middle Ages]
 region: [mediterranean, western-europe, north-africa, levant, anatolia, balkans, britain]
 affiliated_with: [the Roman state, the imperial army, the Senate]
-opposed_by: [[[parthian-empire|Parthia]] and [[sasanian-empire|Sasanian Persia]], Germanic peoples, [[hunnic-migrations|Huns]]]
+opposed_by: [ [[parthian-empire|Parthia]] and [[sasanian-empire|Sasanian Persia]], Germanic peoples, [[hunnic-migrations|Huns]]]
 key_events: [Pax Romana, Crisis of the Third Century, Constantine and Christianization, [[fall-of-the-western-roman-empire-476|fall of the West 476 CE]]]
-key_processes: [[[empire]], [[silk-roads]], [[christianity|Christianization]], [[slavery]], [[trade-network-formation]]]
+key_processes: [ [[empire]], [[silk-roads]], [[christianity|Christianization]], [[slavery]], [[trade-network-formation]]]
 sources_ingested: 10
 last_updated: 2026-07-08
 tags: [actor, empire, late-antiquity, mediterranean, western-europe, rome]

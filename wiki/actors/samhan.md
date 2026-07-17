@@ -5,10 +5,10 @@ date_start: ~300 BCE
 date_end: ~300 CE
 period: [Classical Antiquity, Late Antiquity]
 region: [korea, east-asia]
-affiliated_with: [[[mumun-culture]], [[lelang-commandery]], [[korea-three-kingdoms]]]
+affiliated_with: [ [[mumun-culture]], [[lelang-commandery]], [[korea-three-kingdoms]]]
 opposed_by: []
 key_events: [unknown]
-key_processes: [[[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]], [[east-asian-bronze-metallurgy]]]
+key_processes: [ [[pen-insular-state-formation]], [[yellow-sea-interaction-sphere]], [[east-asian-bronze-metallurgy]]]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [actor, late-antiquity, korea, east-asia]

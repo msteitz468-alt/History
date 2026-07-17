@@ -1,5 +1,6 @@
 ---
 title: "Tumulus Culture"
+aliases: [tumulus]
 concept_type: archaeological / etic (culture-historical construct)
 origin: Standard term in central European archaeology for the Middle Bronze Age complex of round-barrow (tumulus) burials with rich grave goods, succeeding the Early Bronze Age Unetice phase; part of the post-Beaker prestige economy.
 applies_to_periods: ["Early Bronze Age", "Middle Bronze Age"]
