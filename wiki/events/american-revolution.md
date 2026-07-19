@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: global
 causes: [post-Seven-Years-War British taxation of the colonies, "no taxation without representation", Enlightenment ideas of liberty and republicanism, colonial self-government]
 consequences: [the independence of the United States, the first modern democratic republic, a model for the French and Atlantic revolutions, the British fiscal/imperial reorientation]
-sources_ingested: 3
-last_updated: "2026-07-03"
+sources_ingested: 4
+last_updated: "2026-07-19"
 tags: [event, age-of-expansion, north-america, atlantic-world]
 ---
 # The American Revolution (1765–1783)
@@ -77,15 +77,19 @@ professionalization at [[valley-forge-1777|Valley Forge]] and the proving fight 
 coalition victory at [[siege-of-yorktown-1781|Yorktown]] and the [[treaty-of-paris-1783|
 Treaty of Paris]].
 
-The *West Point History* stresses that the **French were indispensable**
-
-## Historiography
-
-The Revolution is foundational to US national narrative and extensively covered in Cambridge and specialist series. Ellis (*The Great Contradiction*, 2025) reframes it around the "great contradiction": the language of liberty ("all men are created equal") coexisted with slaveowning by its authors and explicit constitutional protections for slavery. "If these solemn truths... are self-evident, unless we can show that the African race are not men, we can hardly express the amazement..." (contemporary David Cooper). The compromises at the subsequent Constitutional Convention (three-fifths, fugitive slave, slave trade) are presented as active choices, not mere necessities. "The only way to end slavery was to create a national government... but placing emancipation on the agenda... instantly destroyed any realistic prospect." Washington and Jefferson receive particular scrutiny for private regrets vs. public inaction or deferral. Indian removal is the paired "tragic" failure. Primary sources: founders' papers, Madison Notes, contemporary pamphlets. Recent revisionism stresses contingency, Native agency/power structures, and the avoidable (Shakespearean) character of the moral failures. Collection coverage of the ideological/moral dimension was thin; this source supplies a focused corrective anchor.
-
-See also [[concepts/slavery-in-the-american-founding]], [[events/constitutional-convention-1787]], [[sources/ellis-the-great-contradiction-2025]].: "The Continental
+The *West Point History* stresses that the **French were indispensable**: "The Continental
 Army did not win the war in America; it was on the winning side." Its achievement was to
 **survive** until foreign intervention — above all French sea power — could tip the balance.
+
+### Political path, 1765–1776 (Schiff layer)
+
+[[schiff-revolutionary-samuel-adams-2022|Schiff]] reframes the fifteen-year lurch from “spotlessly loyal” to “stark, staring mad” through [[adams-samuel|Samuel Adams]]’s career: Stamp Act overture not finale; mutual misconstruction dance (every imperial act as oppression / every objection as stride to independence); structural ignorance (no dedicated colonial department before 1768; dispatches unopened for years; Stamp Act drafted without understanding American judicial procedures; Massachusetts charter silent on Parliament).
+
+**Townshend** (king’s assent 26 June 1767): import duties on glass, paint, etc.; ~£40,000 anticipated for governors’/justices’ salaries—political as much as financial reaffirmation of parliamentary sovereignty; five-man American customs board sited in Boston. Dickinson’s *Letters from a Farmer* (Dec 1767–Feb 1768) became the intellectual backbone Adams leaned on for years. Circular Letter and the demand to rescind united America more than the letter itself; nonimportation—the tool that had defeated the Stamp Act—applied then faltered on partial-repeal rumors; Adams insisted the boycott continue until the *right* itself was repealed; New York defected July 1770, Philadelphia mid-October; Boston kept the boycott of dutied tea.
+
+[[committees-of-correspondence]] (from Nov 1772) wired the colony; the “mad action” of 16 December 1773 threw the switch. Port Act and broader **Coercive/Intolerable Acts** (Port closure 1 June; Massachusetts Government Act; Administration of Justice Act) aimed to prevent Bernard/Hutchinson-style aggravations by constitutional redesign. **First Continental Congress** (5 Sept–26 Oct 1774): City Tavern walk to Carpenter’s Hall; Peyton Randolph chair; ~56 delegates; Continental Association signed 20 October. **Suffolk Resolves** (Warren; Revere courier): noncompliance, sanctions, independent Massachusetts government/militia—Congress endorsed as written. Independence still a taboo word mid-1774; Olive Branch (July 1775) met “insolent contempt”; king declared colonies in rebellion.
+
+Resistance as art between redress and revolt; newspaper “cannonade” not the shelling troops prepared for; invented commemorative calendar (14 August Stamp Act riot anniversary; 5 March Massacre → 4 July).
 
 ## Actors
 
@@ -101,6 +105,8 @@ Debated as to how "revolutionary" it was — a conservative defense of existing 
 liberties, or a genuinely radical founding (Bailyn's ideological origins; Wood's
 "radicalism"). Its limits are stressed too: slavery survived, and "all men are created equal"
 excluded the enslaved, women, and Native peoples — tensions that shaped later American history.
+
+The Revolution is foundational to US national narrative and extensively covered in Cambridge and specialist series. Ellis (*The Great Contradiction*, 2025) reframes it around the "great contradiction": the language of liberty ("all men are created equal") coexisted with slaveowning by its authors and explicit constitutional protections for slavery. "If these solemn truths... are self-evident, unless we can show that the African race are not men, we can hardly express the amazement..." (contemporary David Cooper). The compromises at the subsequent Constitutional Convention (three-fifths, fugitive slave, slave trade) are presented as active choices, not mere necessities. "The only way to end slavery was to create a national government... but placing emancipation on the agenda... instantly destroyed any realistic prospect." Washington and Jefferson receive particular scrutiny for private regrets vs. public inaction or deferral. Indian removal is the paired "tragic" failure. Primary sources: founders' papers, Madison Notes, contemporary pamphlets. Recent revisionism stresses contingency, Native agency/power structures, and the avoidable (Shakespearean) character of the moral failures. Collection coverage of the ideological/moral dimension was thin; this source supplies a focused corrective anchor. See also [[concepts/slavery-in-the-american-founding]], [[events/constitutional-convention-1787]], [[sources/ellis-the-great-contradiction-2025]].
 
 **Hartz's consensus reading (1955).** [[hartz-louis|Louis Hartz]] ([[hartz-liberal-tradition-1955]])
 reframed 1776 as a revolution *without* a social revolution: America had no ancien régime to
@@ -118,9 +124,12 @@ society — "their conclusions were 'right' only because their premises were wro
 rebuts the Beardian "social revolution" reading and underpins [[consensus-history]] and the
 [[lockean-consensus]].
 
+**Schiff (2022) on process and misapprehension.** Adams’s sideways, looping, secretive business culminating in 1776; republicanism as secular, relaxed Puritanism (Gordon Wood via Schiff)—church without bishop → state without king. Scholarly superlatives: Wills (most influential of first two Congresses); Morgan (probably no American did more to bring on the crisis); Wood (premier leader; no one took republican values more seriously). Correctives: no systematic British plot to “enslave” the colonies—radicals misread strategy where Ministry mostly acted expediently; British blunder worse (principle misread as dashed fortunes). By 1773 “tea” and “liberty” inextricable in America, not in Britain. Memory politics: Boston minimized street protests; Tea Party resurfaced half a century later as “costumed caper”; rebellion reinserted sanitized and often without Adams; by 1823 if remembered he “cleared the way for Washington.” Tocqueville within sixty years: Revolution contracted “no alliance with the turbulent passions of anarchy” but love of order and law—tension with Adams’s street-level career. Source: [[schiff-revolutionary-samuel-adams-2022]].
+
 ## Related
 
 - `caused_by:` the fiscal aftermath of the [[seven-years-war-1756]]; `contributed_to:` [[enlightenment]] ideas.
 - `part_of:` the [[atlantic-revolutions]]; `produced:` a model for the [[french-revolution-1789]].
 - [[age-of-expansion]] — the period; [[new-cambridge-modern-history-v8]] (political/diplomatic) and [[west-point-history-american-revolution-2017]] (military) — the sources.
 - campaign hub: [[hubs/warfare/age-of-expansion/american-revolutionary-war/american-revolutionary-war|American Revolutionary War — operational analysis]].
+- [[stamp-act-crisis-1765]] · [[boston-massacre-1770]] · [[boston-tea-party-1773]] · [[committees-of-correspondence]] · [[battles-of-lexington-and-concord-1775]] · [[declaration-of-independence-1776]] · [[adams-samuel]] · [[schiff-revolutionary-samuel-adams-2022]]

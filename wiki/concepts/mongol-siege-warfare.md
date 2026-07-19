@@ -5,8 +5,8 @@ origin: Developed from Jin/Xi-Xia encounters; engineer corps from 1214 (May 2016
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [steppe, china, central-asia, near-east, eastern-europe]
 contested: no
-sources_ingested: 2
-last_updated: 2026-06-24
+sources_ingested: 3
+last_updated: 2026-07-19
 tags: [concept, high-middle-ages]
 ---
 
@@ -113,8 +113,33 @@ defenders hurled stones and naphtha but conscripts continued under threat of exe
 Survivors were then driven out; "young and strong men" were selected "to serve as laborers and
 arrow-fodder" for the march on Samarqand. (L415–416) — the levy pipeline that fed later sieges.
 
+## Weatherford (2004) — learning curve and population as weapon
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] stresses the **Tangut
+(Xi Xia) campaigns of 1207–09** as the dress rehearsal for Jurched siege warfare: Tangut
+forces ~150,000 (nearly twice Genghis's army); first Yellow River diversion flooded the
+**Mongol** camp rather than the capital — "in the future, the Mongols would use this method
+again, but each time they would be more adept." From Chinese engineers they acquired
+catapult, trebuchet, and ballista, and "acquired the engineering intelligence needed to
+create them"; the **firelance** (bamboo gunpowder tube) was encountered among the Jurched
+and later adapted. Siege engines, he argues, fascinated Mongols because they kept attackers
+"well outside of the city and away from the danger of the person-to-person combat that they
+so abhorred."
+
+On population management after Khwarazm: empty each hostile city of people and animals
+before looting (to avoid Zhongdu-style chaotic plunder); kill soldiers; sort literate
+professionals and craftsmen for Mongol use; use the unskilled as labor, human shields, and
+moat fill; slaughter those of no use; kill aristocrats to "decapitate" society (contrasted
+with European ransom chivalry). Each warrior was expected to round up ~ten locals; refugees
+were stampeded into cities to clog roads and strain supplies. Cities that surrendered then
+revolted after thin Mongol occupation were destroyed utterly on return — "An annihilated
+city could not revolt again." At Riazan (1237–38) Weatherford describes full **nerge**
+stockade + multi-day bombardment of rocks, naphtha, gunpowder smoke/smell bombs, and
+firelances/rockets/grenades before ladders and rams — late mature siege combining Chinese-
+derived gunpowder with steppe encirclement (detail that enriches May's Vladimir case study).
+
 ## Related
 
-- [[mongol-tactics]] · [[mongol-army]] · [[genghis-khan]] · [[mongol-conquests]]
+- [[mongol-tactics]] · [[mongol-army]] · [[genghis-khan]] · [[mongol-conquests-13th-century]]
 - [[hubs/warfare/tactics-and-battle-strategies]] · [[hubs/warfare/strategy]]
-- [[may-mongol-art-of-war-2016]] · [[van-creveld-supplying-war-1997]]
+- [[may-mongol-art-of-war-2016]] · [[van-creveld-supplying-war-1997]] · [[weatherford-genghis-khan-making-modern-world-2004]]

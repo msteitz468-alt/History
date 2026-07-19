@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Kublai Khan's demand that Japan submit to the [[mongol-empire|Mongol empire]]", "the Hōjō bakufu's refusal to acknowledge inferior status"]
 consequences: ["the repulse of the Mongols & survival of Japanese independence", "the financial strain & decline of the [[kamakura-period|Kamakura bakufu]]", "the 'divine wind' (kamikaze) myth of divine protection"]
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 3
+last_updated: 2026-07-19
 tags: [event, high-middle-ages, japan, east-asia]
 ---
 
@@ -47,6 +47,36 @@ regents in Kamakura simply **refused to reply**, and later beheaded Mongol envoy
 
 This second deliverance gave the storms their enduring name: the ***kamikaze*** ("divine
 wind"), revived in 1944–45 for the suicide pilots of the Pacific War.
+
+### Weatherford force and sequence detail (2004)
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] places the diplomatic
+opening in **1268**, when [[kublai-khan|Khubilai]] sent an envoy demanding Japan’s surrender
+(refused); further delegations continued while the Sung war finished. After incorporating the
+Sung navy he turned the **Korean Peninsula** into a shipbuilding and military/naval base.
+Ships were large but of hurried quality (e.g. two-stone anchors). Weatherford notes
+**melon-sized pottery grenades** filled with gunpowder and shrapnel among the invaders’
+weapons.
+
+- **1274:** armada of about **900 ships** carrying **23,000** Korean and Chinese infantry plus
+  an unknown number of Mongol horsemen; November; took Tsushima then Iki; landed Hakata Bay
+  (Kyushu). Mongols fought in **formation** with explosives and arrows against samurai
+  **individual combat**; Japanese withdrew to a fortress; Mongols re-embarked; that night the
+  *kamikaze* storm—about **13,000** invaders died, most by drowning. Mongols claimed land-
+  battle success and demanded the emperor come submit; Japanese **executed envoys** (heads
+  chopped and displayed); built a fleet and a stone coastal wall; further envoys executed in
+  **1279**.
+- **1281:** Korean fleet roughly the size of the first; main Chinese fleet **3,500 ships**,
+  **60,000** sailors, **100,000** soldiers; summer rather than fall. Korean fleet late May
+  took a channel island; Chinese delayed; Japanese wall blocked landing; heat and disease;
+  night Japanese boat attacks; Korean withdrawal 30 June to Takashima; southern fleet two
+  weeks later; mid-August full armada; storm—Weatherford: “perhaps more than one hundred
+  thousand men died”; few ships survived.
+
+**Weatherford interpretive claim (THESIS):** the failed invasions “left a tremendous impact on
+Japanese social and political life by pushing them toward cultural unification and
+militaristic government”; the Mongols turned elsewhere “pretending [the] failures never
+happened.”
 
 ## Causal Analysis
 
@@ -119,8 +149,18 @@ Mongols, but the victory's very lack of spoils helped doom the regime that won i
 
 The two invasions are known from both Mongol/Chinese and Japanese sources, each shaped by its own interests: the Yuan-compiled *History of Yuan* (Yuan Shi) is a terse official record written decades later under a successor dynasty, while the most vivid Japanese source, the illustrated hand-scroll *Mōko Shūrai Ekotoba*, was commissioned by the samurai Takezaki Suenaga specifically to document his own battlefield exploits and press his claim for reward — a self-interested source whose depictions (including of Mongol tactics and weapons) require independent corroboration rather than literal acceptance. The role of the typhoons ("kamikaze") in both invasions, especially their scale and the precise proportion of the Mongol defeat attributable to storm versus Japanese resistance, has been substantially informed by modern underwater archaeology of the wrecked 1281 fleet off Takashima, which has both confirmed catastrophic losses and revealed details (ship construction, cargo) not recoverable from the textual sources alone. The later ideological use of the "kamikaze" myth — especially its revival for the Pacific War's suicide pilots — is itself a distinct subject of modern historiographical and cultural analysis, separate from the thirteenth-century military event.
 
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] (2004) supplies popular
+order-of-battle figures (900 ships / 23,000 infantry in 1274; 3,500 Chinese ships /
+100,000 soldiers in 1281) and the pottery-grenade detail; his numbers should be read as
+narrative synthesis, not a substitute for Yuan or Japanese documentary tallies or the
+Takashima wreck evidence. His “cultural unification and militaristic government” thesis
+aligns directionally with the Cambridge History fiscal/political aftermath (no spoils →
+bakufu strain) but compresses Japanese internal dynamics into a single Mongol-pressure
+story.
+
 ## Related
 
 - [[mongol-empire]] — the attacker, at its maximum reach.
-- [[kamakura-period]] · [[shogunate-bakufu]] — the regime that repelled it and was weakened by it.
+- [[kublai-khan]] · [[kamakura-period]] · [[shogunate-bakufu]] — the regime that repelled it and was weakened by it.
 - [[samurai]] — the warriors who fought; [[japan]] — the islands defended.
+- [[mongol-conquests-13th-century]] · [[weatherford-genghis-khan-making-modern-world-2004]]

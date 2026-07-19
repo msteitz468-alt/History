@@ -5,8 +5,8 @@ origin: Steppe warfare tradition; systematized under Chinggis Khan (per Timothy 
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [steppe, central-asia, near-east, eastern-europe, china]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-24
+sources_ingested: 3
+last_updated: 2026-07-19
 tags: [concept, high-middle-ages, steppe]
 ---
 
@@ -185,9 +185,44 @@ pursued to the Caspian by Jebe and Sübedei; Jalal al-Din to the Indus; Bela IV 
 "no breathing room" after Mohi. (L673–674) Pursuit columns doubled as intelligence-gathering and
 disruption missions, keeping local rulers' forces at home. (L674–675)
 
+## Weatherford (2004) — named formations and Dog Fight
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] supplies a popular
+inventory of named steppe formations that complements May's operational catalogue (without
+displacing it):
+
+- **Moving Bush / Tumbleweed:** dispersed squads of ten advancing from different directions
+  before dawn (Naiman war).
+- **Lake Formation:** successive lines advancing, shooting, and replacing one another like
+  waves.
+- **Chisel Formation:** narrow, deep column punching a thinned enemy line (Secret History
+  parallel to May's "chisel combat").
+- **Crow Swarm / Falling Stars:** horsemen galloping from all directions on drum or fire
+  signal; a Chinese observer: "they come as though the sky were falling, and they disappear
+  like the flash of lightning."
+- **Dog Fight:** feigned withdrawal leaving equipment so that pursuers clog open gates
+  gathering booty, then reverse and take the city — illustrated by Jebe at Liaoyang in the
+  Jurched campaign; the same feigned-retreat logic destroyed the Georgian army when Jebe
+  led pursuers into [[subedei|Sübedei]]'s waiting regiment.
+- **Silent Attack (Kalka 1223):** flag-controlled advance without battle cries; halt beyond
+  infantry weapons range; arrows purpose-made so they could not be nocked on enemy bows,
+  while Russian arrows were reused on Mongol strings.
+- **Psychological prep:** win before battle by ravaging countryside, dividing Khitan from
+  Jurched, and propaganda as liberators restoring the Khitan monarchy (1212 vassal
+  restoration). Taboos forbade speaking of death, injury, or defeat; even naming a fallen
+  comrade was serious.
+- **Limits of expansion (thesis):** Weatherford argues the western European advance halted
+  where steppe pasture ended — five horses per warrior, soft plowed fields, dampness
+  weakening bows — a popular formulation of the pasture limit Morgan and May treat more
+  carefully for Syria and Hungary.
+
+On innovation he is less cautious than May: tactics amalgamated hunting and older techniques
+but with "enough innovation" and discipline that enemies could not answer them — "no longer
+an attacking swarm of individuals; they were now a united formation."
+
 ## Related
 
 - [[mongol-army]] · [[mongol-siege-warfare]] · [[nerge]] · [[genghis-khan]]
-- [[fabian-strategy]] · [[battle-of-kalka-river-1223]] · [[mongol-conquests]]
+- [[fabian-strategy]] · [[battle-of-the-kalka-river-1223]] · [[mongol-conquests-13th-century]]
 - [[hubs/warfare/tactics-and-battle-strategies]] · [[hubs/warfare/strategy]]
-- [[may-mongol-art-of-war-2016]] · [[van-creveld-supplying-war-1997]]
+- [[may-mongol-art-of-war-2016]] · [[van-creveld-supplying-war-1997]] · [[weatherford-genghis-khan-making-modern-world-2004]]

@@ -8,8 +8,8 @@ region: [steppe, central-asia, china, east-asia, iran-plateau, near-east, easter
 process_type: [economic, political]
 driven_by: [ [[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
 produces: [ [[chinggis-exchange]], [[silk-roads]], [[black-death]]]
-sources_ingested: 4
-last_updated: 2026-06-22
+sources_ingested: 5
+last_updated: 2026-07-19
 tags: [process, high-middle-ages, late-middle-ages, silk-road]
 ---
 
@@ -104,6 +104,30 @@ of the Ilkhanate (1335) and the Yuan (1368), and Timur's later devastation of th
 Jochid cities, ended the integrated system — though the routes and the appetite for
 their goods outlived it, feeding into the early-modern world.
 
+## Weatherford (2004) — commercial peace narrative (attributed)
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] treats the label as a
+later Western designation of the **fourteenth-century** commercial peak (*Pax Mongolica* /
+*Pax Tatarica*), when Khans sought "through peaceful commerce and diplomacy the commercial
+and diplomatic connections that they had not been able to create through force of arms,"
+dispatching "humble priests, scholars, and ambassadors" after the conquest era. He quotes
+Pegolotti (1340) that routes to Cathay were "perfectly safe, whether by day or by night"
+(already in the wiki via May/Jackson), and Juvaini that roads should ensure "wherever profit
+or gain was displayed, in the uttermost West or the farthermost East, thither merchants
+would bend their steps." Ögödei policies he lists: road security, tax relief, standardized
+weights, paper money, merchant subsidies, garrisons and road markers. Italian Black Sea
+posts after 1242 exchanged manufactures for rights to sell Slav slaves — "long and lucrative
+relationship" with Venice and Genoa. Roger Bacon is cited: Mongols succeeded "by means of
+science" and "devote their leisure to the principles of philosophy."
+
+**Modernity / Europe thesis (keep attributed):** Europe's knighthood suffered but cities
+were largely not incorporated; Europe "suffered the least yet acquired all the advantages
+of contact," absorbing printing, firearms, compass, and abacus — a causal package
+specialists treat as **overdetermined and often anachronistic** relative to May's more
+careful Chinggis Exchange and Morgan/Franke's deflation of the *Pax* label itself.
+Weatherford's conquest→peace periodization is useful as a popular frame; the wiki's phases
+above (unified / fragmented-but-connected / Indian-summer) remain the structural account.
+
 ## A note of caution
 
 The term itself invites overstatement. [[morgan-the-mongols|David Morgan]] quotes Herbert
@@ -113,14 +137,15 @@ concept is modelled on the *Pax Romana*. The peace was real but **partial and in
 punctuated by the khanates' civil wars, never extending security uniformly, and resting as
 much on the threat of Mongol violence as on settled order. The wiki uses the term for the
 genuine connectivity the empire created while keeping Morgan's caution against romanticizing
-it.
+it — and while keeping Weatherford's "foundation of modern institutions" rhetoric as an
+**attributed popular thesis**, not settled historiography.
 
 ## Related
 
 - [[chinggis-exchange]] — what the peace made possible; [[silk-roads]] — the routes it
   secured and extended.
 - [[mongol-empire]] · [[genghis-khan]] — the political order behind it.
-- [[golden-horde]] · [[ilkhanate]] — successor states that sustained it across their wars.
-- [[black-death]] — the cargo that ended it; [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] — the sources.
+- [[golden-horde]] · [[ilkhanate]] · [[kublai-khan]] — successor states that sustained it across their wars.
+- [[black-death]] — the cargo that ended it; [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] · [[weatherford-genghis-khan-making-modern-world-2004]] — the sources.
 
 **Claims from Secret History (de Rachewiltz, ll. 7001–11000)**: Foundations in army discipline and loyalty that later enabled secure routes. Sübe’etei orders: "making this a matter of law... cut them down on the spot" and hunt/battue limits "to spare the army mounts before they become too lean" (ll. 10846-10854, 10816-10818) `contributed_to` the controlled, non-predatory force that underpinned later pax. "Four hounds" and unit cohesion at Naqu (ll. 10221-10474) `produced` reliable command structure. Naya’a merit case (ll. 10549-10625) `contributed_to` trustworthy officers. These `preceded_by: [[genghis-khan]]` campaigns; `enabled: pax mongolica` by creating disciplined instrument. Grounded in range.

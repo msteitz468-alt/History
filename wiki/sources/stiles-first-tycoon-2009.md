@@ -356,3 +356,7 @@ Grounded in range 07 cache. Key excerpts (Vanderbilt-Stiles-R07- prefix):
 ## Volume Synthesis Note
 
 (Added by main thread after full reconciliation and expansion of detailed biography.)
+
+## Related sources
+
+For the post-1877 dynasty social history, Alva/Consuelo, and cultural afterlife of the fortune, see [[sources/cooper-howe-vanderbilt-2021|Cooper & Howe, *Vanderbilt* (2021)]]. Stiles remains presumptive for the Commodore as business operator.

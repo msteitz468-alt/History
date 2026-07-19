@@ -9,8 +9,8 @@ affiliated_with: [ [[mongol-empire]], "the Toluid line", "the Yuan dynasty (ally
 opposed_by: [ [[mamluk-sultanate]], [[golden-horde|the Golden Horde]], "the Chaghatayids"]
 key_events: ["the sack of Baghdad 1258", "the defeat at Ain Jalut 1260", "Ghazan's conversion to Islam c. 1295", "the end of the line 1335"]
 key_processes: [pax mongolica, [[chinggis-exchange]], "the Islamization of the Mongols", "the Persianization of high culture"]
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 3
+last_updated: 2026-07-19
 tags: [actor, empire, high-middle-ages, late-middle-ages, iran-plateau, near-east]
 ---
 
@@ -32,7 +32,14 @@ Hülegü's campaign was the climax of the western [[mongol-conquests-13th-centur
 he destroyed the Ismaili "Assassin" state and **sacked [[baghdad|Baghdad]] (1258)**,
 ending the [[abbasid-caliphate|Abbasid Caliphate]] — an event that scandalized his cousin
 **Berke** of the [[golden-horde|Golden Horde]], a Muslim convert, and helped ignite the
-**Berke–Hülegü war** over Transcaucasia. The Mamluk victory at
+**Berke–Hülegü war** over Transcaucasia.
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] glosses the name as
+"vassal empire" for lands of Hülegü and descendants from Afghanistan to Turkey, and claims
+that "Persian culture reemerged from centuries of Arab domination to build the foundation
+for modern Iran" — a popular thesis that overstates continuity with the modern Iranian
+nation-state and should be held as **his interpretive claim** alongside May's exchange-pole
+and Jackson's Latin-alliance narratives. The Mamluk victory at
 **[[battle-of-ain-jalut-1260|Ain Jalut]] (1260)** fixed the Ilkhanate's southwestern
 frontier; with the exception of Ghazan's brief conquest of Syria (1299–1300), the Mongols
 never held Syria or Egypt. Surrounded by enemies — the Golden Horde to the north, the
@@ -87,4 +94,4 @@ generations, and its collapse left the vacuum Timur would fill.
 - [[baghdad]] · [[abbasid-caliphate]] · [[battle-of-ain-jalut-1260]] — its founding conquests and limits.
 - [[rashid-al-din]] — its great historian-vizier; [[timur]] — heir to its territory.
 - [[mongol-latin-crusade-alliance]] — its abortive anti-Mamluk diplomacy with the West.
-- pax mongolica · [[chinggis-exchange]] — the connective system it anchored; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] — the sources.
+- [[pax-mongolica]] · [[chinggis-exchange]] — the connective system it anchored; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] · [[weatherford-genghis-khan-making-modern-world-2004]] — the sources.

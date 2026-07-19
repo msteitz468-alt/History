@@ -5,12 +5,12 @@ date_start: c. 1162 CE (birth, as Temüjin)
 date_end: 1227 CE (death)
 period: [High Middle Ages]
 region: [steppe, central-asia, china]
-affiliated_with: [ [[mongol-empire]], [[pastoral-nomadism]], "the Chinggisid line"]
-opposed_by: ["the Jurchen Jin", "the Tangut Xixia", "the Khwarazmian Empire", "rival Mongol and Turkic clans"]
-key_events: ["unification of the Mongol and Turkic tribes (1206)", "the invasion of the Khwarazmian Empire (1219–1221)", "campaigns against Jin and Xixia"]
-key_processes: [ [[pastoral-nomadism]], [[state-formation]], [[afro-eurasian-world-system]]]
-sources_ingested: 8
-last_updated: 2026-06-22
+affiliated_with: [ [[mongol-empire]], [[pastoral-nomadism]], [[borte]], [[hoelun]], [[ogedei-khan]], [[tolui]], "the Chinggisid line"]
+opposed_by: ["the Jurchen Jin", "the Tangut Xixia", "the Khwarazmian Empire", [[jamuka]], [[togrul-ong-khan]], "rival Mongol and Turkic clans"]
+key_events: [ [[mongol-unification-1206]], [[khwarazmian-campaign-1219]], "campaigns against Jin and Xixia"]
+key_processes: [ [[pastoral-nomadism]], [[state-formation]], [[afro-eurasian-world-system]], [[pax-mongolica]], [[chinggis-exchange]]]
+sources_ingested: 9
+last_updated: 2026-07-19
 tags: [actor, person, high-middle-ages, steppe]
 ---
 
@@ -136,15 +136,29 @@ northeast China carry a Y-chromosome lineage plausibly traceable to Chinggis Kha
 his close male relatives — a striking, if debated, index of his demographic as well
 as political reach.
 
+## Weatherford popular synthesis (2004)
+
+[[weatherford-genghis-khan-making-modern-world-2004|Jack Weatherford]] supplies the wiki’s main **narrative popular biography** and a maximalist thesis that Mongol institutions “made the modern world.” Use him for story arc and institutional color; treat modernity-causation as **attributed thesis**, not wiki voice (cross-check [[may-mongol-conquests-2012|May]], [[morgan-the-mongols|Morgan]], *Secret History*).
+
+- **Spirit Banner (*sulde*).** Weatherford opens with the black horsehair banner as repository of the khan’s soul; Soviet-era destruction of monasteries and disappearance of the *sulde* frame modern Mongolian recovery of Chinggis as ancestor.
+- **Birth and naming (Secret History tradition).** Spring 1162, Year of the Horse, Onon headwaters; blood clot in the right hand; named Temüjin after a killed Tatar. Mother [[hoelun|Hö’elün]]; father [[yesugei|Yesügei]] poisoned by Tatars.
+- **Formation.** Bekter killing; Tayichi’ud captivity and escape; marriage to [[borte|Börte]] (c. 1178) and sable-coat gift to [[togrul-ong-khan|Ong Khan]]; Merkid abduction of Börte and refuge on [[burkhan-khaldun|Burkhan Khaldun]]; *anda* then war with [[jamuka|Jamuka]].
+- **Unification.** Baljuna covenant; defeat of Kereyid and Naiman; 1206 *khuriltai* ([[mongol-unification-1206]]); “Great Law,” decimal army, merit promotions over aristocratic birth ([[the-mongol-yasa]], [[mongol-army]]).
+- **World war.** Jin and Tangut apprenticeship in siege; [[khwarazmian-campaign-1219|Khwarazm (1219–21)]] after Otrar; succession choice of [[ogedei-khan|Ögödei]]; death on the Tangut campaign, 1227 — “ascended into heaven,” secret burial, Ikh Khorig taboo.
+- **Weatherford’s thesis (not wiki voice).** He credits Chinggis with smashing aristocratic privilege, organizing a continental free-trade zone, religious toleration, diplomatic immunity, census and international postal practice, and bridges rather than walls — and claims this architecture underwrote the early modern world. Specialists often find the causal leap overstated; the wiki keeps the institutional facts and parks the hyperbole under historiography.
+
 ## Related
 
-- [[mongol-empire]] — the empire he founded; [[mongol-conquests-13th-century]] — its campaigns.
+- [[mongol-empire]] — the empire he founded; [[mongol-conquests-13th-century]] — its campaigns; [[mongol-unification-1206]] — the 1206 acclamation.
+- Family: [[yesugei]] · [[hoelun]] · [[borte]] · [[jochi]] · [[chagatai-khan]] · [[ogedei-khan]] · [[tolui]]
+- Rivals/patrons: [[jamuka]] · [[togrul-ong-khan]]
 - [[pastoral-nomadism]] — the steppe military and political system he reorganized.
-- pax mongolica · [[chinggis-exchange]] — the peace and the exchange that carry his name.
+- [[pax-mongolica]] · [[chinggis-exchange]] — the peace and the exchange that carry his name.
+- Places: [[burkhan-khaldun]] · [[karakorum]] (capital under his successors)
 - [[timur]] — the later Central Asian conqueror who claimed Chinggisid legitimacy.
 - [[state-formation]] — the comparative analysis of his achievement (Arnason).
 - [[mongol-army]] — the force he built; [[the-mongol-yasa]] — the disputed law code.
-- [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] — the sources.
+- [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] · [[weatherford-genghis-khan-making-modern-world-2004]] · [[secret-history-of-the-mongols-de-rachewiltz]]
 
 **Verification and primary excerpts from *Secret History of the Mongols* (de Rachewiltz shorter ed., lines 11001–16085 recovery block)**:
 - Jamuqa’s final anda speech: “Although you separated from me / And went a different way, / You remain my lucky, blessed sworn friend...” (ll. ~11050-11110). Contributed to respectful death without blood shed.

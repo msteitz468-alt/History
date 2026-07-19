@@ -9,8 +9,8 @@ affiliated_with: [the [[mongol-empire|Mongol Empire]] (its East Asian successor)
 opposed_by: [the [[song-dynasty|Southern Song]] (until 1279), the Red Turban rebels, the rising [[ming-dynasty|Ming]]]
 key_events: ["Mongol conquest of the Jin (1234) and the Southern Song (completed 1279)", "Kublai's proclamation of the Yuan (1271)", "the failed invasions of Japan (1274, 1281)", "the mid-14th-c. crises and the Red Turban rebellions", "expulsion to the steppe (1368)"]
 key_processes: [ [[mongol-conquests-13th-century|Mongol conquest]], Pax Mongolica, the "conquest dynasty" rule of China]
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-07-19
 tags: [actor, dynasty, high-middle-ages, late-middle-ages, china, east-asia]
 ---
 
@@ -53,6 +53,21 @@ hyperinflation of its paper currency, devastating **Yellow River floods** and fa
 back to the steppe and founded the [[ming-dynasty|Ming]]; the Yuan court continued in Mongolia as
 the "Northern Yuan."
 
+## Weatherford (2004) — foundation and late crisis
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] (using form **Khubilai** /
+**Da Yuan** "great origins/beginnings," 1271) frames the dynasty as a hybrid Mongol–Chinese state
+that united Chinese-dialect areas with Tibet, Manchuria, Korea, and Uighur and smaller
+polities; Hangzhou fell 1276 on the path to completing Song conquest. Institutional innovations
+he ascribes (paper money expansion, public schools, Phags-pa script, drama golden age, legal
+reform, foreign quotas, *she* units) are detailed on [[kublai-khan]] — verify against CHC/Rossabi
+for contested scale. On late Yuan he notes succession chaos 1328–1332 (at least four Great
+Khans; seven-year-old Rinchinbal only two months in 1332); post-plague repression (weapons and
+iron tools confiscated, Chinese horses banned, opera/storytelling stopped); favor to Tibetan
+Buddhism and Tantric rites that fueled Chinese suspicion; paper currency "effectively become
+worthless" by 1356. After the Ming, he argues, participatory council administration was
+abandoned until the twentieth century (interpretive claim).
+
 ## Significance and historiography
 
 The Yuan made the **reunification** of China permanent, incorporated **Yunnan** and Tibet into the
@@ -65,5 +80,6 @@ debate). It is the second great "conquest" of China, prefiguring the Manchu [[qi
 ## Related
 
 `part_of: [[mongol-empire]]` · `caused_by: [[mongol-conquests-13th-century]]` · `produced: [[ming-dynasty]]` (by reaction) · `contains: [[kublai-khan]]`
-[[mongol-empire]] · [[kublai-khan]] · [[song-dynasty]] · [[ming-dynasty]] · pax mongolica ·
-[[mongol-invasions-of-japan-1274-1281]] · [[cambridge-history-of-china]]
+[[mongol-empire]] · [[kublai-khan]] · [[song-dynasty]] · [[ming-dynasty]] · [[pax-mongolica]] ·
+[[mongol-invasions-of-japan-1274-1281]] · [[cambridge-history-of-china]] ·
+[[weatherford-genghis-khan-making-modern-world-2004]]

@@ -6,23 +6,45 @@ date_end: 1924
 period: [Long 19th Century, World Wars Era]
 region: [north-america]
 affiliated_with: [Democratic Party (US), Progressivism, League of Nations]
-opposed_by: [Senate irreconcilables (League fight), Harding-era isolationism]
-key_events: [first-world-war-1914, treaty-of-versailles-1919]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
+opposed_by: [Senate irreconcilables (League fight), Harding-era isolationism, National Woman's Party (to 1918–19)]
+key_events: [first-world-war-1914, treaty-of-versailles-1919, woman-suffrage-procession-1913, federal-segregation-wilson-1913, birth-of-a-nation-white-house-1915, silent-sentinels-1917, nineteenth-amendment-1920]
+key_processes: [woman-suffrage-united-states]
+sources_ingested: 2
+last_updated: 2026-07-19
 tags: [actor, person, world-wars-era, north-america]
 ---
 
 # Woodrow Wilson (1856–1924)
 
+> Detailed analytic life: [[hubs/biographies/world-wars-era/wilson-woodrow]]
+
 Twenty-eighth president of the United States (1913–1921): Progressive
-reformer (New Freedom), war president (1917–18), architect of the
-Fourteen Points and the League of Nations, broken by the Senate fight
-over the [[treaty-of-versailles-1919|Treaty of Versailles]]. This page
-currently reflects [[hartz-louis|Hartz]]'s analysis
-([[hartz-liberal-tradition-1955]]); a fuller narrative treatment awaits a
-dedicated source.
+reformer ([[new-freedom|New Freedom]]), war president (1917–18), architect of the
+Fourteen Points and the [[league-of-nations|League of Nations]], broken by the Senate fight
+over the [[treaty-of-versailles-1919|Treaty of Versailles]] — and, in the civil-rights ledger
+emphasized by Cox (2024), a southern Democrat who resegregated the federal government
+and long opposed the Susan B. Anthony Amendment before a late conversion
+([[nineteenth-amendment-1920]]). Compact network summary below; depth on the
+biography hub.
+
+## Overview (Cox + prior Hartz layer)
+
+Born Staunton, Virginia (28 Dec 1856); formed in Reconstruction Georgia and the
+Carolinas; academic political scientist (Johns Hopkins, Bryn Mawr, Wesleyan, Princeton
+presidency); New Jersey governor; U.S. president after the 1912 four-way race.
+Legislative signature: progressive income tax implementation, Federal Reserve, FTC,
+Clayton Antitrust, National Park Service expansion. Foreign-policy signature:
+[[wilsonianism|Wilsonian]] war aims and League fight. Civil-rights signature (Cox):
+[[federal-segregation-wilson-1913|federal resegregation]],
+[[birth-of-a-nation-white-house-1915|*Birth of a Nation* White House screening]],
+prolonged resistance to woman suffrage culminating only under pressure from
+[[paul-alice|Alice Paul]]'s NWP ([[silent-sentinels-1917]]) and [[catt-carrie-chapman|Catt]]'s NAWSA.
+
+**Counterfactual significance (compact):** Without Wilson the institutional progressive
+state and the League/UN rhetorical lineage look different; without his obstruction the
+Anthony Amendment might have come earlier — Cox's central counterfactual pressure.
+Without his southern racial practice, the 1910s federal government does not become a
+Jim Crow employer of record in the same way.
 
 ## Hartz's analysis: messianism as Americanism abroad
 
@@ -81,14 +103,26 @@ and a Wendell Willkie... within the single American mind."
 Wilson scholarship divides among the heroic-internationalist tradition
 (Link), realist critiques (Kennan, Lippmann, Osgood) of moralized foreign
 policy — Hartz's structural version radicalizes these — and recent work
-foregrounding his racism (federal resegregation) and the colonial limits
-of self-determination (Manela's *Wilsonian Moment*). Collection note:
-no dedicated Wilson biography ingested; this page is Hartz-derived.
+foregrounding his racism (federal resegregation), suffrage obstruction, and
+the colonial limits of self-determination (Manela's *Wilsonian Moment*).
+[[cox-wilson-light-withdrawn-2024|Cox, *The Light Withdrawn* (2024)]] is the
+wiki's first dedicated Wilson biography ingest: thesis-driven archival
+reappraisal centering race and sex. Dispute structure:
+[[wilson-race-and-gender-legacy]]. Detailed life:
+[[hubs/biographies/world-wars-era/wilson-woodrow]].
 
 ## Related
 
+- detailed_biography: [[hubs/biographies/world-wars-era/wilson-woodrow]]
 - contrasts_with: [[roosevelt-franklin-d]] (pragmatic submersion vs.
   messianic projection of the same creed)
+- [[paul-alice]] · [[catt-carrie-chapman]] · [[trotter-william-monroe]] ·
+  [[house-edward-m]] · [[dixon-thomas]] · [[roosevelt-theodore]] ·
+  [[lodge-henry-cabot]]
+- [[nineteenth-amendment-1920]] · [[federal-segregation-wilson-1913]] ·
+  [[silent-sentinels-1917]] · [[woman-suffrage-united-states]] ·
+  [[new-freedom]] · [[wilsonianism]]
 - [[first-world-war-1914]] · [[treaty-of-versailles-1919]] ·
-  [[lockean-consensus]] · [[american-exceptionalism]] ·
-  [[hartz-liberal-tradition-1955]]
+  [[league-of-nations]] · [[lockean-consensus]] · [[american-exceptionalism]] ·
+  [[isolationism]] · [[hartz-liberal-tradition-1955]] ·
+  [[cox-wilson-light-withdrawn-2024]]

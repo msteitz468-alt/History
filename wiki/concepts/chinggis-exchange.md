@@ -5,8 +5,8 @@ origin: Coined by Timothy May in *The Mongol Conquests in World History* (2012),
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [steppe, central-asia, china, east-asia, iran-plateau, near-east, eastern-europe, silk-road]
 contested: no
-sources_ingested: 5
-last_updated: 2026-06-22
+sources_ingested: 6
+last_updated: 2026-07-19
 tags: [concept]
 ---
 
@@ -66,6 +66,41 @@ of the largest contiguous empire in history.
   undocumented line to Gutenberg); noodles, chickpeas, and hard wheat; and the *nasij*
   gold-brocade fashion ("Tartar cloth") that swept European courts.
 
+## Weatherford (2004) — transfer inventory and modernity thesis (attributed)
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] does **not** use May's
+label "Chinggis Exchange," but his Part III / "Golden Light" chapters are the popular
+source of a parallel **transfer-and-modernity** argument. Recorded here as **Weatherford's
+position**, not as wiki voice. Specialists (including May) are more careful about
+anachronism; Weatherford often collapses facilitation into invention and "making of the
+modern world."
+
+**Concrete transfers he lists (useful inventory when cross-checked):** German miners to
+China and Chinese doctors to Persia; lemons/carrots Persia→China; noodles, playing cards,
+tea China→West; Paris metalworker fountain in Mongolia; English interpreter; Chinese
+fingerprinting to Persia; churches in China, Buddhist temples in Persia, Qur'anic schools
+in Russia; *paiza* as combined passport/credit tablet; *khubi* share system as the real
+driver of routes (not free-trade ideology) — each Golden Family member entitled to shares
+across the empire (Hülegü with 25,000 silk-worker households in China; Khubilai with
+Persian/Iraqi farms); *ortoo*/*yam* transforming war routes into commercial arteries;
+Persian translators/doctors and ~10,000 Russian soldiers to China (last mentioned 1339);
+1281 Yellow River source expedition tightening Tibet–China links; 1267 terrestrial globes
+for Khubilai; Grand Canal expansion; sea grain ~3,000→210,000 tons by 1329; Zaytun–Hormuz
+sea link; Chinese emigration to SE Asian ports; Genoese Kaffa from as early as 1226;
+textile etymologies (satin < Zaytun; damask; muslin); printed playing cards; House of
+Healing near Tabriz and Rashid al-Din's 1313 Chinese medicine book; Office for the
+Stimulation of Agriculture (1261) and Cotton Promotion Bureau (1289); Ögödei regional
+printing from 1236 and Khubilai printing office 1269; abacus, zero, negative numbers,
+algebra into China; National History Office 1260s; ivory Madonnas for European export;
+merchants elevated second only to officials, Confucian scholars reduced to ninth rank.
+
+**Theses to keep attributed and cautious:** transition from "Mongol Empire" to "Mongol
+Corporation" under Khubilai; Mongols "trod lightly" (no architecture imposed; non-Mongols
+forbidden the language); commercial influence spreading farther than the army; deliberate
+destruction of secondary-route cities and irrigation to funnel trade onto controllable
+corridors (strategic economic engineering). Compare May's own warning against "Mongol
+mania" single-cause modernity and Jackson's deflation of Latin "discovery."
+
 ## Significance and limitations
 
 The Chinggis Exchange reframes the Mongols from a purely destructive "Tatar Yoke" into
@@ -76,7 +111,8 @@ attribution problem May himself foregrounds: many transfers (Turkic migration in
 Anatolia, the spread of gunpowder) were *underway* before the Mongols and were
 *accelerated* rather than *caused* by them, and the empire "did not have a huge impact
 on Africa or the New World." The concept works best as a frame for **Eurasian
-integration**, weakest when stretched into a single-cause theory of modernity.
+integration**, weakest when stretched into a single-cause theory of modernity — the
+weakness Weatherford's popular "making of the modern world" framing most often triggers.
 
 ## The expansion of Europe's horizons
 
@@ -99,6 +135,6 @@ Indies.
 - [[columbian-exchange-1492]] — the model and the sequel (Crosby); pax mongolica — the
   precondition; [[silk-roads]] — the routes it revived.
 - [[mongol-empire]] · [[genghis-khan]] — the empire and the man whose name it bears.
-- [[black-death]] — its deadliest cargo; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] — the sources.
+- [[black-death]] — its deadliest cargo; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] · [[weatherford-genghis-khan-making-modern-world-2004]] — the sources.
 - [[mongol-latin-crusade-alliance]] · [[medieval-latin-missions-to-asia]] · [[medieval-europe-asia-trade]] — the Mongol–Latin strands (Jackson).
 - [[afro-eurasian-world-system]] — the network it integrated at fullest extent.

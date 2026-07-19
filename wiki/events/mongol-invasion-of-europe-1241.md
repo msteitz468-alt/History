@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: hemispheric
 causes: [Mongol world-conquest ideology, the pursuit of the Cumans, the destruction of Kievan Rus′]
 consequences: [the devastation of Hungary and Poland, the sudden Mongol retreat, the lasting menace of the Golden Horde]
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 3
+last_updated: 2026-07-19
 tags: [event, high-middle-ages, eastern-europe, central-asia]
 ---
 
@@ -56,6 +56,55 @@ Panic ran "as far afield as the Netherlands and Spain," yet Béla got no help: D
 **Frederick II of Austria** lured the fugitive king to a castle and extorted money and three
 counties from him.
 
+### Weatherford narrative details (2004)
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] frames the
+five-year European campaign as the “zenith of Mongol military ability,” prepared
+over two years after a target *khuriltai* near [[karakorum|Karakorum]] that ordered
+simultaneous pressure on the Sung and on Europe (a dual-front decision Weatherford
+calls, as **thesis**, “probably the worst in the history of the Mongol Empire”).
+[[subedei|Sübe’etei]] (then ~60, reportedly so fat he needed an iron chariot)
+pushed the Europe option; Jochi’s line under **Batu** backed him; grandsons from
+all four branches joined, with Güyük sent as Ögödei’s least-favorite son.
+
+**Timeline (Weatherford):** main army out 1236 (Year of the Monkey)—Subedei up the
+Volga against the Bulgars, Möngke south against the Kipchak; then a three-year
+drive across later Russia/Ukraine. Kiev: envoys murdered and pinioned on the gate
+(November 1240); city taken 6 December 1240, looted and burned; Batu released the
+commander Dmitri for valor. By 1242 the Novgorod Chronicle styled him “Tsar Batu.”
+
+February 1241, rivers still frozen: three-pronged army of ~**50,000** toward
+Hungary; diversionary ~**20,000** across Poland toward Germany. **Liegnitz,
+9 April 1241:** Duke Henry II’s ~30,000 (knights plus drafted gold miners) met
+the Mongols at Wahlstatt; European records (as Weatherford cites them) give
+~25,000 of 30,000 dead; survivors/miners marched to mine Dzungaria for Ögödei.
+Weatherford stresses that Kiev-to-Germany was a **diversion** for the real
+objective—the Hungarian grasslands. At **Mohi** the 50,000 under Subedei’s
+direction trapped and routed Béla’s army; Thomas of Spalato’s “de Peste
+Tartorum”; Europe (Weatherford’s aggregate) lost nearly 100,000 soldiers in
+Hungary and Poland—“the flower” of knighthood. Early 1242 (Year of the Tiger)
+the Mongols withdrew to their Russian stronghold; little portable loot beyond
+the Hungarian royal camp’s tents and furnishings for Batu’s Volga base;
+craftsmen (Saxon miners, scribes, a French/Parisian goldsmith from the Balkans)
+taken east. News of [[ogedei-khan|Ögödei]]’s death (11 December 1241, “reportedly
+in a drunken stupor”) reached forces ~4,000 miles from Karakorum within
+**four to six weeks**.
+
+**Family fracture in the field:** at a victory banquet Batu’s opening toast claimed
+precedence; Güyük and Büri denounced him as a Merkid bastard—“You are nothing more
+than an old woman with a beard” / “an old woman with a quiver”—walkout reported to
+Ögödei, who threatened to execute Güyük then sent the princes back to the front.
+
+**Prisoners and the Mediterranean slave trade (Weatherford):** Mongol officers sold
+many European captives, especially the young, via Italian merchants in the Crimea
+to Mediterranean markets; many ended in the Egyptian sultan’s slave army—a
+foreshadowing, Weatherford notes, of the later Mongol defeat by Kipchak/Slav
+Mamluks near the Sea of Galilee ([[battle-of-ain-jalut-1260]]).
+
+**Weatherford thesis (not wiki fact):** in the “smoke and gunpowder of that Easter
+season of 1241, the Mongol triumph portended the coming total destruction of
+European feudalism and the Middle Ages.”
+
 ## Causal Analysis
 
 - `caused_by:` the Mongol **ideology of world conquest** and the pursuit of the **Cumans**,
@@ -89,6 +138,28 @@ logistical (pasturage) explanation and the possibility of limited objectives. Ei
 limit of Mongol expansion in eastern Europe was reached, set thereafter by the **autonomy and
 internal divisions** of the Golden Horde rather than by European resistance.
 
+### Western European reception (Weatherford / Matthew Paris)
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] foregrounds
+**Matthew Paris** of St Albans: 1240 as the oldest known western European mention—
+Mongols as “an immense horde of that detestable race of Satan” and “demons loosed
+from Tartarus,” with false etymology from a river Tartar; later “with the force of
+lightning into the territories of the Christians,” which Weatherford presents as
+possibly the first Western reference to what later German doctrine would call
+*Blitzkrieg*. After the solar eclipse of Sunday 6 October 1241, clerics linked
+“Tartar” to biblical Tarshish and the Three Kings, feared Mongols sought ancestral
+bones at Cologne, then—when the army veered toward the Balkans—recast them as
+exiled Jews of the Babylonian captivity (Jewish year 5000 messianic expectation).
+Matthew Paris also records a Christian accusation of a secret Jewish assembly
+planning to aid Mongol “brethren of the tribes of Israel” with grain, wine, and
+arms in casks—Weatherford flags the report as highly unlikely; the result was
+imprisonment and slaughter. Unable to defeat the Mongols, European crowds attacked
+Jewish quarters from York to Rome; the church ordered distinctive clothes and
+emblems. Near Vienna, Hapsburg troops captured a middle-aged literate Englishman
+serving as a Mongol officer (speculation of Magna Carta–era exile); Christians
+killed him before learning the Mongol mission—an episode Weatherford pairs with
+the end of Mongol penetration into Europe.
+
 ## Related
 
 - `caused_by:` the [[mongol-empire|Mongol]] conquests; `preceded_by:` the fall of [[rus-principalities|Kievan Rus′]] (1240).
@@ -96,4 +167,4 @@ internal divisions** of the Golden Horde rather than by European resistance.
 - `concurrent_with:` the [[frederick-ii-hohenstaufen|papal–imperial struggle]] that paralysed a Latin response.
 - `analogous_to:` the Mongol invasion of Syria (1260), checked at [[battle-of-ain-jalut-1260|Ain Jalut]] — another army withdrawn at a critical juncture.
 - `produced:` the [[medieval-european-images-of-the-mongols|Western image of the "Tartars"]] — the swing from "King David" to Gog and Magog.
-- Sources: [[abulafia-ncmh-v5-2000|NCMH V]] (Jackson) · [[jackson-mongols-and-the-west|Jackson, *The Mongols and the West*]].
+- Sources: [[abulafia-ncmh-v5-2000|NCMH V]] (Jackson) · [[jackson-mongols-and-the-west|Jackson, *The Mongols and the West*]] · [[weatherford-genghis-khan-making-modern-world-2004|Weatherford 2004]].

@@ -10,9 +10,9 @@ affiliated_with: ["New York Central Railroad", "various steamship lines"]
 opposed_by: ["Daniel Drew", "Jay Gould", "various competitors"]
 key_events: ["Rise from Staten Island ferryman to steamship operator 1810s–1840s", "Nicaragua steamship route during California Gold Rush", "Civil War shipping and the *Vanderbilt* vessel", "Takeover and consolidation of New York Central Railroad 1860s–1870s", "Death 1877 leaving the largest personal fortune in the United States"]
 key_processes: ["transition from water to rail transport", "creation of the modern American corporation", "Gilded Age competitive business practices"]
-sources_ingested: 1
-last_updated: 2026-06-26
-reingest_note: "Reingest via Deployed Subagent Strategy (Stiles 2009, 8 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, table, verbatim (steamship empire R02: Nicaragua/Prometheus/personal command, rail/Erie R05). Ranges 02/05/06/08 integrated (R02 subagent failed, content pre-integrated + frontmatter recovered). Reciprocal link to detailed bio. See detailed bio for full analysis."
+sources_ingested: 2
+last_updated: 2026-07-19
+reingest_note: "Reingest via Deployed Subagent Strategy (Stiles 2009, 8 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, table, verbatim (steamship empire R02: Nicaragua/Prometheus/personal command, rail/Erie R05). Ranges 02/05/06/08 integrated (R02 subagent failed, content pre-integrated + frontmatter recovered). Reciprocal link to detailed bio. See detailed bio for full analysis. 2026-07-19: Cooper & Howe *Vanderbilt* (2021) added as dynasty/social source — deathbed press, Frank, $100M, University gift, origins myths; business career still rests on Stiles."
 tags: [actor, person, long-19th-century, north-america, railroad, steamship, tycoon, gilded-age]
 ---
 
@@ -40,8 +40,12 @@ Vanderbilt helped create the model of the trunk-line railroad corporation that d
 - Rivals: Daniel Drew, Jay Gould
 - Associates: various railroad managers and lawyers
 
+## From Cooper & Howe, *Vanderbilt* (2021)
+
+Popular dynasty history (descendant + archival co-author) retells the death and origin myths rather than the business career. At death (4 January 1877, 10 Washington Place) the Commodore left about $100 million — more than any American had then accumulated (authors' present equivalent >$2 billion). Press accounts of the deathbed already conflicted: *Times* prayerful last words ("That was a good prayer") versus *World*/*Sun* devil-fighting and *Tribune* "venereal excesses." Second wife Frank Armstrong Crawford (married 1869; Confederate-sympathizing cousin) steered religious visitors and the $1 million gift that became Vanderbilt University; she also secured $50,000 for the Church of the Strangers. The Hudson River Railroad Depot statue (1869), later moved to Grand Central, is the monument Anderson Cooper visited as a child. Cooper & Howe stress Dutch colonial origins (Jan Aertsen indenture c.1620s; Staten Island by the early 18th century) and the self-made myth's gaps (mother Phebe's early loan for a boat). For Gibbons v. Ogden and the steam-to-rail operator, prefer [[sources/stiles-first-tycoon-2009]]. Dynasty aftermath: [[events/vanderbilt-will-contest-1877]], [[processes/vanderbilt-dynasty-rise-and-fall]].
+
 ## Historiography
 
-Stiles's 2009 biography is the modern standard, using a wide range of business records to move beyond the older "robber baron" or "self-made man" stereotypes. Earlier works often romanticized or demonized Vanderbilt; Stiles presents a complex operator who both exemplified and helped invent the rules of modern American capitalism.
+Stiles's 2009 biography is the modern standard, using a wide range of business records to move beyond the older "robber baron" or "self-made man" stereotypes. Earlier works often romanticized or demonized Vanderbilt; Stiles presents a complex operator who both exemplified and helped invent the rules of modern American capitalism. Cooper & Howe (2021) are secondary for the Commodore as businessman but primary for the family's later social history and for how a descendant reframes the origin myths; their wealth-as-pathology and self-made-myth theses are interpretive, not documentary findings.
 
-**Related:** [[hubs/biographies/long-19th-century/vanderbilt-cornelius]] (detailed) · [[actors/vanderbilt-william-h]] · [[places/staten-island]] · [[places/new-york-city]] · [[periods/long-19th-century]] · [[sources/stiles-first-tycoon-2009]]
+**Related:** [[hubs/biographies/long-19th-century/vanderbilt-cornelius]] (detailed) · [[actors/vanderbilt-william-h]] · [[actors/vanderbilt-cornelius-jeremiah]] · [[processes/vanderbilt-dynasty-rise-and-fall]] · [[places/staten-island]] · [[places/new-york-city]] · [[periods/long-19th-century]] · [[sources/stiles-first-tycoon-2009]] · [[sources/cooper-howe-vanderbilt-2021]]

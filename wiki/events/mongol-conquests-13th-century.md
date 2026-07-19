@@ -13,8 +13,8 @@ scale_immediate: hemispheric
 scale_consequential: global
 causes: [ [[genghis-khan]], [[pastoral-nomadism]], "the decomposition of steppe order after the Liao/Jin", "Mongol security and trade interests"]
 consequences: [ [[mongol-empire]], pax mongolica, [[chinggis-exchange]], [[black-death]], [[golden-horde]], [[ilkhanate]], "the redrawing of the Eurasian political map"]
-sources_ingested: 6
-last_updated: 2026-06-22
+sources_ingested: 7
+last_updated: 2026-07-19
 tags: [event, transition, high-middle-ages, late-middle-ages, steppe]
 ---
 
@@ -111,12 +111,30 @@ the Mongols for arrested development. Recent integrative scholarship — **Allse
 exchange and connectivity, while warning against the opposite excess of "Mongol mania."
 The wiki's fuller historiographical discussion is on [[mongol-empire]].
 
+### Weatherford (2004) — periodization and world-system thesis
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] popularizes a
+**“Mongol World War”** periodization of five decades from **1211 to 1261** (from entry
+onto the world stage until the grandsons war on each other), with geographic sweep from
+Gobi/Yellow River and Central Asia/Indus under Genghis to successors ranging Pacific to
+Mediterranean, Siberia to India, Vietnam to Hungary, Korea to the Balkans. FACT/THESIS
+blend: he treats Rabban Bar Sawma’s communion with Edward I and the pope as illustrating
+how, within fifty years of the European invasion, once-separate civilizations had become
+“part of a single intercontinental system of communication, commerce, technology, and
+politics.” On manufacturing asymmetry (FACT/THESIS): Mongol conquest of China was “far
+less disruptive” than campaigns in the Middle East; destruction of Persian/Iraqi
+manufacturing plus new routes opened opportunities for Chinese wares, which
+[[kublai-khan|Khubilai]] pressed into markets while importing Muslim/Indian technology.
+These claims belong with the constructive-exchange tradition (Allsen, Biran, May) but
+are Weatherford’s authorial synthesis, not primary documentary findings—keep them
+attributed.
+
 ## Related
 
 - [[mongol-empire]] — the polity created; [[genghis-khan]] — its founder.
-- pax mongolica · [[chinggis-exchange]] — the integrative consequences.
-- [[mongol-invasion-of-europe-1241]] · [[mongol-invasions-of-japan-1274-1281]] · [[battle-of-ain-jalut-1260]] — component campaigns and limits.
-- [[golden-horde]] · [[ilkhanate]] — successor khanates; [[may-mongol-conquests-2012]] — the source.
+- [[pax-mongolica]] · [[chinggis-exchange]] — the integrative consequences.
+- [[mongol-invasion-of-europe-1241]] · [[mongol-invasions-of-japan-1274-1281]] · [[battle-of-ain-jalut-1260]] · [[sack-of-baghdad-1258]] · [[khwarazmian-campaign-1219]] · [[mongol-unification-1206]] — component campaigns and limits.
+- [[golden-horde]] · [[ilkhanate]] — successor khanates; [[may-mongol-conquests-2012]] · [[weatherford-genghis-khan-making-modern-world-2004]] — sources.
 
 **Grounded claims from Secret History (de Rachewiltz shorter, ll. 4001–7000, Ch. 3–5)**:
 - Coalition battle at Köyiten (1201): Buyiruq Qan and Quduqa "knowing how to produce a rainstorm by magic, started to conjure it up, but the magic storm rolled back and it was right upon themselves" leading to scatter (ll. 6060–6070). `contributed_to: [[mongol-conquests-13th-century]]` early success vs. anti-Mongol alliance.

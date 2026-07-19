@@ -9,8 +9,8 @@ affiliated_with: [ [[mongol-empire]], "the Jochid line", [[mamluk-sultanate|the 
 opposed_by: [ [[ilkhanate]], "the Chaghatayids", [[timur|Timur]], "the rising principality of Moscow"]
 key_events: ["Batu's western campaign 1236–42", "the Berke–Hülegü war", "the sack of Kaffa & the Black Death 1346", "Timur's devastation of Sarai 1390s"]
 key_processes: [pax mongolica, [[chinggis-exchange]], [[silk-roads]], "the Turkicization of the western steppe"]
-sources_ingested: 4
-last_updated: 2026-06-22
+sources_ingested: 5
+last_updated: 2026-07-19
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, eastern-europe]
 ---
 
@@ -43,7 +43,22 @@ Carved out by **Batu** after the [[mongol-invasion-of-europe-1241|western campai
 khanate's first half-century centred on its war with the **[[ilkhanate|Ilkhanate]]** over
 the pastures of Transcaucasia — the **Berke–Hülegü** feud, in which Berke (the first
 Muslim Mongol ruler) allied with the **[[mamluk-sultanate|Mamluk Sultanate]]** against
-fellow Mongols. The Jochids fed the Mamluk military machine by selling **Kipchak slaves**
+fellow Mongols.
+
+### Weatherford (2004) — Batu foundation notes
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] stresses that after
+[[jochi|Jochi]]'s death his son **Batu** headed the western lineage and was best-positioned
+among grandsons for Great Khan after Ögödei — a reason Ögödei resisted a Europe campaign
+that would boost Batu's wealth and candidacy. After 1242 withdrawal, Batu used the Hungarian
+royal camp tents and furnishings as his Volga base. By the 1242 Novgorod Chronicle entry he
+was titled **Tsar Batu** ("Caesar Batu"), marking united rule over warring Russian princely
+families; Prince Michael: "To thee, Tsar, I bow, since God hath granted thee the sovereignty
+of this world." Family poison on the European campaign — Guyuk and Buri denouncing Batu as
+Merkid bastard at a victory banquet — foreshadowed Toluid–Ögödeid–Jochid rifts. Italian
+Black Sea merchants (Venice/Genoa) bought European prisoners for Mediterranean slave markets
+after 1242, many sold into the Egyptian sultan's slave army — the later Mamluk instrument
+at Ain Jalut. The Jochids fed the Mamluk military machine by selling **Kipchak slaves**
 through the Italian (Genoese, Venetian) colonies of the Black Sea — a trade routed through
 a restored Byzantium after 1261. The general **Noghai** dominated as kingmaker until 1299.
 The khanate reached its height under **Üzbek Khan** (r. 1313–41), who completed its
@@ -116,4 +131,4 @@ Mongolica until plague and Timur broke it.
 - [[ilkhanate]] — its great Mongol rival; [[mamluk-sultanate]] — its ally against the Ilkhanate.
 - [[rus-principalities]] — its long-ruled subjects; [[timur]] — its destroyer.
 - pax mongolica · [[chinggis-exchange]] · [[black-death]] — the connective system it joined and the plague that broke it.
-- [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] · [[jackson-mongols-and-the-west]] — the sources.
+- [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] · [[jackson-mongols-and-the-west]] · [[weatherford-genghis-khan-making-modern-world-2004]] — the sources.

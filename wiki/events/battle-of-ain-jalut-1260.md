@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: hemispheric
 causes: [the Mongol invasion of Syria (1260), the sack of Baghdad (1258), Hülegü's withdrawal eastward]
 consequences: [the first major check to Mongol expansion, the survival of Mamluk Egypt and Islam in the Near East, the rise of Baybars]
-sources_ingested: 3
-last_updated: 2026-07-08
+sources_ingested: 4
+last_updated: 2026-07-19
 tags: [event, high-middle-ages, levant]
 ---
 
@@ -88,10 +88,23 @@ steppe-trained Mamluk cavalry and Syrian desertions. [[cobb-race-for-paradise-20
 ambassadorial insult, Frankish neutrality/alliance patterns, Qutuz’s refusal of Acre troops, and
 the long post-1260 Mongol threat that denies any simple “turning point = end of danger” reading.
 
+### Weatherford (2004)
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] gives sparse operational detail
+and treats Ayn al-Jalut chiefly as a **strategic limit marker**. FACT as he states it: a Mamluk
+army—“mostly slaves purchased via Italian merchants from Kipchak/Slavic Russia for [the]
+Egyptian sultan”—moved out from Egypt and met a Mongol **detachment** at Ayn al-Jalut, the
+Springs of Goliath, near the Sea of Galilee (modern Israel); on the morning of **3 September
+1260**, a year after [[mongke-khan|Möngke]]’s death, “the Mamluks defeated the Mongols. The
+empire had reached its western border.” He links the Mamluk manpower pool in part to the
+Crimean slave trade that followed the [[mongol-invasion-of-europe-1241|European campaign]]
+(Italian merchants buying Mongol prisoners for Egyptian service)—a causal irony, not an
+operational reconstruction of the battle.
+
 ## Related
 
 - `caused_by:` the [[mongol-empire|Mongol]] invasion and the sack of Baghdad (1258).
 - `produced:` the consolidation of the [[mamluk-sultanate|Mamluk Sultanate]] and the rise of Baybars.
 - `analogous_to:` the later Mamluk victory at Homs (1281) — the Euphrates frontier held.
 - **Detailed Tactical Analysis**: [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260|Staff-college analysis]] — [[may-mongol-art-of-war-2016|May]]: hard-fought battle; Syrian desertions pivotal; "turning point" framed mainly by Möngke's death and Hülegü's withdrawal; Mamluks as Kipchak steppe-trained heavy cavalry.
-- [[cobb-race-for-paradise-2014]] · [[fall-of-acre-1291]]
+- [[cobb-race-for-paradise-2014]] · [[fall-of-acre-1291]] · [[sack-of-baghdad-1258]] · [[weatherford-genghis-khan-making-modern-world-2004]]

@@ -3,10 +3,10 @@ title: Did the "Great Yasa" of Chingiz Khan Exist?
 dispute_type: source-reliability
 period_involved: [High Middle Ages, Late Middle Ages]
 regions_involved: [steppe, central-asia, iran-plateau, china]
-positions: [the traditional view (a written law code), Morgan's skeptical view (no single written code), the intermediate view (an evolving body of custom + decrees)]
+positions: [the traditional view (a written law code), Morgan's skeptical view (no single written code), the intermediate view (an evolving body of custom + decrees), Weatherford's popular "Great Law" narrative]
 resolution_status: partially-resolved
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-19
 tags: [controversy]
 ---
 
@@ -66,6 +66,39 @@ consensus has shifted decisively **away from** the reconstructable-written-text 
 toward an evolving-custom-plus-decrees model, even where scholars resist Morgan's strongest
 formulations.
 
+## Weatherford (2004) — popular "Great Law" narrative
+
+[[weatherford-genghis-khan-making-modern-world-2004|Jack Weatherford]] does **not** use
+*yasa*/*jasagh* as his primary label; he writes of the **"Great Law of Genghis Khan"** as
+an **ongoing body of legal work** over the last two decades of Genghis's life, consolidated
+from herding-tribe custom yet revised when custom blocked the new society, and functioning
+as a **supreme/common law** over local tradition when they conflicted. In his account it was
+**not** divine revelation and **not** a single sedentary-style codification covering all
+daily life — only the "most troublesome aspects."
+
+Content Weatherford attributes to the Great Law (as **his narrative reconstruction**, not
+as verified statute text) includes: ban on kidnapping women and on enslaving Mongols; all
+children legitimate whether by wife or concubine; ban on selling women into marriage;
+adultery defined as relations between married people of separate households; animal rustling
+as capital crime with a lost-and-found system; hunting closed March–October with waste-free
+butchering; complete religious freedom and tax exemptions for religious leaders (later
+extended to undertakers, doctors, lawyers, teachers, scholars); khan elected only by
+khuriltai (capital offense to claim the office without election); death penalty for Golden
+Family members only via full-family khuriltai; **group responsibility** of family and unit;
+adoption of the Uighur script after the 1204 Naiman war, with Shigi-Khutukhu as supreme
+judge recording decisions "on white paper bound in blue books." He also advances a strong
+thesis that Genghis "proclaimed the supremacy of the rule of law over any individual, even
+the sovereign," and that descendants kept this only about fifty years before discarding it —
+a claim specialists treat as anachronistic constitutionalism projected onto steppe decrees.
+
+**How this sits in the dispute.** Weatherford's "ongoing body… not a single codification"
+line is closer to the **intermediate position** than to the old reconstructable-written-code
+view, but his detailed statute list and "rule of law over the sovereign" rhetoric still
+**over-systematize** material Morgan traces largely to Juwayni's administrative chapter and
+to *Secret History* campaign decrees (*jasagh* as order, not constitution). Use Weatherford
+for the popular inventory of *alleged* Great Law topics; use Morgan/Ayalon for source
+criticism of whether a Great Book existed.
+
 ## Significance
 
 The question matters beyond philology: a written Yasa would make the Mongols precocious
@@ -78,6 +111,7 @@ state really was (a theme also of [[mongol-empire|the empire's]] historiography 
 
 - [[genghis-khan]] — the supposed lawgiver; [[mongol-empire]] — the polity at issue.
 - [[morgan-the-mongols]] — the source of the skeptical case; [[mongol-army]] — the decrees Juwayni actually describes.
+- [[weatherford-genghis-khan-making-modern-world-2004]] — popular "Great Law" narrative (attributed).
 - [[great-man-vs-structural-causation]] — the broader question of how institutionalized vs. charismatic the Mongol order was.
 
 **Verification from *Secret History* (de Rachewiltz indexes, ll. ~20588-20590)**: "†asaq: see law; see also the entry in RSH’s Index of Grammar &Lexis, 2.1325; and RSH 3.95-97, 112-13". Subjects index "law: breach of... 252; ... see also great norm" (ll. ~20612+); "great norm/principle (yeke yosu/töre...): principle of mutual obligations between lord and subject, 178..." (ll. ~20450). concurrent_with: administrative decrees rather than fixed code (part_of debate on source reliability). No use of "yasa" for a comprehensive written code in the native text's sections covered. Strengthens Morgan position with native source. Updated Related + note.

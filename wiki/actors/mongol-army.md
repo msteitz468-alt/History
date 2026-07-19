@@ -9,8 +9,8 @@ affiliated_with: [ [[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
 opposed_by: ["the Jin and Song", "the Khwarazmian Empire", [[mamluk-sultanate|the Mamluks]], "the Rus' and the Latin West"]
 key_events: [the conquests of Khwarazm/Jin/Song, the western campaign, the defeat at Ain Jalut 1260]
 key_processes: [ [[mongol-conquests-13th-century]], [[pastoral-nomadism]]]
-sources_ingested: 6
-last_updated: 2026-06-24
+sources_ingested: 7
+last_updated: 2026-07-19
 tags: [actor, military-force, high-middle-ages, late-middle-ages, steppe]
 ---
 
@@ -85,12 +85,44 @@ Yasa]]. Its limits — logistics and pasture — were as historically decisive a
 - **Cerik & engineers:** sedentary garrison infantry and Muslim/Chinese siege corps (from 1214); without them, nomads could not hold cities.
 - **Doctrine:** [[mongol-tactics]] perfected steppe maneuvers; [[mongol-siege-warfare]] standardized reduction of fortresses before capitals.
 
+## Weatherford (2004) — character of the force
+
+[[weatherford-genghis-khan-making-modern-world-2004|Weatherford]] restates (in popular form)
+themes Morgan and May develop more carefully:
+
+- **Scale claims:** Mongol tribe ~1 million, army ≤100,000; in twenty-five years subjugated
+  more lands and people than Romans in four hundred years (authorial superlative — treat as
+  Weatherford thesis, not established fact).
+- **Decimal society:** every healthy male 15–70 in the army; arban/jaghun/mingan/tumen not
+  only wartime but permanent structure of the whole society (analogized to Cleisthenes —
+  anachronistic comparison).
+- **Unit rank:** entire units held rank — lowest man in the khan's *tümen* outranked highest
+  of other *tümens*; concentric circles (center, Right/west, Left/east, advance and rear).
+- **Logistics:** entirely cavalry, no commissary beyond horse herds; engineer corps built
+  engines from local timber; medical unit (usually Chinese doctors) per thousand; arrow
+  messengers and stations ~20 miles / ~25 families; service in postal system could substitute
+  for regular military duty.
+- **Orders oral and rhymed** (officers illiterate); laws sung so every man knew them.
+- **Objective:** frighten surrender before battle; "whoever yields and submits to them is
+  safe"; resistance → death, loyalty → security.
+- **Hybrid weapons thesis:** Chinese gunpowder + Muslim flamethrowers + European bell-casting
+  → cannon (transfer claim — see [[chinggis-exchange]] caution).
+- **European invasion army (Weatherford figures):** ~50,000 Mongols + ~100,000 allies under
+  Sübedei's guidance by 1236–42, having absorbed Chinese and Muslim technology beyond
+  Genghis's own army; census takers followed armies to allocate shares for orphans, widows,
+  and the Golden Family.
+- **Frozen rivers** as Mongol highways (Volga, Danube); avoidance of hand-to-hand partly from
+  blood/breath soul-contamination taboos.
+
+Preserve Morgan on size skepticism and pasture limits, and May on decimal corps/*tamma*/keshig
+pipeline; Weatherford's numbers and modernity analogies are **attributed**, not wiki voice.
+
 ## Related
 
 - [[mongol-empire]] · [[genghis-khan]] — the empire and founder it served.
 - [[pastoral-nomadism]] — the society that produced it; [[mongol-conquests-13th-century]] — its campaigns.
 - [[the-mongol-yasa]] — the decrees behind the "Yasa" myth; [[battle-of-ain-jalut-1260]] — the limit it met.
-- [[morgan-the-mongols]] · [[may-mongol-art-of-war-2016]] — sources.
+- [[morgan-the-mongols]] · [[may-mongol-art-of-war-2016]] · [[weatherford-genghis-khan-making-modern-world-2004]] — sources.
 - [[hubs/warfare/high-middle-ages/mongol-conquests/mongol-conquests|Mongol Conquests hub]] — battle analyses.
 - [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]] — primary landing page for all military history and strategy content (steppe warfare, operational art, etc.).
 

@@ -9,8 +9,8 @@ affiliated_with: [ [[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkh
 opposed_by: [ [[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
 key_processes: [ [[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
-sources_ingested: 12
-last_updated: 2026-07-08
+sources_ingested: 13
+last_updated: 2026-07-19
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]
 ---
 
@@ -218,17 +218,57 @@ wind"). With the failed expeditions against Vietnam and Java, the Japan disaster
 **outer bound of Mongol conquest** — where steppe cavalry power could not be projected
 across the sea.
 
+## Weatherford (2004) — popular empire narrative
+
+[[weatherford-genghis-khan-making-modern-world-2004|Jack Weatherford]] supplies a widely
+read narrative frame. Treat superlatives and modernity claims as **his theses**, not as
+wiki consensus (see [[chinggis-exchange]] and [[pax-mongolica]] cautions).
+
+- **Extent claims:** at zenith ~11–12 million contiguous square miles; Mongol tribe ~1
+  million, army ≤100,000; "Mongol World War" framed as five decades 1211–1261 until
+  grandsons warred on each other; empire continued growing ~150 years after Genghis's death
+  through successor states (last ruling descendant Weatherford cites: Alim Khan of Bukhara,
+  deposed 1920).
+- **Founding name:** *Yeke Mongol Ulus* (Great Mongol Nation); ruler of all "People of the
+  Felt Walls"; Baljuna diversity as metaphor for loyalty beyond kinship; kinship extended
+  to Uighurs/Siberian tribes as allegiance-based citizenship; non-Mongol kingdoms as *Khari*
+  ("black"/in-laws).
+- **State-building thesis:** Genghis "consciously set out to create a state" with army as
+  central institution; Silk Route links between Chinese production and Muslim markets after
+  Black Khitan/Guchlug campaign; Juvaini via Weatherford on 1219 "complete peace and quiet…
+  the roads were secure" before Khwarazm.
+- **Khwarazm damage thesis:** Muslim lands the richest/most sophisticated of the 13th c.;
+  "more damage here than anywhere else their horses would tread" (compare Persian rhetoric
+  vs. archaeology).
+- **Succession design:** each son a regional khan with steppe + sedentary holdings; one
+  Great Khan for central government, final appeal, foreign affairs/war — dependent on
+  brotherly cooperation. Ögödei inauguration emptied treasury; Golden Family/Golden Lineage
+  name; by 1235 new conquest required; 1235 *khuriltai* dual-theater Song + Europe decision
+  called "probably the worst in the history of the Mongol Empire."
+- **Möngke apex:** empire at greatest extent under Möngke, last Great Khan acknowledged by
+  the whole empire; Second Mongol World War began but "flickered out" after his 1259 death.
+- **Institutional transfers** (popular list): free-trade zone rhetoric, census, international
+  postal system, religious freedom, diplomatic immunity for ambassadors including enemies,
+  abolition of torture (contested as overstatement), merit over birth.
+
+Specialists (Morgan, May, Biran, Jackson) remain authoritative for institutions, numbers,
+and the constructive-vs-destructive balance; Weatherford is valuable for public synthesis
+and for detail that tracks *Secret History* geography, but anachronistic "modern world"
+causation must stay attributed.
+
 ## Related
 
 - [[genghis-khan]] — the founder; [[mongol-conquests-13th-century]] — the campaigns that built it.
 - [[pastoral-nomadism]] — the steppe military system the Mongols perfected.
-- pax mongolica — the peace it imposed; [[chinggis-exchange]] — the continental exchange it enabled.
+- [[pax-mongolica]] — the peace it imposed; [[chinggis-exchange]] — the continental exchange it enabled.
 - [[golden-horde]] · [[ilkhanate]] — the two successor khanates with dedicated pages.
 - [[afro-eurasian-world-system]], [[silk-roads]] — the exchange networks the Pax Mongolica integrated.
 - [[mongol-invasions-of-japan-1274-1281]] — the failed seaborne invasions (the limit of expansion).
 - [[yuan-dynasty]] · [[kublai-khan]] — the empire's East Asian successor state, the Mongol dynasty of China ([[cambridge-history-of-china|CHC]] Vol. 6).
 - [[timur]], [[ming-dynasty]] — the successor and reaction states (to be developed).
 - [[state-formation]], [[empire]] — the comparative frames (Arnason, Ch 18).
+- [[weatherford-genghis-khan-making-modern-world-2004]] — popular narrative source (this section).
+
 
 **Additional claims from Secret History (de Rachewiltz, Ch. 3–5, ll. 4001–7000)**:
 - Jamuqa assembles "thirteen tribes and forming altogether three units of ten thousand" against Temüjin, who "with his thirteen camps formed also three units of ten thousand" (ll. 5256–5270). `concurrent_with: [[mongol-empire]]` rival decimal formations; battle at Dalan Bal†ut. 
